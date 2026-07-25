@@ -4,42 +4,42 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 25 Jul 2026 07:18:46 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:49:04 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-10097 - CVE-2026-10097 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/007bsd/ml-kem-key-recovery'&gt;ml-kem-key-recovery&lt;/a&gt;: Full ML-KEM-1024 key recovery from a partial Fujisaki-Okamoto comparison in wolfSSL (CVE-2026-6330 NEON, CVE-2026-10097 AVX2)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-10097</link>
-      <guid isPermaLink="false">CVE-2026-10097</guid>
-      <pubDate>2026-07-25T07:18:46.002024</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Cxyofficial/x200-cve-2026-43499'&gt;x200-cve-2026-43499&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-07-25T09:49:04.915627</pubDate>
     </item>
     <item>
-      <title>CVE-2026-6330 - CVE-2026-6330 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/007bsd/ml-kem-key-recovery'&gt;ml-kem-key-recovery&lt;/a&gt;: Full ML-KEM-1024 key recovery from a partial Fujisaki-Okamoto comparison in wolfSSL (CVE-2026-6330 NEON, CVE-2026-10097 AVX2)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-6330</link>
-      <guid isPermaLink="false">CVE-2026-6330</guid>
-      <pubDate>2026-07-25T07:18:46.002032</pubDate>
+      <title>CVE-2026-50522 - CVE-2026-50522 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/4minx/CVE-2026-50522'&gt;CVE-2026-50522&lt;/a&gt;: CVE-2026-50522 PoC</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-50522</link>
+      <guid isPermaLink="false">CVE-2026-50522</guid>
+      <pubDate>2026-07-25T09:49:04.915635</pubDate>
     </item>
     <item>
-      <title>CVE-2026-12960 - CVE-2026-12960 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/l0lsec/CVE-2026-12960'&gt;CVE-2026-12960&lt;/a&gt;: CVE-2026-12960 - Improper Export of Android Application Components in the ASUS Router app (com.asus.aihome). PoC, exploit APK, video, and vendor report. Fixed in 1.0.0.9.74.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-12960</link>
-      <guid isPermaLink="false">CVE-2026-12960</guid>
-      <pubDate>2026-07-25T07:18:46.002038</pubDate>
+      <title>CVE-2025-24257 - CVE-2025-24257 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE'&gt;CVE_2025_24257----NOT-MINE&lt;/a&gt;: Demonstrate CVE-2025-24257 with a public PoC for IOGPUFamily kernel heap OOB read/write and panic analysis</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24257</link>
+      <guid isPermaLink="false">CVE-2025-24257</guid>
+      <pubDate>2026-07-25T09:49:04.915641</pubDate>
     </item>
     <item>
-      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tchuin2609/YellowKey-Bitlocker'&gt;YellowKey-Bitlocker&lt;/a&gt;: Manage BitLocker encrypted drives on Windows. Extract recovery keys, check encryption status, and apply security mitigations for CVE-2026-45585.&lt;br&gt;&lt;a href='https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585'&gt;YellowKey-Bitlocker-CVE-2026-45585&lt;/a&gt;: Manage BitLocker recovery keys, monitor drive encryption status, and unlock volumes through a portable interface for Windows.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
-      <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-07-25T07:18:46.002044</pubDate>
+      <title>CVE-2026-31802 - CVE-2026-31802 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Recorded-texteditor120/CVE-2026-31802'&gt;CVE-2026-31802&lt;/a&gt;: Demonstrate and analyze the CVE-2026-31802 path traversal vulnerability in npm tar, enabling arbitrary file overwrite via symlink extraction.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31802</link>
+      <guid isPermaLink="false">CVE-2026-31802</guid>
+      <pubDate>2026-07-25T09:49:04.915647</pubDate>
     </item>
     <item>
-      <title>CVE-2026-41089 - CVE-2026-41089 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE'&gt;CVE-2026-41089-Netlogon-RCE&lt;/a&gt;: Scan Windows Domain Controllers for CVE-2026-41089 to detect unauthenticated remote code execution vulnerabilities in the Netlogon service.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41089</link>
-      <guid isPermaLink="false">CVE-2026-41089</guid>
-      <pubDate>2026-07-25T07:18:46.002049</pubDate>
+      <title>CVE-2025-66398 - CVE-2025-66398 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/showy-headteacher114/cve-2025-66398'&gt;cve-2025-66398&lt;/a&gt;: Demonstrate exploitation of Signal K Server CVE-2025-66398 allowing unauthenticated attackers to inject backdoor and enable remote code execution.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-66398</link>
+      <guid isPermaLink="false">CVE-2025-66398</guid>
+      <pubDate>2026-07-25T09:49:04.915652</pubDate>
     </item>
   </channel>
 </rss>
