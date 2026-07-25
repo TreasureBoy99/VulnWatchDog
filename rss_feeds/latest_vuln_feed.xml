@@ -4,21 +4,49 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 25 Jul 2026 13:28:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 15:04:30 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-48908 - CVE-2026-48908 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/imXur/CVE-2026-48908-Joomla-SP-Page-Builder-RCE'&gt;CVE-2026-48908-Joomla-SP-Page-Builder-RCE&lt;/a&gt;: Technical analysis and advisory for CVE-2026-48908: Unauthenticated Arbitrary File Upload to RCE in JoomShaper SP Page Builder.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48908</link>
-      <guid isPermaLink="false">CVE-2026-48908</guid>
-      <pubDate>2026-07-25T13:28:27.443122</pubDate>
+      <title>CVE-2026-24061 - CVE-2026-24061 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/obrunolima1910/CVE-2026-24061'&gt;CVE-2026-24061&lt;/a&gt;: 🚨 Exploit CVE-2026-24061, a critical remote authentication bypass in GNU inetutils-telnetd, for instant root shell access without authentication.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-24061</link>
+      <guid isPermaLink="false">CVE-2026-24061</guid>
+      <pubDate>2026-07-25T15:04:30.893911</pubDate>
     </item>
     <item>
-      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tchuin2609/YellowKey-Bitlocker'&gt;YellowKey-Bitlocker&lt;/a&gt;: Manage BitLocker encrypted drives on Windows. Extract recovery keys, check encryption status, and apply security mitigations for CVE-2026-45585.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
-      <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-07-25T13:28:27.443131</pubDate>
+      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
+      <guid isPermaLink="false">CVE-2025-68921</guid>
+      <pubDate>2026-07-25T15:04:30.893921</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-16723 - CVE-2026-16723 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-16723'&gt;CVE-2026-16723&lt;/a&gt;: CVE-2026-16723 - Draft</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-16723</link>
+      <guid isPermaLink="false">CVE-2026-16723</guid>
+      <pubDate>2026-07-25T15:04:30.893927</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-14847 - CVE-2025-14847 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sakthivel10q/CVE-2025-14847'&gt;CVE-2025-14847&lt;/a&gt;: 🛠 Exploit the CVE-2025-14847 vulnerability in MongoDB to disclose sensitive heap memory using a Python script that analyzes responses for new leaked data.&lt;br&gt;&lt;a href='https://github.com/pedrocruz2202/mongobleed-scanner'&gt;mongobleed-scanner&lt;/a&gt;: 🔍 Scan for MongoDB vulnerabilities with MongoBleed, a high-performance tool for detecting CVE-2025-14847 across large networks quickly and efficiently.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-14847</link>
+      <guid isPermaLink="false">CVE-2025-14847</guid>
+      <pubDate>2026-07-25T15:04:30.893934</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41651 - CVE-2026-41651 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xDVRK/CVE-2026-41651'&gt;CVE-2026-41651&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41651</link>
+      <guid isPermaLink="false">CVE-2026-41651</guid>
+      <pubDate>2026-07-25T15:04:30.893940</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/captain4554/CVE-2025-55182-Scanner'&gt;CVE-2025-55182-Scanner&lt;/a&gt;: 🛡️ Scan and assess vulnerabilities in Next.js/Waku with the CVE-2025-55182-Scanner, combining static and dynamic analysis for robust security.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
+      <guid isPermaLink="false">CVE-2025-55182</guid>
+      <pubDate>2026-07-25T15:04:30.893945</pubDate>
     </item>
   </channel>
 </rss>
