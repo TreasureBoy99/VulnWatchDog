@@ -4,42 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-28安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 28 Jul 2026 12:55:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 15:22:16 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-59891 - CVE-2026-59891 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gyubin02/cve-2026-59891-control-lab'&gt;cve-2026-59891-control-lab&lt;/a&gt;: Isolated regression and security-control lab for CVE-2026-59891 in @sigstore/oci</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59891</link>
-      <guid isPermaLink="false">CVE-2026-59891</guid>
-      <pubDate>2026-07-28T12:55:30.314974</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-71389 - CVE-2025-71389 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xdak/CVE-2025-71389_exploit'&gt;CVE-2025-71389_exploit&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-71389</link>
-      <guid isPermaLink="false">CVE-2025-71389</guid>
-      <pubDate>2026-07-28T12:55:30.314984</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-61511 - CVE-2026-61511 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/puj790201-lab/cve-2026-61511'&gt;cve-2026-61511&lt;/a&gt;: cve-2026-61511</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61511</link>
-      <guid isPermaLink="false">CVE-2026-61511</guid>
-      <pubDate>2026-07-28T12:55:30.314989</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-47812 - CVE-2025-47812 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Majdae/CVE-2025-47812-Research'&gt;CVE-2025-47812-Research&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-47812</link>
-      <guid isPermaLink="false">CVE-2025-47812</guid>
-      <pubDate>2026-07-28T12:55:30.314994</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-65893 - CVE-2026-65893 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CyberVinner/CP-PLUS-EZ-P21-CVE-2026-65893-65894'&gt;CP-PLUS-EZ-P21-CVE-2026-65893-65894&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-65893</link>
-      <guid isPermaLink="false">CVE-2026-65893</guid>
-      <pubDate>2026-07-28T12:55:30.314999</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mumaosong/CVE-2026-43499-xiaomi_8e-GUI'&gt;CVE-2026-43499-xiaomi_8e-GUI&lt;/a&gt;: CVE-2026-43499-xiaomi_8e密钥离线计算客服端，网页端：miauth.mu667.ccwu.cc</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-07-28T15:22:16.625584</pubDate>
     </item>
   </channel>
 </rss>
