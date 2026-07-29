@@ -4,35 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-29安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 29 Jul 2026 00:06:43 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:40:27 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-41179 - CVE-2026-41179 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/s-vx/CVE-2026-41179'&gt;CVE-2026-41179&lt;/a&gt;: RCE in rclone</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41179</link>
-      <guid isPermaLink="false">CVE-2026-41179</guid>
-      <pubDate>2026-07-29T00:06:43.938766</pubDate>
+      <title>CVE-2026-52832 - CVE-2026-52832 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclei-dashboard'&gt;CVE-2026-52832-PoC-exploit-nuclei-dashboard&lt;/a&gt;: Nuclio Dashboard (NOP mode) accepts unauthenticated POST /api/functions. The spec.handler field isn't path-validated, so ../../../../tmp/x.txt:handler escapes the build tempdir via path.Join, letting an attacker write arbitrary content to any path as root. (CVE-2026-52832, ≤1.15.27)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-52832</link>
+      <guid isPermaLink="false">CVE-2026-52832</guid>
+      <pubDate>2026-07-29T10:40:27.916083</pubDate>
     </item>
     <item>
-      <title>CVE-2026-51302 - CVE-2026-51302 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/extratao/CVE-2026-51302-PoC'&gt;CVE-2026-51302-PoC&lt;/a&gt;: Clickbait. The CVE is AI slop.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-51302</link>
-      <guid isPermaLink="false">CVE-2026-51302</guid>
-      <pubDate>2026-07-29T00:06:43.938775</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Witaqua-tools/Root-My-Device'&gt;Root-My-Device&lt;/a&gt;: KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-07-29T00:06:43.938781</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-63408 - CVE-2025-63408 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/s-vx/CVE-2025-63408'&gt;CVE-2025-63408&lt;/a&gt;: Path Traversal in AgentDVR</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-63408</link>
-      <guid isPermaLink="false">CVE-2025-63408</guid>
-      <pubDate>2026-07-29T00:06:43.938786</pubDate>
+      <title>CVE-2026-61511 - CVE-2026-61511 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tc4dy/CVE-2026-61511-PoC-Exploit'&gt;CVE-2026-61511-PoC-Exploit&lt;/a&gt;: CVE-2026-61511 – vBulletin Pre-Auth RCE (CVSS 9.8). Vuln 5.x/6.x (unpatched). Multi-exploit via Endpoint Pool, AJAX, PHPFuck WAF bypass. Full toolkit: reverse shell, proxy, persistence, webshell, database operations, firewall control, log management, mass scanning. 2 versions: multi-exploit &amp; safe-check. Python 3.8+ Use Ethically, Stay Legal. 🔒</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61511</link>
+      <guid isPermaLink="false">CVE-2026-61511</guid>
+      <pubDate>2026-07-29T10:40:27.916092</pubDate>
     </item>
   </channel>
 </rss>
