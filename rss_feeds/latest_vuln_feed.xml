@@ -4,21 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-29安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 29 Jul 2026 10:40:27 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 13:01:42 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-52832 - CVE-2026-52832 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mdvpat/CVE-2026-52832-PoC-exploit-nuclei-dashboard'&gt;CVE-2026-52832-PoC-exploit-nuclei-dashboard&lt;/a&gt;: Nuclio Dashboard (NOP mode) accepts unauthenticated POST /api/functions. The spec.handler field isn't path-validated, so ../../../../tmp/x.txt:handler escapes the build tempdir via path.Join, letting an attacker write arbitrary content to any path as root. (CVE-2026-52832, ≤1.15.27)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-52832</link>
-      <guid isPermaLink="false">CVE-2026-52832</guid>
-      <pubDate>2026-07-29T10:40:27.916083</pubDate>
+      <title>CVE-2026-57811 - CVE-2026-57811 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webshellseo8/CVE-2026-57811-Proof-of-Concept'&gt;CVE-2026-57811-Proof-of-Concept&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-57811</link>
+      <guid isPermaLink="false">CVE-2026-57811</guid>
+      <pubDate>2026-07-29T13:01:42.929659</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-50522 - CVE-2026-50522 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webshellseo8/CVE-2026-50522-Proof-of-Concept'&gt;CVE-2026-50522-Proof-of-Concept&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-50522</link>
+      <guid isPermaLink="false">CVE-2026-50522</guid>
+      <pubDate>2026-07-29T13:01:42.929668</pubDate>
     </item>
     <item>
       <title>CVE-2026-61511 - CVE-2026-61511 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tc4dy/CVE-2026-61511-PoC-Exploit'&gt;CVE-2026-61511-PoC-Exploit&lt;/a&gt;: CVE-2026-61511 – vBulletin Pre-Auth RCE (CVSS 9.8). Vuln 5.x/6.x (unpatched). Multi-exploit via Endpoint Pool, AJAX, PHPFuck WAF bypass. Full toolkit: reverse shell, proxy, persistence, webshell, database operations, firewall control, log management, mass scanning. 2 versions: multi-exploit &amp; safe-check. Python 3.8+ Use Ethically, Stay Legal. 🔒</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webshellseo8/CVE-2026-61511-POC'&gt;CVE-2026-61511-POC&lt;/a&gt;: None</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61511</link>
       <guid isPermaLink="false">CVE-2026-61511</guid>
-      <pubDate>2026-07-29T10:40:27.916092</pubDate>
+      <pubDate>2026-07-29T13:01:42.929674</pubDate>
     </item>
   </channel>
 </rss>
