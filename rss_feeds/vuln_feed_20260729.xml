@@ -4,28 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-29安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 29 Jul 2026 13:01:42 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 15:50:19 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-57811 - CVE-2026-57811 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webshellseo8/CVE-2026-57811-Proof-of-Concept'&gt;CVE-2026-57811-Proof-of-Concept&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-57811</link>
-      <guid isPermaLink="false">CVE-2026-57811</guid>
-      <pubDate>2026-07-29T13:01:42.929659</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-50522 - CVE-2026-50522 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webshellseo8/CVE-2026-50522-Proof-of-Concept'&gt;CVE-2026-50522-Proof-of-Concept&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-50522</link>
-      <guid isPermaLink="false">CVE-2026-50522</guid>
-      <pubDate>2026-07-29T13:01:42.929668</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-61511 - CVE-2026-61511 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webshellseo8/CVE-2026-61511-POC'&gt;CVE-2026-61511-POC&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61511</link>
-      <guid isPermaLink="false">CVE-2026-61511</guid>
-      <pubDate>2026-07-29T13:01:42.929674</pubDate>
+      <title>CVE-2026-59243 - CVE-2026-59243 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/MalHyuk/CVE-2026-59243'&gt;CVE-2026-59243&lt;/a&gt;: CVE-2026-59243 — Apache Airflow FAB Auth Manager JWT signature bypass (embargoed until Apache advisory)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59243</link>
+      <guid isPermaLink="false">CVE-2026-59243</guid>
+      <pubDate>2026-07-29T15:50:19.004403</pubDate>
     </item>
   </channel>
 </rss>
