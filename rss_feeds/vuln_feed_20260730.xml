@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-07-30安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 30 Jul 2026 00:00:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 11:52:52 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-61511 - CVE-2026-61511 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tc4dy/CVE-2026-61511-PoC-Exploit'&gt;CVE-2026-61511-PoC-Exploit&lt;/a&gt;: CVE-2026-61511 – vBulletin Pre-Auth RCE (CVSS 9.8). Vuln 5.x/6.x (unpatched). Multi-exploit via Endpoint Pool, AJAX, PHPFuck WAF bypass. Full toolkit: reverse shell, proxy, persistence, webshell, database operations, firewall control, log management, mass scanning. 2 versions: multi-exploit &amp; safe-check. Python 3.8+ Use Ethically, Stay Legal. 🔒</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61511</link>
-      <guid isPermaLink="false">CVE-2026-61511</guid>
-      <pubDate>2026-07-30T00:00:38.394830</pubDate>
+      <title>CVE-2026-16723 - CVE-2026-16723 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Nowafen/CVE-2026-16723'&gt;CVE-2026-16723&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-16723</link>
+      <guid isPermaLink="false">CVE-2026-16723</guid>
+      <pubDate>2026-07-30T11:52:52.430443</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis'&gt;CVE-2026-43499-Poc-Analysis&lt;/a&gt;: Vulnerability analysis and Proof of Concept (PoC) for CVE-2026-43499 affecting Xiaomi devices. For educational and research purposes only.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-07-30T11:52:52.430452</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-49091 - CVE-2025-49091 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/thefreestyleresearcher/CVE-2025-49091-Gajim-RCE'&gt;CVE-2025-49091-Gajim-RCE&lt;/a&gt;: Single click Remote Code Execution exploit targeting Gajim on devices with KDE Plasma.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-49091</link>
+      <guid isPermaLink="false">CVE-2025-49091</guid>
+      <pubDate>2026-07-30T11:52:52.430458</pubDate>
     </item>
   </channel>
 </rss>
