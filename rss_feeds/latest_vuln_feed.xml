@@ -4,63 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-06安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 06 Aug 2026 04:59:02 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:37:47 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-54424 - CVE-2025-54424 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hophtien/CVE-2025-54424'&gt;CVE-2025-54424&lt;/a&gt;: CVE-2025-54424: 1Panel TLS client cert bypass enables RCE via forged CN 'panel_client' using a bundled scanning and exploitation tool. Affected: &lt;= v2.0.5. 🔐</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54424</link>
-      <guid isPermaLink="false">CVE-2025-54424</guid>
-      <pubDate>2026-08-06T04:59:02.346730</pubDate>
+      <title>CVE-2026-64633 - CVE-2026-64633 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tfawnies/CVE-2026-64633'&gt;CVE-2026-64633&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64633</link>
+      <guid isPermaLink="false">CVE-2026-64633</guid>
+      <pubDate>2026-08-06T07:37:47.886963</pubDate>
     </item>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BuSung-dev/Root-My-Galaxy'&gt;Root-My-Galaxy&lt;/a&gt;: KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-06T04:59:02.346739</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-34990 - CVE-2026-34990 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-34990'&gt;CVE-2026-34990&lt;/a&gt;: CVE-2026-34990 - Draft or Todo</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-34990</link>
-      <guid isPermaLink="false">CVE-2026-34990</guid>
-      <pubDate>2026-08-06T04:59:02.346744</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-34980 - CVE-2026-34980 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-34980'&gt;CVE-2026-34980&lt;/a&gt;: CVE-2026-34980 - Draft or Todo</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-34980</link>
-      <guid isPermaLink="false">CVE-2026-34980</guid>
-      <pubDate>2026-08-06T04:59:02.346750</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-41089 - CVE-2026-41089 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE'&gt;CVE-2026-41089-Netlogon-RCE&lt;/a&gt;: Scan Windows Domain Controllers for CVE-2026-41089 to detect unauthenticated remote code execution vulnerabilities in the Netlogon service.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41089</link>
-      <guid isPermaLink="false">CVE-2026-41089</guid>
-      <pubDate>2026-08-06T04:59:02.346755</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Liverwortenuresis371/copyfail-rs'&gt;copyfail-rs&lt;/a&gt;: Exploit and detect CVE-2026-31431 vulnerabilities using a static binary that monitors system integrity and bypasses PAM authentication.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
-      <guid isPermaLink="false">CVE-2026-31431</guid>
-      <pubDate>2026-08-06T04:59:02.346760</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-66398 - CVE-2025-66398 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/showy-headteacher114/cve-2025-66398'&gt;cve-2025-66398&lt;/a&gt;: Demonstrate exploitation of Signal K Server CVE-2025-66398 allowing unauthenticated attackers to inject backdoor and enable remote code execution.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-66398</link>
-      <guid isPermaLink="false">CVE-2025-66398</guid>
-      <pubDate>2026-08-06T04:59:02.346765</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/404godd/CVE-2026-20841-PoC'&gt;CVE-2026-20841-PoC&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad versions below 11.2510 using the CVE-2026-20841 proof of concept.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
-      <guid isPermaLink="false">CVE-2026-20841</guid>
-      <pubDate>2026-08-06T04:59:02.346770</pubDate>
+      <title>CVE-2026-25243 - CVE-2026-25243 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/captain-woof/CVE-2026-25243'&gt;CVE-2026-25243&lt;/a&gt;: Stable POC for CVE-2026-25243 (Redis RESTORE double-free -&gt; remote code execution)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-25243</link>
+      <guid isPermaLink="false">CVE-2026-25243</guid>
+      <pubDate>2026-08-06T07:37:47.886972</pubDate>
     </item>
   </channel>
 </rss>
