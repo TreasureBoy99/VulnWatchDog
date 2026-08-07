@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-07安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 07 Aug 2026 14:06:31 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:45:54 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Meowkis/tcp-zerocopy-sm'&gt;tcp-zerocopy-sm&lt;/a&gt;: ghostlock + tcp-zerocopy hybrid CVE-2026-43499 adaptation for samsung kernel</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-07T15:45:54.601798</pubDate>
+    </item>
     <item>
       <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Aoripus-LTD/Zapscape-Fix'&gt;Zapscape-Fix&lt;/a&gt;: Generic kernel live patch for the KVM/x86 shadow-MMU use-after-free (Zapscape, CVE-2026-64561)</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
       <guid isPermaLink="false">CVE-2026-64561</guid>
-      <pubDate>2026-08-07T14:06:31.135882</pubDate>
+      <pubDate>2026-08-07T15:45:54.601804</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-63077 - CVE-2026-63077 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sfewer-r7/CVE-2026-63077'&gt;CVE-2026-63077&lt;/a&gt;: Unauthenticated Remote Code Execution in JetBrains TeamCity (CVE-2026-63077)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63077</link>
+      <guid isPermaLink="false">CVE-2026-63077</guid>
+      <pubDate>2026-08-07T15:45:54.601809</pubDate>
     </item>
   </channel>
 </rss>
