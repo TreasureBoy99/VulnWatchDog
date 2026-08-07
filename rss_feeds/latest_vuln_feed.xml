@@ -4,56 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-07安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 07 Aug 2026 04:49:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 08:08:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-64531 - CVE-2026-64531 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/ovswrap'&gt;ovswrap&lt;/a&gt;: Tracking OVSwrap (CVE-2026-64531), the Open vSwitch datapath netlink overflow</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64531</link>
-      <guid isPermaLink="false">CVE-2026-64531</guid>
-      <pubDate>2026-08-07T04:49:50.843728</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-14847 - CVE-2025-14847 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sakthivel10q/CVE-2025-14847'&gt;CVE-2025-14847&lt;/a&gt;: 🛠 Exploit the CVE-2025-14847 vulnerability in MongoDB to disclose sensitive heap memory using a Python script that analyzes responses for new leaked data.&lt;br&gt;&lt;a href='https://github.com/pedrocruz2202/mongobleed-scanner'&gt;mongobleed-scanner&lt;/a&gt;: 🔍 Scan for MongoDB vulnerabilities with MongoBleed, a high-performance tool for detecting CVE-2025-14847 across large networks quickly and efficiently.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-14847</link>
-      <guid isPermaLink="false">CVE-2025-14847</guid>
-      <pubDate>2026-08-07T04:49:50.843738</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-44613 - CVE-2026-44613 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-44613'&gt;CVE-2026-44613&lt;/a&gt;: CVE-2026-44613</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-44613</link>
-      <guid isPermaLink="false">CVE-2026-44613</guid>
-      <pubDate>2026-08-07T04:49:50.843744</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/captain4554/CVE-2025-55182-Scanner'&gt;CVE-2025-55182-Scanner&lt;/a&gt;: 🛡️ Scan and assess vulnerabilities in Next.js/Waku with the CVE-2025-55182-Scanner, combining static and dynamic analysis for robust security.&lt;br&gt;&lt;a href='https://github.com/alyaapm/CVE-2025-55182-shellinteractive'&gt;CVE-2025-55182-shellinteractive&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/Mayca369/CVE-2025-55182'&gt;CVE-2025-55182&lt;/a&gt;: 🚨 Exploit CVE-2025-55182 to demonstrate RCE in React Server Functions, highlighting risks from insecure prototype references in Next.js applications.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
-      <guid isPermaLink="false">CVE-2025-55182</guid>
-      <pubDate>2026-08-07T04:49:50.843752</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-65058 - CVE-2026-65058 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/iktok90-design/trezor-cve-2026-65058'&gt;trezor-cve-2026-65058&lt;/a&gt;: Security research: Trezor Safe calldata confirmation-binding bypass vulnerability analysis. Educational proof-of-concept for hardware wallet transaction display verification.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-65058</link>
-      <guid isPermaLink="false">CVE-2026-65058</guid>
-      <pubDate>2026-08-07T04:49:50.843757</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-11961 - CVE-2026-11961 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/JohenLastGen-JLG/CVE-2026-11961'&gt;CVE-2026-11961&lt;/a&gt;: CVE-2026-11961 — UserRegistration: WordPress User Registration &lt;= 5.2.2 Privilege Escalation. Misconfigured Membership Roles → Unauthenticated Admin Creation → Site Compromise. CVSS 8.1</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-11961</link>
-      <guid isPermaLink="false">CVE-2026-11961</guid>
-      <pubDate>2026-08-07T04:49:50.843762</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-49844 - CVE-2025-49844 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Zain3311/CVE-2025-49844'&gt;CVE-2025-49844&lt;/a&gt;: 🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-49844</link>
-      <guid isPermaLink="false">CVE-2025-49844</guid>
-      <pubDate>2026-08-07T04:49:50.843767</pubDate>
+      <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ashardev002/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: 🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
+      <guid isPermaLink="false">CVE-2025-32463</guid>
+      <pubDate>2026-08-07T08:08:05.989891</pubDate>
     </item>
   </channel>
 </rss>
