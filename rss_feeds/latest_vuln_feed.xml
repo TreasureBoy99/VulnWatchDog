@@ -4,28 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-08安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 08 Aug 2026 06:36:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 07:41:23 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
-    <item>
-      <title>CVE-2026-63077 - CVE-2026-63077 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/AnggaTechI/CVE-2026-63077'&gt;CVE-2026-63077&lt;/a&gt;: CVE-2026-63077 — Unauthenticated Remote Code Execution in JetBrains TeamCity via agent polling protocol deserialization. CVSS 9.8 CRITICAL. Mass exploitation tool with interactive shell, multi-threading, and real-time result logging.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63077</link>
-      <guid isPermaLink="false">CVE-2026-63077</guid>
-      <pubDate>2026-08-08T06:36:13.896973</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/AnggaTechI/CVE-2026-63030'&gt;CVE-2026-63030&lt;/a&gt;: WordPress Core Pre-Auth RCE — Batch Route Confusion + SQL Injection</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
-      <guid isPermaLink="false">CVE-2026-63030</guid>
-      <pubDate>2026-08-08T06:36:13.896978</pubDate>
-    </item>
     <item>
       <title>CVE-2026-64638 - CVE-2026-64638 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yogaGymn/XSS2Shell-CVE-2026-64638'&gt;XSS2Shell-CVE-2026-64638&lt;/a&gt;: None</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64638</link>
       <guid isPermaLink="false">CVE-2026-64638</guid>
-      <pubDate>2026-08-08T06:36:13.896983</pubDate>
+      <pubDate>2026-08-08T07:41:23.602810</pubDate>
     </item>
   </channel>
 </rss>
