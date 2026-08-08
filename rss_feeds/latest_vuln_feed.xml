@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-08安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 08 Aug 2026 00:57:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:53:17 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-63077 - CVE-2026-63077 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap'&gt;teamcity-CVE-2026-63077-pcap&lt;/a&gt;: teamcity teamcity-CVE-2026-63077 exploitation pcap</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63077</link>
-      <guid isPermaLink="false">CVE-2026-63077</guid>
-      <pubDate>2026-08-08T00:57:21.694122</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/1ndevelopment/CVE-2026-43499-S26'&gt;CVE-2026-43499-S26&lt;/a&gt;: Root prototype for Galaxy S26 (SM-S942U) that is very much indev</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-08T02:53:17.149946</pubDate>
     </item>
   </channel>
 </rss>
