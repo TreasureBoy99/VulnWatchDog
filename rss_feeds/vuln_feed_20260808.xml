@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-08安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 08 Aug 2026 09:28:55 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:28:55 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-64638 - CVE-2026-64638 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yogaGymn/XSS2Shell-CVE-2026-64638'&gt;XSS2Shell-CVE-2026-64638&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64638</link>
-      <guid isPermaLink="false">CVE-2026-64638</guid>
-      <pubDate>2026-08-08T09:28:55.725945</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/wxxsfxyzm/GhostLock-Galaxy'&gt;GhostLock-Galaxy&lt;/a&gt;: Root your Galaxy using CVE-2026-43499</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-08T12:28:55.008703</pubDate>
     </item>
   </channel>
 </rss>
