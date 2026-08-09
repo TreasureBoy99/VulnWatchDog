@@ -4,42 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-09安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 09 Aug 2026 14:26:19 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 15:22:27 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/oopnv70-lab/ghostlock-honor-aak'&gt;ghostlock-honor-aak&lt;/a&gt;: GhostLock (CVE-2026-43499) exploit adapted for Honor AAK-AN00 (MagicOS 10, kernel 6.6.89-android15)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-09T14:26:19.445827</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-57827 - CVE-2026-57827 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Candisexterior171/CVE-2026-57827'&gt;CVE-2026-57827&lt;/a&gt;: Demonstrate the unauthenticated remote code execution vulnerability in the RSFiles! Joomla component through an arbitrary file upload.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-57827</link>
-      <guid isPermaLink="false">CVE-2026-57827</guid>
-      <pubDate>2026-08-09T14:26:19.445836</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tchuin2609/YellowKey-Bitlocker'&gt;YellowKey-Bitlocker&lt;/a&gt;: Manage BitLocker encrypted drives on Windows. Extract recovery keys, check encryption status, and apply security mitigations for CVE-2026-45585.&lt;br&gt;&lt;a href='https://github.com/Desireeontrial76/yellowkey-bitlocker'&gt;yellowkey-bitlocker&lt;/a&gt;: Manage and recover BitLocker encrypted drives with this tool for Windows 11 recovery key management and educational study of CVE-2026-45585.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
-      <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-08-09T14:26:19.445843</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail'&gt;CVE-2026-31431-Linux-Copy-Fail&lt;/a&gt;: Exploit CVE-2026-31431 on Linux using a Rust implementation to achieve local privilege escalation via an arbitrary page cache write primitive.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
-      <guid isPermaLink="false">CVE-2026-31431</guid>
-      <pubDate>2026-08-09T14:26:19.445848</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-64638 - CVE-2026-64638 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Boreas37/CVE-2026-64638-PoC-XSS2Shell-'&gt;CVE-2026-64638-PoC-XSS2Shell-&lt;/a&gt;: XSS2Shell (CVE-2026-64638) WordPress pre-auth XSS to RCE chain — PoC exploit + defensive audit tool + nuclei template</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xlipon/xss2shell'&gt;xss2shell&lt;/a&gt;: 🔥 XSS2Shell — CVE-2026-64638 Scanner &amp; PoC Toolkit&lt;br&gt;&lt;a href='https://github.com/eh-amish/CVE-2026-64638-XSS-to-Shell-PoC'&gt;CVE-2026-64638-XSS-to-Shell-PoC&lt;/a&gt;: None</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64638</link>
       <guid isPermaLink="false">CVE-2026-64638</guid>
-      <pubDate>2026-08-09T14:26:19.445853</pubDate>
+      <pubDate>2026-08-09T15:22:27.633799</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-15038 - CVE-2026-15038 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Polosss/By-Poloss..-..CVE-2026-15038-POC'&gt;By-Poloss..-..CVE-2026-15038-POC&lt;/a&gt;:  POC 4 CVE-2026-15038</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-15038</link>
+      <guid isPermaLink="false">CVE-2026-15038</guid>
+      <pubDate>2026-08-09T15:22:27.633808</pubDate>
     </item>
   </channel>
 </rss>
