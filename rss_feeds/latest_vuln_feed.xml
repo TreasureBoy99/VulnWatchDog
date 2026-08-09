@@ -4,14 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-09安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 09 Aug 2026 05:42:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:46:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BuSung-dev/Root-My-Galaxy'&gt;Root-My-Galaxy&lt;/a&gt;: KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-09T05:42:09.174931</pubDate>
+      <title>CVE-2026-64638 - CVE-2026-64638 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Ahmall-sec/XSS2Shell'&gt;XSS2Shell&lt;/a&gt;: XSS2Shell ULTIMATE v3.0 is a powerful exploitation tool that chains Cross-Site Scripting (XSS) vulnerabilities in WordPress to achieve Remote Code Execution (RCE). This tool exploits CVE-2026-64638 to gain full control over vulnerable WordPress installations.&lt;br&gt;&lt;a href='https://github.com/Linuxhackingid-official/XSS2Shell-CVE-2026-64638'&gt;XSS2Shell-CVE-2026-64638&lt;/a&gt;: CVE-2026-64638 — WordPress Pre-Auth Reflected XSS → RCE via DOM Clobbering + Application Password Theft + REST API Plugin Activation. Dual-mode PoC (XSS chain &amp; direct).&lt;br&gt;&lt;a href='https://github.com/yogaGymn/XSS2Shell-CVE-2026-64638'&gt;XSS2Shell-CVE-2026-64638&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64638</link>
+      <guid isPermaLink="false">CVE-2026-64638</guid>
+      <pubDate>2026-08-09T07:46:05.957785</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-9645 - CVE-2026-9645 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis'&gt;CVE-2026-9645-ScadaBR-Analysis&lt;/a&gt;: Technical vulnerability analysis and CVE briefing for CVE-2026-9645 affecting ScadaBR.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-9645</link>
+      <guid isPermaLink="false">CVE-2026-9645</guid>
+      <pubDate>2026-08-09T07:46:05.957794</pubDate>
     </item>
   </channel>
 </rss>
