@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-09安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 09 Aug 2026 03:25:33 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:42:09 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-19193 - CVE-2026-19193 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/patrickt2017/CVE-2026-19193-PoC'&gt;CVE-2026-19193-PoC&lt;/a&gt;: CVE-2026-19193 Proof of Concept</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19193</link>
-      <guid isPermaLink="false">CVE-2026-19193</guid>
-      <pubDate>2026-08-09T03:25:33.454505</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BuSung-dev/Root-My-Galaxy'&gt;Root-My-Galaxy&lt;/a&gt;: KSU installer for supported Samsung Galaxy firmware with CVE-2026-43499</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-09T05:42:09.174931</pubDate>
     </item>
   </channel>
 </rss>
