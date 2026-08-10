@@ -4,35 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-10安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 10 Aug 2026 10:59:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:47:53 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29'&gt;GhostLock-GOT-W29&lt;/a&gt;: CVE-2026-43499 (GhostLock) research on HUAWEI MatePad Pro 11 GOT-W29</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/wxxsfxyzm/GhostLock-Galaxy'&gt;GhostLock-Galaxy&lt;/a&gt;: Root your Galaxy using CVE-2026-43499</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-10T10:59:37.970489</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-41710 - CVE-2026-41710 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NicheToolkit/spring-retry-toolkit'&gt;spring-retry-toolkit&lt;/a&gt;: spring retry 1.3.x fix with niche toolkit for CVE-2026-41710</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41710</link>
-      <guid isPermaLink="false">CVE-2026-41710</guid>
-      <pubDate>2026-08-10T10:59:37.970497</pubDate>
+      <pubDate>2026-08-10T12:47:53.190957</pubDate>
     </item>
     <item>
       <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
       <guid isPermaLink="false">CVE-2026-64561</guid>
-      <pubDate>2026-08-10T10:59:37.970503</pubDate>
+      <pubDate>2026-08-10T12:47:53.190963</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-64747 - CVE-2026-64747 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jiuyi155/agxprobe'&gt;agxprobe&lt;/a&gt;: CVE-2026-64747 AGXG14P count-bitmask OOB trigger probe (A15/iOS 26.5.2)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64747</link>
+      <guid isPermaLink="false">CVE-2026-64747</guid>
+      <pubDate>2026-08-10T12:47:53.190967</pubDate>
     </item>
     <item>
       <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585'&gt;YellowKey-Bitlocker-CVE-2026-45585&lt;/a&gt;: Manage BitLocker recovery keys, unlock encrypted drives, and monitor encryption status with this lightweight Windows utility.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585'&gt;YellowKey-Bitlocker-CVE-2026-45585&lt;/a&gt;: Manage BitLocker recovery keys, unlock encrypted drives, and monitor encryption status with this lightweight Windows utility.&lt;br&gt;&lt;a href='https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585'&gt;YellowKey-Bitlocker-CVE-2026-45585&lt;/a&gt;: Manage BitLocker recovery keys, monitor drive encryption status, and unlock volumes through a portable interface for Windows.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
       <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-08-10T10:59:37.970508</pubDate>
+      <pubDate>2026-08-10T12:47:53.190970</pubDate>
     </item>
   </channel>
 </rss>
