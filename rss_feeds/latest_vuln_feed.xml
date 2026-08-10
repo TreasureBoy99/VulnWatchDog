@@ -4,35 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-10安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 10 Aug 2026 07:13:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:09:08 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ashardev002/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: 🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
-      <guid isPermaLink="false">CVE-2025-32463</guid>
-      <pubDate>2026-08-10T07:13:39.129689</pubDate>
+      <title>CVE-2026-23744 - CVE-2026-23744 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/amao26/CVE-2026-23744-MCPJam-Inspector-Unauthenticated-RCE-Proof-of-Concept'&gt;CVE-2026-23744-MCPJam-Inspector-Unauthenticated-RCE-Proof-of-Concept&lt;/a&gt;: CVE-2026-23744 is an unauthenticated command injection in MCPJam Inspector ≤1.4.2 via /api/mcp/connect. This POC exploits it by sending a crafted JSON payload to execute arbitrary commands, granting a reverse shell with PTY.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-23744</link>
+      <guid isPermaLink="false">CVE-2026-23744</guid>
+      <pubDate>2026-08-10T09:09:08.020085</pubDate>
     </item>
     <item>
-      <title>CVE-2026-42533 - CVE-2026-42533 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-42533'&gt;CVE-2026-42533&lt;/a&gt;: Tracking the nginx CVE-2026-42533 map/regex capture-clobbering heap overflow</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42533</link>
-      <guid isPermaLink="false">CVE-2026-42533</guid>
-      <pubDate>2026-08-10T07:13:39.129698</pubDate>
+      <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
+      <guid isPermaLink="false">CVE-2026-64561</guid>
+      <pubDate>2026-08-10T09:09:08.020095</pubDate>
     </item>
     <item>
-      <title>CVE-2026-64531 - CVE-2026-64531 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/ovswrap'&gt;ovswrap&lt;/a&gt;: Tracking OVSwrap (CVE-2026-64531), the Open vSwitch datapath netlink overflow</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64531</link>
-      <guid isPermaLink="false">CVE-2026-64531</guid>
-      <pubDate>2026-08-10T07:13:39.129704</pubDate>
+      <title>CVE-2026-19264 - CVE-2026-19264 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/DarkLycn1976/CVE-2026-19264'&gt;CVE-2026-19264&lt;/a&gt;: CVE-2026-19264 - Critical unauthenticated path traversal to full instance takeover in Postiz (&lt; 2.22.1). Technical writeup: decode-order bypass, JWT_SECRET escalation, and analysis of the upstream fix.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19264</link>
+      <guid isPermaLink="false">CVE-2026-19264</guid>
+      <pubDate>2026-08-10T09:09:08.020101</pubDate>
     </item>
     <item>
-      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/sctphantom'&gt;sctphantom&lt;/a&gt;: Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
-      <guid isPermaLink="false">CVE-2026-64564</guid>
-      <pubDate>2026-08-10T07:13:39.129709</pubDate>
+      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Donalhighnecked528/YellowKey-Bitlocker-CVE-2026-45585'&gt;YellowKey-Bitlocker-CVE-2026-45585&lt;/a&gt;: Manage BitLocker recovery keys, unlock encrypted drives, and monitor encryption status with this lightweight Windows utility.&lt;br&gt;&lt;a href='https://github.com/boobalover7/YellowKey-Bitlocker-CVE-2026-45585'&gt;YellowKey-Bitlocker-CVE-2026-45585&lt;/a&gt;: Manage BitLocker recovery keys, monitor drive encryption status, and unlock volumes through a portable interface for Windows.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
+      <guid isPermaLink="false">CVE-2026-45585</guid>
+      <pubDate>2026-08-10T09:09:08.020107</pubDate>
     </item>
   </channel>
 </rss>
