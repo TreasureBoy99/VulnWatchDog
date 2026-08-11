@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-11安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 11 Aug 2026 10:42:44 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 11:37:57 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29'&gt;GhostLock-GOT-W29&lt;/a&gt;: CVE-2026-43499 (GhostLock) research on HUAWEI MatePad Pro 11 GOT-W29&lt;br&gt;&lt;a href='https://github.com/xiaohj233/ghostlock-x200-root'&gt;ghostlock-x200-root&lt;/a&gt;: GhostLock-X200 v1.0 - temporary root toolchain for vivo X200 (PD2415 / b57 kernel) based on CVE-2026-43499. For authorized security research only.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/oopnv70-lab/ghostlock-skeleton-v2'&gt;ghostlock-skeleton-v2&lt;/a&gt;: CVE-2026-43499 GhostLock APK 骨架 — 从零开始，仅空项目编译验证&lt;br&gt;&lt;a href='https://github.com/yijiacloud/ghostlock-cve-2026-43499-4.19-k40'&gt;ghostlock-cve-2026-43499-4.19-k40&lt;/a&gt;: CVE-2026-43499 (GhostLock) rtmutex remove_waiter() UAF local-root PoC adapted for Qualcomm Android 4.19 kernels (Redmi K40 / Snapdragon 870 class), LD_PRELOAD based&lt;br&gt;&lt;a href='https://github.com/yijiacloud/GhostLock-OPPO-PCKM00'&gt;GhostLock-OPPO-PCKM00&lt;/a&gt;: CVE-2026-43499 GhostLock futex UAF LPE PoC for OPPO PCKM00 (SM6150) / Linux 4.14.180</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-11T10:42:44.657912</pubDate>
+      <pubDate>2026-08-11T11:37:57.406012</pubDate>
     </item>
   </channel>
 </rss>
