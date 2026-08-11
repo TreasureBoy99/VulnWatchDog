@@ -4,21 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-11安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 11 Aug 2026 09:52:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:42:44 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-57850 - CVE-2026-57850 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sn0x-sharma/CVE-2026-57850'&gt;CVE-2026-57850&lt;/a&gt;: RustDesk &lt; 1.4.9 - Missing Session-Scope Enforcement Allows Out-of-Scope Control Message Injection</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-57850</link>
-      <guid isPermaLink="false">CVE-2026-57850</guid>
-      <pubDate>2026-08-11T09:52:34.444371</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-18718 - CVE-2026-18718 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sn0x-sharma/CVE-2026-18718'&gt;CVE-2026-18718&lt;/a&gt;: Found a 0-Day in Ghidra: Shared Project File Became a Code Execution Vector</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-18718</link>
-      <guid isPermaLink="false">CVE-2026-18718</guid>
-      <pubDate>2026-08-11T09:52:34.444380</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29'&gt;GhostLock-GOT-W29&lt;/a&gt;: CVE-2026-43499 (GhostLock) research on HUAWEI MatePad Pro 11 GOT-W29&lt;br&gt;&lt;a href='https://github.com/xiaohj233/ghostlock-x200-root'&gt;ghostlock-x200-root&lt;/a&gt;: GhostLock-X200 v1.0 - temporary root toolchain for vivo X200 (PD2415 / b57 kernel) based on CVE-2026-43499. For authorized security research only.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-11T10:42:44.657912</pubDate>
     </item>
   </channel>
 </rss>
