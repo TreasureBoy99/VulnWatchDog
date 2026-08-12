@@ -4,21 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-12安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 12 Aug 2026 14:15:29 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:52:13 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2025-23211 - CVE-2025-23211 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/IIxoskeletonII/DataPrivacy-CVE-2025-23211'&gt;DataPrivacy-CVE-2025-23211&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-23211</link>
+      <guid isPermaLink="false">CVE-2025-23211</guid>
+      <pubDate>2026-08-12T15:52:13.326426</pubDate>
+    </item>
     <item>
       <title>CVE-2026-68138 - CVE-2026-68138 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aramosf/CVE-2026-68138'&gt;CVE-2026-68138&lt;/a&gt;: CVE-2026-68138 Linux qdisc rate-table race local privilege escalation PoC</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68138</link>
       <guid isPermaLink="false">CVE-2026-68138</guid>
-      <pubDate>2026-08-12T14:15:29.056642</pubDate>
+      <pubDate>2026-08-12T15:52:13.326434</pubDate>
     </item>
     <item>
-      <title>CVE-2026-72898 - CVE-2026-72898 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xBlackash/CVE-2026-72898'&gt;CVE-2026-72898&lt;/a&gt;: CVE-2026-72898</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-72898</link>
-      <guid isPermaLink="false">CVE-2026-72898</guid>
-      <pubDate>2026-08-12T14:15:29.056650</pubDate>
+      <title>CVE-2026-68398 - CVE-2026-68398 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aramosf/CVE-2026-68398'&gt;CVE-2026-68398&lt;/a&gt;: CVE-2026-68398 Ubuntu PPPoL2TP use-after-free local privilege escalation</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68398</link>
+      <guid isPermaLink="false">CVE-2026-68398</guid>
+      <pubDate>2026-08-12T15:52:13.326440</pubDate>
     </item>
   </channel>
 </rss>
