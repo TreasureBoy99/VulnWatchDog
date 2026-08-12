@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-12安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 12 Aug 2026 07:10:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:40:01 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-16723 - CVE-2026-16723 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/learner330/fastjson-cve-2026-16723'&gt;fastjson-cve-2026-16723&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-16723</link>
-      <guid isPermaLink="false">CVE-2026-16723</guid>
-      <pubDate>2026-08-12T07:10:51.231318</pubDate>
+      <title>CVE-2025-48804 - CVE-2025-48804 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/garatc/BitUnlocker'&gt;BitUnlocker&lt;/a&gt;: Downgrade attack for CVE-2025-48804</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-48804</link>
+      <guid isPermaLink="false">CVE-2025-48804</guid>
+      <pubDate>2026-08-12T11:40:01.281019</pubDate>
     </item>
   </channel>
 </rss>
