@@ -4,35 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-12安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 12 Aug 2026 12:47:08 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 14:15:29 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Least-Significant-Bit/CVE-2025-55182'&gt;CVE-2025-55182&lt;/a&gt;: Remote code execution for React Server Components 19.0.0 - 19.2.0</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
-      <guid isPermaLink="false">CVE-2025-55182</guid>
-      <pubDate>2026-08-12T12:47:08.291859</pubDate>
+      <title>CVE-2026-68138 - CVE-2026-68138 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aramosf/CVE-2026-68138'&gt;CVE-2026-68138&lt;/a&gt;: CVE-2026-68138 Linux qdisc rate-table race local privilege escalation PoC</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68138</link>
+      <guid isPermaLink="false">CVE-2026-68138</guid>
+      <pubDate>2026-08-12T14:15:29.056642</pubDate>
     </item>
     <item>
-      <title>CVE-2026-2766 - CVE-2026-2766 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/SneakyNachos/CVE-2026-2766-but-with-wasm'&gt;CVE-2026-2766-but-with-wasm&lt;/a&gt;: CVE-2026-2766, but with wasm</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-2766</link>
-      <guid isPermaLink="false">CVE-2026-2766</guid>
-      <pubDate>2026-08-12T12:47:08.291868</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-69263 - CVE-2026-69263 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/leoelsolh/CVE-2026-69263'&gt;CVE-2026-69263&lt;/a&gt;: MCP environment-variable blocklist bypass leads to unauthenticated RCE in Flowise 3.1.1</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-69263</link>
-      <guid isPermaLink="false">CVE-2026-69263</guid>
-      <pubDate>2026-08-12T12:47:08.291874</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-27344 - CVE-2026-27344 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/AC8999/CVE-2026-27344'&gt;CVE-2026-27344&lt;/a&gt;: Missing Authorization in inseriswiss inseri core inseri-core allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects inseri core: from n/a through &lt;= 1.0.5.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-27344</link>
-      <guid isPermaLink="false">CVE-2026-27344</guid>
-      <pubDate>2026-08-12T12:47:08.291879</pubDate>
+      <title>CVE-2026-72898 - CVE-2026-72898 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xBlackash/CVE-2026-72898'&gt;CVE-2026-72898&lt;/a&gt;: CVE-2026-72898</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-72898</link>
+      <guid isPermaLink="false">CVE-2026-72898</guid>
+      <pubDate>2026-08-12T14:15:29.056650</pubDate>
     </item>
   </channel>
 </rss>
