@@ -4,28 +4,98 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-13安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 13 Aug 2026 08:12:26 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:55:44 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-42945 - CVE-2026-42945 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CynepMyx/nginx-rift-check'&gt;nginx-rift-check&lt;/a&gt;: Detects the CVE-2026-42945 rewrite pattern in nginx configs: rewrite with ? in the replacement plus an unnamed capture consumed in the same location</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42945</link>
-      <guid isPermaLink="false">CVE-2026-42945</guid>
-      <pubDate>2026-08-13T08:12:26.778202</pubDate>
+      <title>CVE-2026-49844 - CVE-2026-49844 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/log4j-check'&gt;log4j-check&lt;/a&gt;: log4j 2025/2026 年 7 条「配置静默失效」CVE 自查:按 CVE×模块 判定 4 个模块,结构化解析 log4j2 配置做 applicability 降噪,并算出该升到哪个版本才一次到位(6 条写 2.25.4,但有一条要 2.25.5,而它 Dependabot 报不出来) CVE-2026-49844 / CVE-2026-34477</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-49844</link>
+      <guid isPermaLink="false">CVE-2026-49844</guid>
+      <pubDate>2026-08-13T09:55:44.234537</pubDate>
     </item>
     <item>
-      <title>CVE-2025-21479 - CVE-2025-21479 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Type010/cve-2025-21479-iqoo11pro'&gt;cve-2025-21479-iqoo11pro&lt;/a&gt;: CVE-2025-21479 (Qualcomm Adreno GPU) reproduction notes for vivo iQOO 11 Pro (PD2254) - authorized research</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-21479</link>
-      <guid isPermaLink="false">CVE-2025-21479</guid>
-      <pubDate>2026-08-13T08:12:26.778210</pubDate>
+      <title>CVE-2026-34477 - CVE-2026-34477 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/log4j-check'&gt;log4j-check&lt;/a&gt;: log4j 2025/2026 年 7 条「配置静默失效」CVE 自查:按 CVE×模块 判定 4 个模块,结构化解析 log4j2 配置做 applicability 降噪,并算出该升到哪个版本才一次到位(6 条写 2.25.4,但有一条要 2.25.5,而它 Dependabot 报不出来) CVE-2026-49844 / CVE-2026-34477</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-34477</link>
+      <guid isPermaLink="false">CVE-2026-34477</guid>
+      <pubDate>2026-08-13T09:55:44.234544</pubDate>
     </item>
     <item>
-      <title>CVE-2026-9999 - CVE-2026-9999 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/josephfarah-ciso/CVE-2026-9999-exploit'&gt;CVE-2026-9999-exploit&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-9999</link>
-      <guid isPermaLink="false">CVE-2026-9999</guid>
-      <pubDate>2026-08-13T08:12:26.778216</pubDate>
+      <title>CVE-2026-54512 - CVE-2026-54512 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/jackson-check'&gt;jackson-check&lt;/a&gt;: jackson-databind 2026 年 11 条安全公告自查:扫源码注解降噪,告诉你真中几条;逐条求交集给出真正到位的版本(2.18.9/2.21.5/3.1.5,不是 advisory 上最常见的 2.21.4) CVE-2026-54515 / CVE-2026-54512</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-54512</link>
+      <guid isPermaLink="false">CVE-2026-54512</guid>
+      <pubDate>2026-08-13T09:55:44.234548</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-54515 - CVE-2026-54515 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/jackson-check'&gt;jackson-check&lt;/a&gt;: jackson-databind 2026 年 11 条安全公告自查:扫源码注解降噪,告诉你真中几条;逐条求交集给出真正到位的版本(2.18.9/2.21.5/3.1.5,不是 advisory 上最常见的 2.21.4) CVE-2026-54515 / CVE-2026-54512</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-54515</link>
+      <guid isPermaLink="false">CVE-2026-54515</guid>
+      <pubDate>2026-08-13T09:55:44.234552</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-49268 - CVE-2026-49268 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/shiro-check'&gt;shiro-check&lt;/a&gt;: 扫出你实际装的 Apache Shiro 模块与版本,逐条判定官方 26 条 CVE 里哪些真的落在你身上。按「CVE × 模块」判定,零依赖单 jar。 CVE-2026-49268</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-49268</link>
+      <guid isPermaLink="false">CVE-2026-49268</guid>
+      <pubDate>2026-08-13T09:55:44.234556</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41293 - CVE-2026-41293 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/tomcat-check'&gt;tomcat-check&lt;/a&gt;: 查出 Spring Boot 内嵌 Tomcat 的真实版本(pom 里没有),并对每条 2026 年 CVE 同时给出 ASF 官方评级与 GitHub 评级、触发条件、以及这条会不会进 Dependabot 告警 CVE-2026-41293</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41293</link>
+      <guid isPermaLink="false">CVE-2026-41293</guid>
+      <pubDate>2026-08-13T09:55:44.234561</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-40982 - CVE-2026-40982 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/scc-check'&gt;scc-check&lt;/a&gt;: Offline checker for Spring Cloud Config CVE-2026-40982 — tells you whether your version line has an OSS fix at all (3.1.x/4.1.x/4.2.x: it does not)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-40982</link>
+      <guid isPermaLink="false">CVE-2026-40982</guid>
+      <pubDate>2026-08-13T09:55:44.234565</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-29000 - CVE-2026-29000 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/pac4j-check'&gt;pac4j-check&lt;/a&gt;: Offline scanner for CVE-2026-29000 (CVSS 10.0) in org.pac4j:pac4j-jwt. Inspects jars/fat-jars directly, so it works where mvn dependency:tree cannot. Single jar, zero dependencies, Java 8+.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-29000</link>
+      <guid isPermaLink="false">CVE-2026-29000</guid>
+      <pubDate>2026-08-13T09:55:44.234569</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-58062 - CVE-2026-58062 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/bc-check'&gt;bc-check&lt;/a&gt;: Offline scanner telling you which of the 2026 Bouncy Castle CVEs actually apply to you - across BC, BC-LTS and BC-FJA (FIPS), which do not share a version scheme. CVE-2026-58062 / CVE-2026-8763 / CVE-2026-59650 / CVE-2026-59638</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58062</link>
+      <guid isPermaLink="false">CVE-2026-58062</guid>
+      <pubDate>2026-08-13T09:55:44.234573</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-8763 - CVE-2026-8763 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/bc-check'&gt;bc-check&lt;/a&gt;: Offline scanner telling you which of the 2026 Bouncy Castle CVEs actually apply to you - across BC, BC-LTS and BC-FJA (FIPS), which do not share a version scheme. CVE-2026-58062 / CVE-2026-8763 / CVE-2026-59650 / CVE-2026-59638</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-8763</link>
+      <guid isPermaLink="false">CVE-2026-8763</guid>
+      <pubDate>2026-08-13T09:55:44.234577</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-59638 - CVE-2026-59638 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/bc-check'&gt;bc-check&lt;/a&gt;: Offline scanner telling you which of the 2026 Bouncy Castle CVEs actually apply to you - across BC, BC-LTS and BC-FJA (FIPS), which do not share a version scheme. CVE-2026-58062 / CVE-2026-8763 / CVE-2026-59650 / CVE-2026-59638</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59638</link>
+      <guid isPermaLink="false">CVE-2026-59638</guid>
+      <pubDate>2026-08-13T09:55:44.234581</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-59650 - CVE-2026-59650 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/bc-check'&gt;bc-check&lt;/a&gt;: Offline scanner telling you which of the 2026 Bouncy Castle CVEs actually apply to you - across BC, BC-LTS and BC-FJA (FIPS), which do not share a version scheme. CVE-2026-58062 / CVE-2026-8763 / CVE-2026-59650 / CVE-2026-59638</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59650</link>
+      <guid isPermaLink="false">CVE-2026-59650</guid>
+      <pubDate>2026-08-13T09:55:44.234584</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-16723 - CVE-2026-16723 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/fastjson-check'&gt;fastjson-check&lt;/a&gt;: fastjson vulnerability scanner - detect fastjson in JARs and Spring Boot fat-JARs, check exposure to CVE-2026-16723, and verify whether you already run the official patch 1.2.84. Zero-dependency offline CLI. fastjson 漏洞检测与排查工具：一条命令扫描依赖，支持 fat-JAR 与 shaded 依赖，并判定是否已升到官方补丁版本 1.2.84。</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-16723</link>
+      <guid isPermaLink="false">CVE-2026-16723</guid>
+      <pubDate>2026-08-13T09:55:44.234588</pubDate>
     </item>
   </channel>
 </rss>
