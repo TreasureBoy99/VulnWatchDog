@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786630624.4902844,
     "last_attempt": 1786650754.2290158,
-    "next_attempt": 1786653163.4010186,
+    "next_attempt": 1786656985.891597,
     "metadata": {},
     "task_id": "task_CVE-2026-33017_1786630624",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786639572.5296013,
     "last_attempt": 1786650747.7199125,
-    "next_attempt": 1786653155.5547469,
+    "next_attempt": 1786656981.991019,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1786639572",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786647032.476294,
     "last_attempt": 1786650754.22989,
-    "next_attempt": 1786653156.4097703,
+    "next_attempt": 1786656977.852685,
     "metadata": {},
     "task_id": "task_CVE-2026-56292_1786647032",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786650730.7520761,
     "last_attempt": 1786650749.2257507,
-    "next_attempt": 1786653139.1403897,
+    "next_attempt": 1786656964.615483,
     "metadata": {},
     "task_id": "task_CVE-2026-64564_1786650730",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786650737.267022,
     "last_attempt": 1786650754.2333941,
-    "next_attempt": 1786653144.1256175,
+    "next_attempt": 1786656965.1156955,
     "metadata": {},
     "task_id": "task_CVE-2025-0890_1786650737",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786650742.7171292,
     "last_attempt": 1786650760.0665154,
-    "next_attempt": 1786653140.5100093,
+    "next_attempt": 1786656963.3172424,
     "metadata": {},
     "task_id": "task_CVE-2026-64531_1786650742",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786650749.2232325,
     "last_attempt": 1786650754.2341294,
-    "next_attempt": 1786653131.712136,
+    "next_attempt": 1786656953.2770813,
     "metadata": {},
     "task_id": "task_CVE-2026-64561_1786650749",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786650755.0635636,
     "last_attempt": 1786653130.2824361,
-    "next_attempt": 1786653142.0297904,
+    "next_attempt": 1786656953.0859654,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1786650755",
     "required_result_fields": [
@@ -242,9 +242,38 @@
     "last_error": null,
     "created_at": 1786653130.2791295,
     "last_attempt": 0,
-    "next_attempt": 1786653135.9853141,
+    "next_attempt": 1786656948.6497831,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1786653130",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-72898",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-72898\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"Metabase allows a remote, unauthenticated attacker to inject arbitrary SQL via the '/reset_password' database endpoint and gain administrator access to the connected Metabase instance.\", \"\\u6807\\u9898: Metabase \\u672a\\u6388\\u6743SQL\\u6ce8\\u5165\\u6f0f\\u6d1e\"], \"published_date\": \"2026-08-10T18:18:53.300\", \"last_modified_date\": \"2026-08-12T15:18:30.347\", \"cvss_score\": 10.0, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"m\", \"e\", \"t\", \"a\", \"b\", \"a\", \"s\", \"e\", \"/\", \"m\", \"e\", \"t\", \"a\", \"b\", \"a\", \"s\", \"e\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"v\", \"w\", \"f\", \"4\", \"-\", \"m\", \"7\", \"j\", \"8\", \"-\", \"w\", \"c\", \"j\", \"f\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"r\", \"a\", \"w\", \".\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \"u\", \"s\", \"e\", \"r\", \"c\", \"o\", \"n\", \"t\", \"e\", \"n\", \"t\", \".\", \"c\", \"o\", \"m\", \"/\", \"c\", \"i\", \"s\", \"a\", \"g\", \"o\", \"v\", \"/\", \"C\", \"S\", \"A\", \"F\", \"/\", \"d\", \"e\", \"v\", \"e\", \"l\", \"o\", \"p\", \"/\", \"c\", \"s\", \"a\", \"f\", \"_\", \"f\", \"i\", \"l\", \"e\", \"s\", \"/\", \"I\", \"T\", \"/\", \"w\", \"h\", \"i\", \"t\", \"e\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"v\", \"a\", \"-\", \"2\", \"6\", \"-\", \"2\", \"2\", \"2\", \"-\", \"0\", \"1\", \".\", \"j\", \"s\", \"o\", \"n\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"v\", \"e\", \".\", \"o\", \"r\", \"g\", \"/\", \"C\", \"V\", \"E\", \"R\", \"e\", \"c\", \"o\", \"r\", \"d\", \"?\", \"i\", \"d\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"7\", \"2\", \"8\", \"9\", \"8\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"m\", \"e\", \"t\", \"a\", \"b\", \"a\", \"s\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"b\", \"l\", \"o\", \"g\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"u\", \"p\", \"d\", \"a\", \"t\", \"e\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"7\", \"2\", \"8\", \"9\", \"8\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] 1 known exploit for CVE-2026-72898\n [description] CVE-2026-72898. 1 known exploit for CVE-2026-72898. Metabase allows a remote, unauthenticated attacker to inject arbitrary SQL via the '/reset_password' database endpoint and gain administrator access to the connected Metabase instance.\n [link] https://sploitus.com/cve/CVE-2026-72898\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-72898 - Exploits & Severity - Feedly\n [description] Critical vulnerabilities in Metabase. NCSC-FI vulnerabilities summary 2026-08-10 / 1h.This vulnerability is uniquely identified as CVE-2026-72898 . The attack can be launched remotely. No exploit exists. Upgrading the affected component is advised.\n [link] https://feedly.com/cve/CVE-2026-72898\n [webpage 1 end]\n[webpage 2 begin] [title] Metabase - Unauthenticated SQL Injection (CVE-2026-72898)\n [description] Recon tools. Vulnerability scanners.See how we deliver high detection coverage and accuracy, with proof to defend every exploitable finding.\n [link] https://pentest-tools.com/vulnerabilities-exploits/metabase-unauthenticated-sql-injection_29528\n [webpage 2 end]\n[webpage 3 begin] [title] secualive.jp/feed/nvd/vulnerability/detailinfo/CVE-2026-72898\n [description] CVE-2026-72898. 概要. Metabase allows a remote, unauthenticated attacker to inject arbitrary SQL via the '/reset_password' database endpoint and gain administrator access to the connected Metabase instance.\n [link] https://secualive.jp/feed/nvd/vulnerability/detailinfo/CVE-2026-72898/\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-72898 - Metabase SQL injection via password reset endpoint\n [description] The following products are affected by CVE-2026-72898 vulnerability.Results are limited to the first 15 repositories due to potential performance issues. The following list is the news that have been mention CVE-2026-72898 vulnerability anywhere in the article.\n [link] https://cvefeed.io/vuln/detail/CVE-2026-72898\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/5247e0ef8524cf5d82366a376b44ba9c/README.md\n---\n# CVE-2026-72898-PoC\n\n\n<img width=\"845\" height=\"917\" alt=\"image\" src=\"https://github.com/user-attachments/assets/cf8ea0cb-b3de-4345-9452-99dd455e9167\" />\n\n\n# **To Get This PoC - Join > _https://t.me/thecodeb0ss_**\n\n\n---\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 0,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": null,
+    "last_error": null,
+    "created_at": 1786656948.2930763,
+    "last_attempt": 0,
+    "next_attempt": 1786656952.5841901,
+    "metadata": {},
+    "task_id": "task_CVE-2026-72898_1786656948",
     "required_result_fields": [
       "poc_available",
       "condition",
