@@ -4,21 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-14安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 14 Aug 2026 14:10:18 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:43:07 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Farhan9488/CVE-2025-55182-research'&gt;CVE-2025-55182-research&lt;/a&gt;: 🛡️ Explore CVE-2025-55182, a critical RCE vulnerability in React's Flight Protocol, demonstrating exploitation techniques and mitigation strategies.&lt;br&gt;&lt;a href='https://github.com/mayank729/CVE-2025-55182-scanner'&gt;CVE-2025-55182-scanner&lt;/a&gt;: 🔍 Scan for CVE-2025-55182 risks in React Server Components with this non-intrusive tool that helps detect critical vulnerabilities in your applications.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
-      <guid isPermaLink="false">CVE-2025-55182</guid>
-      <pubDate>2026-08-14T14:10:18.130974</pubDate>
+      <title>CVE-2026-42945 - CVE-2026-42945 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Kentox493/CVE-2026-42945_NginxRift'&gt;CVE-2026-42945_NginxRift&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42945</link>
+      <guid isPermaLink="false">CVE-2026-42945</guid>
+      <pubDate>2026-08-14T15:43:07.639598</pubDate>
     </item>
     <item>
-      <title>CVE-2025-54424 - CVE-2025-54424 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hophtien/CVE-2025-54424'&gt;CVE-2025-54424&lt;/a&gt;: CVE-2025-54424: 1Panel TLS client cert bypass enables RCE via forged CN 'panel_client' using a bundled scanning and exploitation tool. Affected: &lt;= v2.0.5. 🔐</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54424</link>
-      <guid isPermaLink="false">CVE-2025-54424</guid>
-      <pubDate>2026-08-14T14:10:18.130983</pubDate>
+      <title>CVE-2026-33017 - CVE-2026-33017 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lxxexxbxx/CVE-2026-33017'&gt;CVE-2026-33017&lt;/a&gt;: CVE-2026-33017: Langflow Unauthenticated RCE PoC</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-33017</link>
+      <guid isPermaLink="false">CVE-2026-33017</guid>
+      <pubDate>2026-08-14T15:43:07.639607</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-53365 - CVE-2026-53365 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-53365'&gt;CVE-2026-53365&lt;/a&gt;: CVE-2026-53365</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53365</link>
+      <guid isPermaLink="false">CVE-2026-53365</guid>
+      <pubDate>2026-08-14T15:43:07.639613</pubDate>
     </item>
   </channel>
 </rss>
