@@ -4,28 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-15安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 15 Aug 2026 12:19:28 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:12:06 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-47423 - CVE-2025-47423 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Haluka92/CVE-2025-47423'&gt;CVE-2025-47423&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-47423</link>
-      <guid isPermaLink="false">CVE-2025-47423</guid>
-      <pubDate>2026-08-15T12:19:28.511980</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-72898 - CVE-2026-72898 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/VuxNx/CVE-2026-72898'&gt;CVE-2026-72898&lt;/a&gt;: PoC for CVE-2026-72898</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-72898</link>
-      <guid isPermaLink="false">CVE-2026-72898</guid>
-      <pubDate>2026-08-15T12:19:28.511989</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-8794 - CVE-2026-8794 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/H4zaz/CVE-2026-8794'&gt;CVE-2026-8794&lt;/a&gt;: Username Enumeration via Authentication Timing Side-Channel in PaperCut NG</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-8794</link>
-      <guid isPermaLink="false">CVE-2026-8794</guid>
-      <pubDate>2026-08-15T12:19:28.511995</pubDate>
+      <title>CVE-2026-56197 - CVE-2026-56197 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/victorbonato/PoCs'&gt;PoCs&lt;/a&gt;: PoC for CVE-2026-56197 — Windows Admin Center (WAC) command injection RCE via invokeCommand; scripted no-browser auth (csrf/JWK/RSA-OAEP login chain), --cmd/--proof/--rev reverse-shell modes</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56197</link>
+      <guid isPermaLink="false">CVE-2026-56197</guid>
+      <pubDate>2026-08-15T15:12:06.261829</pubDate>
     </item>
   </channel>
 </rss>
