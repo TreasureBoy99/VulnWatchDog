@@ -4,14 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-15安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 15 Aug 2026 04:21:40 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:17:47 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4'&gt;CVE-2026-43499-ZFOLD4&lt;/a&gt;: CVE-2026-43499 research port for Galaxy Z Fold4 SM-F936W F936WVLU1AVGA (in progress)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-15T04:21:40.653852</pubDate>
+      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/sctphantom'&gt;sctphantom&lt;/a&gt;: Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
+      <guid isPermaLink="false">CVE-2026-64564</guid>
+      <pubDate>2026-08-15T05:17:47.406238</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-64531 - CVE-2026-64531 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/ovswrap'&gt;ovswrap&lt;/a&gt;: Tracking OVSwrap (CVE-2026-64531), the Open vSwitch datapath netlink overflow</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64531</link>
+      <guid isPermaLink="false">CVE-2026-64531</guid>
+      <pubDate>2026-08-15T05:17:47.406247</pubDate>
     </item>
   </channel>
 </rss>
