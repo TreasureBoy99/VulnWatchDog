@@ -4,14 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-16安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 16 Aug 2026 08:18:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:19:27 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-53787 - CVE-2026-53787 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webshellseo8/CVE-2026-53787-POC-'&gt;CVE-2026-53787-POC-&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53787</link>
-      <guid isPermaLink="false">CVE-2026-53787</guid>
-      <pubDate>2026-08-16T08:18:03.122683</pubDate>
+      <title>CVE-2026-50656 - CVE-2026-50656 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-'&gt;Windows-Defender-Security-Auditor-CVE-2026-50656-&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-50656</link>
+      <guid isPermaLink="false">CVE-2026-50656</guid>
+      <pubDate>2026-08-16T09:19:27.067944</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-5781 - CVE-2025-5781 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX'&gt;cve-2025-5781_FreePBX&lt;/a&gt;: In August 2025, a critical vulnerability was disclosed in the FreePBX Endpoint module. CVE-2025–57819 allows an unauthenticated attacker to exploit SQL injection in the Endpoint module and, through a chain of database manipulation and scheduled task execution, achieve remote code execution.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-5781</link>
+      <guid isPermaLink="false">CVE-2025-5781</guid>
+      <pubDate>2026-08-16T09:19:27.067954</pubDate>
     </item>
   </channel>
 </rss>
