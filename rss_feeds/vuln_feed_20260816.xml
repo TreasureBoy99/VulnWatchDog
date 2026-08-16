@@ -4,14 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-16安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 16 Aug 2026 06:23:51 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 07:24:00 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
+      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/sctphantom'&gt;sctphantom&lt;/a&gt;: Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
+      <guid isPermaLink="false">CVE-2026-64564</guid>
+      <pubDate>2026-08-16T07:24:00.814702</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-42533 - CVE-2026-42533 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-42533'&gt;CVE-2026-42533&lt;/a&gt;: Tracking the nginx CVE-2026-42533 map/regex capture-clobbering heap overflow</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42533</link>
+      <guid isPermaLink="false">CVE-2026-42533</guid>
+      <pubDate>2026-08-16T07:24:00.814711</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-64531 - CVE-2026-64531 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/ovswrap'&gt;ovswrap&lt;/a&gt;: Tracking OVSwrap (CVE-2026-64531), the Open vSwitch datapath netlink overflow</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64531</link>
+      <guid isPermaLink="false">CVE-2026-64531</guid>
+      <pubDate>2026-08-16T07:24:00.814717</pubDate>
+    </item>
+    <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/knowlily/cve-2026-43499-honor'&gt;cve-2026-43499-honor&lt;/a&gt;: CVE-2026-43499 (GhostLock) rt_mutex stack-UAF privilege escalation research on Honor BVL-AN16 (Magic6 Pro, SM8650, kernel 6.1.128). Includes analysis docs, reverse-engineering scripts, disassembly artifacts, and exploit source with honor-BVL-AN16 target adaptation.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CamsShaft/IonStack-S22-cve-2026-43499'&gt;IonStack-S22-cve-2026-43499&lt;/a&gt;: Full root in kernel domain with selinux permissive</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-16T06:23:51.975083</pubDate>
+      <pubDate>2026-08-16T07:24:00.814722</pubDate>
     </item>
   </channel>
 </rss>
