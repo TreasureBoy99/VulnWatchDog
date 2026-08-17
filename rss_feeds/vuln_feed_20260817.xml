@@ -4,42 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-17安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 17 Aug 2026 06:36:02 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:44:26 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-2472 - CVE-2026-2472 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud'&gt;CVE-2026-2472-Vertex-AI-SDK-Google-Cloud&lt;/a&gt;: Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-2472</link>
-      <guid isPermaLink="false">CVE-2026-2472</guid>
-      <pubDate>2026-08-17T06:36:02.310703</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s9280'&gt;root-my-s9280&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Ultra(SM-S9280 ,(China / Hong Kong SAR / Taiwan))</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-17T07:44:26.956937</pubDate>
     </item>
     <item>
-      <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hamzamalik3461/CVE-2026-20841'&gt;CVE-2026-20841&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad via markdown links exploiting unsecured URL protocols.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
-      <guid isPermaLink="false">CVE-2026-20841</guid>
-      <pubDate>2026-08-17T06:36:02.310710</pubDate>
+      <title>CVE-2026-68138 - CVE-2026-68138 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-68138'&gt;CVE-2026-68138&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68138</link>
+      <guid isPermaLink="false">CVE-2026-68138</guid>
+      <pubDate>2026-08-17T07:44:26.956946</pubDate>
     </item>
     <item>
-      <title>CVE-2025-20973 - CVE-2025-20973 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/arandomhooman/cve-2025-20973'&gt;cve-2025-20973&lt;/a&gt;: Public record of CVE-2025-20973 (SVE-2025-0101) - Secure Folder authentication vulnerability reported to Samsung Mobile Security, Jan 2025</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-20973</link>
-      <guid isPermaLink="false">CVE-2025-20973</guid>
-      <pubDate>2026-08-17T06:36:02.310714</pubDate>
+      <title>CVE-2026-64747 - CVE-2026-64747 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yiyeshi0-hash/ave263-chain'&gt;ave263-chain&lt;/a&gt;: iPad 8 iPadOS 26.3 AVE toolchain research (CVE-2026-64747 class)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64747</link>
+      <guid isPermaLink="false">CVE-2026-64747</guid>
+      <pubDate>2026-08-17T07:44:26.956952</pubDate>
     </item>
     <item>
-      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
-      <guid isPermaLink="false">CVE-2025-68921</guid>
-      <pubDate>2026-08-17T06:36:02.310719</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ashardev002/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: 🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
-      <guid isPermaLink="false">CVE-2025-32463</guid>
-      <pubDate>2026-08-17T06:36:02.310722</pubDate>
+      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/sctphantom'&gt;sctphantom&lt;/a&gt;: Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
+      <guid isPermaLink="false">CVE-2026-64564</guid>
+      <pubDate>2026-08-17T07:44:26.956958</pubDate>
     </item>
   </channel>
 </rss>
