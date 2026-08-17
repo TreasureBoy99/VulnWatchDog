@@ -4,35 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-17安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 17 Aug 2026 09:32:38 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:23:19 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-59310 - CVE-2026-59310 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BiuTrap/CVE-2026-59310'&gt;CVE-2026-59310&lt;/a&gt;: CVE-2026-59310 PoC</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59310</link>
+      <guid isPermaLink="false">CVE-2026-59310</guid>
+      <pubDate>2026-08-17T10:23:19.818862</pubDate>
+    </item>
     <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s9280'&gt;root-my-s9280&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Ultra(SM-S9280 ,(China / Hong Kong SAR / Taiwan))</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-17T09:32:38.515183</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-69414 - CVE-2026-69414 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-50656'&gt;CVE-2026-50656&lt;/a&gt;: CVE-2026-50656, CVE-2026-69414</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-69414</link>
-      <guid isPermaLink="false">CVE-2026-69414</guid>
-      <pubDate>2026-08-17T09:32:38.515192</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-50656 - CVE-2026-50656 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-50656'&gt;CVE-2026-50656&lt;/a&gt;: CVE-2026-50656, CVE-2026-69414</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-50656</link>
-      <guid isPermaLink="false">CVE-2026-50656</guid>
-      <pubDate>2026-08-17T09:32:38.515197</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-68138 - CVE-2026-68138 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-68138'&gt;CVE-2026-68138&lt;/a&gt;: Tracking CVE-2026-68138, the Linux kernel net/sched qdisc rate-table use-after-free</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68138</link>
-      <guid isPermaLink="false">CVE-2026-68138</guid>
-      <pubDate>2026-08-17T09:32:38.515202</pubDate>
+      <pubDate>2026-08-17T10:23:19.818871</pubDate>
     </item>
   </channel>
 </rss>
