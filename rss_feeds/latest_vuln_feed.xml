@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-17安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 17 Aug 2026 04:32:59 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:27:19 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-64747 - CVE-2026-64747 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yiyeshi0-hash/ave263-chain'&gt;ave263-chain&lt;/a&gt;: iPad 8 iPadOS 26.3 AVE toolchain research (CVE-2026-64747 class)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64747</link>
-      <guid isPermaLink="false">CVE-2026-64747</guid>
-      <pubDate>2026-08-17T04:32:59.273015</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/JoinChang/ghostlock-oneplus'&gt;ghostlock-oneplus&lt;/a&gt;: GhostLock (CVE-2026-43499) kernel exploit for OnePlus devices with locked bootloader&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s9280'&gt;root-my-s9280&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Ultra(SM-S9280 ,(China / Hong Kong SAR / Taiwan))</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-17T05:27:19.278938</pubDate>
     </item>
   </channel>
 </rss>
