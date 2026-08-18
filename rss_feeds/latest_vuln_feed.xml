@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-18安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 18 Aug 2026 04:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:31:00 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-19478 - CVE-2026-19478 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/davkharrr/CVE-2026-19478-PoC'&gt;CVE-2026-19478-PoC&lt;/a&gt;: CVE-2026-19478 PoC . Unauthenticated remote code-injection in GitLab's GraphQL layer </description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19478</link>
+      <guid isPermaLink="false">CVE-2026-19478</guid>
+      <pubDate>2026-08-18T07:31:00.490392</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-69414 - CVE-2026-69414 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/1neptune/ShieldBreak'&gt;ShieldBreak&lt;/a&gt;: Windows Defender 0day vulnerability  CVE-2026-69414  ShieldBreak</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-69414</link>
+      <guid isPermaLink="false">CVE-2026-69414</guid>
+      <pubDate>2026-08-18T07:31:00.490401</pubDate>
+    </item>
     <item>
       <title>CVE-2025-21479 - CVE-2025-21479 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479'&gt;vivo_iqoo_neo_9_root_research_on_CVE-2025-21479&lt;/a&gt;: iQOO Neo9 (PD2338C) 免解锁 Caps-Root 工具** — 基于 CVE-2025-21479 (Adreno GPU SDS) 的任意物理写提权方案</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2025-21479</link>
       <guid isPermaLink="false">CVE-2025-21479</guid>
-      <pubDate>2026-08-18T04:27:05.604746</pubDate>
+      <pubDate>2026-08-18T07:31:00.490407</pubDate>
     </item>
   </channel>
 </rss>
