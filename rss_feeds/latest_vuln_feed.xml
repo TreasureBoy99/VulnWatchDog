@@ -4,42 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-18安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 18 Aug 2026 12:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:35:35 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-8501 - CVE-2026-8501 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BlackSnufkin/BYOVD'&gt;BYOVD&lt;/a&gt;: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-8501</link>
-      <guid isPermaLink="false">CVE-2026-8501</guid>
-      <pubDate>2026-08-18T12:26:44.478613</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-1055 - CVE-2025-1055 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BlackSnufkin/BYOVD'&gt;BYOVD&lt;/a&gt;: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-1055</link>
-      <guid isPermaLink="false">CVE-2025-1055</guid>
-      <pubDate>2026-08-18T12:26:44.478622</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-3609 - CVE-2026-3609 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BlackSnufkin/BYOVD'&gt;BYOVD&lt;/a&gt;: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-3609</link>
-      <guid isPermaLink="false">CVE-2026-3609</guid>
-      <pubDate>2026-08-18T12:26:44.478628</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-52915 - CVE-2025-52915 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BlackSnufkin/BYOVD'&gt;BYOVD&lt;/a&gt;: BYOVD research use cases featuring vulnerable driver discovery and reverse engineering methodology.  (CVE-2025-52915,  CVE-2025-1055, CVE-2026-3609, CVE-2026-8501).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-52915</link>
-      <guid isPermaLink="false">CVE-2025-52915</guid>
-      <pubDate>2026-08-18T12:26:44.478633</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alex193a/Root-My-Pixel'&gt;Root-My-Pixel&lt;/a&gt;: Jailbreak supported Google Pixel phones with CVE-2026-43499</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-18T12:26:44.478638</pubDate>
+      <title>CVE-2026-73292 - CVE-2026-73292 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CamilleGR/CVE-2026-73292'&gt;CVE-2026-73292&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-73292</link>
+      <guid isPermaLink="false">CVE-2026-73292</guid>
+      <pubDate>2026-08-18T13:35:35.473535</pubDate>
     </item>
   </channel>
 </rss>
