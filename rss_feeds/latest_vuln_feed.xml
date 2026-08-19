@@ -4,21 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-19安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 19 Aug 2026 12:26:55 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 13:37:27 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xdeadroot/SCTPhantom-CVE-2026-64564'&gt;SCTPhantom-CVE-2026-64564&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
-      <guid isPermaLink="false">CVE-2026-64564</guid>
-      <pubDate>2026-08-19T12:26:55.749398</pubDate>
+      <title>CVE-2026-19500 - CVE-2026-19500 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/typedefabcd1234ntd/CVE-2026-19500-poc'&gt;CVE-2026-19500-poc&lt;/a&gt;: CVE-2026-19500 poc</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19500</link>
+      <guid isPermaLink="false">CVE-2026-19500</guid>
+      <pubDate>2026-08-19T13:37:27.230572</pubDate>
     </item>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29'&gt;GhostLock-GOT-W29&lt;/a&gt;: CVE-2026-43499 (GhostLock) research on HUAWEI MatePad Pro 11 GOT-W29</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-19T12:26:55.749407</pubDate>
+      <title>CVE-2026-19501 - CVE-2026-19501 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/typedefabcd1234ntd/CVE-2026-19501-poc'&gt;CVE-2026-19501-poc&lt;/a&gt;: CVE-2026-19501 poc</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19501</link>
+      <guid isPermaLink="false">CVE-2026-19501</guid>
+      <pubDate>2026-08-19T13:37:27.230581</pubDate>
     </item>
   </channel>
 </rss>
