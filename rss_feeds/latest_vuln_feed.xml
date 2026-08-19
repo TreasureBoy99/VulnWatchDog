@@ -4,21 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-19安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 19 Aug 2026 14:24:16 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:22:13 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-61241 - CVE-2026-61241 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Godliveanton/CVE-2026-61241'&gt;CVE-2026-61241&lt;/a&gt;: Oracle OID LDAP Server Privileges Management Exploit</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61241</link>
-      <guid isPermaLink="false">CVE-2026-61241</guid>
-      <pubDate>2026-08-19T14:24:16.970243</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-64849 - CVE-2026-64849 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zavisco/CVE-2026-64849.yaml'&gt;CVE-2026-64849.yaml&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64849</link>
-      <guid isPermaLink="false">CVE-2026-64849</guid>
-      <pubDate>2026-08-19T14:24:16.970253</pubDate>
+      <title>CVE-2026-15748 - CVE-2026-15748 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ubaydev/CVE-2026-15748'&gt;CVE-2026-15748&lt;/a&gt;: Forminator Forms &lt;= 1.56.1 - Unauthenticated Arbitrary File Upload via Forged Upload Field Configuration</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-15748</link>
+      <guid isPermaLink="false">CVE-2026-15748</guid>
+      <pubDate>2026-08-19T15:22:13.345339</pubDate>
     </item>
   </channel>
 </rss>
