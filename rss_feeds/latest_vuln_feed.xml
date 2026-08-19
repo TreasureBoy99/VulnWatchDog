@@ -4,21 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-19安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 19 Aug 2026 02:13:14 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:39:13 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-19598 - CVE-2026-19598 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/DeadExpl0it/CVE-2026-19598-PoC'&gt;CVE-2026-19598-PoC&lt;/a&gt;: Proof of Concept for CVE-2026-19598 affecting Pods &lt;= 3.3.9.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19598</link>
-      <guid isPermaLink="false">CVE-2026-19598</guid>
-      <pubDate>2026-08-19T02:13:14.002882</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-22747 - CVE-2026-22747 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gsadagopan/cve-2026-22747-sandbox'&gt;cve-2026-22747-sandbox&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-22747</link>
-      <guid isPermaLink="false">CVE-2026-22747</guid>
-      <pubDate>2026-08-19T02:13:14.002891</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01'&gt;CVE-2026-43499_HW-CLT-AL01&lt;/a&gt;: 尝试移植CVE-2026-43499提权漏洞到HW P20Pro上</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-19T03:39:13.203206</pubDate>
     </item>
   </channel>
 </rss>
