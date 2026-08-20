@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 20 Aug 2026 14:27:20 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:25:19 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-7228 - CVE-2026-7228 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mikecostanzi/ricerca-tesi'&gt;ricerca-tesi&lt;/a&gt;: risorse di ricerca per cve-2026-7228</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-7228</link>
-      <guid isPermaLink="false">CVE-2026-7228</guid>
-      <pubDate>2026-08-20T14:27:20.424299</pubDate>
+      <title>CVE-2026-71960 - CVE-2026-71960 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt'&gt;the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-71960</link>
+      <guid isPermaLink="false">CVE-2026-71960</guid>
+      <pubDate>2026-08-20T15:25:19.721115</pubDate>
     </item>
   </channel>
 </rss>
