@@ -4,35 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 20 Aug 2026 03:39:14 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 05:23:25 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-24257 - CVE-2025-24257 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE'&gt;CVE_2025_24257----NOT-MINE&lt;/a&gt;: Demonstrate CVE-2025-24257 with a public PoC for IOGPUFamily kernel heap OOB read/write and panic analysis</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24257</link>
-      <guid isPermaLink="false">CVE-2025-24257</guid>
-      <pubDate>2026-08-20T03:39:14.522051</pubDate>
+      <title>CVE-2026-68138 - CVE-2026-68138 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-68138'&gt;CVE-2026-68138&lt;/a&gt;: Tracking CVE-2026-68138, the Linux kernel net/sched qdisc rate-table use-after-free</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68138</link>
+      <guid isPermaLink="false">CVE-2026-68138</guid>
+      <pubDate>2026-08-20T05:23:25.740943</pubDate>
     </item>
     <item>
-      <title>CVE-2026-2472 - CVE-2026-2472 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud'&gt;CVE-2026-2472-Vertex-AI-SDK-Google-Cloud&lt;/a&gt;: Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-2472</link>
-      <guid isPermaLink="false">CVE-2026-2472</guid>
-      <pubDate>2026-08-20T03:39:14.522061</pubDate>
+      <title>CVE-2025-21479 - CVE-2025-21479 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Qingizi7/cve-2025-21479_iqooneo8'&gt;cve-2025-21479_iqooneo8&lt;/a&gt;: Local root exploit for CVE-2025-21479 (Adreno KGSL) on iQOO Neo8 (SM8475) - physical memory r/w, disables SELinux, spawns root shell&lt;br&gt;&lt;a href='https://github.com/Type010/cve-2025-21479-iqoo11pro'&gt;cve-2025-21479-iqoo11pro&lt;/a&gt;: CVE-2025-21479 (Qualcomm Adreno GPU) reproduction notes for vivo iQOO 11 Pro (PD2254) - authorized research</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-21479</link>
+      <guid isPermaLink="false">CVE-2025-21479</guid>
+      <pubDate>2026-08-20T05:23:25.740950</pubDate>
     </item>
     <item>
-      <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hamzamalik3461/CVE-2026-20841'&gt;CVE-2026-20841&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad via markdown links exploiting unsecured URL protocols.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
-      <guid isPermaLink="false">CVE-2026-20841</guid>
-      <pubDate>2026-08-20T03:39:14.522068</pubDate>
+      <title>CVE-2026-8181 - CVE-2026-8181 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xTerror/CVE-2026-8181'&gt;CVE-2026-8181&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-8181</link>
+      <guid isPermaLink="false">CVE-2026-8181</guid>
+      <pubDate>2026-08-20T05:23:25.740956</pubDate>
     </item>
     <item>
-      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
-      <guid isPermaLink="false">CVE-2025-68921</guid>
-      <pubDate>2026-08-20T03:39:14.522074</pubDate>
+      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/sctphantom'&gt;sctphantom&lt;/a&gt;: Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
+      <guid isPermaLink="false">CVE-2026-64564</guid>
+      <pubDate>2026-08-20T05:23:25.740960</pubDate>
     </item>
   </channel>
 </rss>
