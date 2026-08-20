@@ -4,14 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 20 Aug 2026 11:19:13 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:29:20 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-44578 - CVE-2026-44578 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lxxexxbxx/CVE-2026-44578'&gt;CVE-2026-44578&lt;/a&gt;: CVE-2026-44578 PoC</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-44578</link>
-      <guid isPermaLink="false">CVE-2026-44578</guid>
-      <pubDate>2026-08-20T11:19:13.717920</pubDate>
+      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mhassani97/cve-2026-63030-lab'&gt;cve-2026-63030-lab&lt;/a&gt;: wp2shell (CVE-2026-63030 &amp; CVE-2026-60137) - full RCE chain</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
+      <guid isPermaLink="false">CVE-2026-60137</guid>
+      <pubDate>2026-08-20T12:29:20.852149</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mhassani97/cve-2026-63030-lab'&gt;cve-2026-63030-lab&lt;/a&gt;: wp2shell (CVE-2026-63030 &amp; CVE-2026-60137) - full RCE chain</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
+      <guid isPermaLink="false">CVE-2026-63030</guid>
+      <pubDate>2026-08-20T12:29:20.852154</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/R0rt1z2/GhostLock-5.10'&gt;GhostLock-5.10&lt;/a&gt;: Kernel root exploit (CVE-2026-43499) for some 5.X devices (mostly Amazon)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-20T12:29:20.852157</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-48908 - CVE-2026-48908 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yora1928/CVE-2026-48908-by-yora'&gt;CVE-2026-48908-by-yora&lt;/a&gt;: Passive security checker for CVE-2026-48908 affecting SP Page Builder.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48908</link>
+      <guid isPermaLink="false">CVE-2026-48908</guid>
+      <pubDate>2026-08-20T12:29:20.852160</pubDate>
     </item>
   </channel>
 </rss>
