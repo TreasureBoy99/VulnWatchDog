@@ -4,14 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-21安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 21 Aug 2026 02:18:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 03:42:57 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xrzcc/s26-m1q-ghostlock-selinux'&gt;s26-m1q-ghostlock-selinux&lt;/a&gt;: GhostLock CVE-2026-43499 research for Galaxy S26 (SM-S942U1/m1q): SELinux Permissive achieved, KASLR + tracefs port, uid=0 boundary documented</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-21T02:18:47.789481</pubDate>
+      <title>CVE-2025-21479 - CVE-2025-21479 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479'&gt;vivo_iqoo_neo_9_root_research_on_CVE-2025-21479&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-21479</link>
+      <guid isPermaLink="false">CVE-2025-21479</guid>
+      <pubDate>2026-08-21T03:42:57.009076</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-73570 - CVE-2026-73570 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-73570'&gt;CVE-2026-73570&lt;/a&gt;: CVE-2026-73570</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-73570</link>
+      <guid isPermaLink="false">CVE-2026-73570</guid>
+      <pubDate>2026-08-21T03:42:57.009085</pubDate>
     </item>
   </channel>
 </rss>
