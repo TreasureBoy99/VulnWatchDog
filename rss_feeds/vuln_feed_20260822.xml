@@ -4,28 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-22安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 22 Aug 2026 05:19:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 06:23:41 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-66747 - CVE-2026-66747 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/oiehnow/oieh-router-checker'&gt;oieh-router-checker&lt;/a&gt;: 내 공유기가 Zbtlink ENDLESSDOORS 백도어(CVE-2026-66747) 대상인지 클릭 한 번으로 검사하는 Windows 프로그램</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-66747</link>
-      <guid isPermaLink="false">CVE-2026-66747</guid>
-      <pubDate>2026-08-22T05:19:35.148821</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s24'&gt;root-my-s24&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Series(SM-S92X0 ,(China / Hong Kong SAR / Taiwan))</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/snothin/ghostlock-s26'&gt;ghostlock-s26&lt;/a&gt;: GhostLock (CVE-2026-43499) for the Galaxy S26&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s24'&gt;root-my-s24&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Series(SM-S92X0 ,(China / Hong Kong SAR / Taiwan))</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-22T05:19:35.148830</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-53787 - CVE-2026-53787 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ChrisSEC2014/amasty-chekout-POC-rce'&gt;amasty-chekout-POC-rce&lt;/a&gt;: my poc for CVE-2026-53787 </description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53787</link>
-      <guid isPermaLink="false">CVE-2026-53787</guid>
-      <pubDate>2026-08-22T05:19:35.148837</pubDate>
+      <pubDate>2026-08-22T06:23:41.137375</pubDate>
     </item>
   </channel>
 </rss>
