@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-22安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 22 Aug 2026 02:10:14 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:34:52 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-72844 - CVE-2026-72844 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/endrazine/lean-cve-poc'&gt;lean-cve-poc&lt;/a&gt;: CVE-2026-72844 : Example of proving &quot;0 = 1&quot; using a vulnerability in the Lean 4 kernel.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-72844</link>
-      <guid isPermaLink="false">CVE-2026-72844</guid>
-      <pubDate>2026-08-22T02:10:14.652656</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s24'&gt;root-my-s24&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Series(SM-S92X0 ,(China / Hong Kong SAR / Taiwan))</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-22T03:34:52.004653</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-66747 - CVE-2026-66747 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/oiehnow/oieh-router-checker'&gt;oieh-router-checker&lt;/a&gt;: 내 공유기가 Zbtlink ENDLESSDOORS 백도어(CVE-2026-66747) 대상인지 클릭 한 번으로 검사하는 Windows 프로그램</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-66747</link>
+      <guid isPermaLink="false">CVE-2026-66747</guid>
+      <pubDate>2026-08-22T03:34:52.004662</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-57827 - CVE-2026-57827 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Candisexterior171/CVE-2026-57827'&gt;CVE-2026-57827&lt;/a&gt;: Demonstrate the unauthenticated remote code execution vulnerability in the RSFiles! Joomla component through an arbitrary file upload.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-57827</link>
+      <guid isPermaLink="false">CVE-2026-57827</guid>
+      <pubDate>2026-08-22T03:34:52.004669</pubDate>
     </item>
   </channel>
 </rss>
