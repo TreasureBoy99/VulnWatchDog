@@ -4,14 +4,56 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-23安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 23 Aug 2026 05:21:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:26:32 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
+      <title>CVE-2025-24257 - CVE-2025-24257 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE'&gt;CVE_2025_24257----NOT-MINE&lt;/a&gt;: Demonstrate CVE-2025-24257 with a public PoC for IOGPUFamily kernel heap OOB read/write and panic analysis</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24257</link>
+      <guid isPermaLink="false">CVE-2025-24257</guid>
+      <pubDate>2026-08-23T07:26:32.738007</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-2472 - CVE-2026-2472 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud'&gt;CVE-2026-2472-Vertex-AI-SDK-Google-Cloud&lt;/a&gt;: Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-2472</link>
+      <guid isPermaLink="false">CVE-2026-2472</guid>
+      <pubDate>2026-08-23T07:26:32.738016</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-0013 - CVE-2026-0013 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc'&gt;cve-2026-0013-poc&lt;/a&gt;: CVE-2026-0013 Android EoP PoC - Compiled artifacts for security research (Derivative of inforcqb/cve-2026-0013-exploit)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-0013</link>
+      <guid isPermaLink="false">CVE-2026-0013</guid>
+      <pubDate>2026-08-23T07:26:32.738022</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hamzamalik3461/CVE-2026-20841'&gt;CVE-2026-20841&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad via markdown links exploiting unsecured URL protocols.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
+      <guid isPermaLink="false">CVE-2026-20841</guid>
+      <pubDate>2026-08-23T07:26:32.738028</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-64560 - CVE-2026-64560 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xx2901318208/ghostlock-cve-2026-64560'&gt;ghostlock-cve-2026-64560&lt;/a&gt;: CVE-2026-64560 posix-cpu-timers UAF exploit for Vivo devices</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64560</link>
+      <guid isPermaLink="false">CVE-2026-64560</guid>
+      <pubDate>2026-08-23T07:26:32.738033</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
+      <guid isPermaLink="false">CVE-2025-68921</guid>
+      <pubDate>2026-08-23T07:26:32.738038</pubDate>
+    </item>
+    <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29'&gt;GhostLock-GOT-W29&lt;/a&gt;: CVE-2026-43499 (GhostLock) research on HUAWEI MatePad Pro 11 GOT-W29</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yakidango-official/GhostLock-H80GT'&gt;GhostLock-H80GT&lt;/a&gt;: Honor 80 GT (MagicOS 8.0.0.128, kernel 5.10.168) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-23T05:21:31.987865</pubDate>
+      <pubDate>2026-08-23T07:26:32.738043</pubDate>
     </item>
   </channel>
 </rss>
