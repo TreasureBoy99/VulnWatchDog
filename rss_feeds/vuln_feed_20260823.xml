@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-23安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 23 Aug 2026 03:42:40 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:28:22 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s24'&gt;root-my-s24&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Series(SM-S92X0 ,(China / Hong Kong SAR / Taiwan))&lt;br&gt;&lt;a href='https://github.com/zzzxxxxxxxxxx/GhostLock-GOT-W29'&gt;GhostLock-GOT-W29&lt;/a&gt;: CVE-2026-43499 (GhostLock) research on HUAWEI MatePad Pro 11 GOT-W29</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-23T03:42:40.086598</pubDate>
+      <title>CVE-2026-23744 - CVE-2026-23744 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/itsC1SCO/mcpjam-to-root'&gt;mcpjam-to-root&lt;/a&gt;: From MCPJam Inspector RCE to root — CVE-2026-23744, JupyterLab token disclosure, kernel execution, and OPSMCP privilege escalation</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-23744</link>
+      <guid isPermaLink="false">CVE-2026-23744</guid>
+      <pubDate>2026-08-23T04:28:22.726081</pubDate>
     </item>
   </channel>
 </rss>
