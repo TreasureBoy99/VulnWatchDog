@@ -4,14 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-24安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 24 Aug 2026 14:33:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:30:47 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-18963 - CVE-2026-18963 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kyos-public/keycloak-cve-2026-18963-hunt'&gt;keycloak-cve-2026-18963-hunt&lt;/a&gt;: Hunt for CVE-2026-18963 exploitation traces (Keycloak unauthenticated account takeover) in the Keycloak database</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-18963</link>
+      <guid isPermaLink="false">CVE-2026-18963</guid>
+      <pubDate>2026-08-24T15:30:47.875849</pubDate>
+    </item>
     <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Redminote11tech/CVE-2026-43499-NAM-AL00'&gt;CVE-2026-43499-NAM-AL00&lt;/a&gt;: Security research: CVE-2026-43499 GhostLock on Huawei Nova 9 NAM-AL00 (SM7325, HMOS 4.2, kernel 5.4.86-qgki)</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-24T14:33:06.421440</pubDate>
+      <pubDate>2026-08-24T15:30:47.875854</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-68820 - CVE-2026-68820 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/fevar54/CVE-2026-68820-Mitigation-PoC-'&gt;CVE-2026-68820-Mitigation-PoC-&lt;/a&gt;: Este repositorio contiene una demostración educativa de la mitigación para **CVE-2026-68820**, una vulnerabilidad crítica de tipo **Use-After-Free (UAF)** en el driver `afd.sys` de Windows.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68820</link>
+      <guid isPermaLink="false">CVE-2026-68820</guid>
+      <pubDate>2026-08-24T15:30:47.875858</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-66908 - CVE-2026-66908 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/oscerd/CVE-2026-66908'&gt;CVE-2026-66908&lt;/a&gt;: Reproducer for CVE-2026-66908 (Apache Camel camel-platform-http-main JWT iss/aud not validated) — standalone camel-main</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-66908</link>
+      <guid isPermaLink="false">CVE-2026-66908</guid>
+      <pubDate>2026-08-24T15:30:47.875861</pubDate>
     </item>
   </channel>
 </rss>
