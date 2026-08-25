@@ -4,14 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 25 Aug 2026 09:26:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:23:01 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-36425 - CVE-2026-36425 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gongchuang1089/EDRKiller'&gt;EDRKiller&lt;/a&gt;: Use cve-2026-36425 killer edr，360 can killer</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-36425</link>
+      <guid isPermaLink="false">CVE-2026-36425</guid>
+      <pubDate>2026-08-25T10:23:01.560533</pubDate>
+    </item>
     <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo'&gt;RootMyVivo&lt;/a&gt;: One-click root for vivo/iQOO devices on locked bootloader | CVE-2026-43499 + KernelSU&lt;br&gt;&lt;a href='https://github.com/yakidango-official/GhostLock-H80GT'&gt;GhostLock-H80GT&lt;/a&gt;: Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-25T09:26:25.393626</pubDate>
+      <pubDate>2026-08-25T10:23:01.560542</pubDate>
     </item>
   </channel>
 </rss>
