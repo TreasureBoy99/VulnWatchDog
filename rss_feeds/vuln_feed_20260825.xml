@@ -4,28 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 25 Aug 2026 08:32:01 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:26:25 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo'&gt;RootMyVivo&lt;/a&gt;: One-click root for vivo/iQOO devices on locked bootloader | CVE-2026-43499 + KernelSU&lt;br&gt;&lt;a href='https://github.com/yakidango-official/GhostLock-H80GT'&gt;GhostLock-H80GT&lt;/a&gt;: Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s24'&gt;root-my-s24&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Series(SM-S92X0 ,(China / Hong Kong SAR / Taiwan))</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo'&gt;RootMyVivo&lt;/a&gt;: One-click root for vivo/iQOO devices on locked bootloader | CVE-2026-43499 + KernelSU&lt;br&gt;&lt;a href='https://github.com/yakidango-official/GhostLock-H80GT'&gt;GhostLock-H80GT&lt;/a&gt;: Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-25T08:32:01.699601</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-5281 - CVE-2026-5281 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain'&gt;CVE-2026-5281-CVE-2026-11057-fullchain&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-5281</link>
-      <guid isPermaLink="false">CVE-2026-5281</guid>
-      <pubDate>2026-08-25T08:32:01.699611</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-11057 - CVE-2026-11057 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jaf0rk/CVE-2026-5281-CVE-2026-11057-fullchain'&gt;CVE-2026-5281-CVE-2026-11057-fullchain&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-11057</link>
-      <guid isPermaLink="false">CVE-2026-11057</guid>
-      <pubDate>2026-08-25T08:32:01.699617</pubDate>
+      <pubDate>2026-08-25T09:26:25.393626</pubDate>
     </item>
   </channel>
 </rss>
