@@ -4,14 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 26 Aug 2026 02:19:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 05:25:38 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-53787 - CVE-2026-53787 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ChrisSEC2014/amasty-chekout-POC-rce'&gt;amasty-chekout-POC-rce&lt;/a&gt;: my poc for CVE-2026-53787 </description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53787</link>
-      <guid isPermaLink="false">CVE-2026-53787</guid>
-      <pubDate>2026-08-26T02:19:48.964020</pubDate>
+      <title>CVE-2026-56705 - CVE-2026-56705 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ChiefYoru/Exploit-CVE-2026-56705'&gt;Exploit-CVE-2026-56705&lt;/a&gt;: CVE-2026-56705 — Adminer &lt; 5.4.3 Unauthenticated RCE via MSSQL PDO DSN Injection</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56705</link>
+      <guid isPermaLink="false">CVE-2026-56705</guid>
+      <pubDate>2026-08-26T05:25:38.740941</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yakidango-official/GhostLock-H80GT'&gt;GhostLock-H80GT&lt;/a&gt;: Honor 80 GT privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-08-26T05:25:38.740950</pubDate>
     </item>
   </channel>
 </rss>
