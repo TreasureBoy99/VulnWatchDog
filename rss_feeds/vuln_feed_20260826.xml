@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 26 Aug 2026 11:20:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:33:09 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-63072 - CVE-2026-63072 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xBlackash/CVE-2026-63072'&gt;CVE-2026-63072&lt;/a&gt;: CVE-2026-63072</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63072</link>
-      <guid isPermaLink="false">CVE-2026-63072</guid>
-      <pubDate>2026-08-26T11:20:39.035460</pubDate>
+      <title>CVE-2025-2945 - CVE-2025-2945 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Khashayarnzk/CVE-2025-2945-pgAdmin-RCE'&gt;CVE-2025-2945-pgAdmin-RCE&lt;/a&gt;: PoC for CVE-2025-2945 — pgAdmin 4 authenticated eval() injection RCE, CVSS 9.9</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-2945</link>
+      <guid isPermaLink="false">CVE-2025-2945</guid>
+      <pubDate>2026-08-26T12:33:09.646417</pubDate>
     </item>
   </channel>
 </rss>
