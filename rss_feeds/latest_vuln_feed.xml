@@ -4,35 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 26 Aug 2026 10:25:59 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:20:39 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-76904 - CVE-2026-76904 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/bickZero93/CVE-2026-76904'&gt;CVE-2026-76904&lt;/a&gt;: PostGIS SQL Injection GeoTools</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-76904</link>
-      <guid isPermaLink="false">CVE-2026-76904</guid>
-      <pubDate>2026-08-26T10:25:59.336924</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-24061 - CVE-2026-24061 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/obrunolima1910/CVE-2026-24061'&gt;CVE-2026-24061&lt;/a&gt;: 🚨 Exploit CVE-2026-24061, a critical remote authentication bypass in GNU inetutils-telnetd, for instant root shell access without authentication.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-24061</link>
-      <guid isPermaLink="false">CVE-2026-24061</guid>
-      <pubDate>2026-08-26T10:25:59.336934</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-3844 - CVE-2026-3844 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Alevtinka19/CVE-2026-3844'&gt;CVE-2026-3844&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-3844</link>
-      <guid isPermaLink="false">CVE-2026-3844</guid>
-      <pubDate>2026-08-26T10:25:59.336941</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Farhan9488/CVE-2025-55182-research'&gt;CVE-2025-55182-research&lt;/a&gt;: 🛡️ Explore CVE-2025-55182, a critical RCE vulnerability in React's Flight Protocol, demonstrating exploitation techniques and mitigation strategies.&lt;br&gt;&lt;a href='https://github.com/mayank729/CVE-2025-55182-scanner'&gt;CVE-2025-55182-scanner&lt;/a&gt;: 🔍 Scan for CVE-2025-55182 risks in React Server Components with this non-intrusive tool that helps detect critical vulnerabilities in your applications.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
-      <guid isPermaLink="false">CVE-2025-55182</guid>
-      <pubDate>2026-08-26T10:25:59.336948</pubDate>
+      <title>CVE-2026-63072 - CVE-2026-63072 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xBlackash/CVE-2026-63072'&gt;CVE-2026-63072&lt;/a&gt;: CVE-2026-63072</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63072</link>
+      <guid isPermaLink="false">CVE-2026-63072</guid>
+      <pubDate>2026-08-26T11:20:39.035460</pubDate>
     </item>
   </channel>
 </rss>
