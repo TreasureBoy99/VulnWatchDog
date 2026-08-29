@@ -4,35 +4,49 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-29安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 29 Aug 2026 09:42:18 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:50:09 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-21962 - CVE-2026-21962 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/KaiserdesMonats/CVE-2026-21962-Blog'&gt;CVE-2026-21962-Blog&lt;/a&gt;: CVE-2026-21962 Açığı için blog sayfası oluşturdum.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-21962</link>
-      <guid isPermaLink="false">CVE-2026-21962</guid>
-      <pubDate>2026-08-29T09:42:18.430273</pubDate>
+      <title>CVE-2026-42533 - CVE-2026-42533 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/FranklinF25/cve-2026-42533'&gt;cve-2026-42533&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42533</link>
+      <guid isPermaLink="false">CVE-2026-42533</guid>
+      <pubDate>2026-08-29T14:50:09.132382</pubDate>
     </item>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/YuKongA/ghostlock-app'&gt;ghostlock-app&lt;/a&gt;: GhostLock One-Tap Execution App (CVE-2026-43499)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-08-29T09:42:18.430281</pubDate>
+      <title>CVE-2026-19295 - CVE-2026-19295 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rmhowe425/POC-CVE-2026-19295'&gt;POC-CVE-2026-19295&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19295</link>
+      <guid isPermaLink="false">CVE-2026-19295</guid>
+      <pubDate>2026-08-29T14:50:09.132387</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-19286 - CVE-2026-19286 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rmhowe425/POC-CVE-2026-19286'&gt;POC-CVE-2026-19286&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19286</link>
+      <guid isPermaLink="false">CVE-2026-19286</guid>
+      <pubDate>2026-08-29T14:50:09.132390</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-23211 - CVE-2025-23211 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/IIxoskeletonII/DataPrivacy-CVE-2025-23211'&gt;DataPrivacy-CVE-2025-23211&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-23211</link>
+      <guid isPermaLink="false">CVE-2025-23211</guid>
+      <pubDate>2026-08-29T14:50:09.132393</pubDate>
     </item>
     <item>
       <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aungko186/YellowKey-BitLocker-CVE-2026-45585'&gt;YellowKey-BitLocker-CVE-2026-45585&lt;/a&gt;: Backup BitLocker recovery keys and audit CVE-2026-45585 on Windows with a portable CLI and GUI tool.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
       <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-08-29T09:42:18.430287</pubDate>
+      <pubDate>2026-08-29T14:50:09.132396</pubDate>
     </item>
     <item>
-      <title>CVE-2025-29927 - CVE-2025-29927 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kuyrathdaro/cve-2025-29927'&gt;cve-2025-29927&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-29927</link>
-      <guid isPermaLink="false">CVE-2025-29927</guid>
-      <pubDate>2026-08-29T09:42:18.430294</pubDate>
+      <title>CVE-2026-41089 - CVE-2026-41089 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE'&gt;CVE-2026-41089-Netlogon-RCE&lt;/a&gt;: Scan Windows Domain Controllers for CVE-2026-41089 to detect unauthenticated remote code execution vulnerabilities in the Netlogon service.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41089</link>
+      <guid isPermaLink="false">CVE-2026-41089</guid>
+      <pubDate>2026-08-29T14:50:09.132399</pubDate>
     </item>
   </channel>
 </rss>
