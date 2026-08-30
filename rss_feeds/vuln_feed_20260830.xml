@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-30安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 30 Aug 2026 08:43:03 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 14:07:50 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-12513 - CVE-2026-12513 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/MinhHK68/CVE-2026-12513'&gt;CVE-2026-12513&lt;/a&gt;: CVE-2026-12513 Vulnerability Advisory &amp; PoC — Discovered by Huynh Kien Minh (MinhHK).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-12513</link>
-      <guid isPermaLink="false">CVE-2026-12513</guid>
-      <pubDate>2026-08-30T08:43:03.554788</pubDate>
+      <title>CVE-2026-42533 - CVE-2026-42533 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/FranklinF25/cve-2026-42533'&gt;cve-2026-42533&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42533</link>
+      <guid isPermaLink="false">CVE-2026-42533</guid>
+      <pubDate>2026-08-30T14:07:50.280801</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-5777 - CVE-2025-5777 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777'&gt;CitrixBleedCVE-2026-8452-2025-5777&lt;/a&gt;: CitrixBleed Exploit Tool - CVE-2025-5777 &amp; CVE-2026-8452. Unauthenticated remote memory read from Citrix NetScaler ADC &amp; Gateway. Steal admin session tokens, extract nsroot hashes, dump secrets, and bypass MFA. Python 3 exploit with full memory parsing.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-5777</link>
+      <guid isPermaLink="false">CVE-2025-5777</guid>
+      <pubDate>2026-08-30T14:07:50.280810</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-8452 - CVE-2026-8452 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777'&gt;CitrixBleedCVE-2026-8452-2025-5777&lt;/a&gt;: CitrixBleed Exploit Tool - CVE-2025-5777 &amp; CVE-2026-8452. Unauthenticated remote memory read from Citrix NetScaler ADC &amp; Gateway. Steal admin session tokens, extract nsroot hashes, dump secrets, and bypass MFA. Python 3 exploit with full memory parsing.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-8452</link>
+      <guid isPermaLink="false">CVE-2026-8452</guid>
+      <pubDate>2026-08-30T14:07:50.280816</pubDate>
     </item>
   </channel>
 </rss>
