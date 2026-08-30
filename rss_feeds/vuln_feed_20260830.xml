@@ -4,28 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-08-30安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 30 Aug 2026 02:34:58 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:43:03 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-82222 - CVE-2026-82222 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/UdinChan/cve-2026-82222-poc'&gt;cve-2026-82222-poc&lt;/a&gt;: Public PoC for CVE-2026-82222</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-82222</link>
-      <guid isPermaLink="false">CVE-2026-82222</guid>
-      <pubDate>2026-08-30T02:34:58.352313</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-18729 - CVE-2026-18729 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rmhowe425/POC-CVE-2026-18729'&gt;POC-CVE-2026-18729&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-18729</link>
-      <guid isPermaLink="false">CVE-2026-18729</guid>
-      <pubDate>2026-08-30T02:34:58.352323</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-42533 - CVE-2026-42533 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/FranklinF25/cve-2026-42533'&gt;cve-2026-42533&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42533</link>
-      <guid isPermaLink="false">CVE-2026-42533</guid>
-      <pubDate>2026-08-30T02:34:58.352329</pubDate>
+      <title>CVE-2026-12513 - CVE-2026-12513 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/MinhHK68/CVE-2026-12513'&gt;CVE-2026-12513&lt;/a&gt;: CVE-2026-12513 Vulnerability Advisory &amp; PoC — Discovered by Huynh Kien Minh (MinhHK).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-12513</link>
+      <guid isPermaLink="false">CVE-2026-12513</guid>
+      <pubDate>2026-08-30T08:43:03.554788</pubDate>
     </item>
   </channel>
 </rss>
