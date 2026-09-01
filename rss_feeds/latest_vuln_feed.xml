@@ -4,35 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-01安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 01 Sep 2026 05:54:08 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:49:25 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-24880 - CVE-2026-24880 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/tomcat-line-check'&gt;tomcat-line-check&lt;/a&gt;: CVE-2026-24880: does Apache's upgrade advice actually apply to your Tomcat? Detects the fix by class presence, not version comparison. Covers 7.0/8.0/8.5/9.0/10.0/10.1/11.0 lines.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-24880</link>
-      <guid isPermaLink="false">CVE-2026-24880</guid>
-      <pubDate>2026-09-01T05:54:08.270303</pubDate>
+      <title>CVE-2026-18963 - CVE-2026-18963 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/EQSTLab/CVE-2026-18963'&gt;CVE-2026-18963&lt;/a&gt;: Unauthenticated account takeover via reset-credentials flow bypass</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-18963</link>
+      <guid isPermaLink="false">CVE-2026-18963</guid>
+      <pubDate>2026-09-01T10:49:25.892599</pubDate>
     </item>
     <item>
-      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/sctphantom'&gt;sctphantom&lt;/a&gt;: Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
-      <guid isPermaLink="false">CVE-2026-64564</guid>
-      <pubDate>2026-09-01T05:54:08.270312</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-0324 - CVE-2025-0324 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kemrec/CVE-2025-0324-axis-vapix-privesc'&gt;CVE-2025-0324-axis-vapix-privesc&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-0324</link>
-      <guid isPermaLink="false">CVE-2025-0324</guid>
-      <pubDate>2026-09-01T05:54:08.270319</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-68138 - CVE-2026-68138 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-68138'&gt;CVE-2026-68138&lt;/a&gt;: Tracking CVE-2026-68138, the Linux kernel net/sched qdisc rate-table use-after-free</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68138</link>
-      <guid isPermaLink="false">CVE-2026-68138</guid>
-      <pubDate>2026-09-01T05:54:08.270325</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Cxyofficial/k50g-pocof4gt-cve-2026-43499-poc'&gt;k50g-pocof4gt-cve-2026-43499-poc&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-09-01T10:49:25.892609</pubDate>
     </item>
   </channel>
 </rss>
