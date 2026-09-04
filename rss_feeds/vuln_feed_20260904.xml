@@ -4,21 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-04安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 04 Sep 2026 10:12:15 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 14:38:28 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-41901 - CVE-2026-41901 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/thymeleaf-check'&gt;thymeleaf-check&lt;/a&gt;: Offline checker for Thymeleaf CVE-2026-40477 / CVE-2026-41901 — tells you which of the two CVSS 9.0 SSTI flaws you are exposed to, and whether your version line has a fix at all (3.0.x: it does not)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41901</link>
-      <guid isPermaLink="false">CVE-2026-41901</guid>
-      <pubDate>2026-09-04T10:12:15.054407</pubDate>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/FranklinF25/cve-2026-31431'&gt;cve-2026-31431&lt;/a&gt;: PoC for CVE-2026-31431</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-09-04T14:38:28.812888</pubDate>
     </item>
     <item>
-      <title>CVE-2026-40477 - CVE-2026-40477 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/thymeleaf-check'&gt;thymeleaf-check&lt;/a&gt;: Offline checker for Thymeleaf CVE-2026-40477 / CVE-2026-41901 — tells you which of the two CVSS 9.0 SSTI flaws you are exposed to, and whether your version line has a fix at all (3.0.x: it does not)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-40477</link>
-      <guid isPermaLink="false">CVE-2026-40477</guid>
-      <pubDate>2026-09-04T10:12:15.054416</pubDate>
+      <title>CVE-2025-67303 - CVE-2025-67303 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/1nhann/cm-cve-2025-67303-node'&gt;cm-cve-2025-67303-node&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-67303</link>
+      <guid isPermaLink="false">CVE-2025-67303</guid>
+      <pubDate>2026-09-04T14:38:28.812897</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-1699 - CVE-2026-1699 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/pvharmo2/gha-lab-b5c1313658'&gt;gha-lab-b5c1313658&lt;/a&gt;: Authorized security-research lab reproducing CVE-2026-1699 (pwn request in preview.yml) — snapshot of eclipse-theia/theia-website</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-1699</link>
+      <guid isPermaLink="false">CVE-2026-1699</guid>
+      <pubDate>2026-09-04T14:38:28.812904</pubDate>
     </item>
   </channel>
 </rss>
