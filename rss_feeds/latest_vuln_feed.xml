@@ -4,21 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-06安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 06 Sep 2026 00:24:29 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 05:19:32 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-73570 - CVE-2026-73570 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/juanpoch/CVE-2026-73570'&gt;CVE-2026-73570&lt;/a&gt;: Zimbra Collaboration Suite RCE — SMTP log poisoning → swatchdog → OS Command Injection (CVSS 8.9, CISA KEV)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-73570</link>
-      <guid isPermaLink="false">CVE-2026-73570</guid>
-      <pubDate>2026-09-06T00:24:29.267362</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-27876 - CVE-2026-27876 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/atiilla/CVE-2026-27876'&gt;CVE-2026-27876&lt;/a&gt;: Grafana SQL Expressions Arbitrary File Write to RCE</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-27876</link>
-      <guid isPermaLink="false">CVE-2026-27876</guid>
-      <pubDate>2026-09-06T00:24:29.267370</pubDate>
+      <title>CVE-2026-82222 - CVE-2026-82222 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xCyp1337/CVE-2026-82222-MassExploit'&gt;CVE-2026-82222-MassExploit&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-82222</link>
+      <guid isPermaLink="false">CVE-2026-82222</guid>
+      <pubDate>2026-09-06T05:19:32.902061</pubDate>
     </item>
   </channel>
 </rss>
