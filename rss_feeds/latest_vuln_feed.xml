@@ -4,28 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-07安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 07 Sep 2026 05:28:31 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:05:55 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-42031 - CVE-2026-42031 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ddrvahandzo90-hue/CVE-2026-42031-SQL-Injection-Scanner'&gt;CVE-2026-42031-SQL-Injection-Scanner&lt;/a&gt;: CVE-2026-42031 SQL Injection Scanner for CKAN DataStore</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42031</link>
-      <guid isPermaLink="false">CVE-2026-42031</guid>
-      <pubDate>2026-09-07T05:28:31.724438</pubDate>
+      <title>CVE-2026-71981 - CVE-2026-71981 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lyn4r/CVE-2026-71981'&gt;CVE-2026-71981&lt;/a&gt;: Cypht CVE-2026-71981 PoC</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-71981</link>
+      <guid isPermaLink="false">CVE-2026-71981</guid>
+      <pubDate>2026-09-07T11:05:55.984093</pubDate>
     </item>
     <item>
-      <title>CVE-2026-85046 - CVE-2026-85046 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Eliot-code/CVE-2026-85046'&gt;CVE-2026-85046&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-85046</link>
-      <guid isPermaLink="false">CVE-2026-85046</guid>
-      <pubDate>2026-09-07T05:28:31.724447</pubDate>
+      <title>CVE-2026-43500 - CVE-2026-43500 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/krisiasty/vcheck'&gt;vcheck&lt;/a&gt;: Vulnerability detection and mitigation tool for Copy Fail and Dirty Frag bugs (CVE-2026-31431, CVE-2026-43284, CVE-2026-43500)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43500</link>
+      <guid isPermaLink="false">CVE-2026-43500</guid>
+      <pubDate>2026-09-07T11:05:55.984100</pubDate>
     </item>
     <item>
-      <title>CVE-2025-24203 - CVE-2025-24203 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jailbreakdotparty/dirtyZero'&gt;dirtyZero&lt;/a&gt;: Simple customization toolbox, utilizing CVE-2025-24203. Supports iOS 16.0 - iOS 18.3.2.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24203</link>
-      <guid isPermaLink="false">CVE-2025-24203</guid>
-      <pubDate>2026-09-07T05:28:31.724453</pubDate>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/krisiasty/vcheck'&gt;vcheck&lt;/a&gt;: Vulnerability detection and mitigation tool for Copy Fail and Dirty Frag bugs (CVE-2026-31431, CVE-2026-43284, CVE-2026-43500)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-09-07T11:05:55.984104</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43284 - CVE-2026-43284 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/krisiasty/vcheck'&gt;vcheck&lt;/a&gt;: Vulnerability detection and mitigation tool for Copy Fail and Dirty Frag bugs (CVE-2026-31431, CVE-2026-43284, CVE-2026-43500)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43284</link>
+      <guid isPermaLink="false">CVE-2026-43284</guid>
+      <pubDate>2026-09-07T11:05:55.984108</pubDate>
     </item>
   </channel>
 </rss>
