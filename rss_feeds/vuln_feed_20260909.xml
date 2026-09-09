@@ -4,28 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-09安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 09 Sep 2026 00:53:51 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:56:02 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43284 - CVE-2026-43284 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LSPosed/LSPromise'&gt;LSPromise&lt;/a&gt;: Android complete exploit chain that enables privilege escalation from a local untrusted app to root/kernel, combined of CVE-2026-49881 and CVE-2026-43284</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43284</link>
-      <guid isPermaLink="false">CVE-2026-43284</guid>
-      <pubDate>2026-09-09T00:53:51.256095</pubDate>
+      <title>CVE-2026-64564 - CVE-2026-64564 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/sctphantom'&gt;sctphantom&lt;/a&gt;: Tracking SCTPhantom (CVE-2026-64564), the Linux kernel SCTP ASCONF transport use-after-free</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64564</link>
+      <guid isPermaLink="false">CVE-2026-64564</guid>
+      <pubDate>2026-09-09T14:56:02.938411</pubDate>
     </item>
     <item>
-      <title>CVE-2026-49881 - CVE-2026-49881 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LSPosed/LSPromise'&gt;LSPromise&lt;/a&gt;: Android complete exploit chain that enables privilege escalation from a local untrusted app to root/kernel, combined of CVE-2026-49881 and CVE-2026-43284</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-49881</link>
-      <guid isPermaLink="false">CVE-2026-49881</guid>
-      <pubDate>2026-09-09T00:53:51.256103</pubDate>
+      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/TomorrowX6/CVE-2026-63030-poc'&gt;CVE-2026-63030-poc&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
+      <guid isPermaLink="false">CVE-2026-63030</guid>
+      <pubDate>2026-09-09T14:56:02.938421</pubDate>
     </item>
     <item>
-      <title>CVE-2026-45033 - CVE-2026-45033 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/soemoescode/guardskill'&gt;guardskill&lt;/a&gt;: Read-only scanner for git settings that let a repository run code in coding agents (Claude Code, Codex, Cursor, Copilot). Covers the GitSpawn class and CVE-2026-45033. No dependencies, no network, no telemetry.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45033</link>
-      <guid isPermaLink="false">CVE-2026-45033</guid>
-      <pubDate>2026-09-09T00:53:51.256109</pubDate>
+      <title>CVE-2026-68138 - CVE-2026-68138 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-68138'&gt;CVE-2026-68138&lt;/a&gt;: Tracking CVE-2026-68138, the Linux kernel net/sched qdisc rate-table use-after-free</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-68138</link>
+      <guid isPermaLink="false">CVE-2026-68138</guid>
+      <pubDate>2026-09-09T14:56:02.938428</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
+      <guid isPermaLink="false">CVE-2026-64561</guid>
+      <pubDate>2026-09-09T14:56:02.938433</pubDate>
     </item>
   </channel>
 </rss>
