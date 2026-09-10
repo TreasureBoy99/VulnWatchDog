@@ -4,63 +4,91 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-10安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 10 Sep 2026 02:14:30 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:41:25 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
+      <title>CVE-2025-66398 - CVE-2025-66398 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/showy-headteacher114/cve-2025-66398'&gt;cve-2025-66398&lt;/a&gt;: Demonstrate exploitation of Signal K Server CVE-2025-66398 allowing unauthenticated attackers to inject backdoor and enable remote code execution.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-66398</link>
+      <guid isPermaLink="false">CVE-2025-66398</guid>
+      <pubDate>2026-09-10T07:41:25.672260</pubDate>
+    </item>
+    <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo'&gt;RootMyVivo&lt;/a&gt;: One-click root for vivo/iQOO devices on locked bootloader | CVE-2026-43499 + KernelSU</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo-Exploit'&gt;RootMyVivo-Exploit&lt;/a&gt;: GhostLock (CVE-2026-43499) exploit fork for RootMyVivo Neo — iQOO Neo 11 (PD2520, SM8750, 6.6.89). For authorized research on own devices only.&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo'&gt;RootMyVivo&lt;/a&gt;: One-click root for vivo/iQOO devices on locked bootloader | CVE-2026-43499 + KernelSU</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-09-10T02:14:30.911748</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
-      <guid isPermaLink="false">CVE-2026-64561</guid>
-      <pubDate>2026-09-10T02:14:30.911754</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-24257 - CVE-2025-24257 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE'&gt;CVE_2025_24257----NOT-MINE&lt;/a&gt;: Demonstrate CVE-2025-24257 with a public PoC for IOGPUFamily kernel heap OOB read/write and panic analysis</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24257</link>
-      <guid isPermaLink="false">CVE-2025-24257</guid>
-      <pubDate>2026-09-10T02:14:30.911759</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-72815 - CVE-2026-72815 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Saku0512/CVE-2026-72815-poc'&gt;CVE-2026-72815-poc&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-72815</link>
-      <guid isPermaLink="false">CVE-2026-72815</guid>
-      <pubDate>2026-09-10T02:14:30.911765</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-2472 - CVE-2026-2472 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud'&gt;CVE-2026-2472-Vertex-AI-SDK-Google-Cloud&lt;/a&gt;: Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-2472</link>
-      <guid isPermaLink="false">CVE-2026-2472</guid>
-      <pubDate>2026-09-10T02:14:30.911769</pubDate>
+      <pubDate>2026-09-10T07:41:25.672270</pubDate>
     </item>
     <item>
       <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hamzamalik3461/CVE-2026-20841'&gt;CVE-2026-20841&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad via markdown links exploiting unsecured URL protocols.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/404godd/CVE-2026-20841-PoC'&gt;CVE-2026-20841-PoC&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad versions below 11.2510 using the CVE-2026-20841 proof of concept.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
       <guid isPermaLink="false">CVE-2026-20841</guid>
-      <pubDate>2026-09-10T02:14:30.911774</pubDate>
+      <pubDate>2026-09-10T07:41:25.672276</pubDate>
     </item>
     <item>
-      <title>CVE-2026-45316 - CVE-2026-45316 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/arian-gogani/enforcement-coverage'&gt;enforcement-coverage&lt;/a&gt;: Finds API routes carrying weaker authorization than their siblings. Recovered CVE-2026-45316 from source. Includes the negative results.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45316</link>
-      <guid isPermaLink="false">CVE-2026-45316</guid>
-      <pubDate>2026-09-10T02:14:30.911777</pubDate>
+      <title>CVE-2026-24061 - CVE-2026-24061 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/obrunolima1910/CVE-2026-24061'&gt;CVE-2026-24061&lt;/a&gt;: 🚨 Exploit CVE-2026-24061, a critical remote authentication bypass in GNU inetutils-telnetd, for instant root shell access without authentication.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-24061</link>
+      <guid isPermaLink="false">CVE-2026-24061</guid>
+      <pubDate>2026-09-10T07:41:25.672282</pubDate>
     </item>
     <item>
-      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
-      <guid isPermaLink="false">CVE-2025-68921</guid>
-      <pubDate>2026-09-10T02:14:30.911781</pubDate>
+      <title>CVE-2026-66066 - CVE-2026-66066 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ivanesk315/CVE-2026-66066'&gt;CVE-2026-66066&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-66066</link>
+      <guid isPermaLink="false">CVE-2026-66066</guid>
+      <pubDate>2026-09-10T07:41:25.672288</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-53519 - CVE-2026-53519 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ivanesk315/CVE-2026-53519'&gt;CVE-2026-53519&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53519</link>
+      <guid isPermaLink="false">CVE-2026-53519</guid>
+      <pubDate>2026-09-10T07:41:25.672293</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-42613 - CVE-2026-42613 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ivanesk315/CVE-2026-42613'&gt;CVE-2026-42613&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42613</link>
+      <guid isPermaLink="false">CVE-2026-42613</guid>
+      <pubDate>2026-09-10T07:41:25.672298</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-28496 - CVE-2026-28496 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ivanesk315/CVE-2026-28496'&gt;CVE-2026-28496&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-28496</link>
+      <guid isPermaLink="false">CVE-2026-28496</guid>
+      <pubDate>2026-09-10T07:41:25.672303</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-20253 - CVE-2026-20253 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ivanesk315/CVE-2026-20253'&gt;CVE-2026-20253&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20253</link>
+      <guid isPermaLink="false">CVE-2026-20253</guid>
+      <pubDate>2026-09-10T07:41:25.672308</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ivanesk315/CVE-2026-60137-and-CVE-2026-63030'&gt;CVE-2026-60137-and-CVE-2026-63030&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
+      <guid isPermaLink="false">CVE-2026-60137</guid>
+      <pubDate>2026-09-10T07:41:25.672312</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ivanesk315/CVE-2026-60137-and-CVE-2026-63030'&gt;CVE-2026-60137-and-CVE-2026-63030&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
+      <guid isPermaLink="false">CVE-2026-63030</guid>
+      <pubDate>2026-09-10T07:41:25.672316</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Farhan9488/CVE-2025-55182-research'&gt;CVE-2025-55182-research&lt;/a&gt;: 🛡️ Explore CVE-2025-55182, a critical RCE vulnerability in React's Flight Protocol, demonstrating exploitation techniques and mitigation strategies.&lt;br&gt;&lt;a href='https://github.com/mayank729/CVE-2025-55182-scanner'&gt;CVE-2025-55182-scanner&lt;/a&gt;: 🔍 Scan for CVE-2025-55182 risks in React Server Components with this non-intrusive tool that helps detect critical vulnerabilities in your applications.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
+      <guid isPermaLink="false">CVE-2025-55182</guid>
+      <pubDate>2026-09-10T07:41:25.672322</pubDate>
     </item>
   </channel>
 </rss>
