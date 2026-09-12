@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-12安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 12 Sep 2026 11:48:59 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:40:35 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-78006 - CVE-2026-78006 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/DeadExpl0it/CVE-2026-78006-POC'&gt;CVE-2026-78006-POC&lt;/a&gt;: POC for CVE-2026-78006 The Events Calendar &lt;= 6.17.4 - Unauthenticated PHP Object Injection to Remote Code Execution</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-78006</link>
-      <guid isPermaLink="false">CVE-2026-78006</guid>
-      <pubDate>2026-09-12T11:48:59.056400</pubDate>
+      <title>CVE-2026-45033 - CVE-2026-45033 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/soemoescode/guardskill'&gt;guardskill&lt;/a&gt;: Read-only scanner for git settings that let a repository run code in coding agents (Claude Code, Codex, Cursor, Copilot). Covers the GitSpawn class and CVE-2026-45033. No dependencies, no network, no telemetry.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45033</link>
+      <guid isPermaLink="false">CVE-2026-45033</guid>
+      <pubDate>2026-09-12T14:40:35.975336</pubDate>
     </item>
   </channel>
 </rss>
