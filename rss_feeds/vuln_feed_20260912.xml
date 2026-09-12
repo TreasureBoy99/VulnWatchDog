@@ -4,21 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-12安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 12 Sep 2026 02:15:25 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:48:59 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-83991 - CVE-2026-83991 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/karollooool/CVE-2026-83991-writeup-and-poc'&gt;CVE-2026-83991-writeup-and-poc&lt;/a&gt;: CVE-2026-83991: Windows Cloud Files access-check bypass</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-83991</link>
-      <guid isPermaLink="false">CVE-2026-83991</guid>
-      <pubDate>2026-09-12T02:15:25.983125</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sarabpal-dev/IonStack-S22U'&gt;IonStack-S22U&lt;/a&gt;: CVE-2026-43499 full exploit chain for Samsung Galaxy S22 Ultra (Android 5.10 kernel)&lt;br&gt;&lt;a href='https://github.com/NanoTurtle1145/root-my-s24'&gt;root-my-s24&lt;/a&gt;: Using CVE-2026-43499 to root your Galaxy S24 Series(SM-S92X0 ,(China / Hong Kong SAR / Taiwan))</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-09-12T02:15:25.983132</pubDate>
+      <title>CVE-2026-78006 - CVE-2026-78006 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/DeadExpl0it/CVE-2026-78006-POC'&gt;CVE-2026-78006-POC&lt;/a&gt;: POC for CVE-2026-78006 The Events Calendar &lt;= 6.17.4 - Unauthenticated PHP Object Injection to Remote Code Execution</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-78006</link>
+      <guid isPermaLink="false">CVE-2026-78006</guid>
+      <pubDate>2026-09-12T11:48:59.056400</pubDate>
     </item>
   </channel>
 </rss>
