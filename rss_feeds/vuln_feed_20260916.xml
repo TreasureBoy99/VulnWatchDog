@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-16安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 16 Sep 2026 02:29:06 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 08:05:51 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/accessmodifier364/cve-2026-43499-firetv-sheldonp-writeup'&gt;cve-2026-43499-firetv-sheldonp-writeup&lt;/a&gt;: Security research write-up on exploiting CVE-2026-43499 on the Amazon Fire TV Stick 3rd Gen (sheldonp), from temporary root to bootloader unlock.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-09-16T02:29:06.528057</pubDate>
+      <title>CVE-2026-49975 - CVE-2026-49975 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/naheeju/POC-CVE-2026-49975'&gt;POC-CVE-2026-49975&lt;/a&gt;: Security research PoC for CVE-2026-49975: HTTP/2 HPACK compression bomb + flow-control hold DoS in Apache mod_http2</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-49975</link>
+      <guid isPermaLink="false">CVE-2026-49975</guid>
+      <pubDate>2026-09-16T08:05:51.375043</pubDate>
     </item>
   </channel>
 </rss>
