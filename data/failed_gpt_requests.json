@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006420.3175752,
     "last_attempt": 1789026016.7481987,
-    "next_attempt": 1789653581.3656464,
+    "next_attempt": 1789667837.0893996,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1789006420",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006427.6046915,
     "last_attempt": 1789026021.7530217,
-    "next_attempt": 1789653580.7414982,
+    "next_attempt": 1789667863.284988,
     "metadata": {},
     "task_id": "task_CVE-2026-64561_1789006427",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006433.6756139,
     "last_attempt": 1789026054.0718422,
-    "next_attempt": 1789653579.1635578,
+    "next_attempt": 1789667855.5822115,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1789006433",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006440.0343087,
     "last_attempt": 1789026049.053781,
-    "next_attempt": 1789653572.9680395,
+    "next_attempt": 1789667863.8050556,
     "metadata": {},
     "task_id": "task_CVE-2026-72815_1789006440",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006445.8862853,
     "last_attempt": 1789026047.9648743,
-    "next_attempt": 1789653568.63536,
+    "next_attempt": 1789667859.3261473,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1789006445",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006451.7039027,
     "last_attempt": 1789026036.1181622,
-    "next_attempt": 1789653576.2975152,
+    "next_attempt": 1789667861.5291352,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1789006451",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006457.5168722,
     "last_attempt": 1789026054.0731246,
-    "next_attempt": 1789653567.2660031,
+    "next_attempt": 1789667834.785085,
     "metadata": {},
     "task_id": "task_CVE-2026-45316_1789006457",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006468.5701334,
     "last_attempt": 1789026073.0304923,
-    "next_attempt": 1789653576.8518069,
+    "next_attempt": 1789667858.8775795,
     "metadata": {},
     "task_id": "task_CVE-2025-68921_1789006468",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026001.737845,
     "last_attempt": 1789078031.1675346,
-    "next_attempt": 1789653579.9841628,
+    "next_attempt": 1789667840.2703881,
     "metadata": {},
     "task_id": "task_CVE-2025-66398_1789026001",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026024.4824064,
     "last_attempt": 1789078031.1690295,
-    "next_attempt": 1789653575.4211154,
+    "next_attempt": 1789667860.0767672,
     "metadata": {},
     "task_id": "task_CVE-2026-24061_1789026024",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026031.1151714,
     "last_attempt": 1789078026.1528337,
-    "next_attempt": 1789653569.2685704,
+    "next_attempt": 1789667845.4672542,
     "metadata": {},
     "task_id": "task_CVE-2026-66066_1789026031",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026037.9538364,
     "last_attempt": 1789078031.1788704,
-    "next_attempt": 1789653549.701025,
+    "next_attempt": 1789667854.9089968,
     "metadata": {},
     "task_id": "task_CVE-2026-53519_1789026037",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026049.0504935,
     "last_attempt": 1789234411.005722,
-    "next_attempt": 1789653566.149514,
+    "next_attempt": 1789667863.9926507,
     "metadata": {},
     "task_id": "task_CVE-2026-42613_1789026049",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026055.9387,
     "last_attempt": 1789234405.9160678,
-    "next_attempt": 1789653573.655602,
+    "next_attempt": 1789667861.755752,
     "metadata": {},
     "task_id": "task_CVE-2026-28496_1789026055",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026062.5002735,
     "last_attempt": 1789234411.0041318,
-    "next_attempt": 1789653555.5024664,
+    "next_attempt": 1789667835.9547303,
     "metadata": {},
     "task_id": "task_CVE-2026-20253_1789026062",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026068.0266933,
     "last_attempt": 1789234411.0148737,
-    "next_attempt": 1789653581.4800572,
+    "next_attempt": 1789667847.9171627,
     "metadata": {},
     "task_id": "task_CVE-2026-60137_1789026068",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026073.193656,
     "last_attempt": 1789234405.916156,
-    "next_attempt": 1789653562.9927301,
+    "next_attempt": 1789667852.435727,
     "metadata": {},
     "task_id": "task_CVE-2026-63030_1789026073",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026079.5149107,
     "last_attempt": 1789234400.8974612,
-    "next_attempt": 1789653554.2115042,
+    "next_attempt": 1789667863.415047,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1789026079",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789068121.0673792,
     "last_attempt": 1789234400.8990471,
-    "next_attempt": 1789653560.6104174,
+    "next_attempt": 1789667863.4542065,
     "metadata": {},
     "task_id": "task_CVE-2025-58726_1789068121",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789068126.4177642,
     "last_attempt": 1789234405.9267511,
-    "next_attempt": 1789653553.2169592,
+    "next_attempt": 1789667860.3023853,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1789068126",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789077998.4392633,
     "last_attempt": 1789234400.391232,
-    "next_attempt": 1789653566.6066031,
+    "next_attempt": 1789667857.070015,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1789077998",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789078010.152093,
     "last_attempt": 1789234405.9283502,
-    "next_attempt": 1789653571.772877,
+    "next_attempt": 1789667853.5482328,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1789078010",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789078021.4251544,
     "last_attempt": 1789234405.9373286,
-    "next_attempt": 1789653565.4571035,
+    "next_attempt": 1789667855.4498467,
     "metadata": {},
     "task_id": "task_CVE-2026-87491_1789078021",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789078026.1449862,
     "last_attempt": 1789234411.0164306,
-    "next_attempt": 1789653554.540668,
+    "next_attempt": 1789667849.3927414,
     "metadata": {},
     "task_id": "task_CVE-2026-85046_1789078026",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789137832.305681,
     "last_attempt": 1789265592.213762,
-    "next_attempt": 1789653577.7706773,
+    "next_attempt": 1789667840.0882487,
     "metadata": {},
     "task_id": "task_CVE-2026-15253_1789137832",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789137838.3912082,
     "last_attempt": 1789234416.025871,
-    "next_attempt": 1789653557.640596,
+    "next_attempt": 1789667843.453555,
     "metadata": {},
     "task_id": "task_CVE-2026-19794_1789137838",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789137843.9046326,
     "last_attempt": 1789285748.672955,
-    "next_attempt": 1789653570.974031,
+    "next_attempt": 1789667858.0943854,
     "metadata": {},
     "task_id": "task_CVE-2026-65540_1789137843",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789149678.2406316,
     "last_attempt": 1789265592.2161813,
-    "next_attempt": 1789653575.316611,
+    "next_attempt": 1789667864.316277,
     "metadata": {},
     "task_id": "task_CVE-2026-33697_1789149678",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789162048.0017164,
     "last_attempt": 1789265592.2324815,
-    "next_attempt": 1789653552.745588,
+    "next_attempt": 1789667854.634594,
     "metadata": {},
     "task_id": "task_CVE-2026-85706_1789162048",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789162053.8977017,
     "last_attempt": 1789285748.673067,
-    "next_attempt": 1789653576.9961343,
+    "next_attempt": 1789667855.4910004,
     "metadata": {},
     "task_id": "task_CVE-2026-57827_1789162053",
     "required_result_fields": [
@@ -880,7 +880,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789162059.1376412,
     "last_attempt": 1789265592.2516832,
-    "next_attempt": 1789653552.6649518,
+    "next_attempt": 1789667853.2543137,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1789162059",
     "required_result_fields": [
@@ -909,7 +909,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789179313.6969888,
     "last_attempt": 1789285748.6882977,
-    "next_attempt": 1789653563.4675784,
+    "next_attempt": 1789667847.5131512,
     "metadata": {},
     "task_id": "task_CVE-2026-83991_1789179313",
     "required_result_fields": [
@@ -938,7 +938,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789213737.0017858,
     "last_attempt": 1789285743.6637187,
-    "next_attempt": 1789653549.6965015,
+    "next_attempt": 1789667841.212953,
     "metadata": {},
     "task_id": "task_CVE-2026-78006_1789213737",
     "required_result_fields": [
@@ -967,7 +967,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789224033.9449728,
     "last_attempt": 1789234405.9389734,
-    "next_attempt": 1789653529.0089061,
+    "next_attempt": 1789667813.75246,
     "metadata": {},
     "task_id": "task_CVE-2026-45033_1789224033",
     "required_result_fields": [
@@ -996,7 +996,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789234382.6740587,
     "last_attempt": 1789242843.9510982,
-    "next_attempt": 1789653524.1704211,
+    "next_attempt": 1789667811.9576898,
     "metadata": {},
     "task_id": "task_CVE-2026-75650_1789234382",
     "required_result_fields": [
@@ -1025,7 +1025,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789234390.367698,
     "last_attempt": 1789285748.6904535,
-    "next_attempt": 1789653552.4519272,
+    "next_attempt": 1789667862.3445811,
     "metadata": {},
     "task_id": "task_CVE-2026-87606_1789234390",
     "required_result_fields": [
@@ -1054,7 +1054,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789234400.8914647,
     "last_attempt": 1789265592.27098,
-    "next_attempt": 1789653570.877722,
+    "next_attempt": 1789667845.636248,
     "metadata": {},
     "task_id": "task_CVE-2026-87575_1789234400",
     "required_result_fields": [
@@ -1083,7 +1083,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789242850.4099705,
     "last_attempt": 1789285748.7022994,
-    "next_attempt": 1789653549.8045967,
+    "next_attempt": 1789667857.4972305,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1789242850",
     "required_result_fields": [
@@ -1112,7 +1112,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789256146.038333,
     "last_attempt": 1789285728.654342,
-    "next_attempt": 1789653520.9211767,
+    "next_attempt": 1789667815.8347664,
     "metadata": {},
     "task_id": "task_CVE-2026-50751_1789256146",
     "required_result_fields": [
@@ -1141,7 +1141,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789304281.7790136,
     "last_attempt": 1789480864.9049807,
-    "next_attempt": 1789653523.8907194,
+    "next_attempt": 1789667811.4852738,
     "metadata": {},
     "task_id": "task_CVE-2026-21852_1789304281",
     "required_result_fields": [
@@ -1170,7 +1170,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789304287.792974,
     "last_attempt": 1789480869.916553,
-    "next_attempt": 1789653531.5520487,
+    "next_attempt": 1789667813.6613243,
     "metadata": {},
     "task_id": "task_CVE-2025-38352_1789304287",
     "required_result_fields": [
@@ -1199,7 +1199,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789326457.53668,
     "last_attempt": 1789480869.9191265,
-    "next_attempt": 1789653527.2479117,
+    "next_attempt": 1789667802.5395274,
     "metadata": {},
     "task_id": "task_CVE-2026-42536_1789326457",
     "required_result_fields": [
@@ -1228,7 +1228,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789429030.9837706,
     "last_attempt": 1789497368.3665247,
-    "next_attempt": 1789653521.2404792,
+    "next_attempt": 1789667811.5300543,
     "metadata": {},
     "task_id": "task_CVE-2026-69328_1789429030",
     "required_result_fields": [
@@ -1257,7 +1257,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789480864.8963811,
     "last_attempt": 1789566874.100885,
-    "next_attempt": 1789653520.7867372,
+    "next_attempt": 1789667804.1338286,
     "metadata": {},
     "task_id": "task_CVE-2026-46331_1789480864",
     "required_result_fields": [
@@ -1286,7 +1286,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789497353.516849,
     "last_attempt": 1789566879.3501954,
-    "next_attempt": 1789653524.987687,
+    "next_attempt": 1789667808.0106611,
     "metadata": {},
     "task_id": "task_CVE-2026-32996_1789497353",
     "required_result_fields": [
@@ -1315,7 +1315,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789497358.3363912,
     "last_attempt": 1789566867.1138906,
-    "next_attempt": 1789653508.6829035,
+    "next_attempt": 1789667785.4714122,
     "metadata": {},
     "task_id": "task_CVE-2026-33234_1789497358",
     "required_result_fields": [
@@ -1344,7 +1344,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789509036.911304,
     "last_attempt": 1789601144.858188,
-    "next_attempt": 1789653527.7828963,
+    "next_attempt": 1789667815.7929428,
     "metadata": {},
     "task_id": "task_CVE-2026-38526_1789509036",
     "required_result_fields": [
@@ -1373,7 +1373,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789516245.4902005,
     "last_attempt": 1789566869.0172894,
-    "next_attempt": 1789653506.532131,
+    "next_attempt": 1789667789.4805174,
     "metadata": {},
     "task_id": "task_CVE-2025-3248_1789516245",
     "required_result_fields": [
@@ -1402,7 +1402,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789545949.3009114,
     "last_attempt": 1789566879.3516874,
-    "next_attempt": 1789653503.8365831,
+    "next_attempt": 1789667788.9381578,
     "metadata": {},
     "task_id": "task_CVE-2026-49975_1789545949",
     "required_result_fields": [
@@ -1431,7 +1431,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789566869.010034,
     "last_attempt": 1789566884.3616495,
-    "next_attempt": 1789653509.647796,
+    "next_attempt": 1789667791.0538752,
     "metadata": {},
     "task_id": "task_CVE-2026-41940_1789566869",
     "required_result_fields": [
@@ -1452,15 +1452,15 @@
   {
     "cve_id": "CVE-2026-76461",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-76461\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"A vulnerability in the email parsing of Cisco AsyncOS Software for Cisco Secure Email Gateway could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.\\r\\n\\r\\nThis vulnerability is due to insufficient validation in the email parsing logic. An attacker could exploit this vulnerability by sending a crafted email message that contains malicious SQL statements through an affected device. A successful exploit could allow the attacker to execute arbitrary SQL statements, leading to command execution with root privileges on the underlying operating system.\", \"\\u6807\\u9898: Cisco\\u90ae\\u4ef6\\u7f51\\u5173SQL\\u6ce8\\u5165\\u6f0f\\u6d1e\"], \"published_date\": \"2026-09-14T17:17:51.113\", \"last_modified_date\": \"2026-09-15T12:47:32.497\", \"cvss_score\": 9.8, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"s\", \"e\", \"c\", \".\", \"c\", \"l\", \"o\", \"u\", \"d\", \"a\", \"p\", \"p\", \"s\", \".\", \"c\", \"i\", \"s\", \"c\", \"o\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"c\", \"e\", \"n\", \"t\", \"e\", \"r\", \"/\", \"c\", \"o\", \"n\", \"t\", \"e\", \"n\", \"t\", \"/\", \"C\", \"i\", \"s\", \"c\", \"o\", \"S\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"A\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"y\", \"/\", \"c\", \"i\", \"s\", \"c\", \"o\", \"-\", \"s\", \"a\", \"-\", \"e\", \"s\", \"a\", \"-\", \"i\", \"n\", \"j\", \"-\", \"2\", \"b\", \"L\", \"V\", \"G\", \"m\", \"h\", \"X\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"7\", \"6\", \"4\", \"6\", \"1\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-76461 - Critical Vulnerability - TheHackerWire\n [description] 3 days ago - CVE-2026-76461 is a Critical severity vulnerability (CVSS 9.8). A vulnerability in the email parsing of Cisco AsyncOS Software for Cisco Secure Email Gateway could allow an unauthenticated, remote...\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-76461/\n [webpage 0 end]\n[webpage 1 begin] [title] GitHub - SecureWithUmer/CVE-2026-PoCs: A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. · GitHub\n [description] A community-curated, verified collection of Proof-of-Concept exploits for CVEs disclosed in 2026. - SecureWithUmer/CVE-2026-PoCs\n [link] https://github.com/SecureWithUmer/CVE-2026-PoCs\n [webpage 1 end]\n[webpage 2 begin] [title] 💀 SQL Injection in Cisco Asyncos — PoC exploit for CVE-2026-76461 | Sploitus\n [description] 2 days ago - ## https://sploitus.com/exploi... remediation resources for **CVE-2026-76461**, a critical SQL injection vulnerability in Cisco AsyncOS for Cisco Secure Email Gateway (SEG)....\n [link] https://sploitus.com/exploit?id=03C95DC1-6684-5667-B855-F38C831D669E\n [webpage 2 end]\n[webpage 3 begin] [title] Cve\n [description] Common vulnerabilities and Exposures (CVE) · We're sorry but the CVE Website doesn't work properly without JavaScript enabled. Please enable it to continue\n [link] https://www.cve.org/CVERecord?id=CVE-2026-76461\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-76461 : Arbitrary Command Execution Vulnerability in Cisco Secure Email Gateway\n [description] 1 day ago - PoC code is also a key component for weaponization which could lead to ransomware. ... Cisco has patched CVE-2026-76461, a critical Secure Email Gateway flaw that lets remote attackers execute commands with root privileges without credentials.\n [link] https://securityvulnerability.io/vulnerability/CVE-2026-76461\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/d9264fa6c1a205adc327d974797f34a2/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 S3v3n-JG\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/d9264fa6c1a205adc327d974797f34a2/README.md\n---\n# CVE-2026-76461\n\nAn intentionally vulnerable, local-only Python lab for learning how unsafe YAML\ndeserialization can become a code-execution path. It includes three difficulty\nlevels, a patched comparison app, exploit scripts, hints, write-ups, and a\nsmall scoreboard.\n\n> **Safety:** Run this project only on a disposable local machine or isolated\n> virtual environment. Do not expose the challenge apps to a public network.\n\n## What is included\n\n| Variant | Focus |\n| --- | --- |\n| [Easy](easy/README.md) | Direct vulnerable endpoint and clear exploit path |\n| [Medium](medium/README.md) | Decoy routes and a fake sanitizer |\n| [Hard](hard/README.md) | Hidden route, encoded payloads, and multi-stage flag flow |\n\nThe project also includes:\n\n- [build-guide.md](build-guide.md) for local setup and operation\n- [challenge_runner.py](challenge_runner.py) for starting and stopping variants\n- [patched_app.py](patched_app.py) for a safe `yaml.safe_load()` comparison\n- [scoreboard.py](scoreboard.py) for local team scoring\n- [writeup.md](writeup.md) and [hints.md](hints.md) for facilitators\n- [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md) for publishing and handoff\n\n## Quick start\n\n```bash\npython3 -m venv .venv\n. .venv/bin/activate\npip install -r requirements.txt\npytest -q\npython3 challenge_runner.py start --variant easy\n```\n\nUse the variant README files for the intended challenge flow. The apps bind to\nlocalhost by default and do not require Docker.\n\n## Root cause\n\nThe vulnerable variants intentionally use a Python-object-capable YAML loader\non attacker-controlled input:\n\n```python\nyaml.load(data, Loader=yaml.Loader)\n```\n\nThe comparison implementation uses the safer loader:\n\n```python\nyaml.safe_load(data)\n```\n\nNever use `yaml.Loader` for untrusted YAML in a real application. This lab is\nfor defensive training and authorized testing only.\n\n## License\n\nReleased under the [MIT License](LICENSE).\n\n\n---\n/tmp/d9264fa6c1a205adc327d974797f34a2/RELEASE_CHECKLIST.md\n---\n# Release Checklist\n\nUse this checklist before sharing a public snapshot of the lab.\n\n## Content\n\n- [ ] Root README links to Easy, Medium, and Hard variants.\n- [ ] Setup instructions work on a clean Python 3 environment.\n- [ ] The local-only safety warning is visible.\n- [ ] Student-facing materials do not reveal the flag or full exploit path.\n- [ ] Instructor materials are clearly marked and distributed intentionally.\n\n## Repository hygiene\n\n- [ ] No `.venv/`, caches, logs, local paths, credentials, or generated scoreboards are tracked.\n- [ ] `git diff --check` reports no whitespace errors.\n- [ ] `git status --short` contains only intended release files.\n- [ ] `LICENSE` is present and matches the intended reuse terms.\n\n## Verification\n\n- [ ] Run `python3 -m venv .venv` in a clean checkout.\n- [ ] Run `pip install -r requirements.txt`.\n- [ ] Run `pytest -q`.\n- [ ] Exercise the Easy, Medium, and Hard flows locally.\n- [ ] Confirm the patched app rejects the malicious YAML behavior.\n- [ ] Confirm no challenge app is bound to a public interface.\n\n## Publish\n\n- [ ] Review the final commit and remote with `git log` and `git remote -v`.\n- [ ] Push the intended branch to GitHub.\n- [ ] Open the GitHub README and verify all links render correctly.\n- [ ] Create a release tag only after the published tree has been checked.\n\n\n---\n/tmp/d9264fa6c1a205adc327d974797f34a2/advanced_app.py\n---\nimport base64\nimport os\nimport re\n\nfrom flask import Flask, jsonify, request\nimport yaml\n\napp = Flask(__name__)\nPORT = int(os.environ.get(\"PORT\", \"5000\"))\nFLAG = os.environ.get(\"FLAG\", \"FLAG{unsafe_yaml_deserialization_2026}\")\nFLAG_PATH = \"/tmp/flag.txt\"\nSECOND_STAGE_PATH = \"/tmp/stage2.txt\"\n\nwith open(FLAG_PATH, \"w\", encoding=\"utf-8\") as fp:\n    fp.write(FLAG)\n\nwith open(SECOND_STAGE_PATH, \"w\", encoding=\"utf-8\") as fp:\n    fp.write(\"stage2_ready\")\n\n\nd\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 0,
+    "retry_count": 1,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
-    "error_type": null,
-    "last_error": null,
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
     "created_at": 1789653500.2217636,
-    "last_attempt": 0,
-    "next_attempt": 1789653506.0763977,
+    "last_attempt": 1789667778.3559082,
+    "next_attempt": 1789667788.9266505,
     "metadata": {},
     "task_id": "task_CVE-2026-76461_1789653500",
     "required_result_fields": [
