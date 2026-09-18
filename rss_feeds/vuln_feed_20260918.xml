@@ -4,35 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-18安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 18 Sep 2026 02:19:11 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:46:52 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-21479 - CVE-2025-21479 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/RamenFast/zenfone9-root'&gt;zenfone9-root&lt;/a&gt;: Temporary root (uid 0) on a bootloader-locked ASUS Zenfone 9 via CVE-2025-21479 + a perf-based physical-address leak. GPLv3.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-21479</link>
-      <guid isPermaLink="false">CVE-2025-21479</guid>
-      <pubDate>2026-09-18T02:19:11.127634</pubDate>
+      <title>CVE-2026-0994 - CVE-2026-0994 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Vardhan0257/upb-any-recursion-audit'&gt;upb-any-recursion-audit&lt;/a&gt;: Ruby/PHP upb Any-recursion audit: falsified vs CVE-2026-0994 bug class</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-0994</link>
+      <guid isPermaLink="false">CVE-2026-0994</guid>
+      <pubDate>2026-09-18T07:46:52.884787</pubDate>
     </item>
     <item>
-      <title>CVE-2026-18574 - CVE-2026-18574 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-18574'&gt;CVE-2026-18574&lt;/a&gt;: CVE-2026-18574 - Draft or TODO</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-18574</link>
-      <guid isPermaLink="false">CVE-2026-18574</guid>
-      <pubDate>2026-09-18T02:19:11.127643</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-91843 - CVE-2026-91843 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-91843'&gt;CVE-2026-91843&lt;/a&gt;: CVE-2026-91843 - Draft or TODO</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-91843</link>
-      <guid isPermaLink="false">CVE-2026-91843</guid>
-      <pubDate>2026-09-18T02:19:11.127649</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-77179 - CVE-2026-77179 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HORKimhab/CVE-2026-77179'&gt;CVE-2026-77179&lt;/a&gt;: CVE-2026-77179 - Draft or TODO</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-77179</link>
-      <guid isPermaLink="false">CVE-2026-77179</guid>
-      <pubDate>2026-09-18T02:19:11.127654</pubDate>
+      <title>CVE-2026-43783 - CVE-2026-43783 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/andrd3v/CVE-2026-43783'&gt;CVE-2026-43783&lt;/a&gt;: macOS 26.5.2&lt; LPE PoC</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43783</link>
+      <guid isPermaLink="false">CVE-2026-43783</guid>
+      <pubDate>2026-09-18T07:46:52.884795</pubDate>
     </item>
   </channel>
 </rss>
