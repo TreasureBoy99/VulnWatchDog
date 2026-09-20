@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006420.3175752,
     "last_attempt": 1789026016.7481987,
-    "next_attempt": 1789862102.543514,
+    "next_attempt": 1789871491.0207846,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1789006420",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006427.6046915,
     "last_attempt": 1789026021.7530217,
-    "next_attempt": 1789862080.5858164,
+    "next_attempt": 1789871499.2628543,
     "metadata": {},
     "task_id": "task_CVE-2026-64561_1789006427",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006433.6756139,
     "last_attempt": 1789026054.0718422,
-    "next_attempt": 1789862111.0389407,
+    "next_attempt": 1789871489.086396,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1789006433",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006440.0343087,
     "last_attempt": 1789026049.053781,
-    "next_attempt": 1789862080.5553703,
+    "next_attempt": 1789871485.275182,
     "metadata": {},
     "task_id": "task_CVE-2026-72815_1789006440",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006445.8862853,
     "last_attempt": 1789026047.9648743,
-    "next_attempt": 1789862081.6683095,
+    "next_attempt": 1789871499.2318523,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1789006445",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006451.7039027,
     "last_attempt": 1789026036.1181622,
-    "next_attempt": 1789862092.6792073,
+    "next_attempt": 1789871499.1010916,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1789006451",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006457.5168722,
     "last_attempt": 1789026054.0731246,
-    "next_attempt": 1789862105.098347,
+    "next_attempt": 1789871475.3965814,
     "metadata": {},
     "task_id": "task_CVE-2026-45316_1789006457",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789006468.5701334,
     "last_attempt": 1789026073.0304923,
-    "next_attempt": 1789862087.441248,
+    "next_attempt": 1789871492.1179278,
     "metadata": {},
     "task_id": "task_CVE-2025-68921_1789006468",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026001.737845,
     "last_attempt": 1789078031.1675346,
-    "next_attempt": 1789862091.5294151,
+    "next_attempt": 1789871497.5648718,
     "metadata": {},
     "task_id": "task_CVE-2025-66398_1789026001",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026024.4824064,
     "last_attempt": 1789078031.1690295,
-    "next_attempt": 1789862103.9588945,
+    "next_attempt": 1789871489.4869058,
     "metadata": {},
     "task_id": "task_CVE-2026-24061_1789026024",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026031.1151714,
     "last_attempt": 1789078026.1528337,
-    "next_attempt": 1789862103.6410081,
+    "next_attempt": 1789871497.2317014,
     "metadata": {},
     "task_id": "task_CVE-2026-66066_1789026031",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026037.9538364,
     "last_attempt": 1789078031.1788704,
-    "next_attempt": 1789862101.7407143,
+    "next_attempt": 1789871489.1267767,
     "metadata": {},
     "task_id": "task_CVE-2026-53519_1789026037",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026049.0504935,
     "last_attempt": 1789234411.005722,
-    "next_attempt": 1789862104.7712388,
+    "next_attempt": 1789871473.3578253,
     "metadata": {},
     "task_id": "task_CVE-2026-42613_1789026049",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026055.9387,
     "last_attempt": 1789234405.9160678,
-    "next_attempt": 1789862100.0883312,
+    "next_attempt": 1789871493.920594,
     "metadata": {},
     "task_id": "task_CVE-2026-28496_1789026055",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026062.5002735,
     "last_attempt": 1789234411.0041318,
-    "next_attempt": 1789862100.71238,
+    "next_attempt": 1789871491.9157324,
     "metadata": {},
     "task_id": "task_CVE-2026-20253_1789026062",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026068.0266933,
     "last_attempt": 1789234411.0148737,
-    "next_attempt": 1789862098.5209227,
+    "next_attempt": 1789871477.0498152,
     "metadata": {},
     "task_id": "task_CVE-2026-60137_1789026068",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026073.193656,
     "last_attempt": 1789234405.916156,
-    "next_attempt": 1789862095.9592392,
+    "next_attempt": 1789871490.1032817,
     "metadata": {},
     "task_id": "task_CVE-2026-63030_1789026073",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789026079.5149107,
     "last_attempt": 1789234400.8974612,
-    "next_attempt": 1789862082.1979737,
+    "next_attempt": 1789871494.9377012,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1789026079",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789068121.0673792,
     "last_attempt": 1789234400.8990471,
-    "next_attempt": 1789862110.6956449,
+    "next_attempt": 1789871492.2791584,
     "metadata": {},
     "task_id": "task_CVE-2025-58726_1789068121",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789068126.4177642,
     "last_attempt": 1789234405.9267511,
-    "next_attempt": 1789862111.290445,
+    "next_attempt": 1789871492.7409675,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1789068126",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789077998.4392633,
     "last_attempt": 1789234400.391232,
-    "next_attempt": 1789862106.2727928,
+    "next_attempt": 1789871491.040617,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1789077998",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789078010.152093,
     "last_attempt": 1789234405.9283502,
-    "next_attempt": 1789862096.427932,
+    "next_attempt": 1789871498.1518488,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1789078010",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789078021.4251544,
     "last_attempt": 1789234405.9373286,
-    "next_attempt": 1789862108.0057614,
+    "next_attempt": 1789871493.5730646,
     "metadata": {},
     "task_id": "task_CVE-2026-87491_1789078021",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789078026.1449862,
     "last_attempt": 1789234411.0164306,
-    "next_attempt": 1789862085.0690897,
+    "next_attempt": 1789871500.6610804,
     "metadata": {},
     "task_id": "task_CVE-2026-85046_1789078026",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789137832.305681,
     "last_attempt": 1789265592.213762,
-    "next_attempt": 1789862081.7783487,
+    "next_attempt": 1789871489.0978992,
     "metadata": {},
     "task_id": "task_CVE-2026-15253_1789137832",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789137838.3912082,
     "last_attempt": 1789234416.025871,
-    "next_attempt": 1789862106.965556,
+    "next_attempt": 1789871489.8185835,
     "metadata": {},
     "task_id": "task_CVE-2026-19794_1789137838",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789137843.9046326,
     "last_attempt": 1789285748.672955,
-    "next_attempt": 1789862110.1829574,
+    "next_attempt": 1789871478.646375,
     "metadata": {},
     "task_id": "task_CVE-2026-65540_1789137843",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789149678.2406316,
     "last_attempt": 1789265592.2161813,
-    "next_attempt": 1789862108.1459985,
+    "next_attempt": 1789871502.471685,
     "metadata": {},
     "task_id": "task_CVE-2026-33697_1789149678",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789162048.0017164,
     "last_attempt": 1789265592.2324815,
-    "next_attempt": 1789862099.3471587,
+    "next_attempt": 1789871471.3829691,
     "metadata": {},
     "task_id": "task_CVE-2026-85706_1789162048",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789162053.8977017,
     "last_attempt": 1789285748.673067,
-    "next_attempt": 1789862099.9687147,
+    "next_attempt": 1789871484.6523378,
     "metadata": {},
     "task_id": "task_CVE-2026-57827_1789162053",
     "required_result_fields": [
@@ -880,7 +880,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789162059.1376412,
     "last_attempt": 1789265592.2516832,
-    "next_attempt": 1789862092.4230092,
+    "next_attempt": 1789871499.1323793,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1789162059",
     "required_result_fields": [
@@ -909,7 +909,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789179313.6969888,
     "last_attempt": 1789285748.6882977,
-    "next_attempt": 1789862099.9555519,
+    "next_attempt": 1789871475.6806262,
     "metadata": {},
     "task_id": "task_CVE-2026-83991_1789179313",
     "required_result_fields": [
@@ -938,7 +938,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789213737.0017858,
     "last_attempt": 1789285743.6637187,
-    "next_attempt": 1789862086.1904619,
+    "next_attempt": 1789871500.1363325,
     "metadata": {},
     "task_id": "task_CVE-2026-78006_1789213737",
     "required_result_fields": [
@@ -967,7 +967,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789224033.9449728,
     "last_attempt": 1789750226.8245027,
-    "next_attempt": 1789862090.4021049,
+    "next_attempt": 1789871481.1937385,
     "metadata": {},
     "task_id": "task_CVE-2026-45033_1789224033",
     "required_result_fields": [
@@ -996,7 +996,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789234382.6740587,
     "last_attempt": 1789811972.0824184,
-    "next_attempt": 1789862090.9930167,
+    "next_attempt": 1789871492.2881873,
     "metadata": {},
     "task_id": "task_CVE-2026-75650_1789234382",
     "required_result_fields": [
@@ -1025,7 +1025,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789234390.367698,
     "last_attempt": 1789285748.6904535,
-    "next_attempt": 1789862104.1804438,
+    "next_attempt": 1789871497.268261,
     "metadata": {},
     "task_id": "task_CVE-2026-87606_1789234390",
     "required_result_fields": [
@@ -1054,7 +1054,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789234400.8914647,
     "last_attempt": 1789265592.27098,
-    "next_attempt": 1789862090.7844884,
+    "next_attempt": 1789871478.7794955,
     "metadata": {},
     "task_id": "task_CVE-2026-87575_1789234400",
     "required_result_fields": [
@@ -1083,7 +1083,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789242850.4099705,
     "last_attempt": 1789285748.7022994,
-    "next_attempt": 1789862100.7573833,
+    "next_attempt": 1789871499.8521056,
     "metadata": {},
     "task_id": "task_CVE-2025-32463_1789242850",
     "required_result_fields": [
@@ -1112,7 +1112,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789256146.038333,
     "last_attempt": 1789750226.8269074,
-    "next_attempt": 1789862104.9322138,
+    "next_attempt": 1789871499.9498162,
     "metadata": {},
     "task_id": "task_CVE-2026-50751_1789256146",
     "required_result_fields": [
@@ -1141,7 +1141,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789304281.7790136,
     "last_attempt": 1789811982.208044,
-    "next_attempt": 1789862105.5748954,
+    "next_attempt": 1789871485.7394192,
     "metadata": {},
     "task_id": "task_CVE-2026-21852_1789304281",
     "required_result_fields": [
@@ -1170,7 +1170,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789304287.792974,
     "last_attempt": 1789811972.0828032,
-    "next_attempt": 1789862105.3781419,
+    "next_attempt": 1789871471.7369635,
     "metadata": {},
     "task_id": "task_CVE-2025-38352_1789304287",
     "required_result_fields": [
@@ -1199,7 +1199,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789326457.53668,
     "last_attempt": 1789811972.1049955,
-    "next_attempt": 1789862086.5538096,
+    "next_attempt": 1789871474.141121,
     "metadata": {},
     "task_id": "task_CVE-2026-42536_1789326457",
     "required_result_fields": [
@@ -1228,7 +1228,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789429030.9837706,
     "last_attempt": 1789687044.1639104,
-    "next_attempt": 1789862090.0597723,
+    "next_attempt": 1789871481.926952,
     "metadata": {},
     "task_id": "task_CVE-2026-69328_1789429030",
     "required_result_fields": [
@@ -1257,7 +1257,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789480864.8963811,
     "last_attempt": 1789687044.167159,
-    "next_attempt": 1789862098.3090177,
+    "next_attempt": 1789871481.2959673,
     "metadata": {},
     "task_id": "task_CVE-2026-46331_1789480864",
     "required_result_fields": [
@@ -1286,7 +1286,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789497353.516849,
     "last_attempt": 1789750226.8453927,
-    "next_attempt": 1789862085.129191,
+    "next_attempt": 1789871499.713254,
     "metadata": {},
     "task_id": "task_CVE-2026-32996_1789497353",
     "required_result_fields": [
@@ -1315,7 +1315,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789497358.3363912,
     "last_attempt": 1789811972.1086283,
-    "next_attempt": 1789862107.3671534,
+    "next_attempt": 1789871478.428891,
     "metadata": {},
     "task_id": "task_CVE-2026-33234_1789497358",
     "required_result_fields": [
@@ -1344,7 +1344,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789509036.911304,
     "last_attempt": 1789687044.183447,
-    "next_attempt": 1789862097.5068886,
+    "next_attempt": 1789871485.5479603,
     "metadata": {},
     "task_id": "task_CVE-2026-38526_1789509036",
     "required_result_fields": [
@@ -1373,7 +1373,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789516245.4902005,
     "last_attempt": 1789750226.847739,
-    "next_attempt": 1789862108.3293471,
+    "next_attempt": 1789871474.6996353,
     "metadata": {},
     "task_id": "task_CVE-2025-3248_1789516245",
     "required_result_fields": [
@@ -1402,7 +1402,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789545949.3009114,
     "last_attempt": 1789811982.2115417,
-    "next_attempt": 1789862103.4366276,
+    "next_attempt": 1789871475.6854377,
     "metadata": {},
     "task_id": "task_CVE-2026-49975_1789545949",
     "required_result_fields": [
@@ -1431,7 +1431,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789566869.010034,
     "last_attempt": 1789811967.0703266,
-    "next_attempt": 1789862110.9351537,
+    "next_attempt": 1789871490.5378015,
     "metadata": {},
     "task_id": "task_CVE-2026-41940_1789566869",
     "required_result_fields": [
@@ -1460,7 +1460,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789653500.2217636,
     "last_attempt": 1789811982.230737,
-    "next_attempt": 1789862105.7321362,
+    "next_attempt": 1789871498.7968664,
     "metadata": {},
     "task_id": "task_CVE-2026-76461_1789653500",
     "required_result_fields": [
@@ -1489,7 +1489,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789678172.4170222,
     "last_attempt": 1789811977.1616127,
-    "next_attempt": 1789862110.592145,
+    "next_attempt": 1789871499.0248308,
     "metadata": {},
     "task_id": "task_CVE-2026-32604_1789678172",
     "required_result_fields": [
@@ -1518,7 +1518,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789687019.076514,
     "last_attempt": 1789750226.863978,
-    "next_attempt": 1789862101.2196329,
+    "next_attempt": 1789871499.4212906,
     "metadata": {},
     "task_id": "task_CVE-2025-21479_1789687019",
     "required_result_fields": [
@@ -1547,7 +1547,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789697935.5316744,
     "last_attempt": 1789811977.1649897,
-    "next_attempt": 1789862090.5666404,
+    "next_attempt": 1789871480.8429813,
     "metadata": {},
     "task_id": "task_CVE-2026-18574_1789697935",
     "required_result_fields": [
@@ -1576,7 +1576,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789697942.1260293,
     "last_attempt": 1789811972.1277966,
-    "next_attempt": 1789862111.6863241,
+    "next_attempt": 1789871474.7768307,
     "metadata": {},
     "task_id": "task_CVE-2026-91843_1789697942",
     "required_result_fields": [
@@ -1605,7 +1605,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789697949.1019258,
     "last_attempt": 1789811972.1311922,
-    "next_attempt": 1789862086.7709532,
+    "next_attempt": 1789871487.070323,
     "metadata": {},
     "task_id": "task_CVE-2026-77179_1789697949",
     "required_result_fields": [
@@ -1634,7 +1634,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789717604.3903809,
     "last_attempt": 1789811982.2342873,
-    "next_attempt": 1789862080.6466777,
+    "next_attempt": 1789871480.2010758,
     "metadata": {},
     "task_id": "task_CVE-2026-0994_1789717604",
     "required_result_fields": [
@@ -1663,7 +1663,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789717610.8606014,
     "last_attempt": 1789811977.1852229,
-    "next_attempt": 1789862101.934355,
+    "next_attempt": 1789871489.6748526,
     "metadata": {},
     "task_id": "task_CVE-2026-43783_1789717610",
     "required_result_fields": [
@@ -1692,7 +1692,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789750199.2231827,
     "last_attempt": 1789825450.6989274,
-    "next_attempt": 1789862106.2071064,
+    "next_attempt": 1789871492.9636102,
     "metadata": {},
     "task_id": "task_CVE-2026-16265_1789750199",
     "required_result_fields": [
@@ -1721,7 +1721,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789750226.81474,
     "last_attempt": 1789836968.7238197,
-    "next_attempt": 1789862103.8370903,
+    "next_attempt": 1789871496.902445,
     "metadata": {},
     "task_id": "task_CVE-2026-77991_1789750226",
     "required_result_fields": [
@@ -1750,7 +1750,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789759186.5934768,
     "last_attempt": 1789836974.1241517,
-    "next_attempt": 1789862111.196284,
+    "next_attempt": 1789871479.470343,
     "metadata": {},
     "task_id": "task_CVE-2025-20260_1789759186",
     "required_result_fields": [
@@ -1779,7 +1779,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789811955.910195,
     "last_attempt": 1789855097.7698965,
-    "next_attempt": 1789862111.9884856,
+    "next_attempt": 1789871495.2734957,
     "metadata": {},
     "task_id": "task_CVE-2025-36911_1789811955",
     "required_result_fields": [
@@ -1808,7 +1808,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789811962.0452924,
     "last_attempt": 1789836968.727692,
-    "next_attempt": 1789862081.4664686,
+    "next_attempt": 1789871487.5743995,
     "metadata": {},
     "task_id": "task_CVE-2025-32433_1789811962",
     "required_result_fields": [
@@ -1837,7 +1837,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789836945.1750977,
     "last_attempt": 1789855077.689664,
-    "next_attempt": 1789862063.4994767,
+    "next_attempt": 1789871449.8681304,
     "metadata": {},
     "task_id": "task_CVE-2026-65616_1789836945",
     "required_result_fields": [
@@ -1866,7 +1866,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789836950.3001401,
     "last_attempt": 1789862056.1890378,
-    "next_attempt": 1789862138.7417665,
+    "next_attempt": 1789871501.0123668,
     "metadata": {},
     "task_id": "task_CVE-2026-78159_1789836950",
     "required_result_fields": [
@@ -1895,7 +1895,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789836956.887486,
     "last_attempt": 1789862056.1933982,
-    "next_attempt": 1789862145.1394398,
+    "next_attempt": 1789871474.7126126,
     "metadata": {},
     "task_id": "task_CVE-2026-74469_1789836956",
     "required_result_fields": [
@@ -1924,7 +1924,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789836963.6952293,
     "last_attempt": 1789855092.7565207,
-    "next_attempt": 1789862058.7044783,
+    "next_attempt": 1789871451.1246045,
     "metadata": {},
     "task_id": "task_CVE-2026-68121_1789836963",
     "required_result_fields": [
@@ -1953,7 +1953,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789836969.1107392,
     "last_attempt": 1789855087.7301764,
-    "next_attempt": 1789862057.001639,
+    "next_attempt": 1789871450.4058335,
     "metadata": {},
     "task_id": "task_CVE-2026-81000_1789836969",
     "required_result_fields": [
@@ -1982,7 +1982,7 @@
     "last_error": "API返回空结果",
     "created_at": 1789836974.6933932,
     "last_attempt": 1789855087.7340581,
-    "next_attempt": 1789862061.4846036,
+    "next_attempt": 1789871448.788235,
     "metadata": {},
     "task_id": "task_CVE-2026-80844_1789836974",
     "required_result_fields": [
@@ -2011,9 +2011,38 @@
     "last_error": "API返回空结果",
     "created_at": 1789844751.834957,
     "last_attempt": 1789862051.1752977,
-    "next_attempt": 1789862144.6973734,
+    "next_attempt": 1789871482.7993302,
     "metadata": {},
     "task_id": "task_CVE-2026-75816_1789844751",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-64560",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-64560\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"In the Linux kernel, the following vulnerability has been resolved:\\n\\nposix-cpu-timers: Prevent UAF caused by non-leader exec() race\\n\\nWongi and Jungwoo decoded and reported a non-leader exec() related race\\nwhich can result in an UAF:\\n\\n sys_timer_delete()\\t\\t\\texec()\\n   posix_cpu_timer_del()\\n   // Observes old leader\\n   p = pid_task(pid, pid_type);\\t\\tde_thread()\\n   \\t\\t\\t\\t\\t  switch_leader();\\n\\t\\t\\t\\t\\t  release_task(old_leader)\\n\\t\\t\\t\\t\\t    __exit_signal(old_leader)\\n\\t\\t\\t\\t\\t      sighand = lock(old_leader, sighand);\\n\\t\\t\\t\\t\\t      posix_cpu_timers*_exit();\\n   sighand = lock_task_sighand(p)\\t      unhash_task(old_leader);\\n     sh = lock(p, sighand)\\t    \\t      old_leader->sighand = NULL;\\n\\t\\t\\t\\t\\t      unlock(sighand);\\n     (p->sighand == NULL)\\n\\tunlock(sh)\\n\\treturn NULL;\\n\\n   // Returns without action\\n   if(!sighand)\\n      return 0;\\n   free_posix_timer();\\n\\nThis is \\\"harmless\\\" unless the deleted timer was armed and enqueued in\\np->signal because on exec() a TGID targeted timer is inherited.\\n\\nAs sys_timer_delete() freed the underlying posix timer object\\nrun_posix_cpu_timers() or any timerqueue related add/delete operations on\\nother timers will access the freed object's timerqueue node, which results\\nin an UAF.\\n\\nThere is a similar problem vs. posix_cpu_timer_set(). For regular posix\\ntimers it just transiently returns -ESRCH to user space, but for the use\\ncase in do_cpu_nanosleep() it's the same UAF just that the k_itimer is\\nallocated on the stack.\\n\\nAlso posix_cpu_timer_rearm() fails to rearm the timer, which means it stops\\nto expire.\\n\\nWhile debating solutions Frederic pointed out another problem:\\n\\n   posix_cpu_timer_del(tmr)\\n\\t\\t\\t\\t\\t__exit_signal(p)\\n\\t\\t\\t\\t\\t  posix_cpu_timers*_exit(p);\\n\\t\\t\\t\\t\\t  unhash_task(p);\\n\\t\\t\\t\\t\\t  p->sighand = NULL;\\n     sh = lock_task_sighand(p)\\n        sighand = p->sighand;\\n\\tif (!sighand)\\n\\t    return NULL;\\n\\tlock(sighand);\\n\\n     if (!sh)\\n\\tWARN_ON_ONCE(timer_queued(tmr));\\n\\nOn weakly ordered architectures it is not guaranteed that\\nposix_cpu_timer_del() will observe the stores in posix_cpu_timers*_exit()\\nwhen p->sighand is observed as NULL, which means the WARN() can be a false\\npositive.\\n\\nSolve these issues by:\\n\\n  1) Changing the store in __exit_signal() to smp_store_release().\\n\\n  2) Adding a smp_acquire__after_ctrl_dep() into the !sighand path\\n     of lock_task_sighand().\\n\\n  3) Creating a helper function for looking up the task and locking sighand\\n     which does not return when sighand == NULL. Instead it retries the\\n     task lookup and only if that fails it gives up.\\n\\n  4) Using that helper in the three affected functions.\\n\\n#1/#2 ensures that the reader side which observes sighand == NULL also\\nobserves all preceeding stores, i.e. the stores in posix_cpu_timers*_exit()\\nand the ones in unhash_task().\\n\\n#3 ensures that the above described non-leader exec() situation is handled\\ngracefully. When the task lookup returns the old leader, but sighand ==\\nNULL then it retries. In the non-leader exec() case the subsequent task\\nlookup will observe the new leader due to #1/#2. In normal exit() scenarios\\nthe subsequent lookup fails.\\n\\nWhen the task lookup fails, the function also checks whether the timer is\\nstill enqueued and issues a warning if that's the case. Unfortunately there\\nis nothing which can be done about it, but as the task is already not\\nlonger visible the timer should not be accessed anymore. This check also\\nrequires memory ordering, which is not provided when the first lookup\\nfails. To achieve that the check is preceeded by a smp_rmb() which pairs\\nwith the smp_wmb() in write_seqlock() in __exit_signal(). That ensures that\\nthe stores in posix_cpu_timers*_exit() are visible.\\n\\nThe history of the non-leader exec() issue goes back to the early days of\\nposix CPU timers, which stored a pointer to the group leader task in the\\ntimer. That obviously fails when a non-leader exec() switches the leader.\\ncommit e0a70217107e (\\\"posix-cpu-timers: workaround to suppress the problems\\nwith mt exec\\\") added a temporary workaround for that in 2010 which surv\\n---truncated---\", \"\\u6807\\u9898: Linux kernel posix-cpu-timers \\u975e\\u4e3b\\u7ebf\\u7a0b exec \\u7ade\\u4e89\\u5bfc\\u81f4 UAF \\u6f0f\\u6d1e\"], \"published_date\": \"2026-07-29T17:16:53.637\", \"last_modified_date\": \"2026-09-08T09:18:20.357\", \"cvss_score\": 7.8, \"severity\": \"HIGH\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"1\", \"2\", \"a\", \"8\", \"9\", \"1\", \"c\", \"7\", \"7\", \"3\", \"a\", \"e\", \"b\", \"5\", \"8\", \"2\", \"3\", \"d\", \"6\", \"3\", \"d\", \"b\", \"d\", \"0\", \"c\", \"b\", \"2\", \"a\", \"b\", \"9\", \"3\", \"1\", \"d\", \"6\", \"c\", \"2\", \"1\", \"c\", \"9\", \"b\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"6\", \"7\", \"a\", \"a\", \"8\", \"2\", \"3\", \"e\", \"3\", \"e\", \"8\", \"c\", \"2\", \"2\", \"9\", \"c\", \"6\", \"d\", \"3\", \"7\", \"4\", \"d\", \"f\", \"7\", \"9\", \"c\", \"8\", \"0\", \"4\", \"f\", \"6\", \"7\", \"2\", \"1\", \"c\", \"b\", \"8\", \"3\", \"b\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"6\", \"a\", \"7\", \"e\", \"c\", \"c\", \"2\", \"5\", \"a\", \"b\", \"e\", \"6\", \"f\", \"0\", \"f\", \"e\", \"c\", \"c\", \"6\", \"e\", \"6\", \"2\", \"a\", \"0\", \"5\", \"0\", \"9\", \"6\", \"9\", \"8\", \"7\", \"2\", \"0\", \"0\", \"e\", \"d\", \"b\", \"d\", \"0\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"9\", \"2\", \"0\", \"f\", \"8\", \"9\", \"3\", \"f\", \"7\", \"3\", \"5\", \"e\", \"9\", \"2\", \"b\", \"a\", \"3\", \"a\", \"1\", \"c\", \"d\", \"9\", \"2\", \"5\", \"6\", \"8\", \"9\", \"9\", \"a\", \"1\", \"8\", \"6\", \"b\", \"1\", \"6\", \"1\", \"9\", \"2\", \"8\", \"d\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"a\", \"d\", \"1\", \"c\", \"a\", \"f\", \"a\", \"1\", \"b\", \"d\", \"a\", \"a\", \"7\", \"1\", \"d\", \"a\", \"8\", \"5\", \"d\", \"7\", \"1\", \"c\", \"a\", \"c\", \"0\", \"5\", \"3\", \"8\", \"3\", \"8\", \"b\", \"b\", \"e\", \"9\", \"7\", \"8\", \"5\", \"2\", \"b\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"c\", \"c\", \"3\", \"5\", \"d\", \"d\", \"b\", \"c\", \"4\", \"9\", \"7\", \"3\", \"1\", \"1\", \"e\", \"0\", \"b\", \"6\", \"b\", \"9\", \"a\", \"6\", \"a\", \"6\", \"a\", \"4\", \"f\", \"4\", \"d\", \"1\", \"2\", \"1\", \"7\", \"d\", \"6\", \"a\", \"b\", \"1\", \"a\", \"a\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"d\", \"8\", \"b\", \"c\", \"b\", \"2\", \"8\", \"a\", \"b\", \"a\", \"d\", \"8\", \"5\", \"7\", \"f\", \"1\", \"4\", \"1\", \"5\", \"d\", \"a\", \"7\", \"6\", \"5\", \"6\", \"f\", \"1\", \"9\", \"b\", \"2\", \"a\", \"d\", \"a\", \"9\", \"0\", \"a\", \"f\", \"0\", \"4\", \"f\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \".\", \"k\", \"e\", \"r\", \"n\", \"e\", \"l\", \".\", \"o\", \"r\", \"g\", \"/\", \"s\", \"t\", \"a\", \"b\", \"l\", \"e\", \"/\", \"c\", \"/\", \"e\", \"7\", \"4\", \"4\", \"4\", \"3\", \"f\", \"5\", \"d\", \"b\", \"0\", \"0\", \"3\", \"7\", \"c\", \"5\", \"5\", \"6\", \"e\", \"f\", \"4\", \"3\", \"6\", \"f\", \"a\", \"6\", \"4\", \"b\", \"8\", \"8\", \"b\", \"f\", \"4\", \"e\", \"a\", \"0\", \"8\", \"f\", \"8\", \"3\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"c\", \"e\", \"r\", \"t\", \"-\", \"p\", \"o\", \"r\", \"t\", \"a\", \"l\", \".\", \"s\", \"i\", \"e\", \"m\", \"e\", \"n\", \"s\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"r\", \"o\", \"d\", \"u\", \"c\", \"t\", \"c\", \"e\", \"r\", \"t\", \"/\", \"h\", \"t\", \"m\", \"l\", \"/\", \"s\", \"s\", \"a\", \"-\", \"0\", \"1\", \"9\", \"1\", \"1\", \"3\", \".\", \"h\", \"t\", \"m\", \"l\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] GitHub - villager1314/CVE-2026-64560-Analysis\n [description] Contribute to villager1314/CVE-2026-64560-Analysis development by creating an account on GitHub.\n [link] https://github.com/villager1314/CVE-2026-64560-Analysis\n [webpage 0 end]\n[webpage 1 begin] [title] quyicheng03-boop — PoC exploit for CVE-2026-64560 | Sploitus\n [description] Kernel exploit on Xiaomi 15 granting temporary root access via ADB shell for the current boot. (CVE-2026-64560)\n [link] https://sploitus.com/exploit?id=24C46DB7-40EA-55C2-9F44-BB44658224F6\n [webpage 1 end]\n[webpage 2 begin] [title] villager1314 — PoC exploit for CVE-2026-64560 | Sploitus\n [description] Linux kernel fix for CVE-2026-64560 UAF race in posix-cpu-timers during non-leader exec.\n [link] https://sploitus.com/exploit?id=F8E5B958-B5DC-57C1-9FA9-076BF3B70128\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-64560 - High Vulnerability (PoC Available) - TheHackerWire\n [description] CVE-2026-64560 is a High severity vulnerability (CVSS 7.8). In the Linux kernel, the following vulnerability has been resolved: posix-cpu-timers: Prevent UAF caused by non-leader exec() race Wongi and... Public Proof-of-Concept (PoC) exploit code and mitigation steps available.\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-64560/\n [webpage 3 end]\n[webpage 4 begin] [title] GitHub - 0xMarcio/pocindex: Search 82,000+ public CVE proof-of-concept ...\n [description] Search 82,000+ public CVE proof-of-concept exploits from GitHub, Nuclei, ExploitDB, Metasploit and Vulhub. - 0xMarcio/pocindex\n [link] https://github.com/0xMarcio/pocindex\n [webpage 4 end]\n[webpage 5 begin] [title] 💀 RMDycz — PoC exploit for CVE-2026-64560 | Sploitus\n [description] 2 days ago - Local privilege escalation exploit for Redmi K80 Pro kernel 6.6.118 (CVE-2026-64560).\n [link] https://sploitus.com/exploit?id=2C68B42C-4688-5B2D-B3EE-FEA8EB613387\n [webpage 5 end]\n[webpage 6 begin] [title] Cve\n [description] Common vulnerabilities and Exposures (CVE) · We're sorry but the CVE Website doesn't work properly without JavaScript enabled. Please enable it to continue\n [link] https://www.cve.org/CVERecord?id=CVE-2026-64560\n [webpage 6 end]\n[webpage 7 begin] [title] GitHub - 249707737/CVE-2026-64560-Analysis · GitHub\n [description] 性质说明：这是一枚纯 C 的 race 触发器，不包含 heap spray、对象占位、RIP 控制等任何利用原语。将其变成提权 exploit 需要额外的大量工作（堆风水、k_itimer 所在 slab cache 的占位对象、绕过 KASLR/CFI 等），且与具体内核构建强相关。本仓库刻意不包含这部分内容。 · ├── README.md ← 本文 ├── patches/ │ └── 920f893f735e.patch ← mainline 修复补丁全文 └── poc/ ├── cve_2026_64560_poc.c ← 触发器源码（Linux/Android 通用） ├── Makefile ← Linux / NDK 交叉编译 └── Android.mk ← NDK ndk-build（可选）\n [link] https://github.com/249707737/CVE-2026-64560-Analysis\n [webpage 7 end]\n[webpage 8 begin] [title] CVE-2026-64560 — CVE Detail | CyberStrike\n [description] August 17, 2026 - CVE-2026-64560 is a high-severity vulnerability. It was published on July 29, 2026 and has a CVSS 3.1 base score of 7.8 (HIGH). ... This vulnerability has a CVSS 3.1 base score of 7.8, rated HIGH.\n [link] https://cyberstrike.io/cve/CVE-2026-64560/\n [webpage 8 end]\n[webpage 9 begin] [title] GitHub - XZ1r0/cve-2026-poc-collection: CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs · GitHub\n [description] CVE-2026 PoC Collection - 128 PoCs covering 84 CVEs - XZ1r0/cve-2026-poc-collection\n [link] https://github.com/XZ1r0/cve-2026-poc-collection\n [webpage 9 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/c059df3b748904260602405ee523d76a/CHANGELOG.md\n---\n# Changelog\n\n## v1.0.0 — 2026-09-18\n\nK80 Pro (`miro`) 移植完成并验证通过。\n\n### 验证结果\n\n在目标固件上端到端跑通，取得 root：\n\n```\nROOT_CHILD_HOLD_PASS ... uid=0 context=shell selinux_permissive=1\nTEMP_SU_DAEMON_STARTED pid=... allowed_uid=2000 lifetime=until_reboot\nuid=0(root) gid=0(root) ... context=u:r:shell:s0\n```\n\n- 目标：Redmi K80 Pro，`OS3.0.304.0.WOMCNXM`\n- 内核：`6.6.118-android15-8-gc44b714366cc-abogki519650608-4k`\n- 策略：`fanout`，单次运行约 49 秒\n\n### 相对上游 (dada) 的移植改动\n\n**地址与常量（重新推导）**\n\n- 24 个链接布局符号中，15 个地址与本 target 不同，逐个替换\n  （差异非均匀，不能套用统一偏移）\n- 重新确认 `random_table[4]` 的 boot_id 条目偏移 `0x2259c60`\n- 结构体偏移经 BTF 交叉验证，与 dada 一致\n- `MM_OBJECT_BYTES` 经 `/proc/slabinfo` 实测为 `0x500`\n  （BTF 的 `sizeof` 是 `0x4c0`，两者不同，用错会导致扫描精度掉到约 5%）\n\n**环境适配（2 处必要修改）**\n\n1. **`/proc/cmdline` 降级为尽力而为**\n   HyperOS 上 shell 身份读该文件是 `EACCES`，\n   而上游把它当硬门禁 → 导致无法进入任何 profile。\n\n2. **profile 侦测加入 `miro` 分支**\n   并把其余 profile 的指纹字面量置为不可匹配值，\n   避免携带 miro 地址的二进制被驱动到别的设备上。\n\n### 已知限制\n\n- 产物与固件严格绑定，换 OTA 即失效\n- Stage0 单次命中率约 1/5，整链是概率性的\n- 失败可能表现为设备挂起，需要长按电源键强制重启\n- 成功后 SELinux 保持 permissive，且 `/data/local/tmp/su`\n  对任何 shell 身份开放 root —— 均持续到重启为止\n- permissive 是加载内核模块（KernelSU LKM 等）的前提\n\n### 说明\n\n- 漏洞发现与利用实现属于上游作者（NebuSec / CyberMeowfia），\n  本版本仅做平台移植。见 `NOTICE` 与 `docs/UPSTREAM.md`。\n\n\n---\n/tmp/c059df3b748904260602405ee523d76a/LICENSE\n---\n                                 Apache License\n                           Version 2.0, January 2004\n                        http://www.apache.org/licenses/\n\n   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION\n\n   1. Definitions.\n\n      \"License\" shall mean the terms and conditions for use, reproduction,\n      and distribution as defined by Sections 1 through 9 of this document.\n\n      \"Licensor\" shall mean the copyright owner or entity authorized by\n      the copyright owner that is granting the License.\n\n      \"Legal Entity\" shall mean the union of the acting entity and all\n      other entities that control, are controlled by, or are under common\n      control with that entity. For the purposes of this definition,\n      \"control\" means (i) the power, direct or indirect, to cause the\n      direction or management of such entity, whether by contract or\n      otherwise, or (ii) ownership of fifty percent (50%) or more of the\n      outstanding shares, or (iii) beneficial ownership of such entity.\n\n      \"You\" (or \"Your\") shall mean an individual or Legal Entity\n      exercising permissions granted by this License.\n\n      \"Source\" form shall mean the preferred form for making modifications,\n      including but not limited to software source code, documentation\n      source, and configuration files.\n\n      \"Object\" form shall mean any form resulting from mechanical\n      transformation or translation of a Source form, including but\n      not limited to compiled object code, generated documentation,\n      and conversions to other media types.\n\n      \"Work\" shall mean the work of authorship, whether in Source or\n      Object form, made available under the License, as indicated by a\n      copyright notice that is included in or attached to the work\n      (an example is provided in the Appendix below).\n\n      \"Derivative Works\" shall mean any work, whether in Source or Object\n      form, that is based on (or derived from) the Work and for which the\n      editorial revisions, annotations, elaborations, or other modifications\n      represent, as a whole, an original work of authorship. For the purposes\n      of this License, Derivative Works shall not include works that remain\n      separable from, or merely link (or bind by name) to the interfaces of,\n      the Work and Derivative Works thereof.\n\n      \"Contribution\" shall mean any work of authorship, including\n      the original version of the Work and any modifications or additions\n      to that Work or Derivative Works thereof, that is intentionally\n      submitted to Licensor for inclusion in the Work by the copyright owner\n      or by an individual or Legal Entity authorized to submit on behalf of\n      the copyright owner. For the purposes of this definition, \"submitted\"\n      means any form of electronic, verbal, or written communication sent\n      to the Licensor or its representatives, including but not limited to\n      communication on electronic mailing lists, source code control systems,\n      and issue tracking systems that are managed by, or on behalf of, the\n      Licensor for the purpose of discussing and improving the Work, but\n      excluding communication that is conspicuously marked or otherwise\n      designated in writing by the copyright owner as \"Not a Contribution.\"\n\n      \"Contributor\" shall mean Licensor and any individual or Legal Entity\n      on behalf of whom a Contribution has been received by Licensor and\n      subsequently incorporated within the Work.\n\n   2. Grant of Copyright License. Subject to the terms and conditions of\n      this License, each Contributor hereby grants to You a perpetual,\n      worldwide, non-exc\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 0,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": null,
+    "last_error": null,
+    "created_at": 1789871416.3230617,
+    "last_attempt": 0,
+    "next_attempt": 1789871421.981717,
+    "metadata": {},
+    "task_id": "task_CVE-2026-64560_1789871416",
     "required_result_fields": [
       "poc_available",
       "condition",
