@@ -4,21 +4,49 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 20 Sep 2026 02:30:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:06:40 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-64560 - CVE-2026-64560 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/RMDycz/K80Pro-miro-CVE-2026-64560'&gt;K80Pro-miro-CVE-2026-64560&lt;/a&gt;: Device-bound CVE-2026-64560 adaptation for RedMi K80pro miro OS 3.0.304.0</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64560</link>
-      <guid isPermaLink="false">CVE-2026-64560</guid>
-      <pubDate>2026-09-20T02:30:24.633460</pubDate>
+      <title>CVE-2026-53266 - CVE-2026-53266 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-53266'&gt;CVE-2026-53266&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53266</link>
+      <guid isPermaLink="false">CVE-2026-53266</guid>
+      <pubDate>2026-09-20T08:06:40.992247</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-39964 - CVE-2025-39964 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2025-39964'&gt;CVE-2025-39964&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-39964</link>
+      <guid isPermaLink="false">CVE-2025-39964</guid>
+      <pubDate>2026-09-20T08:06:40.992258</pubDate>
     </item>
     <item>
       <title>CVE-2026-41089 - CVE-2026-41089 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE'&gt;CVE-2026-41089-Netlogon-RCE&lt;/a&gt;: Scan Windows Domain Controllers for CVE-2026-41089 to detect unauthenticated remote code execution vulnerabilities in the Netlogon service.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41089</link>
       <guid isPermaLink="false">CVE-2026-41089</guid>
-      <pubDate>2026-09-20T02:30:24.633467</pubDate>
+      <pubDate>2026-09-20T08:06:40.992264</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-39682 - CVE-2025-39682 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2025-39682'&gt;CVE-2025-39682&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-39682</link>
+      <guid isPermaLink="false">CVE-2025-39682</guid>
+      <pubDate>2026-09-20T08:06:40.992270</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Liverwortenuresis371/copyfail-rs'&gt;copyfail-rs&lt;/a&gt;: Exploit and detect CVE-2026-31431 vulnerabilities using a static binary that monitors system integrity and bypasses PAM authentication.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-09-20T08:06:40.992275</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-66398 - CVE-2025-66398 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/showy-headteacher114/cve-2025-66398'&gt;cve-2025-66398&lt;/a&gt;: Demonstrate exploitation of Signal K Server CVE-2025-66398 allowing unauthenticated attackers to inject backdoor and enable remote code execution.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-66398</link>
+      <guid isPermaLink="false">CVE-2025-66398</guid>
+      <pubDate>2026-09-20T08:06:40.992280</pubDate>
     </item>
   </channel>
 </rss>
