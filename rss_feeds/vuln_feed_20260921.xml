@@ -4,56 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-21安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 21 Sep 2026 05:42:40 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:30:43 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-57827 - CVE-2026-57827 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Candisexterior171/CVE-2026-57827'&gt;CVE-2026-57827&lt;/a&gt;: Demonstrate the unauthenticated remote code execution vulnerability in the RSFiles! Joomla component through an arbitrary file upload.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-57827</link>
-      <guid isPermaLink="false">CVE-2026-57827</guid>
-      <pubDate>2026-09-21T05:42:40.429529</pubDate>
+      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
+      <guid isPermaLink="false">CVE-2025-68921</guid>
+      <pubDate>2026-09-21T11:30:43.686386</pubDate>
     </item>
     <item>
-      <title>CVE-2026-94129 - CVE-2026-94129 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lzty/CVE-2026-94129'&gt;CVE-2026-94129&lt;/a&gt;: A POC for CVE-2026-94129</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-94129</link>
-      <guid isPermaLink="false">CVE-2026-94129</guid>
-      <pubDate>2026-09-21T05:42:40.429538</pubDate>
+      <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ashardev002/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: 🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
+      <guid isPermaLink="false">CVE-2025-32463</guid>
+      <pubDate>2026-09-21T11:30:43.686391</pubDate>
     </item>
     <item>
-      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tchuin2609/YellowKey-Bitlocker'&gt;YellowKey-Bitlocker&lt;/a&gt;: Manage BitLocker encrypted drives on Windows. Extract recovery keys, check encryption status, and apply security mitigations for CVE-2026-45585.&lt;br&gt;&lt;a href='https://github.com/Desireeontrial76/yellowkey-bitlocker'&gt;yellowkey-bitlocker&lt;/a&gt;: Manage and recover BitLocker encrypted drives with this tool for Windows 11 recovery key management and educational study of CVE-2026-45585.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
-      <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-09-21T05:42:40.429545</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-23134 - CVE-2025-23134 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/thrilokh-q123/CVE-2025-23134_fixes_code'&gt;CVE-2025-23134_fixes_code&lt;/a&gt;: The ASN1_STRING_set() function takes an `int` length, make sure the argument is not inadvertently truncated when it is called from asn1_ex_c2i().</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-23134</link>
-      <guid isPermaLink="false">CVE-2025-23134</guid>
-      <pubDate>2026-09-21T05:42:40.429551</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail'&gt;CVE-2026-31431-Linux-Copy-Fail&lt;/a&gt;: Exploit CVE-2026-31431 on Linux using a Rust implementation to achieve local privilege escalation via an arbitrary page cache write primitive.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
-      <guid isPermaLink="false">CVE-2026-31431</guid>
-      <pubDate>2026-09-21T05:42:40.429556</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-31802 - CVE-2026-31802 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Recorded-texteditor120/CVE-2026-31802'&gt;CVE-2026-31802&lt;/a&gt;: Demonstrate and analyze the CVE-2026-31802 path traversal vulnerability in npm tar, enabling arbitrary file overwrite via symlink extraction.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31802</link>
-      <guid isPermaLink="false">CVE-2026-31802</guid>
-      <pubDate>2026-09-21T05:42:40.429560</pubDate>
-    </item>
-    <item>
-      <title>CVE-2025-14847 - CVE-2025-14847 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sakthivel10q/CVE-2025-14847'&gt;CVE-2025-14847&lt;/a&gt;: 🛠 Exploit the CVE-2025-14847 vulnerability in MongoDB to disclose sensitive heap memory using a Python script that analyzes responses for new leaked data.&lt;br&gt;&lt;a href='https://github.com/pedrocruz2202/mongobleed-scanner'&gt;mongobleed-scanner&lt;/a&gt;: 🔍 Scan for MongoDB vulnerabilities with MongoBleed, a high-performance tool for detecting CVE-2025-14847 across large networks quickly and efficiently.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-14847</link>
-      <guid isPermaLink="false">CVE-2025-14847</guid>
-      <pubDate>2026-09-21T05:42:40.429566</pubDate>
+      <title>CVE-2026-89026 - CVE-2026-89026 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/AranFarzami/CVE-2026-89026'&gt;CVE-2026-89026&lt;/a&gt;: PoC exploit and scanner for CVE-2026-89026, targeting the Issabel PBXAPI authentication vulnerability</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-89026</link>
+      <guid isPermaLink="false">CVE-2026-89026</guid>
+      <pubDate>2026-09-21T11:30:43.686395</pubDate>
     </item>
   </channel>
 </rss>
