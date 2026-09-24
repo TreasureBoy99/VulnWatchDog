@@ -4,35 +4,56 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-24安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 24 Sep 2026 10:47:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:37:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-15015 - CVE-2026-15015 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/les-k/wp-secure-mcp'&gt;wp-secure-mcp&lt;/a&gt;: A WordPress plugin exposing an MCP server over the REST API, with the security model as the point -- closes the CVE-2026-15015 OAuth-bypass shape by never having that surface at all.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-15015</link>
-      <guid isPermaLink="false">CVE-2026-15015</guid>
-      <pubDate>2026-09-24T10:47:19.095571</pubDate>
+      <title>CVE-2025-39682 - CVE-2025-39682 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-'&gt;linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-&lt;/a&gt;: Neutralizing CISA active Linux kernel CVEs (CVE-2025-39964, CVE-2026-53266, CVE-2025-39682) via modern eBPF, module disarmament, and containerd user namespaces.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-39682</link>
+      <guid isPermaLink="false">CVE-2025-39682</guid>
+      <pubDate>2026-09-24T15:37:05.275906</pubDate>
     </item>
     <item>
-      <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
-      <guid isPermaLink="false">CVE-2025-68921</guid>
-      <pubDate>2026-09-24T10:47:19.095583</pubDate>
+      <title>CVE-2025-39964 - CVE-2025-39964 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-'&gt;linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-&lt;/a&gt;: Neutralizing CISA active Linux kernel CVEs (CVE-2025-39964, CVE-2026-53266, CVE-2025-39682) via modern eBPF, module disarmament, and containerd user namespaces.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-39964</link>
+      <guid isPermaLink="false">CVE-2025-39964</guid>
+      <pubDate>2026-09-24T15:37:05.275915</pubDate>
     </item>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499'&gt;Lenovo-TB365FC-GhostLock-CVE-2026-43499&lt;/a&gt;: GhostLock (CVE-2026-43499) root + KernelSU LKM for the Lenovo TB365FC (ZUXOS / Android 16, kernel 5.15.170)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-09-24T10:47:19.095590</pubDate>
+      <title>CVE-2026-53266 - CVE-2026-53266 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-'&gt;linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-&lt;/a&gt;: Neutralizing CISA active Linux kernel CVEs (CVE-2025-39964, CVE-2026-53266, CVE-2025-39682) via modern eBPF, module disarmament, and containerd user namespaces.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53266</link>
+      <guid isPermaLink="false">CVE-2026-53266</guid>
+      <pubDate>2026-09-24T15:37:05.275921</pubDate>
     </item>
     <item>
-      <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ashardev002/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: 🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
-      <guid isPermaLink="false">CVE-2025-32463</guid>
-      <pubDate>2026-09-24T10:47:19.095597</pubDate>
+      <title>CVE-2026-92702 - CVE-2026-92702 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/muhammad-usama-sardar/intra-handshake-fail'&gt;intra-handshake-fail&lt;/a&gt;: Early Attestation Considered Very Harmful (CVE-2026-92701, CVE-2026-92702, and CVE-2026-33697)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-92702</link>
+      <guid isPermaLink="false">CVE-2026-92702</guid>
+      <pubDate>2026-09-24T15:37:05.275926</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-33697 - CVE-2026-33697 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/muhammad-usama-sardar/intra-handshake-fail'&gt;intra-handshake-fail&lt;/a&gt;: Early Attestation Considered Very Harmful (CVE-2026-92701, CVE-2026-92702, and CVE-2026-33697)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-33697</link>
+      <guid isPermaLink="false">CVE-2026-33697</guid>
+      <pubDate>2026-09-24T15:37:05.275930</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-92701 - CVE-2026-92701 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/muhammad-usama-sardar/intra-handshake-fail'&gt;intra-handshake-fail&lt;/a&gt;: Early Attestation Considered Very Harmful (CVE-2026-92701, CVE-2026-92702, and CVE-2026-33697)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-92701</link>
+      <guid isPermaLink="false">CVE-2026-92701</guid>
+      <pubDate>2026-09-24T15:37:05.275935</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-29057 - CVE-2026-29057 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/learnerxuan/CVE-2026-29057-POC'&gt;CVE-2026-29057-POC&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-29057</link>
+      <guid isPermaLink="false">CVE-2026-29057</guid>
+      <pubDate>2026-09-24T15:37:05.275941</pubDate>
     </item>
   </channel>
 </rss>
