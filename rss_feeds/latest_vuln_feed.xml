@@ -4,35 +4,56 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 25 Sep 2026 01:02:04 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:52:58 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-87902 - CVE-2026-87902 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/khellwan/CVE-2026-87902_PoC'&gt;CVE-2026-87902_PoC&lt;/a&gt;: Proof of concept for vulnerability CVE-2026-87902 in Wordpress</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-87902</link>
-      <guid isPermaLink="false">CVE-2026-87902</guid>
-      <pubDate>2026-09-25T01:02:04.715170</pubDate>
+      <title>CVE-2025-24257 - CVE-2025-24257 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE'&gt;CVE_2025_24257----NOT-MINE&lt;/a&gt;: Demonstrate CVE-2025-24257 with a public PoC for IOGPUFamily kernel heap OOB read/write and panic analysis</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24257</link>
+      <guid isPermaLink="false">CVE-2025-24257</guid>
+      <pubDate>2026-09-25T06:52:58.236151</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-61732 - CVE-2026-61732 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/InertFluid/cve-2026-61732-lab'&gt;cve-2026-61732-lab&lt;/a&gt;: Benign, self-contained reproduction of CVE-2026-61732 (Decepticon ChatML role-boundary forgery)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61732</link>
+      <guid isPermaLink="false">CVE-2026-61732</guid>
+      <pubDate>2026-09-25T06:52:58.236158</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-2472 - CVE-2026-2472 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud'&gt;CVE-2026-2472-Vertex-AI-SDK-Google-Cloud&lt;/a&gt;: Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-2472</link>
+      <guid isPermaLink="false">CVE-2026-2472</guid>
+      <pubDate>2026-09-25T06:52:58.236163</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hamzamalik3461/CVE-2026-20841'&gt;CVE-2026-20841&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad via markdown links exploiting unsecured URL protocols.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
+      <guid isPermaLink="false">CVE-2026-20841</guid>
+      <pubDate>2026-09-25T06:52:58.236170</pubDate>
     </item>
     <item>
       <title>CVE-2025-68921 - CVE-2025-68921 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/kikiuuw/CVE-2025-68921'&gt;CVE-2025-68921&lt;/a&gt;: 🔍 Identify and understand the local privilege escalation vulnerability (CVE-2025-68921) in Nahimic audio software, impacting many gaming laptops.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2025-68921</link>
       <guid isPermaLink="false">CVE-2025-68921</guid>
-      <pubDate>2026-09-25T01:02:04.715178</pubDate>
+      <pubDate>2026-09-25T06:52:58.236174</pubDate>
     </item>
     <item>
-      <title>CVE-2026-53787 - CVE-2026-53787 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ChrisSEC2014/amasty-chekout-POC-rce'&gt;amasty-chekout-POC-rce&lt;/a&gt;: my poc for CVE-2026-53787 </description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53787</link>
-      <guid isPermaLink="false">CVE-2026-53787</guid>
-      <pubDate>2026-09-25T01:02:04.715182</pubDate>
+      <title>CVE-2026-78306 - CVE-2026-78306 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Wh02m1/CVE-2026-78306'&gt;CVE-2026-78306&lt;/a&gt;: DJI Drone DUML Command Injection over Bluetooth — Proof of Concept for CVE-2026-78306</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-78306</link>
+      <guid isPermaLink="false">CVE-2026-78306</guid>
+      <pubDate>2026-09-25T06:52:58.236178</pubDate>
     </item>
     <item>
-      <title>CVE-2025-32463 - CVE-2025-32463 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ashardev002/CVE-2025-32463_chwoot'&gt;CVE-2025-32463_chwoot&lt;/a&gt;: 🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo's chroot feature with this minimal, reproducible proof of concept environment.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-32463</link>
-      <guid isPermaLink="false">CVE-2025-32463</guid>
-      <pubDate>2026-09-25T01:02:04.715186</pubDate>
+      <title>CVE-2026-48842 - CVE-2026-48842 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/murrez/CVE-2026-48842'&gt;CVE-2026-48842&lt;/a&gt;: Roundcube virtuser_query pre-auth SQLi (CVE-2026-48842). Python PoC — version detect, virtuser plugin, login probe. https://pocbit.org</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48842</link>
+      <guid isPermaLink="false">CVE-2026-48842</guid>
+      <pubDate>2026-09-25T06:52:58.236182</pubDate>
     </item>
   </channel>
 </rss>
