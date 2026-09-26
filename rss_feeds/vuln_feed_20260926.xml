@@ -4,28 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 26 Sep 2026 02:39:46 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:08:26 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-75650 - CVE-2026-75650 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/abraxas/CVE-2026-75650'&gt;CVE-2026-75650&lt;/a&gt;: CVE-2026-75650 - Magento Open Source - Critical 10.0 - Unauthenticated POST /graphql - Unauthenticated Remote Code Execution (StyleSmuggler SSTI)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-75650</link>
-      <guid isPermaLink="false">CVE-2026-75650</guid>
-      <pubDate>2026-09-26T02:39:46.677036</pubDate>
+      <title>CVE-2026-18143 - CVE-2026-18143 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/murrez/CVE-2026-18143'&gt;CVE-2026-18143&lt;/a&gt;: Unauthenticated arbitrary file upload in Addify Request a Quote for WooCommerce ≤ 2.9.2 via public AJAX afrfq_submit_quote_via_popup — unsafe move_uploaded_file() with attacker-controlled .php filenames into web-accessible RFQ temp storage (popup quote flow required). CVSS 9.8. Python check/exploit PoC → pocbit.org/pocs/cve-2026-18143</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-18143</link>
+      <guid isPermaLink="false">CVE-2026-18143</guid>
+      <pubDate>2026-09-26T08:08:26.463336</pubDate>
     </item>
     <item>
-      <title>CVE-2026-64560 - CVE-2026-64560 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Become-ILLUSORY/cve-2026-64560-a16'&gt;cve-2026-64560-a16&lt;/a&gt;: CVE-2026-64560 toolkit: Go single-binary toolchain + realme RMX5010 (A16, SM8750) target port</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64560</link>
-      <guid isPermaLink="false">CVE-2026-64560</guid>
-      <pubDate>2026-09-26T02:39:46.677043</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0ch4/ghostlock-mrx-w09'&gt;ghostlock-mrx-w09&lt;/a&gt;: CVE-2026-43499 (GhostLock) on Huawei MRX-W09 (MatePad Pro, Kirin 990, EMUI 11, Linux 4.14.116): root + complete root (SELinux shell permissive, CAP_SYS_ADMIN, global non-nosuid mount, 4755 root shell) and native privileged GMS/Play Store. Disassembly-proven primitives + a source-derived HKIP bypass.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-09-26T02:39:46.677047</pubDate>
+      <title>CVE-2026-22812 - CVE-2026-22812 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Udyz/CVE-2026-22812-Exp'&gt;CVE-2026-22812-Exp&lt;/a&gt;: CVE-2026-22812 - OpenCode Unauth RCE</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-22812</link>
+      <guid isPermaLink="false">CVE-2026-22812</guid>
+      <pubDate>2026-09-26T08:08:26.463342</pubDate>
     </item>
   </channel>
 </rss>
