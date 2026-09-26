@@ -4,21 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 26 Sep 2026 08:08:26 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:30:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-18143 - CVE-2026-18143 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/murrez/CVE-2026-18143'&gt;CVE-2026-18143&lt;/a&gt;: Unauthenticated arbitrary file upload in Addify Request a Quote for WooCommerce ≤ 2.9.2 via public AJAX afrfq_submit_quote_via_popup — unsafe move_uploaded_file() with attacker-controlled .php filenames into web-accessible RFQ temp storage (popup quote flow required). CVSS 9.8. Python check/exploit PoC → pocbit.org/pocs/cve-2026-18143</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-18143</link>
-      <guid isPermaLink="false">CVE-2026-18143</guid>
-      <pubDate>2026-09-26T08:08:26.463336</pubDate>
+      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Desireeontrial76/yellowkey-bitlocker'&gt;yellowkey-bitlocker&lt;/a&gt;: Manage and recover BitLocker encrypted drives with this tool for Windows 11 recovery key management and educational study of CVE-2026-45585.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
+      <guid isPermaLink="false">CVE-2026-45585</guid>
+      <pubDate>2026-09-26T13:30:05.467371</pubDate>
     </item>
     <item>
-      <title>CVE-2026-22812 - CVE-2026-22812 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Udyz/CVE-2026-22812-Exp'&gt;CVE-2026-22812-Exp&lt;/a&gt;: CVE-2026-22812 - OpenCode Unauth RCE</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-22812</link>
-      <guid isPermaLink="false">CVE-2026-22812</guid>
-      <pubDate>2026-09-26T08:08:26.463342</pubDate>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Dullpurple-sloop726/CVE-2026-31431-Linux-Copy-Fail'&gt;CVE-2026-31431-Linux-Copy-Fail&lt;/a&gt;: Exploit CVE-2026-31431 on Linux using a Rust implementation to achieve local privilege escalation via an arbitrary page cache write primitive.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-09-26T13:30:05.467379</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-29053 - CVE-2026-29053 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/K3ysTr0K3R/CVE-2026-29053'&gt;CVE-2026-29053&lt;/a&gt;: CVE-2026-29053 - Ghost CMS &lt; 6.19.0 - Authenticated Remote Code Execution via Malicious Theme</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-29053</link>
+      <guid isPermaLink="false">CVE-2026-29053</guid>
+      <pubDate>2026-09-26T13:30:05.467385</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-31802 - CVE-2026-31802 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Recorded-texteditor120/CVE-2026-31802'&gt;CVE-2026-31802&lt;/a&gt;: Demonstrate and analyze the CVE-2026-31802 path traversal vulnerability in npm tar, enabling arbitrary file overwrite via symlink extraction.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31802</link>
+      <guid isPermaLink="false">CVE-2026-31802</guid>
+      <pubDate>2026-09-26T13:30:05.467390</pubDate>
     </item>
   </channel>
 </rss>
