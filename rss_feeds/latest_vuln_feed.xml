@@ -4,35 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-27安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 27 Sep 2026 08:44:26 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:25:35 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-45585 - CVE-2026-45585 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585'&gt;YellowKey-BitLocker-CVE-2026-45585&lt;/a&gt;: YellowKey BitLocker recovery audits CVE-2026-45585: yellowkey github, TPM, recovery key backup. Windows 10/11 CLI GUI, portable audit tool for volumes you own. Extract and run. Official free download. Download:➧</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45585</link>
-      <guid isPermaLink="false">CVE-2026-45585</guid>
-      <pubDate>2026-09-27T08:44:26.567272</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-35204 - CVE-2026-35204 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/h3ck13r/CVE-2026-35204'&gt;CVE-2026-35204&lt;/a&gt;: CVE-2026-35204 PoC</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-35204</link>
-      <guid isPermaLink="false">CVE-2026-35204</guid>
-      <pubDate>2026-09-27T08:44:26.567281</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
-      <guid isPermaLink="false">CVE-2026-64561</guid>
-      <pubDate>2026-09-27T08:44:26.567287</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-44011 - CVE-2026-44011 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce'&gt;CVE-2026-44011-craftcms-auth-rce&lt;/a&gt;: The PoC of CVE-2026-44011: Craft CMS, from 4.0.0 to before 4.17.12 and 5.9.18, contains an input-handling flaw in a Yii object creation path that let any authenticated user inject malicious configuration and execute arbitrary commands on the server.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce'&gt;CVE-2026-44011-craftcms-auth-rce&lt;/a&gt;: The PoC of CVE-2026-44011: Craft CMS RCE with an authenticated user. </description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-44011</link>
       <guid isPermaLink="false">CVE-2026-44011</guid>
-      <pubDate>2026-09-27T08:44:26.567292</pubDate>
+      <pubDate>2026-09-27T14:25:35.407185</pubDate>
     </item>
   </channel>
 </rss>
