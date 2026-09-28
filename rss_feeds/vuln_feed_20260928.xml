@@ -4,42 +4,42 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-28安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 28 Sep 2026 00:08:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 06:08:00 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
-    <item>
-      <title>CVE-2025-29927 - CVE-2025-29927 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ferpalma21/Automated-Next.js-Security-Scanner-for-CVE-2025-29927'&gt;Automated-Next.js-Security-Scanner-for-CVE-2025-29927&lt;/a&gt;: This script scans a list of URLs to detect if they are using **Next.js** and determines whether they are vulnerable to **CVE-2025-29927**. It optionally attempts exploitation using a wordlist.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-29927</link>
-      <guid isPermaLink="false">CVE-2025-29927</guid>
-      <pubDate>2026-09-28T00:08:49.175745</pubDate>
-    </item>
     <item>
       <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
       <guid isPermaLink="false">CVE-2026-64561</guid>
-      <pubDate>2026-09-28T00:08:49.175750</pubDate>
+      <pubDate>2026-09-28T06:08:00.130286</pubDate>
     </item>
     <item>
       <title>CVE-2025-24257 - CVE-2025-24257 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Learningdisordercapital35/CVE_2025_24257----NOT-MINE'&gt;CVE_2025_24257----NOT-MINE&lt;/a&gt;: Demonstrate CVE-2025-24257 with a public PoC for IOGPUFamily kernel heap OOB read/write and panic analysis</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2025-24257</link>
       <guid isPermaLink="false">CVE-2025-24257</guid>
-      <pubDate>2026-09-28T00:08:49.175753</pubDate>
+      <pubDate>2026-09-28T06:08:00.130295</pubDate>
     </item>
     <item>
       <title>CVE-2026-2472 - CVE-2026-2472 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/megafart1/CVE-2026-2472-Vertex-AI-SDK-Google-Cloud'&gt;CVE-2026-2472-Vertex-AI-SDK-Google-Cloud&lt;/a&gt;: Expose and detail an unauthenticated stored XSS vulnerability in the Google Cloud Vertex AI Python SDK affecting versions 1.98.0 to 1.130.9.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-2472</link>
       <guid isPermaLink="false">CVE-2026-2472</guid>
-      <pubDate>2026-09-28T00:08:49.175756</pubDate>
+      <pubDate>2026-09-28T06:08:00.130302</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0ch4/ghostlock-mrx-w09'&gt;ghostlock-mrx-w09&lt;/a&gt;: CVE-2026-43499 (GhostLock) on Huawei MRX-W09 (MatePad Pro, Kirin 990, EMUI 11, Linux 4.14.116): root + complete root (SELinux shell permissive, CAP_SYS_ADMIN, global non-nosuid mount, 4755 root shell) and native privileged GMS/Play Store. Disassembly-proven primitives + a source-derived HKIP bypass.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-09-28T06:08:00.130307</pubDate>
     </item>
     <item>
       <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hamzamalik3461/CVE-2026-20841'&gt;CVE-2026-20841&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad via markdown links exploiting unsecured URL protocols.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
       <guid isPermaLink="false">CVE-2026-20841</guid>
-      <pubDate>2026-09-28T00:08:49.175759</pubDate>
+      <pubDate>2026-09-28T06:08:00.130313</pubDate>
     </item>
   </channel>
 </rss>
