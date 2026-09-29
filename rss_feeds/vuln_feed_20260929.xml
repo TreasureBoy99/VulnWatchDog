@@ -4,21 +4,49 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-29安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 29 Sep 2026 00:47:03 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:26:00 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-101110 - CVE-2026-101110 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/murrez/CVE-2026-101110'&gt;CVE-2026-101110&lt;/a&gt;: CVE-2026-101110 PoC: OrdaSoft Joomla Book Library (Free) &lt;=6.4.6 unauth SQLi — field/direction ORDER BY, session prime + `-- xselect` blacklist bypass (com_booklibrary). Colored check + mass exploit, CVSS 9.3. https://pocbit.org/pocs/cve-2026-101110</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-101110</link>
-      <guid isPermaLink="false">CVE-2026-101110</guid>
-      <pubDate>2026-09-29T00:47:03.233351</pubDate>
+      <title>CVE-2026-49869 - CVE-2026-49869 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/EQSTLab/CVE-2026-49869'&gt;CVE-2026-49869&lt;/a&gt;: Kestra Unauthenticated RCE</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-49869</link>
+      <guid isPermaLink="false">CVE-2026-49869</guid>
+      <pubDate>2026-09-29T06:26:00.549414</pubDate>
     </item>
     <item>
-      <title>CVE-2026-101108 - CVE-2026-101108 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/murrez/CVE-2026-101108'&gt;CVE-2026-101108&lt;/a&gt;: CVE-2026-101108 PoC: OrdaSoft Joomla Vehicle Manager (Free) &lt;=6.5.7 unauth SQLi — order_field/order_direction unquoted ORDER BY (com_vehiclemanager). Colored check + mass exploit, CVSS 9.3. https://pocbit.org/pocs/cve-2026-101108</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-101108</link>
-      <guid isPermaLink="false">CVE-2026-101108</guid>
-      <pubDate>2026-09-29T00:47:03.233360</pubDate>
+      <title>CVE-2026-41096 - CVE-2026-41096 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ZeroDayEvil/CVE-2026-41096-PoC'&gt;CVE-2026-41096-PoC&lt;/a&gt;: 🛡️ Official AI Security Tool module for CVE-2026-41096 (Windows DNSAPI.dll Heap Overflow / DNS-Mayhem Deep Dive Analysis &amp; Audit Module).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41096</link>
+      <guid isPermaLink="false">CVE-2026-41096</guid>
+      <pubDate>2026-09-29T06:26:00.549423</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-93834 - CVE-2026-93834 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-93834'&gt;CVE-2026-93834&lt;/a&gt;: Tracking the QEMU CVE-2026-93834 9pfs fid-path use-after-free guest-to-host escape</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-93834</link>
+      <guid isPermaLink="false">CVE-2026-93834</guid>
+      <pubDate>2026-09-29T06:26:00.549430</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-81000 - CVE-2026-81000 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/tunderflow'&gt;tunderflow&lt;/a&gt;: Tracking TUNderflow (CVE-2026-81000), the Linux kernel TUN/TAP receive-headroom underflow</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-81000</link>
+      <guid isPermaLink="false">CVE-2026-81000</guid>
+      <pubDate>2026-09-29T06:26:00.549436</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-74469 - CVE-2026-74469 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/diagspill'&gt;diagspill&lt;/a&gt;: Tracking DiagSpill (CVE-2026-74469), the Linux kernel SCTP sock_diag heap overflow</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-74469</link>
+      <guid isPermaLink="false">CVE-2026-74469</guid>
+      <pubDate>2026-09-29T06:26:00.549441</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-81642 - CVE-2026-81642 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-81642'&gt;CVE-2026-81642&lt;/a&gt;: Tracking the Unbound CVE-2026-81642 DNSKEY digest heap overflow</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-81642</link>
+      <guid isPermaLink="false">CVE-2026-81642</guid>
+      <pubDate>2026-09-29T06:26:00.549446</pubDate>
     </item>
   </channel>
 </rss>
