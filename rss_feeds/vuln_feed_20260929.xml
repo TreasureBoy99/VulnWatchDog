@@ -4,49 +4,42 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-09-29安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 29 Sep 2026 06:26:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:34:56 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-49869 - CVE-2026-49869 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/EQSTLab/CVE-2026-49869'&gt;CVE-2026-49869&lt;/a&gt;: Kestra Unauthenticated RCE</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-49869</link>
-      <guid isPermaLink="false">CVE-2026-49869</guid>
-      <pubDate>2026-09-29T06:26:00.549414</pubDate>
+      <title>CVE-2026-31802 - CVE-2026-31802 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Recorded-texteditor120/CVE-2026-31802'&gt;CVE-2026-31802&lt;/a&gt;: Demonstrate and analyze the CVE-2026-31802 path traversal vulnerability in npm tar, enabling arbitrary file overwrite via symlink extraction.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31802</link>
+      <guid isPermaLink="false">CVE-2026-31802</guid>
+      <pubDate>2026-09-29T13:34:56.432853</pubDate>
     </item>
     <item>
-      <title>CVE-2026-41096 - CVE-2026-41096 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ZeroDayEvil/CVE-2026-41096-PoC'&gt;CVE-2026-41096-PoC&lt;/a&gt;: 🛡️ Official AI Security Tool module for CVE-2026-41096 (Windows DNSAPI.dll Heap Overflow / DNS-Mayhem Deep Dive Analysis &amp; Audit Module).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41096</link>
-      <guid isPermaLink="false">CVE-2026-41096</guid>
-      <pubDate>2026-09-29T06:26:00.549423</pubDate>
+      <title>CVE-2026-24088 - CVE-2026-24088 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aniketlab/POCO-M7-Plus-Jailbreak'&gt;POCO-M7-Plus-Jailbreak&lt;/a&gt;: Temporary Root Research on Poco M7 Plus (SM6375) via Qualcomm GBL Exploit (CVE-2026-24088) + GhostLock Kernel Analysis (CVE-2026-43499)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-24088</link>
+      <guid isPermaLink="false">CVE-2026-24088</guid>
+      <pubDate>2026-09-29T13:34:56.432860</pubDate>
     </item>
     <item>
-      <title>CVE-2026-93834 - CVE-2026-93834 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-93834'&gt;CVE-2026-93834&lt;/a&gt;: Tracking the QEMU CVE-2026-93834 9pfs fid-path use-after-free guest-to-host escape</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-93834</link>
-      <guid isPermaLink="false">CVE-2026-93834</guid>
-      <pubDate>2026-09-29T06:26:00.549430</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aniketlab/POCO-M7-Plus-Jailbreak'&gt;POCO-M7-Plus-Jailbreak&lt;/a&gt;: Temporary Root Research on Poco M7 Plus (SM6375) via Qualcomm GBL Exploit (CVE-2026-24088) + GhostLock Kernel Analysis (CVE-2026-43499)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-09-29T13:34:56.432865</pubDate>
     </item>
     <item>
-      <title>CVE-2026-81000 - CVE-2026-81000 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/tunderflow'&gt;tunderflow&lt;/a&gt;: Tracking TUNderflow (CVE-2026-81000), the Linux kernel TUN/TAP receive-headroom underflow</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-81000</link>
-      <guid isPermaLink="false">CVE-2026-81000</guid>
-      <pubDate>2026-09-29T06:26:00.549436</pubDate>
+      <title>CVE-2025-14847 - CVE-2025-14847 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sakthivel10q/CVE-2025-14847'&gt;CVE-2025-14847&lt;/a&gt;: 🛠 Exploit the CVE-2025-14847 vulnerability in MongoDB to disclose sensitive heap memory using a Python script that analyzes responses for new leaked data.&lt;br&gt;&lt;a href='https://github.com/pedrocruz2202/mongobleed-scanner'&gt;mongobleed-scanner&lt;/a&gt;: 🔍 Scan for MongoDB vulnerabilities with MongoBleed, a high-performance tool for detecting CVE-2025-14847 across large networks quickly and efficiently.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-14847</link>
+      <guid isPermaLink="false">CVE-2025-14847</guid>
+      <pubDate>2026-09-29T13:34:56.432871</pubDate>
     </item>
     <item>
-      <title>CVE-2026-74469 - CVE-2026-74469 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/diagspill'&gt;diagspill&lt;/a&gt;: Tracking DiagSpill (CVE-2026-74469), the Linux kernel SCTP sock_diag heap overflow</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-74469</link>
-      <guid isPermaLink="false">CVE-2026-74469</guid>
-      <pubDate>2026-09-29T06:26:00.549441</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-81642 - CVE-2026-81642 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-81642'&gt;CVE-2026-81642&lt;/a&gt;: Tracking the Unbound CVE-2026-81642 DNSKEY digest heap overflow</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-81642</link>
-      <guid isPermaLink="false">CVE-2026-81642</guid>
-      <pubDate>2026-09-29T06:26:00.549446</pubDate>
+      <title>CVE-2025-55182 - CVE-2025-55182 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/captain4554/CVE-2025-55182-Scanner'&gt;CVE-2025-55182-Scanner&lt;/a&gt;: 🛡️ Scan and assess vulnerabilities in Next.js/Waku with the CVE-2025-55182-Scanner, combining static and dynamic analysis for robust security.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-55182</link>
+      <guid isPermaLink="false">CVE-2025-55182</guid>
+      <pubDate>2026-09-29T13:34:56.432876</pubDate>
     </item>
   </channel>
 </rss>
