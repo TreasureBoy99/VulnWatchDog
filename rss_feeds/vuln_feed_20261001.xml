@@ -4,49 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-01安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 01 Oct 2026 03:13:52 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:35:32 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-64560 - CVE-2026-64560 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/HRi-H/cve-2026-64560'&gt;cve-2026-64560&lt;/a&gt;: Remik80(zorn) cve 2026 64560</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64560</link>
-      <guid isPermaLink="false">CVE-2026-64560</guid>
-      <pubDate>2026-10-01T03:13:52.093464</pubDate>
+      <title>CVE-2025-54424 - CVE-2025-54424 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hophtien/CVE-2025-54424'&gt;CVE-2025-54424&lt;/a&gt;: CVE-2025-54424: 1Panel TLS client cert bypass enables RCE via forged CN 'panel_client' using a bundled scanning and exploitation tool. Affected: &lt;= v2.0.5. 🔐</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54424</link>
+      <guid isPermaLink="false">CVE-2025-54424</guid>
+      <pubDate>2026-10-01T10:35:32.518571</pubDate>
     </item>
     <item>
-      <title>CVE-2026-48500 - CVE-2026-48500 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rimbadirgantara/CVE-2026-48500'&gt;CVE-2026-48500&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48500</link>
-      <guid isPermaLink="false">CVE-2026-48500</guid>
-      <pubDate>2026-10-01T03:13:52.093474</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-59310 - CVE-2026-59310 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/chu0119/vc-strike'&gt;vc-strike&lt;/a&gt;: VC-Strike — VMware vCenter CVE-2026-59310 (unauth root RCE) &amp; CVE-2026-59309 (SRP auth bypass) authorized pentest suite. GUI+CLI, multi-session C2, stdlib-only. 授权测试专用</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59310</link>
-      <guid isPermaLink="false">CVE-2026-59310</guid>
-      <pubDate>2026-10-01T03:13:52.093480</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-59309 - CVE-2026-59309 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/chu0119/vc-strike'&gt;vc-strike&lt;/a&gt;: VC-Strike — VMware vCenter CVE-2026-59310 (unauth root RCE) &amp; CVE-2026-59309 (SRP auth bypass) authorized pentest suite. GUI+CLI, multi-session C2, stdlib-only. 授权测试专用</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59309</link>
-      <guid isPermaLink="false">CVE-2026-59309</guid>
-      <pubDate>2026-10-01T03:13:52.093486</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/YuKongA/ghostlock-app'&gt;ghostlock-app&lt;/a&gt;: GhostLock One-Tap Execution App (CVE-2026-43499)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-10-01T03:13:52.093491</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
-      <guid isPermaLink="false">CVE-2026-64561</guid>
-      <pubDate>2026-10-01T03:13:52.093495</pubDate>
+      <title>CVE-2025-8110 - CVE-2025-8110 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Makis6/CVE-2025-8110'&gt;CVE-2025-8110&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-8110</link>
+      <guid isPermaLink="false">CVE-2025-8110</guid>
+      <pubDate>2026-10-01T10:35:32.518582</pubDate>
     </item>
   </channel>
 </rss>
