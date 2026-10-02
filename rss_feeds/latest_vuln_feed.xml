@@ -4,21 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-02安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 02 Oct 2026 01:53:50 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:46:01 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-19553 - CVE-2026-19553 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/abraxas/cve-2026-19553-wrap-bio'&gt;cve-2026-19553-wrap-bio&lt;/a&gt;: CPython - High - wrap_bio hostname skip</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19553</link>
-      <guid isPermaLink="false">CVE-2026-19553</guid>
-      <pubDate>2026-10-02T01:53:50.994856</pubDate>
+      <title>CVE-2025-66398 - CVE-2025-66398 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/showy-headteacher114/cve-2025-66398'&gt;cve-2025-66398&lt;/a&gt;: Demonstrate exploitation of Signal K Server CVE-2025-66398 allowing unauthenticated attackers to inject backdoor and enable remote code execution.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-66398</link>
+      <guid isPermaLink="false">CVE-2025-66398</guid>
+      <pubDate>2026-10-02T07:46:01.820100</pubDate>
     </item>
     <item>
-      <title>CVE-2026-19445 - CVE-2026-19445 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/abraxas/cve-2026-19445-sni-uaf'&gt;cve-2026-19445-sni-uaf&lt;/a&gt;: CPython - Critical - SNI SSLContext UAF</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-19445</link>
-      <guid isPermaLink="false">CVE-2026-19445</guid>
-      <pubDate>2026-10-02T01:53:50.994865</pubDate>
+      <title>CVE-2026-20841 - CVE-2026-20841 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/404godd/CVE-2026-20841-PoC'&gt;CVE-2026-20841-PoC&lt;/a&gt;: 🛠 Demonstrate remote code execution in Windows Notepad versions below 11.2510 using the CVE-2026-20841 proof of concept.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-20841</link>
+      <guid isPermaLink="false">CVE-2026-20841</guid>
+      <pubDate>2026-10-02T07:46:01.820109</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-24061 - CVE-2026-24061 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/obrunolima1910/CVE-2026-24061'&gt;CVE-2026-24061&lt;/a&gt;: 🚨 Exploit CVE-2026-24061, a critical remote authentication bypass in GNU inetutils-telnetd, for instant root shell access without authentication.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-24061</link>
+      <guid isPermaLink="false">CVE-2026-24061</guid>
+      <pubDate>2026-10-02T07:46:01.820114</pubDate>
     </item>
   </channel>
 </rss>
