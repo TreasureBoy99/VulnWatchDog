@@ -4,14 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-04安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 04 Oct 2026 06:31:59 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 12:58:00 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/AdminHcat/CVE-2026-43499-5.15'&gt;CVE-2026-43499-5.15&lt;/a&gt;: CVE-2026-43499在天玑5.15内核上的首发实现方法</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-10-04T06:31:59.901830</pubDate>
+      <title>CVE-2026-96451 - CVE-2026-96451 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Nxploited/CVE-2026-96451'&gt;CVE-2026-96451&lt;/a&gt;: WordPress Ultimate Member plugin &lt;= 2.13.1 - Privilege Escalation vulnerability</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-96451</link>
+      <guid isPermaLink="false">CVE-2026-96451</guid>
+      <pubDate>2026-10-04T12:58:00.888805</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-42978 - CVE-2026-42978 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research'&gt;CVE-2026-42978-PoC-Research&lt;/a&gt;: Exploit and analyze CVE-2026-42978 with a Windows Push Notifications module for AI security, multi-protocol terminal, and autonomous agent suite.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42978</link>
+      <guid isPermaLink="false">CVE-2026-42978</guid>
+      <pubDate>2026-10-04T12:58:00.888814</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41089 - CVE-2026-41089 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE'&gt;CVE-2026-41089-Netlogon-RCE&lt;/a&gt;: Scan Windows Domain Controllers for CVE-2026-41089 to detect unauthenticated remote code execution vulnerabilities in the Netlogon service.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41089</link>
+      <guid isPermaLink="false">CVE-2026-41089</guid>
+      <pubDate>2026-10-04T12:58:00.888820</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Liverwortenuresis371/copyfail-rs'&gt;copyfail-rs&lt;/a&gt;: Exploit and detect CVE-2026-31431 vulnerabilities using a static binary that monitors system integrity and bypasses PAM authentication.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-10-04T12:58:00.888826</pubDate>
     </item>
   </channel>
 </rss>
