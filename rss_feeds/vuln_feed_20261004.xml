@@ -4,14 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-04安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 04 Oct 2026 00:15:09 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 06:31:59 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-53787 - CVE-2026-53787 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ChrisSEC2014/amasty-chekout-POC-rce'&gt;amasty-chekout-POC-rce&lt;/a&gt;: my poc for CVE-2026-53787 </description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-53787</link>
-      <guid isPermaLink="false">CVE-2026-53787</guid>
-      <pubDate>2026-10-04T00:15:09.772094</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/AdminHcat/CVE-2026-43499-5.15'&gt;CVE-2026-43499-5.15&lt;/a&gt;: CVE-2026-43499在天玑5.15内核上的首发实现方法</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-10-04T06:31:59.901830</pubDate>
     </item>
   </channel>
 </rss>
