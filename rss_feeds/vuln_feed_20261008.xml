@@ -4,28 +4,42 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-08安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 08 Oct 2026 06:51:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:14:49 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-42978 - CVE-2026-42978 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/coactionbrittlemaidenhair51/CVE-2026-42978-PoC-Research'&gt;CVE-2026-42978-PoC-Research&lt;/a&gt;: Exploit and analyze CVE-2026-42978 with a Windows Push Notifications module for AI security, multi-protocol terminal, and autonomous agent suite.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42978</link>
-      <guid isPermaLink="false">CVE-2026-42978</guid>
-      <pubDate>2026-10-08T06:51:21.874050</pubDate>
+      <title>CVE-2025-57819 - CVE-2025-57819 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/foxcornlab/freepbx-rce-detector'&gt;freepbx-rce-detector&lt;/a&gt;: Triage scanner for CVE-2025-57819 (FreePBX Endpoint Manager unauthenticated SQLi to RCE). Detection only, no payloads.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-57819</link>
+      <guid isPermaLink="false">CVE-2025-57819</guid>
+      <pubDate>2026-10-08T14:14:49.589864</pubDate>
     </item>
     <item>
-      <title>CVE-2026-41089 - CVE-2026-41089 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/opensource-arrozconpollo191/CVE-2026-41089-Netlogon-RCE'&gt;CVE-2026-41089-Netlogon-RCE&lt;/a&gt;: Scan Windows Domain Controllers for CVE-2026-41089 to detect unauthenticated remote code execution vulnerabilities in the Netlogon service.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41089</link>
-      <guid isPermaLink="false">CVE-2026-41089</guid>
-      <pubDate>2026-10-08T06:51:21.874059</pubDate>
+      <title>CVE-2026-46242 - CVE-2026-46242 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/villager1314/CVE-2026-46242-Analysis'&gt;CVE-2026-46242-Analysis&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-46242</link>
+      <guid isPermaLink="false">CVE-2026-46242</guid>
+      <pubDate>2026-10-08T14:14:49.589870</pubDate>
     </item>
     <item>
-      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Liverwortenuresis371/copyfail-rs'&gt;copyfail-rs&lt;/a&gt;: Exploit and detect CVE-2026-31431 vulnerabilities using a static binary that monitors system integrity and bypasses PAM authentication.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
-      <guid isPermaLink="false">CVE-2026-31431</guid>
-      <pubDate>2026-10-08T06:51:21.874065</pubDate>
+      <title>CVE-2026-86060 - CVE-2026-86060 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gagaltotal/CVE-2026-mikrotik-poc'&gt;CVE-2026-mikrotik-poc&lt;/a&gt;: CVE-2026-86060 - CVE-2026-67279 - CVE-2026-67276 RouterOS SSH</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-86060</link>
+      <guid isPermaLink="false">CVE-2026-86060</guid>
+      <pubDate>2026-10-08T14:14:49.589873</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-67279 - CVE-2026-67279 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gagaltotal/CVE-2026-mikrotik-poc'&gt;CVE-2026-mikrotik-poc&lt;/a&gt;: CVE-2026-86060 - CVE-2026-67279 - CVE-2026-67276 RouterOS SSH</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-67279</link>
+      <guid isPermaLink="false">CVE-2026-67279</guid>
+      <pubDate>2026-10-08T14:14:49.589877</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-67276 - CVE-2026-67276 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gagaltotal/CVE-2026-mikrotik-poc'&gt;CVE-2026-mikrotik-poc&lt;/a&gt;: CVE-2026-86060 - CVE-2026-67279 - CVE-2026-67276 RouterOS SSH</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-67276</link>
+      <guid isPermaLink="false">CVE-2026-67276</guid>
+      <pubDate>2026-10-08T14:14:49.589880</pubDate>
     </item>
   </channel>
 </rss>
