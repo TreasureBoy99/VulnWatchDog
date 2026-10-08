@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790810415.5632799,
     "last_attempt": 1790950804.314124,
-    "next_attempt": 1791404506.4601684,
+    "next_attempt": 1791442351.9567955,
     "metadata": {},
     "task_id": "task_CVE-2026-93485_1790810415",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824402.9941826,
     "last_attempt": 1790996463.4830768,
-    "next_attempt": 1791404512.5073912,
+    "next_attempt": 1791442347.0189793,
     "metadata": {},
     "task_id": "task_CVE-2026-64560_1790824402",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824407.7271366,
     "last_attempt": 1791198073.872342,
-    "next_attempt": 1791404581.2312343,
+    "next_attempt": 1791442415.3439837,
     "metadata": {},
     "task_id": "task_CVE-2026-48500_1790824407",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824412.5065958,
     "last_attempt": 1790996468.51717,
-    "next_attempt": 1791404508.0538754,
+    "next_attempt": 1791442336.1825464,
     "metadata": {},
     "task_id": "task_CVE-2026-59310_1790824412",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824418.0543044,
     "last_attempt": 1790996463.4851696,
-    "next_attempt": 1791404493.8169105,
+    "next_attempt": 1791442354.3550415,
     "metadata": {},
     "task_id": "task_CVE-2026-59309_1790824418",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824424.2008288,
     "last_attempt": 1790996468.5266137,
-    "next_attempt": 1791404517.7688797,
+    "next_attempt": 1791442334.547619,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1790824424",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790824430.0765982,
     "last_attempt": 1790996468.5282931,
-    "next_attempt": 1791404514.7125278,
+    "next_attempt": 1791442332.8260725,
     "metadata": {},
     "task_id": "task_CVE-2026-64561_1790824430",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790850924.3575613,
     "last_attempt": 1790996475.8277812,
-    "next_attempt": 1791404513.7942185,
+    "next_attempt": 1791442328.8881302,
     "metadata": {},
     "task_id": "task_CVE-2025-54424_1790850924",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790850930.5053995,
     "last_attempt": 1790996475.8298469,
-    "next_attempt": 1791404508.700807,
+    "next_attempt": 1791442351.8491168,
     "metadata": {},
     "task_id": "task_CVE-2025-8110_1790850930",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790874739.2358196,
     "last_attempt": 1790996468.5378242,
-    "next_attempt": 1791404490.8681273,
+    "next_attempt": 1791442331.944986,
     "metadata": {},
     "task_id": "task_CVE-2026-24088_1790874739",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790892566.5759864,
     "last_attempt": 1790996468.5395572,
-    "next_attempt": 1791404515.1950872,
+    "next_attempt": 1791442341.6548014,
     "metadata": {},
     "task_id": "task_CVE-2026-42978_1790892566",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790892573.7138658,
     "last_attempt": 1790996463.494435,
-    "next_attempt": 1791404506.5494156,
+    "next_attempt": 1791442343.775436,
     "metadata": {},
     "task_id": "task_CVE-2026-41089_1790892573",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790906023.9133904,
     "last_attempt": 1790996470.8205857,
-    "next_attempt": 1791404509.2079067,
+    "next_attempt": 1791442345.133131,
     "metadata": {},
     "task_id": "task_CVE-2026-19553_1790906023",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790906028.9824386,
     "last_attempt": 1790996475.8391073,
-    "next_attempt": 1791404501.5105283,
+    "next_attempt": 1791442354.7600145,
     "metadata": {},
     "task_id": "task_CVE-2026-19445_1790906028",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790927147.2087271,
     "last_attempt": 1790996463.4961147,
-    "next_attempt": 1791404489.090832,
+    "next_attempt": 1791442342.2409217,
     "metadata": {},
     "task_id": "task_CVE-2025-66398_1790927147",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790927153.8632917,
     "last_attempt": 1790996475.841207,
-    "next_attempt": 1791404511.4001038,
+    "next_attempt": 1791442329.9288807,
     "metadata": {},
     "task_id": "task_CVE-2026-20841_1790927153",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790927159.797143,
     "last_attempt": 1790996475.8498392,
-    "next_attempt": 1791404508.606506,
+    "next_attempt": 1791442343.88848,
     "metadata": {},
     "task_id": "task_CVE-2026-24061_1790927159",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950781.6130583,
     "last_attempt": 1790996463.504616,
-    "next_attempt": 1791404506.8648417,
+    "next_attempt": 1791442330.2282274,
     "metadata": {},
     "task_id": "task_CVE-2026-31431_1790950781",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950788.3039005,
     "last_attempt": 1790996475.851742,
-    "next_attempt": 1791404495.8830264,
+    "next_attempt": 1791442328.2477944,
     "metadata": {},
     "task_id": "task_CVE-2026-31802_1790950788",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950793.1916378,
     "last_attempt": 1791037714.9560301,
-    "next_attempt": 1791404515.0966594,
+    "next_attempt": 1791442347.0578403,
     "metadata": {},
     "task_id": "task_CVE-2026-45805_1790950793",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950799.3038085,
     "last_attempt": 1791198045.5901802,
-    "next_attempt": 1791404513.5066917,
+    "next_attempt": 1791442354.7376046,
     "metadata": {},
     "task_id": "task_CVE-2026-40281_1790950799",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790950804.7404652,
     "last_attempt": 1791198045.5923471,
-    "next_attempt": 1791404510.3377235,
+    "next_attempt": 1791442345.3240883,
     "metadata": {},
     "task_id": "task_CVE-2026-42589_1790950804",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790970054.0784676,
     "last_attempt": 1791052030.3100364,
-    "next_attempt": 1791404515.932556,
+    "next_attempt": 1791442356.1295478,
     "metadata": {},
     "task_id": "task_CVE-2026-86950_1790970054",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790970059.8283787,
     "last_attempt": 1791198054.3765848,
-    "next_attempt": 1791404516.2692068,
+    "next_attempt": 1791442338.8401499,
     "metadata": {},
     "task_id": "task_CVE-2026-57827_1790970059",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790970064.8535693,
     "last_attempt": 1791037714.9573836,
-    "next_attempt": 1791404494.9294333,
+    "next_attempt": 1791442355.7974262,
     "metadata": {},
     "task_id": "task_CVE-2026-45585_1790970064",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790983575.4018836,
     "last_attempt": 1791198040.5829563,
-    "next_attempt": 1791404500.8664508,
+    "next_attempt": 1791442339.1178997,
     "metadata": {},
     "task_id": "task_CVE-2026-81000_1790983575",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790996438.4147103,
     "last_attempt": 1791198045.6036413,
-    "next_attempt": 1791404497.4806755,
+    "next_attempt": 1791442342.3075783,
     "metadata": {},
     "task_id": "task_CVE-2026-9558_1790996438",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790996470.814545,
     "last_attempt": 1791052030.3116221,
-    "next_attempt": 1791404501.3448598,
+    "next_attempt": 1791442328.8033445,
     "metadata": {},
     "task_id": "task_CVE-2026-88771_1790996470",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1790996476.0245373,
     "last_attempt": 1791198054.3791745,
-    "next_attempt": 1791404511.2707572,
+    "next_attempt": 1791442329.8942626,
     "metadata": {},
     "task_id": "task_CVE-2026-88772_1790996476",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791052020.5915668,
     "last_attempt": 1791198045.6057465,
-    "next_attempt": 1791404513.4772978,
+    "next_attempt": 1791442340.6632195,
     "metadata": {},
     "task_id": "task_CVE-2025-21065_1791052020",
     "required_result_fields": [
@@ -880,7 +880,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791052025.3025782,
     "last_attempt": 1791198054.3909612,
-    "next_attempt": 1791404487.8906207,
+    "next_attempt": 1791442336.015986,
     "metadata": {},
     "task_id": "task_CVE-2025-24257_1791052025",
     "required_result_fields": [
@@ -909,7 +909,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791052030.604131,
     "last_attempt": 1791198054.3931735,
-    "next_attempt": 1791404497.3391187,
+    "next_attempt": 1791442328.9811528,
     "metadata": {},
     "task_id": "task_CVE-2026-2472_1791052030",
     "required_result_fields": [
@@ -938,7 +938,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791072907.7281036,
     "last_attempt": 1791198045.616099,
-    "next_attempt": 1791404490.647154,
+    "next_attempt": 1791442336.0255833,
     "metadata": {},
     "task_id": "task_CVE-2026-53787_1791072907",
     "required_result_fields": [
@@ -967,7 +967,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791118660.5202231,
     "last_attempt": 1791198054.4040086,
-    "next_attempt": 1791404503.5569358,
+    "next_attempt": 1791442352.7944913,
     "metadata": {},
     "task_id": "task_CVE-2026-96451_1791118660",
     "required_result_fields": [
@@ -996,7 +996,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791198049.3692577,
     "last_attempt": 1791404474.4047978,
-    "next_attempt": 1791404547.6328118,
+    "next_attempt": 1791442332.4089875,
     "metadata": {},
     "task_id": "task_CVE-2025-14847_1791198049",
     "required_result_fields": [
@@ -1025,7 +1025,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791198061.629603,
     "last_attempt": 1791404463.754184,
-    "next_attempt": 1791404550.1794262,
+    "next_attempt": 1791442341.867852,
     "metadata": {},
     "task_id": "task_CVE-2025-54769_1791198061",
     "required_result_fields": [
@@ -1054,7 +1054,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791198068.8562088,
     "last_attempt": 1791404474.4078374,
-    "next_attempt": 1791404559.231564,
+    "next_attempt": 1791442344.7134736,
     "metadata": {},
     "task_id": "task_CVE-2025-55182_1791198068",
     "required_result_fields": [
@@ -1083,7 +1083,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791248604.5986373,
     "last_attempt": 1791404463.7571986,
-    "next_attempt": 1791404536.6319172,
+    "next_attempt": 1791442339.0990012,
     "metadata": {},
     "task_id": "task_CVE-2025-49844_1791248604",
     "required_result_fields": [
@@ -1112,7 +1112,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791300864.5315979,
     "last_attempt": 1791404463.7742584,
-    "next_attempt": 1791404556.5158808,
+    "next_attempt": 1791442345.1696148,
     "metadata": {},
     "task_id": "task_CVE-2026-59265_1791300864",
     "required_result_fields": [
@@ -1141,7 +1141,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791300871.8668396,
     "last_attempt": 1791404468.7833803,
-    "next_attempt": 1791404558.9557374,
+    "next_attempt": 1791442326.448441,
     "metadata": {},
     "task_id": "task_CVE-2026-63277_1791300871",
     "required_result_fields": [
@@ -1170,7 +1170,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791319230.1183507,
     "last_attempt": 1791404460.9506443,
-    "next_attempt": 1791404555.415712,
+    "next_attempt": 1791442341.842991,
     "metadata": {},
     "task_id": "task_CVE-2026-103648_1791319230",
     "required_result_fields": [
@@ -1199,7 +1199,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791319245.9560044,
     "last_attempt": 1791404443.0653446,
-    "next_attempt": 1791404485.6584735,
+    "next_attempt": 1791442299.0959456,
     "metadata": {},
     "task_id": "task_CVE-2026-57967_1791319245",
     "required_result_fields": [
@@ -1228,7 +1228,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791332116.085026,
     "last_attempt": 1791404481.2025392,
-    "next_attempt": 1791404550.3462536,
+    "next_attempt": 1791442335.1525502,
     "metadata": {},
     "task_id": "task_CVE-2025-68921_1791332116",
     "required_result_fields": [
@@ -1257,7 +1257,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791355369.5171504,
     "last_attempt": 1791404443.0820749,
-    "next_attempt": 1791404484.801705,
+    "next_attempt": 1791442303.9946806,
     "metadata": {},
     "task_id": "task_CVE-2026-93834_1791355369",
     "required_result_fields": [
@@ -1286,7 +1286,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791381860.2374258,
     "last_attempt": 1791404450.931132,
-    "next_attempt": 1791404483.131326,
+    "next_attempt": 1791442305.4702399,
     "metadata": {},
     "task_id": "task_CVE-2026-21589_1791381860",
     "required_result_fields": [
@@ -1315,7 +1315,7 @@
     "last_error": "API返回空结果",
     "created_at": 1791381866.144546,
     "last_attempt": 1791404460.9535127,
-    "next_attempt": 1791404496.4473531,
+    "next_attempt": 1791442303.647809,
     "metadata": {},
     "task_id": "task_CVE-2026-43805_1791381866",
     "required_result_fields": [
@@ -1336,15 +1336,15 @@
   {
     "cve_id": "CVE-2026-83548",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-83548\", \"sources\": [\"NVD\", \"CISA\", \"OSCS\"], \"descriptions\": [\"A Pre-authentication SSRF vulnerability exists in the SMA1000 Appliance Work Place interface due to an unintended alternate access path. A remote unauthenticated attacker could potentially exploit this vulnerability to gain unauthorized access to sensitive functionality and perform unauthorized operations.\", \"\\u6807\\u9898: SMA1000\\u9884\\u8ba4\\u8bc1SSRF\\u6f0f\\u6d1e\"], \"published_date\": \"2026-09-01T22:17:13.170\", \"last_modified_date\": \"2026-09-03T13:06:16.053\", \"cvss_score\": 10.0, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"p\", \"s\", \"i\", \"r\", \"t\", \".\", \"g\", \"l\", \"o\", \"b\", \"a\", \"l\", \".\", \"s\", \"o\", \"n\", \"i\", \"c\", \"w\", \"a\", \"l\", \"l\", \".\", \"c\", \"o\", \"m\", \"/\", \"v\", \"u\", \"l\", \"n\", \"-\", \"d\", \"e\", \"t\", \"a\", \"i\", \"l\", \"/\", \"S\", \"N\", \"W\", \"L\", \"I\", \"D\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"0\", \"0\", \"1\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"w\", \"w\", \"w\", \".\", \"c\", \"i\", \"s\", \"a\", \".\", \"g\", \"o\", \"v\", \"/\", \"k\", \"n\", \"o\", \"w\", \"n\", \"-\", \"e\", \"x\", \"p\", \"l\", \"o\", \"i\", \"t\", \"e\", \"d\", \"-\", \"v\", \"u\", \"l\", \"n\", \"e\", \"r\", \"a\", \"b\", \"i\", \"l\", \"i\", \"t\", \"i\", \"e\", \"s\", \"-\", \"c\", \"a\", \"t\", \"a\", \"l\", \"o\", \"g\", \"?\", \"f\", \"i\", \"e\", \"l\", \"d\", \"_\", \"c\", \"v\", \"e\", \"=\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"8\", \"3\", \"5\", \"4\", \"8\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-83548 (CRITICAL) — details, PoC & remediation ...\n [description] Sep 1, 2026 · This CVE is on CISA’s actively-exploited list, so the clock is real — a vetted specialist can deliver a reviewed fix for your staging environment quickly. You’ll deal with our team directly and deploy the reviewed fix to staging first — never straight to production.\n [link] https://dbcve.org/cve/CVE-2026-83548\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-83548: Sma1000 Server-Side Request Forgery (SSRF ...\n [description] Sep 1, 2026 · Yes, public proof-of-concept (PoC) exploit references and code are available for CVE-2026-83548. Security teams should test and verify mitigation controls on affected assets immediately.\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-83548/\n [webpage 1 end]\n[webpage 2 begin] [title] Sonicwall sma8200v < 12.5.0-02952 — PoC exploit for CVE ...\n [description] Sep 1, 2026 · Pre-auth SSRF in SMA1000 Appliance Work Place interface enables unauthorized access. (CVE-2026-83548)\n [link] https://sploitus.com/exploit?id=CVE-2026-83548\n [webpage 2 end]\n[webpage 3 begin] [title] 【已复现】SonicWall SMA1000 CVE-2026-83548 SSRF / CVE-2026-83549...\n [description] Sep 3, 2026 · SonicWall SMA1000系列存在两个高危漏洞：CVE-2026-83548为认证前SSRF，CVSS满分10.0，已遭在野利用；CVE-2026-83549为认证后OS命令注入，组合可绕过认证实现未授权 远程代码执行，影响多版本，需尽快升级修复。\n [link] https://cn-sec.com/archives/5418539.html\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-83548 & CVE-2026-83549: SonicWall Zero-Days\n [description] Sep 3, 2026 · SonicWall explicitly states that CVE-2026-83548 and CVE-2026-83549 are unrelated to previously reported vulnerabilities in other SonicWall products. As of the initial September disclosure, there was no indexed public CVE-2026-83548 PoC identified by the sources reviewed.\n [link] https://socprime.com/blog/cve-2026-83548-and-cve-2026-83549-analysis/\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/63aec10eb64830c6435e7eb7c83ee5db/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 xcoy0te\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/63aec10eb64830c6435e7eb7c83ee5db/README.md\n---\n# SonicWall SMA 1000 — CVE-2026-83548 / CVE-2026-83549 Exposure Detector\n\nA **non-intrusive** detection script for SonicWall Secure Mobile Access (SMA) 1000\nseries appliances affected by **CVE-2026-83548** (pre-auth SSRF in the Work Place\ninterface, CVSS 10.0) and **CVE-2026-83549** (post-auth OS command injection in the\nAMC, CVSS 7.8) — two actively-exploited zero-days chained for unauthenticated RCE.\n\n> This is a **patch-state / exposure check**, not an exploit. It performs only\n> read-only HTTP(S) GET requests, sends **no** SSRF or command-injection payload,\n> and makes **no** authentication attempt. There is no proof-of-concept here.\n\n## What it does\n\n1. Fetches the target's root page over HTTPS.\n2. Fingerprints whether it is a SonicWall SMA 1000 **WorkPlace** portal\n   (`Server: SMA/*`, `__extraweb__` assets, `SMA 1000 Series` help link).\n3. Extracts the firmware version the appliance advertises.\n4. Compares it against SonicWall's published **fixed** builds and reports:\n   - **PATCHED** — build ≥ the fixed build for its line.\n   - **AFFECTED** — build < the fixed build (only when an exact build is exposed).\n   - **POTENTIALLY AFFECTED** — on an affected firmware *line* but the exact hotfix\n     build is not exposed externally (the common case — see limitation below).\n   - **NOT SMA 1000** — target doesn't look like an SMA 1000 WorkPlace portal.\n\n## Affected / fixed versions\n\n| Firmware line | Affected (≤)      | Fixed (≥)          |\n|---------------|-------------------|--------------------|\n| 12.4.3        | `12.4.3-03453`    | `12.4.3-03526`     |\n| 12.5.0        | `12.5.0-02835`    | `12.5.0-02952`     |\n\nSource: SonicWall product notice **SNWLID-2026-0016**. Affected hardware: SMA 1000\nmodels 6210, 7210, 8200v.\n\n## Important limitation (read this)\n\nAn SMA 1000 typically advertises only its **major.minor.patch line** (e.g. `12.5.0`)\nexternally — **not** the exact hotfix build (e.g. `12.5.0-02902`). Because the fixed\nbuild (`12.5.0-02952`) sits on the **same 12.5.0 line** as vulnerable builds, a target\nthat exposes only `12.5.0` **cannot** be classified as patched-or-vulnerable from the\noutside. In that case the tool returns **POTENTIALLY AFFECTED** and tells you to confirm\nthe exact build locally (appliance console / AMC). A \"POTENTIALLY AFFECTED\" result is\n**not** proof of vulnerability — the appliance may well be patched.\n\n## Usage\n\nRequires Python 3.8+ (standard library only — no dependencies).\n\n```bash\n# Single target (verify the cert)\npython3 sma1000_detect.py vpn.example.com\n\n# By bare IP with a wildcard cert — skip cert verification\npython3 sma1000_detect.py -k https://203.0.113.10\n\n# Several targets, custom timeout\npython3 sma1000_detect.py -t 10 host-a.example.com host-b.example.com\n```\n\nExample output:\n\n```\n[?] POTENTIALLY AFFECTED  https://vpn.example.com\n        Server: SMA/12.5\n        Version advertised: 12.5.0\n        SMA 1000 on the 12.5.0 line, but the exact hotfix build is not exposed\n        externally. This line contains BOTH vulnerable (< 12.5.0-02952) and patched\n        (>= 12.5.0-02952) builds, so patch state is UNDETERMINED from outside. Verify\n        the build locally (appliance console / AMC): confirm it is >= 12.5.0-02952.\n```\n\n### Exit codes\n\n| Code | Meaning                                   |\n|------|-------------------------------------------|\n| 0    | Patched / not affected                    |\n| 1    | Affected, or potentially affected (verify)|\n| 2    | Not an SMA 1000 / undetermined            |\n| 3    | Connection or other error                 |\n\n## Remediation\n\nUpgrade to **12.4.3-03526** or **12.5.0-02952** (or later) per SonicWall's advisory.\nBecause these CVEs are **actively exploited in the wild**, if an appliance was running\na vulnerable build while internet-exposed, treat it as potentially compromised: che\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 2,
+    "retry_count": 3,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1791404450.921963,
-    "last_attempt": 1791404468.7869377,
-    "next_attempt": 1791404486.3877404,
+    "last_attempt": 1791442280.8421762,
+    "next_attempt": 1791442324.3393433,
     "metadata": {},
     "task_id": "task_CVE-2026-83548_1791404450",
     "required_result_fields": [
@@ -1365,15 +1365,15 @@
   {
     "cve_id": "CVE-2026-33150",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-33150\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"libfuse is the reference implementation of the Linux FUSE. From version 3.18.0 to before version 3.18.2, a use-after-free vulnerability in the io_uring subsystem of libfuse allows a local attacker to crash FUSE filesystem processes and potentially execute arbitrary code. When io_uring thread creation fails due to resource exhaustion (e.g., cgroup pids.max), fuse_uring_start() frees the ring pool structure but stores the dangling pointer in the session state, leading to a use-after-free when the session shuts down. The trigger is reliable in containerized environments where cgroup pids.max limits naturally constrain thread creation. This issue has been patched in version 3.18.2.\", \"\\u6807\\u9898: libfuse 3.18.x \\u91ca\\u653e\\u540e\\u91cd\\u7528\\u6f0f\\u6d1e\"], \"published_date\": \"2026-03-20T21:17:15.410\", \"last_modified_date\": \"2026-07-15T02:20:03.623\", \"cvss_score\": 7.8, \"severity\": \"HIGH\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"4\", \"9\", \"f\", \"c\", \"d\", \"8\", \"9\", \"1\", \"a\", \"5\", \"8\", \"f\", \"6\", \"2\", \"2\", \"c\", \"0\", \"9\", \"8\", \"e\", \"2\", \"c\", \"a\", \"6\", \"7\", \"d\", \"6\", \"6\", \"0\", \"8\", \"6\", \"f\", \"7\", \"b\", \"2\", \"1\", \"3\", \"8\", \"3\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"r\", \"e\", \"l\", \"e\", \"a\", \"s\", \"e\", \"s\", \"/\", \"t\", \"a\", \"g\", \"/\", \"f\", \"u\", \"s\", \"e\", \"-\", \"3\", \".\", \"1\", \"8\", \".\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"q\", \"x\", \"v\", \"7\", \"-\", \"x\", \"r\", \"c\", \"2\", \"-\", \"q\", \"m\", \"f\", \"x\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"a\", \"c\", \"c\", \"e\", \"s\", \"s\", \".\", \"r\", \"e\", \"d\", \"h\", \"a\", \"t\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"c\", \"v\", \"e\", \"/\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"3\", \"1\", \"5\", \"0\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"b\", \"u\", \"g\", \"z\", \"i\", \"l\", \"l\", \"a\", \".\", \"r\", \"e\", \"d\", \"h\", \"a\", \"t\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"h\", \"o\", \"w\", \"_\", \"b\", \"u\", \"g\", \".\", \"c\", \"g\", \"i\", \"?\", \"i\", \"d\", \"=\", \"2\", \"4\", \"4\", \"9\", \"7\", \"7\", \"1\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \".\", \"a\", \"c\", \"c\", \"e\", \"s\", \"s\", \".\", \"r\", \"e\", \"d\", \"h\", \"a\", \"t\", \".\", \"c\", \"o\", \"m\", \"/\", \"d\", \"a\", \"t\", \"a\", \"/\", \"c\", \"s\", \"a\", \"f\", \"/\", \"v\", \"2\", \"/\", \"v\", \"e\", \"x\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"c\", \"v\", \"e\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"3\", \"3\", \"1\", \"5\", \"0\", \".\", \"j\", \"s\", \"o\", \"n\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/8f33f105c217c5f9d4679340b2f0097f/Gemfile\n---\n# frozen_string_literal: true\n\nsource \"https://rubygems.org\"\n\ngem \"jekyll-theme-chirpy\", \"~> 7.5\"\n\ngem \"html-proofer\", \"~> 5.0\", group: :test\n\nplatforms :windows, :jruby do\n  gem \"tzinfo\", \">= 1\", \"< 3\"\n  gem \"tzinfo-data\"\nend\n\ngem \"wdm\", \"~> 0.2.0\", :platforms => [:windows]\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/LICENSE\n---\nMIT License\n\nCopyright (c) 2021 Cotes Chung\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/README.md\n---\n# Chirpy Starter\n\n[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;\n[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]\n\nWhen installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders\n`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file\nfrom the theme's gem. If you have ever installed this theme gem, you can use the command\n`bundle info --path jekyll-theme-chirpy` to locate these files.\n\nThe Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being\nable to enjoy the out-of-the-box experience when using feature-rich themes.\n\nTo fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your\nJekyll site. The following is a list of targets:\n\n```shell\n.\n├── _config.yml\n├── _plugins\n├── _tabs\n└── index.html\n```\n\nTo save you time, and also in case you lose some files while copying, we extract those files/configurations of the\nlatest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.\n\n## Usage\n\nCheck out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).\n\n## Contributing\n\nThis repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.\n\n## License\n\nThis work is published under [MIT][mit] License.\n\n[gem]: https://rubygems.org/gems/jekyll-theme-chirpy\n[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/\n[CD]: https://en.wikipedia.org/wiki/Continuous_deployment\n[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/_config.yml\n---\n# The Site Configuration\n\n# Import the theme\ntheme: jekyll-theme-chirpy\n\n# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm\n# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,\n# otherwise, the layout language will use the default value of 'en'.\nlang: en\n\n# Change to your timezone › https://zones.arilyn.cc\ntimezone:\n\n# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md\n# ↓ --------------------------\n\ntitle: Abhinav Agarwal\n\ntagline: Security Research\n\ndescription: >-\n  Security vulnerability research and advisories by Abhinav Agarwal.\n\nurl: \"https://abhinavagarwal07.github.io\"\n\nbaseurl: \"\"\n\ngithub:\n  username: abhinavagarwal07\n\ntwitter:\n  username: abhinav_sec\n\nsocial:\n  name: Abhinav Agarwal\n  email: \"abhinavagarwal1996@gmail.com\"  # obfuscated in posts to prevent scraping\n  links:\n    - https://twitter.com/abhinav_sec\n    - https://github.com/abhinavagarwal07\n    # - https://www.linkedin.com/in/username\n\n# Site Verification Settings\nwebmaster_verifications:\n  google: # fill in your Google verification code\n  bing: # fill in your Bing verification code\n  alexa: # fill in your Alexa verification code\n  yandex: # fill in your Yandex verification code\n  baidu: # fill in your Baidu verification code\n  facebook: # fill in your Facebook verification code\n\n# ↑ --------------------------\n# The end of `jekyll-seo-tag` settings\n\n# Web Analytics Settings\nanalytics:\n  google:\n    id: # fill in y\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 2,
+    "retry_count": 3,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1791404463.7445128,
-    "last_attempt": 1791404479.433879,
-    "next_attempt": 1791404497.9573102,
+    "last_attempt": 1791442280.8449924,
+    "next_attempt": 1791442316.0717022,
     "metadata": {},
     "task_id": "task_CVE-2026-33150_1791404463",
     "required_result_fields": [
@@ -1393,16 +1393,16 @@
   },
   {
     "cve_id": "CVE-2026-33179",
-    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-33179\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"libfuse is the reference implementation of the Linux FUSE. From version 3.18.0 to before version 3.18.2, a NULL pointer dereference and memory leak in fuse_uring_init_queue allows a local user to crash the FUSE daemon or cause resource exhaustion. When numa_alloc_local fails during io_uring queue entry setup, the code proceeds with NULL pointers. When fuse_uring_register_queue fails, NUMA allocations are leaked and the function incorrectly returns success. Only the io_uring transport is affected; the traditional /dev/fuse path is not affected. PoC confirmed with AddressSanitizer/LeakSanitizer. This issue has been patched in version 3.18.2.\", \"\\u6807\\u9898: libfuse 3.18.x io_uring\\u7a7a\\u6307\\u9488\\u6f0f\\u6d1e\"], \"published_date\": \"2026-03-20T21:17:16.593\", \"last_modified_date\": \"2026-06-17T10:37:05.247\", \"cvss_score\": 5.5, \"severity\": \"MEDIUM\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"7\", \"b\", \"e\", \"b\", \"8\", \"6\", \"c\", \"0\", \"9\", \"b\", \"6\", \"e\", \"c\", \"5\", \"a\", \"a\", \"b\", \"1\", \"4\", \"d\", \"c\", \"2\", \"5\", \"2\", \"5\", \"6\", \"e\", \"d\", \"8\", \"a\", \"5\", \"a\", \"d\", \"1\", \"8\", \"5\", \"5\", \"4\", \"d\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"r\", \"e\", \"l\", \"e\", \"a\", \"s\", \"e\", \"s\", \"/\", \"t\", \"a\", \"g\", \"/\", \"f\", \"u\", \"s\", \"e\", \"-\", \"3\", \".\", \"1\", \"8\", \".\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"x\", \"6\", \"6\", \"9\", \"-\", \"v\", \"3\", \"m\", \"q\", \"-\", \"r\", \"3\", \"5\", \"8\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-33179 PoC, Exploit Status & Vulnerability Details ...\n [description] Mar 20, 2026 · No public exploit code has been confirmed for CVE-2026-33179 at this time. Security teams should monitor threat feeds for emerging developments and apply vendor patches proactively.\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-33179/\n [webpage 0 end]\n[webpage 1 begin] [title] NVD-CVE-2026-33179\n [description] Technical Cyber Security Questions: US-CERT Security Operations Center Email: soc@us-cert.gov Phone: 1-888-282-0870 Site Privacy | Accessibility | Privacy Program | Copyrights | Vulnerability Disclosure | No Fear Act Policy | FOIA | Environmental Policy | Scientific Integrity | Information Quality Standards | Commerce.gov | Science.gov | USA.gov\n [link] https://nvd.nist.gov/vuln/detail/cve-2026-33179\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-33179 - libfuse: NULL Pointer Dereference and Memory ...\n [description] Mar 20, 2026 · The Common Vulnerability Scoring System is a standardized framework for assessing the severity of vulnerabilities in software and systems. We collect and displays CVSS scores from various sources for each CVE.\n [link] https://cvefeed.io/vuln/detail/CVE-2026-33179\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-33179 Security Vulnerability & Exploit Details\n [description] Mar 20, 2026 · Below is the Impact Analysis for CVE-2026-33179, showing how Confidentiality, Integrity, and Availability might be affected if the vulnerability is exploited.\n [link] https://cve.akaoma.com/cve-2026-33179\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-33179 - Red Hat Customer Portal\n [description] Mar 20, 2026 · The term 'Affected' means that our Analysis team has determined that this product, such as Red Hat Enterprise Linux 8 or OpenShift Container Platform 4, is affected by this vulnerability and a fix may be released to address this issue in the near future.\n [link] https://access.redhat.com/security/cve/cve-2026-33179\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/8f33f105c217c5f9d4679340b2f0097f/Gemfile\n---\n# frozen_string_literal: true\n\nsource \"https://rubygems.org\"\n\ngem \"jekyll-theme-chirpy\", \"~> 7.5\"\n\ngem \"html-proofer\", \"~> 5.0\", group: :test\n\nplatforms :windows, :jruby do\n  gem \"tzinfo\", \">= 1\", \"< 3\"\n  gem \"tzinfo-data\"\nend\n\ngem \"wdm\", \"~> 0.2.0\", :platforms => [:windows]\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/LICENSE\n---\nMIT License\n\nCopyright (c) 2021 Cotes Chung\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/README.md\n---\n# Chirpy Starter\n\n[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;\n[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]\n\nWhen installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders\n`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file\nfrom the theme's gem. If you have ever installed this theme gem, you can use the command\n`bundle info --path jekyll-theme-chirpy` to locate these files.\n\nThe Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being\nable to enjoy the out-of-the-box experience when using feature-rich themes.\n\nTo fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your\nJekyll site. The following is a list of targets:\n\n```shell\n.\n├── _config.yml\n├── _plugins\n├── _tabs\n└── index.html\n```\n\nTo save you time, and also in case you lose some files while copying, we extract those files/configurations of the\nlatest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.\n\n## Usage\n\nCheck out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).\n\n## Contributing\n\nThis repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.\n\n## License\n\nThis work is published under [MIT][mit] License.\n\n[gem]: https://rubygems.org/gems/jekyll-theme-chirpy\n[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/\n[CD]: https://en.wikipedia.org/wiki/Continuous_deployment\n[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/_config.yml\n---\n# The Site Configuration\n\n# Import the theme\ntheme: jekyll-theme-chirpy\n\n# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm\n# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,\n# otherwise, the layout language will use the default value of 'en'.\nlang: en\n\n# Change to your timezone › https://zones.arilyn.cc\ntimezone:\n\n# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md\n# ↓ --------------------------\n\ntitle: Abhinav Agarwal\n\ntagline: Security Research\n\ndescription: >-\n  Security vulnerability research and advisories by Abhinav Agarwal.\n\nurl: \"https://abhinavagarwal07.github.io\"\n\nbaseurl: \"\"\n\ngithub:\n  username: abhinavagarwal07\n\ntwitter:\n  username: abhinav_sec\n\nsocial:\n  name: Abhinav Agarwal\n  email: \"abhinavagarwal1996@gmail.com\"  # obfuscated in posts to prevent scraping\n  links:\n    - https://twitter.com/abhinav_sec\n    - https://github.com/abhinavagarwal07\n    # - https://www.linkedin.com/in/username\n\n# Site Verification Settings\nwebmaster_verifications:\n  google: # fill in your Google verification code\n  bing: # fill in your Bing verification code\n  alexa: # fill in your Alexa verification code\n  yandex: # fill in your Yandex verification code\n  baidu: # fill in your Baidu verification code\n  facebook: # fill in your Facebook verification code\n\n# ↑ --------------------------\n# The end of `jekyll-seo-tag` settings\n\n# Web Analytics Settings\nanalytics:\n  google:\n    id: # fill in y\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 1,
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-33179\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"libfuse is the reference implementation of the Linux FUSE. From version 3.18.0 to before version 3.18.2, a NULL pointer dereference and memory leak in fuse_uring_init_queue allows a local user to crash the FUSE daemon or cause resource exhaustion. When numa_alloc_local fails during io_uring queue entry setup, the code proceeds with NULL pointers. When fuse_uring_register_queue fails, NUMA allocations are leaked and the function incorrectly returns success. Only the io_uring transport is affected; the traditional /dev/fuse path is not affected. PoC confirmed with AddressSanitizer/LeakSanitizer. This issue has been patched in version 3.18.2.\", \"\\u6807\\u9898: libfuse 3.18.x io_uring\\u7a7a\\u6307\\u9488\\u6f0f\\u6d1e\"], \"published_date\": \"2026-03-20T21:17:16.593\", \"last_modified_date\": \"2026-06-17T10:37:05.247\", \"cvss_score\": 5.5, \"severity\": \"MEDIUM\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"7\", \"b\", \"e\", \"b\", \"8\", \"6\", \"c\", \"0\", \"9\", \"b\", \"6\", \"e\", \"c\", \"5\", \"a\", \"a\", \"b\", \"1\", \"4\", \"d\", \"c\", \"2\", \"5\", \"2\", \"5\", \"6\", \"e\", \"d\", \"8\", \"a\", \"5\", \"a\", \"d\", \"1\", \"8\", \"5\", \"5\", \"4\", \"d\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"r\", \"e\", \"l\", \"e\", \"a\", \"s\", \"e\", \"s\", \"/\", \"t\", \"a\", \"g\", \"/\", \"f\", \"u\", \"s\", \"e\", \"-\", \"3\", \".\", \"1\", \"8\", \".\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"l\", \"i\", \"b\", \"f\", \"u\", \"s\", \"e\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"x\", \"6\", \"6\", \"9\", \"-\", \"v\", \"3\", \"m\", \"q\", \"-\", \"r\", \"3\", \"5\", \"8\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-33179 PoC, Exploit Status & Vulnerability Details ...\n [description] Mar 20, 2026 · No public exploit code has been confirmed for CVE-2026-33179 at this time. Security teams should monitor threat feeds for emerging developments and apply vendor patches proactively.\n [link] https://www.thehackerwire.com/vulnerability/CVE-2026-33179/\n [webpage 0 end]\n[webpage 1 begin] [title] NVD-CVE-2026-33179\n [description] Technical Cyber Security Questions: US-CERT Security Operations Center Email: soc@us-cert.gov Phone: 1-888-282-0870 Site Privacy | Accessibility | Privacy Program | Copyrights | Vulnerability Disclosure | No Fear Act Policy | FOIA | Environmental Policy | Scientific Integrity | Information Quality Standards | Commerce.gov | Science.gov | USA.gov\n [link] https://nvd.nist.gov/vuln/detail/cve-2026-33179\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-33179 - libfuse: NULL Pointer Dereference and Memory ...\n [description] Mar 20, 2026 · The Common Vulnerability Scoring System is a standardized framework for assessing the severity of vulnerabilities in software and systems. We collect and displays CVSS scores from various sources for each CVE.\n [link] https://cvefeed.io/vuln/detail/CVE-2026-33179\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-33179 Security Vulnerability & Exploit Details\n [description] Mar 20, 2026 · Below is the Impact Analysis for CVE-2026-33179, showing how Confidentiality, Integrity, and Availability might be affected if the vulnerability is exploited.\n [link] https://cve.akaoma.com/cve-2026-33179\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-33179 - Red Hat Customer Portal\n [description] Mar 20, 2026 · The term 'Affected' means that our Analysis team has determined that this product, such as Red Hat Enterprise Linux 8 or OpenShift Container Platform 4, is affected by this vulnerability and a fix may be released to address this issue in the near future.\n [link] https://access.redhat.com/security/cve/cve-2026-33179\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/8f33f105c217c5f9d4679340b2f0097f/Gemfile\n---\n# frozen_string_literal: true\n\nsource \"https://rubygems.org\"\n\ngem \"jekyll-theme-chirpy\", \"~> 7.5\"\n\ngem \"html-proofer\", \"~> 5.0\", group: :test\n\nplatforms :windows, :jruby do\n  gem \"tzinfo\", \">= 1\", \"< 3\"\n  gem \"tzinfo-data\"\nend\n\ngem \"wdm\", \"~> 0.2.0\", :platforms => [:windows]\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/LICENSE\n---\nMIT License\n\nCopyright (c) 2021 Cotes Chung\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/README.md\n---\n# Chirpy Starter\n\n[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;\n[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]\n\nWhen installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders\n`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file\nfrom the theme's gem. If you have ever installed this theme gem, you can use the command\n`bundle info --path jekyll-theme-chirpy` to locate these files.\n\nThe Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being\nable to enjoy the out-of-the-box experience when using feature-rich themes.\n\nTo fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your\nJekyll site. The following is a list of targets:\n\n```shell\n.\n├── _config.yml\n├── _plugins\n├── _tabs\n└── index.html\n```\n\nTo save you time, and also in case you lose some files while copying, we extract those files/configurations of the\nlatest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.\n\n## Usage\n\nCheck out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).\n\n## Contributing\n\nThis repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.\n\n## License\n\nThis work is published under [MIT][mit] License.\n\n[gem]: https://rubygems.org/gems/jekyll-theme-chirpy\n[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/\n[CD]: https://en.wikipedia.org/wiki/Continuous_deployment\n[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE\n\n\n---\n/tmp/8f33f105c217c5f9d4679340b2f0097f/_config.yml\n---\n# The Site Configuration\n\n# Import the theme\ntheme: jekyll-theme-chirpy\n\n# The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm\n# If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,\n# otherwise, the layout language will use the default value of 'en'.\nlang: en\n\n# Change to your timezone › https://zones.arilyn.cc\ntimezone:\n\n# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md\n# ↓ --------------------------\n\ntitle: Abhinav Agarwal\n\ntagline: Security Research\n\ndescription: >-\n  Security vulnerability research and advisories by Abhinav Agarwal.\n\nurl: \"https://abhinavagarwal07.github.io\"\n\nbaseurl: \"\"\n\ngithub:\n  username: abhinavagarwal07\n\ntwitter:\n  username: abhinav_sec\n\nsocial:\n  name: Abhinav Agarwal\n  email: \"abhinavagarwal1996@gmail.com\"  # obfuscated in posts to prevent scraping\n  links:\n    - https://twitter.com/abhinav_sec\n    - https://github.com/abhinavagarwal07\n    # - https://www.linkedin.com/in/username\n\n# Site Verification Settings\nwebmaster_verifications:\n  google: # fill in your Google verification code\n  bing: # fill in your Bing verification code\n  alexa: # fill in your Alexa verification code\n  yandex: # fill in your Yandex verification code\n  baidu: # fill in your Baidu verification code\n  facebook: # fill in your Facebook verification code\n\n# ↑ --------------------------\n# The end of `jekyll-seo-tag` settings\n\n# Web Analytics Settings\nanalytics:\n  google:\n    id: # fill in y\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ,
+    "retry_count": 2,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1791404469.3947537,
-    "last_attempt": 1791404474.4248605,
-    "next_attempt": 1791404485.5886087,
+    "last_attempt": 1791442275.8238754,
+    "next_attempt": 1791442292.036799,
     "metadata": {},
     "task_id": "task_CVE-2026-33179_1791404469",
     "required_result_fields": [
@@ -1422,16 +1422,16 @@
   },
   {
     "cve_id": "CVE-2026-105844",
-    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-105844\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.\", \"\\u6807\\u9898: Payload \\u5bfc\\u5165\\u5bfc\\u51fa\\u63d2\\u4ef6\\u539f\\u578b\\u94fe\\u6c61\\u67d3\\u6f0f\\u6d1e\"], \"published_date\": \"2026-10-06T16:17:06.400\", \"last_modified_date\": \"2026-10-06T20:03:40.690\", \"cvss_score\": null, \"severity\": null, \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"c\", \"m\", \"s\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"a\", \"7\", \"4\", \"2\", \"1\", \"4\", \"0\", \"a\", \"b\", \"4\", \"f\", \"c\", \"a\", \"3\", \"1\", \"6\", \"0\", \"f\", \"7\", \"f\", \"8\", \"3\", \"e\", \"9\", \"e\", \"7\", \"d\", \"9\", \"9\", \"6\", \"5\", \"5\", \"2\", \"f\", \"f\", \"c\", \"3\", \"b\", \"5\", \"a\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"c\", \"m\", \"s\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"/\", \"r\", \"e\", \"l\", \"e\", \"a\", \"s\", \"e\", \"s\", \"/\", \"t\", \"a\", \"g\", \"/\", \"v\", \"3\", \".\", \"8\", \"8\", \".\", \"0\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"c\", \"m\", \"s\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"q\", \"f\", \"2\", \"8\", \"-\", \"8\", \"h\", \"c\", \"6\", \"-\", \"v\", \"w\", \"r\", \"p\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/0d22cab4933d8b2c3edd37f2464e87f7/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 yoyo <#\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/0d22cab4933d8b2c3edd37f2464e87f7/README.md\n---\n# CVE-2026-105844 — Payload CMS import-export prototype pollution\n\nPython 3 PoC for **[CVE-2026-105844](https://pocbit.org/pocs/cve-2026-105844)** — **Payload CMS** + **`@payloadcms/plugin-import-export`** — **CWE-1321** prototype pollution → **access-control bypass** and potential **RCE** (app-dependent). **CVSS 4.0 9.3 Critical**.\n\n| Field | Value |\n| --- | --- |\n| **PoCbit page** | [https://pocbit.org/pocs/cve-2026-105844](https://pocbit.org/pocs/cve-2026-105844) |\n| **GHSA** | [GHSA-qf28-8hc6-vwrp](https://github.com/payloadcms/payload/security/advisories/GHSA-qf28-8hc6-vwrp) |\n| **Affected** | Payload / plugin **≥ 3.0.0 &lt; 3.88.0**, canary **&lt; 4.0.0-canary.27** |\n| **Fixed** | **3.88.0**, **4.0.0-canary.27** |\n| **Endpoint** | `POST /api/exports/export-preview` (default exports slug) |\n| **Trigger** | `fields`: `__proto__.overrideAccess` (via vulnerable `getSelect()`) |\n\nOnly sites with the **Import/Export plugin enabled** are affected.\n\n---\n\n## FOFA / discovery\n\nPayload alone is **not enough** — the **Import/Export** plugin must be installed. Use **tier 1** for volume, **tier 2** to narrow, then confirm with `python poc.py --mode check`.\n\n**Tier 1 — Payload CMS (wide)**\n\n```text\nbody=\"Login - Payload\" || body=\"Payload Admin\" || title=\"Payload\"\nbody=\"@layer payload-default\" || body=\"payload__modal\"\nbody=\"/admin/login\" && (body=\"Payload\" || title=\"Payload\")\nheader=\"payload-token\" || header=\"Set-Cookie: payload-token\"\n```\n\n**Tier 2 — Import/Export plugin hints (narrower)**\n\n```text\nbody=\"plugin-import-export\" || body=\"@payloadcms/plugin-import-export\"\nbody=\"export-preview\" && body=\"Payload\"\nbody=\"/admin/collections/exports\" || body=\"collections/exports\"\nbody=\"createCollectionExport\" || body=\"ImportExportProvider\"\n```\n\n**Tier 3 — API surface (manual / poc check)**\n\nFOFA rarely indexes POST bodies; after tier 1–2, verify:\n\n```text\nbody=\"/api/\" && body=\"Payload\"\n```\n\nThen on each host: `POST /api/exports/export-preview` (or `--exports-slug` if customized).\n\n**Shodan (same logic):** `http.html:\"Login - Payload\"`, `http.html:\"plugin-import-export\"`.\n\n**False positives:** patched **≥ 3.88.0**, plugin disabled, or custom export collection slug → always run **`check`**.\n\n---\n\n## Mechanism\n\n1. `handlePreview` calls `getSelect(fields)` when `fields` is non-empty.\n2. Vulnerable `getSelect` (before 3.88.0) walks dot-paths on a plain object; segment **`__proto__`** attaches to **`Object.prototype`**.\n3. Path **`__proto__.overrideAccess`** sets **`Object.prototype.overrideAccess = true`**.\n4. Later Payload operations that merge `{}` with access options inherit **`overrideAccess: true`** → unauthenticated **REST API** reads/writes.\n\nPatched code rejects `__proto__`, `constructor`, `prototype` and returns **`Invalid field path.`**\n\n---\n\n## Usage\n\n```bash\ncd CVE-2026-105844\npip install -r requirements.txt\n\npython poc.py -u https://cms.example --mode check\npython poc.py -u https://cms.example --mode check --aggressive\npython poc.py -u https://cms.example --mode exploit --collection users\npython poc.py --list targets.example.txt --mode check -j 20\npython poc.py --list hits.txt --mode exploit -j 10\n```\n\n**Check:** endpoint exists + pollution path **not** blocked (no `Invalid field path`). **`--aggressive`:** compares `GET /api/{collection}` doc count before/after pollution.\n\n**Exploit:** pollute → `GET /api/users` (or chosen collection) → JSON **`docs`** leak; fallback checks **export-preview** body.\n\nOptions: `--exports-slug`, `--collection` (repeatable), `--pollution-path`.\n\nOutputs: **`hits.txt`**, **`exploited.txt`**, **`cve_2026_105844_*.jsonl`**.\n\n---\n\n## Remediation\n\nUpgrade to **Payload 3.88.0+** (or **4.0.0-canary.27+**). Until then: **disable** the import-export plugin or block **`/api/*/export-preview`** at the edge.\n\n---\n\n## Legal\n\nAuthorized testing only.\n\n\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 0,
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-105844\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.\", \"\\u6807\\u9898: Payload \\u5bfc\\u5165\\u5bfc\\u51fa\\u63d2\\u4ef6\\u539f\\u578b\\u94fe\\u6c61\\u67d3\\u6f0f\\u6d1e\"], \"published_date\": \"2026-10-06T16:17:06.400\", \"last_modified_date\": \"2026-10-06T20:03:40.690\", \"cvss_score\": null, \"severity\": null, \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"c\", \"m\", \"s\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"/\", \"c\", \"o\", \"m\", \"m\", \"i\", \"t\", \"/\", \"a\", \"7\", \"4\", \"2\", \"1\", \"4\", \"0\", \"a\", \"b\", \"4\", \"f\", \"c\", \"a\", \"3\", \"1\", \"6\", \"0\", \"f\", \"7\", \"f\", \"8\", \"3\", \"e\", \"9\", \"e\", \"7\", \"d\", \"9\", \"9\", \"6\", \"5\", \"5\", \"2\", \"f\", \"f\", \"c\", \"3\", \"b\", \"5\", \"a\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"c\", \"m\", \"s\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"/\", \"r\", \"e\", \"l\", \"e\", \"a\", \"s\", \"e\", \"s\", \"/\", \"t\", \"a\", \"g\", \"/\", \"v\", \"3\", \".\", \"8\", \"8\", \".\", \"0\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"c\", \"m\", \"s\", \"/\", \"p\", \"a\", \"y\", \"l\", \"o\", \"a\", \"d\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"q\", \"f\", \"2\", \"8\", \"-\", \"8\", \"h\", \"c\", \"6\", \"-\", \"v\", \"w\", \"r\", \"p\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/0d22cab4933d8b2c3edd37f2464e87f7/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 yoyo <#\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/0d22cab4933d8b2c3edd37f2464e87f7/README.md\n---\n# CVE-2026-105844 — Payload CMS import-export prototype pollution\n\nPython 3 PoC for **[CVE-2026-105844](https://pocbit.org/pocs/cve-2026-105844)** — **Payload CMS** + **`@payloadcms/plugin-import-export`** — **CWE-1321** prototype pollution → **access-control bypass** and potential **RCE** (app-dependent). **CVSS 4.0 9.3 Critical**.\n\n| Field | Value |\n| --- | --- |\n| **PoCbit page** | [https://pocbit.org/pocs/cve-2026-105844](https://pocbit.org/pocs/cve-2026-105844) |\n| **GHSA** | [GHSA-qf28-8hc6-vwrp](https://github.com/payloadcms/payload/security/advisories/GHSA-qf28-8hc6-vwrp) |\n| **Affected** | Payload / plugin **≥ 3.0.0 &lt; 3.88.0**, canary **&lt; 4.0.0-canary.27** |\n| **Fixed** | **3.88.0**, **4.0.0-canary.27** |\n| **Endpoint** | `POST /api/exports/export-preview` (default exports slug) |\n| **Trigger** | `fields`: `__proto__.overrideAccess` (via vulnerable `getSelect()`) |\n\nOnly sites with the **Import/Export plugin enabled** are affected.\n\n---\n\n## FOFA / discovery\n\nPayload alone is **not enough** — the **Import/Export** plugin must be installed. Use **tier 1** for volume, **tier 2** to narrow, then confirm with `python poc.py --mode check`.\n\n**Tier 1 — Payload CMS (wide)**\n\n```text\nbody=\"Login - Payload\" || body=\"Payload Admin\" || title=\"Payload\"\nbody=\"@layer payload-default\" || body=\"payload__modal\"\nbody=\"/admin/login\" && (body=\"Payload\" || title=\"Payload\")\nheader=\"payload-token\" || header=\"Set-Cookie: payload-token\"\n```\n\n**Tier 2 — Import/Export plugin hints (narrower)**\n\n```text\nbody=\"plugin-import-export\" || body=\"@payloadcms/plugin-import-export\"\nbody=\"export-preview\" && body=\"Payload\"\nbody=\"/admin/collections/exports\" || body=\"collections/exports\"\nbody=\"createCollectionExport\" || body=\"ImportExportProvider\"\n```\n\n**Tier 3 — API surface (manual / poc check)**\n\nFOFA rarely indexes POST bodies; after tier 1–2, verify:\n\n```text\nbody=\"/api/\" && body=\"Payload\"\n```\n\nThen on each host: `POST /api/exports/export-preview` (or `--exports-slug` if customized).\n\n**Shodan (same logic):** `http.html:\"Login - Payload\"`, `http.html:\"plugin-import-export\"`.\n\n**False positives:** patched **≥ 3.88.0**, plugin disabled, or custom export collection slug → always run **`check`**.\n\n---\n\n## Mechanism\n\n1. `handlePreview` calls `getSelect(fields)` when `fields` is non-empty.\n2. Vulnerable `getSelect` (before 3.88.0) walks dot-paths on a plain object; segment **`__proto__`** attaches to **`Object.prototype`**.\n3. Path **`__proto__.overrideAccess`** sets **`Object.prototype.overrideAccess = true`**.\n4. Later Payload operations that merge `{}` with access options inherit **`overrideAccess: true`** → unauthenticated **REST API** reads/writes.\n\nPatched code rejects `__proto__`, `constructor`, `prototype` and returns **`Invalid field path.`**\n\n---\n\n## Usage\n\n```bash\ncd CVE-2026-105844\npip install -r requirements.txt\n\npython poc.py -u https://cms.example --mode check\npython poc.py -u https://cms.example --mode check --aggressive\npython poc.py -u https://cms.example --mode exploit --collection users\npython poc.py --list targets.example.txt --mode check -j 20\npython poc.py --list hits.txt --mode exploit -j 10\n```\n\n**Check:** endpoint exists + pollution path **not** blocked (no `Invalid field path`). **`--aggressive`:** compares `GET /api/{collection}` doc count before/after pollution.\n\n**Exploit:** pollute → `GET /api/users` (or chosen collection) → JSON **`docs`** leak; fallback checks **export-preview** body.\n\nOptions: `--exports-slug`, `--collection` (repeatable), `--pollution-path`.\n\nOutputs: **`hits.txt`**, **`exploited.txt`**, **`cve_2026_105844_*.jsonl`**.\n\n---\n\n## Remediation\n\nUpgrade to **Payload 3.88.0+** (or **4.0.0-canary.27+**). Until then: **disable** the import-export plugin or block **`/api/*/export-preview`** at the edge.\n\n---\n\n## Legal\n\nAuthorized testing only.\n\n\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",,
+    "retry_count": 2,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
-    "error_type": null,
-    "last_error": null,
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
     "created_at": 1791404481.1927242,
-    "last_attempt": 0,
-    "next_attempt": 1791404487.027088,
+    "last_attempt": 1791442275.8270357,
+    "next_attempt": 1791442294.2099574,
     "metadata": {},
     "task_id": "task_CVE-2026-105844_1791404481",
     "required_result_fields": [
