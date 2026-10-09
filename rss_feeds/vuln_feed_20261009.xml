@@ -4,21 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-09安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 09 Oct 2026 07:00:14 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:14:02 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-49844 - CVE-2025-49844 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Zain3311/CVE-2025-49844'&gt;CVE-2025-49844&lt;/a&gt;: 🚨 Exploit the CVE-2025-49844 Redis Lua interpreter UAF vulnerability to execute arbitrary shellcode and gain persistent backdoor access.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-49844</link>
-      <guid isPermaLink="false">CVE-2025-49844</guid>
-      <pubDate>2026-10-09T07:00:14.750469</pubDate>
+      <title>CVE-2025-34071 - CVE-2025-34071 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cppghoul/CVE-2025-34071'&gt;CVE-2025-34071&lt;/a&gt;: RCE in Kerio Control 9.4.5 via unsigned firmware update.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-34071</link>
+      <guid isPermaLink="false">CVE-2025-34071</guid>
+      <pubDate>2026-10-09T14:14:02.302037</pubDate>
     </item>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo'&gt;RootMyVivo&lt;/a&gt;: One-click root for vivo/iQOO devices on locked bootloader | CVE-2026-43499 + KernelSU</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-10-09T07:00:14.750478</pubDate>
+      <title>CVE-2026-64561 - CVE-2026-64561 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarif450/Zapscape'&gt;Zapscape&lt;/a&gt;: Guest-to-host KVM/x86 escape exploiting CVE-2026-64561, delivering a full PoC chain and analysis for security researchers.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64561</link>
+      <guid isPermaLink="false">CVE-2026-64561</guid>
+      <pubDate>2026-10-09T14:14:02.302046</pubDate>
     </item>
   </channel>
 </rss>
