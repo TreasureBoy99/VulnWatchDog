@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-10安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 10 Oct 2026 03:28:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 10:17:07 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-21479 - CVE-2025-21479 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Type010/cheese-app'&gt;cheese-app&lt;/a&gt;: CVE-2025-21479</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-21479</link>
-      <guid isPermaLink="false">CVE-2025-21479</guid>
-      <pubDate>2026-10-10T03:28:27.651358</pubDate>
+      <title>CVE-2025-54424 - CVE-2025-54424 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hophtien/CVE-2025-54424'&gt;CVE-2025-54424&lt;/a&gt;: CVE-2025-54424: 1Panel TLS client cert bypass enables RCE via forged CN 'panel_client' using a bundled scanning and exploitation tool. Affected: &lt;= v2.0.5. 🔐</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-54424</link>
+      <guid isPermaLink="false">CVE-2025-54424</guid>
+      <pubDate>2026-10-10T10:17:07.159704</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-21589 - CVE-2026-21589 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/webserverdude/f5_CVE-2026-21589_mitigation'&gt;f5_CVE-2026-21589_mitigation&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-21589</link>
+      <guid isPermaLink="false">CVE-2026-21589</guid>
+      <pubDate>2026-10-10T10:17:07.159715</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tingao/debian-on-s23-ultra'&gt;debian-on-s23-ultra&lt;/a&gt;: A Samsung Galaxy S23 Ultra running Debian 13 as a server. The bootloader is locked, so an app re-establishes root after every reboot: Shizuku, CVE-2026-43499, KernelSU Next late-load, then a Debian chroot with sshd. One APK, quickstart, chroot bootstrap, and notes on everything that did not work.&lt;br&gt;&lt;a href='https://github.com/deancyl/s9180-rootmygalaxy'&gt;s9180-rootmygalaxy&lt;/a&gt;: RootMyGalaxy for Galaxy S23 Ultra SM-S9180 (FZG1) - temp root via CVE-2026-43499, KernelSU late-load, no partition flashing, no Knox&lt;br&gt;&lt;a href='https://github.com/zenyxx-xd/RootMyVivo'&gt;RootMyVivo&lt;/a&gt;: One-click root for vivo/iQOO devices on locked bootloader | CVE-2026-43499 + KernelSU</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-10-10T10:17:07.159722</pubDate>
     </item>
   </channel>
 </rss>
