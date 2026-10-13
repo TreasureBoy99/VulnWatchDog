@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-10-13安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Tue, 13 Oct 2026 04:39:56 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-85097 - CVE-2026-85097 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tc4dy/CVE-2026-85097-Toolkit'&gt;CVE-2026-85097-Toolkit&lt;/a&gt;: CVE-2026-85097 – Bricksforge WordPress Plugin Unauth File Upload to RCE Toolkit (CVSS 10.0) | Red/Blue Team suite for Bricksforge Pro Forms &lt; 3.1.8.9. 2 tools: Full Exploit (polyglot upload, web shell, mass scan, OPSEC, SQLite/JSON output) + SafeChecker (version detect, non-intrusive audit). Ethical &amp; educational use only.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-85097</link>
+      <guid isPermaLink="false">CVE-2026-85097</guid>
+      <pubDate>2026-10-13T04:39:56.766464</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-41450 - CVE-2025-41450 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/msuiche/fromagegate'&gt;fromagegate&lt;/a&gt;: FROMAGEGATE — PoC + detection toolkit for Danfoss AK-SM 8xxA CVE-2025-41450/-41451/-41452 (code-of-the-day auth bypass, alarm-to-mail RCE, nginx config injection). For detection-signature development.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-41450</link>
+      <guid isPermaLink="false">CVE-2025-41450</guid>
+      <pubDate>2026-10-13T04:39:56.766470</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-41940 - CVE-2026-41940 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tc4dy/CVE-2026-41940-PoC-Exploit'&gt;CVE-2026-41940-PoC-Exploit&lt;/a&gt;: CVE-2026-41940 cPanel/WHM Auth Bypass Exploit - Best Flow - CRLF injection leads to auth bypass, session hijacking &amp; account leak. Proxy, custom UA, keep-alive, retries, SSL verify, colored output, file save support. Advanced PoC for pentesters. Only Ethical &amp; Safety Uses.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-41940</link>
+      <guid isPermaLink="false">CVE-2026-41940</guid>
+      <pubDate>2026-10-13T04:39:56.766475</pubDate>
+    </item>
+  </channel>
+</rss>
