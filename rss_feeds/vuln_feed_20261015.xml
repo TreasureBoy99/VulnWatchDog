@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-10-15安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Thu, 15 Oct 2026 01:07:20 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-44825 - CVE-2026-44825 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/q0524/CVE-2026-44825_CTF'&gt;CVE-2026-44825_CTF&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-44825</link>
+      <guid isPermaLink="false">CVE-2026-44825</guid>
+      <pubDate>2026-10-15T01:07:20.132131</pubDate>
+    </item>
+  </channel>
+</rss>

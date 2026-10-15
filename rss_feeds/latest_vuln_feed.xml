@@ -2,44 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-14安全漏洞信息</description>
+    <description>2026-10-15安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 14 Oct 2026 14:13:28 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:07:20 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-67281 - CVE-2026-67281 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-'&gt;Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-67281</link>
-      <guid isPermaLink="false">CVE-2026-67281</guid>
-      <pubDate>2026-10-14T14:13:28.383781</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-74034 - CVE-2026-74034 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/roninreilly/wazuh-unauth-chain'&gt;wazuh-unauth-chain&lt;/a&gt;: Unauthenticated Wazuh exploit chain: CVE-2026-74034 root file read + CVE-2026-74041 root RCE + global SSH key persistence (Python, stdlib only)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-74034</link>
-      <guid isPermaLink="false">CVE-2026-74034</guid>
-      <pubDate>2026-10-14T14:13:28.383790</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-74041 - CVE-2026-74041 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/roninreilly/wazuh-unauth-chain'&gt;wazuh-unauth-chain&lt;/a&gt;: Unauthenticated Wazuh exploit chain: CVE-2026-74034 root file read + CVE-2026-74041 root RCE + global SSH key persistence (Python, stdlib only)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-74041</link>
-      <guid isPermaLink="false">CVE-2026-74041</guid>
-      <pubDate>2026-10-14T14:13:28.383797</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-54121 - CVE-2026-54121 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ushst/CVE-2026-54121-adcs-chase-nxc'&gt;CVE-2026-54121-adcs-chase-nxc&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-54121</link>
-      <guid isPermaLink="false">CVE-2026-54121</guid>
-      <pubDate>2026-10-14T14:13:28.383802</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-16723 - CVE-2026-16723 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/xiaoqiMikko/fastjson-check'&gt;fastjson-check&lt;/a&gt;: fastjson vulnerability scanner - detect fastjson in JARs and Spring Boot fat-JARs, check exposure to CVE-2026-16723, and verify whether you already run the official patch 1.2.84. Zero-dependency offline CLI. fastjson 漏洞检测与排查工具：一条命令扫描依赖，支持 fat-JAR 与 shaded 依赖，并判定是否已升到官方补丁版本 1.2.84。</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-16723</link>
-      <guid isPermaLink="false">CVE-2026-16723</guid>
-      <pubDate>2026-10-14T14:13:28.383807</pubDate>
+      <title>CVE-2026-44825 - CVE-2026-44825 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/q0524/CVE-2026-44825_CTF'&gt;CVE-2026-44825_CTF&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-44825</link>
+      <guid isPermaLink="false">CVE-2026-44825</guid>
+      <pubDate>2026-10-15T01:07:20.132131</pubDate>
     </item>
   </channel>
 </rss>
