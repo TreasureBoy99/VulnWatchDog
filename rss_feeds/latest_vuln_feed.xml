@@ -2,16 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-15安全漏洞信息</description>
+    <description>2026-10-16安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 15 Oct 2026 06:45:01 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 02:21:46 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-54121 - CVE-2026-54121 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ushst/CVE-2026-54121-adcs-chase-nxc'&gt;CVE-2026-54121-adcs-chase-nxc&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-54121</link>
-      <guid isPermaLink="false">CVE-2026-54121</guid>
-      <pubDate>2026-10-15T06:45:01.763758</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/shangu2003-2/SamsungRootKit'&gt;SamsungRootKit&lt;/a&gt;: Offline Android root toolkit for Samsung Galaxy. DF chain (DirtyFrag) first, auto-fallback to SRK chain (CVE-2026-43499), then DFReroot persistence. KernelSU &amp; KernelSU-Next. For security research only.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-10-16T02:21:46.099720</pubDate>
     </item>
   </channel>
 </rss>
