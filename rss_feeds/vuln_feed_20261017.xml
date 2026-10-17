@@ -4,21 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-17安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 17 Oct 2026 02:14:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 07:20:48 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-59970 - CVE-2026-59970 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/asvorg/CVE-2026-59970-poc'&gt;CVE-2026-59970-poc&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59970</link>
-      <guid isPermaLink="false">CVE-2026-59970</guid>
-      <pubDate>2026-10-17T02:14:34.137084</pubDate>
+      <title>CVE-2026-97205 - CVE-2026-97205 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-97205'&gt;CVE-2026-97205&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-97205</link>
+      <guid isPermaLink="false">CVE-2026-97205</guid>
+      <pubDate>2026-10-17T07:20:48.484810</pubDate>
     </item>
     <item>
-      <title>CVE-2026-8933 - CVE-2026-8933 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/songzzzz/CVE-2026-8933'&gt;CVE-2026-8933&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-8933</link>
-      <guid isPermaLink="false">CVE-2026-8933</guid>
-      <pubDate>2026-10-17T02:14:34.137090</pubDate>
+      <title>CVE-2026-45321 - CVE-2026-45321 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/fabriziosalmi/tanstack-compromise-checker'&gt;tanstack-compromise-checker&lt;/a&gt;: Shell script to detect TanStack npm supply chain attack indicators (CVE-2026-45321 / GHSA-g7cv-rxg3-hmpx)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45321</link>
+      <guid isPermaLink="false">CVE-2026-45321</guid>
+      <pubDate>2026-10-17T07:20:48.484819</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-81000 - CVE-2026-81000 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/tunderflow'&gt;tunderflow&lt;/a&gt;: Tracking TUNderflow (CVE-2026-81000), the Linux kernel TUN/TAP receive-headroom underflow</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-81000</link>
+      <guid isPermaLink="false">CVE-2026-81000</guid>
+      <pubDate>2026-10-17T07:20:48.484825</pubDate>
     </item>
   </channel>
 </rss>
