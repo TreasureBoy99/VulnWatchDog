@@ -4,14 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-21安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 21 Oct 2026 05:33:41 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:52:56 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/orbitron-ai/php2shell-response-kit'&gt;php2shell-response-kit&lt;/a&gt;: php2shell response kit. (CVE-2026-109618 / CVE-2026-109619)&lt;br&gt;&lt;a href='https://github.com/WeszNL/directadmin-php2shell-ansible-mitigation'&gt;directadmin-php2shell-ansible-mitigation&lt;/a&gt;: Temporary PHP2Shell mitigation for DirectAdmin PHP-FPM servers (CVE-2026-109618, CVE-2026-109619) using Ansible. Includes deployment, verification and rollback.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-10-21T10:52:56.392261</pubDate>
+    </item>
+    <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mikensec/php2shell-lab'&gt;php2shell-lab&lt;/a&gt;: Offline, reproducible lab to safely analyse an untrusted PoC for CVE-2026-109618/109619 and build detection rules. No exploit included; bring your own sample.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/orbitron-ai/php2shell-response-kit'&gt;php2shell-response-kit&lt;/a&gt;: php2shell response kit. (CVE-2026-109618 / CVE-2026-109619)&lt;br&gt;&lt;a href='https://github.com/kur0s4k1/Red-Team'&gt;Red-Team&lt;/a&gt;: Red Team arsenal: exploits y PoCs verificados en laboratorio. CVE-2026-109618 — PHP session.upload_progress a RCE, con video de la explotacion.&lt;br&gt;&lt;a href='https://github.com/Is4yev/php2shell-poc'&gt;php2shell-poc&lt;/a&gt;: CVE-2026-109618/109619 PHP2Shell — Heap UAF PoC (crash + RCE framework)&lt;br&gt;&lt;a href='https://github.com/codewizdevs/php2shell-watcher'&gt;php2shell-watcher&lt;/a&gt;: Cloudflare Worker: edge detection + blocking for PHP session.upload_progress RCE (CVE-2026-109618/109619) with Discord alerts — free tier, no KV&lt;br&gt;&lt;a href='https://github.com/WeszNL/directadmin-php2shell-ansible-mitigation'&gt;directadmin-php2shell-ansible-mitigation&lt;/a&gt;: Temporary PHP2Shell mitigation for DirectAdmin PHP-FPM servers (CVE-2026-109618, CVE-2026-109619) using Ansible. Includes deployment, verification and rollback.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-21T05:33:41.574667</pubDate>
+      <pubDate>2026-10-21T10:52:56.392270</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-27509 - CVE-2025-27509 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Chillov3k/poc-cve-2025-27509'&gt;poc-cve-2025-27509&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-27509</link>
+      <guid isPermaLink="false">CVE-2025-27509</guid>
+      <pubDate>2026-10-21T10:52:56.392276</pubDate>
     </item>
   </channel>
 </rss>
