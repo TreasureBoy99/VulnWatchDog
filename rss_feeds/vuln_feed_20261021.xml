@@ -4,42 +4,14 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-21安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 21 Oct 2026 00:15:25 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:33:41 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-44714 - CVE-2026-44714 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Bitcoinjimmy/BABEF'&gt;BABEF&lt;/a&gt;: This framework has been RE-WEAPONIZED &amp; exploits CVE-2026-44714, a critical signature verification flaw in the bitcoinj library (Java implementation of the Bitcoin protocol). Unpatched applications are vulnerable to transaction spoofing, allowing attackers to:</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-44714</link>
-      <guid isPermaLink="false">CVE-2026-44714</guid>
-      <pubDate>2026-10-21T00:15:25.931448</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-33825 - CVE-2026-33825 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Bitcoinjimmy/NEO-DEFENDER'&gt;NEO-DEFENDER&lt;/a&gt;: This framework has been **RE-WEAPONIZED** &amp; exploits CVE-2026-33825, a local privilege escalation (LPE) vulnerability in Microsoft Defender caused by insufficient access control granularity. The exploit:</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-33825</link>
-      <guid isPermaLink="false">CVE-2026-33825</guid>
-      <pubDate>2026-10-21T00:15:25.931457</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-62911 - CVE-2026-62911 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/fahise/cve-2026-62911'&gt;cve-2026-62911&lt;/a&gt;: cve-2026-62911-exploit</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-62911</link>
-      <guid isPermaLink="false">CVE-2026-62911</guid>
-      <pubDate>2026-10-21T00:15:25.931462</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-108592 - CVE-2026-108592 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/asvorg/CVE-2026-108592-poc'&gt;CVE-2026-108592-poc&lt;/a&gt;: CVE-2026-108592 — Environment Variable Exposure PoC in mini-swe-agent</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-108592</link>
-      <guid isPermaLink="false">CVE-2026-108592</guid>
-      <pubDate>2026-10-21T00:15:25.931468</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-39987 - CVE-2026-39987 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Bitcoinjimmy/MARABUSE-'&gt;MARABUSE-&lt;/a&gt;: MARIMO RCE &amp; NKABUSE EXPLOIT FRAMEWORK (CVE-2026-39987) - RE-WEAPONIZED - This framework exploits CVE-2026-39987, a critical Remote Code Execution (RCE) vulnerability in Marimo, a popular Python-based data visualization tool. Attackers actively exploit this flaw to deploy NKAbuse, a blockchain-based botnet malware.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-39987</link>
-      <guid isPermaLink="false">CVE-2026-39987</guid>
-      <pubDate>2026-10-21T00:15:25.931474</pubDate>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mikensec/php2shell-lab'&gt;php2shell-lab&lt;/a&gt;: Offline, reproducible lab to safely analyse an untrusted PoC for CVE-2026-109618/109619 and build detection rules. No exploit included; bring your own sample.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-10-21T05:33:41.574667</pubDate>
     </item>
   </channel>
 </rss>
