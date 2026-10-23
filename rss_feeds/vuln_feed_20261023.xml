@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-10-23安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Fri, 23 Oct 2026 02:40:11 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/renyang-create/php2shell-repro'&gt;php2shell-repro&lt;/a&gt;: CVE-2026-109618 / CVE-2026-109619 本地复现笔记：UAF 原语验证、利用链边界分析、加固方案&lt;br&gt;&lt;a href='https://github.com/gputier/php-rfc1867-guard'&gt;php-rfc1867-guard&lt;/a&gt;: PHP extension that makes the php2shell session upload-progress handler (CVE-2026-109618 / CVE-2026-109619) unreachable, for every PHP from 5.3 to 8.5.&lt;br&gt;&lt;a href='https://github.com/AbodyStudio/php2shell-shield'&gt;php2shell-shield&lt;/a&gt;: Risk-reduction WordPress plugin for the PHP2Shell exploit (CVE-2026-109618 / CVE-2026-109619) on sites that cannot update PHP yet. A shield, not a cure.&lt;br&gt;&lt;a href='https://github.com/webninjjacoder/security-backports-for-php74'&gt;security-backports-for-php74&lt;/a&gt;: Unofficial security backports for PHP 7.4 on Ubuntu 20.04 (focal): fixes CVE-2026-109618 and CVE-2026-109619 for servers without Ubuntu Pro&lt;br&gt;&lt;a href='https://github.com/bagusindrayana/php-vuln-scan'&gt;php-vuln-scan&lt;/a&gt;: scan and fix php version affected by  CVE-2026-109618 and CVE-2026-109619&lt;br&gt;&lt;a href='https://github.com/SideeID/php2shell'&gt;php2shell&lt;/a&gt;: scanner CVE-2026-109618/CVE-2026-109619. write with bun</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-10-23T02:40:11.966209</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/renyang-create/php2shell-repro'&gt;php2shell-repro&lt;/a&gt;: CVE-2026-109618 / CVE-2026-109619 本地复现笔记：UAF 原语验证、利用链边界分析、加固方案&lt;br&gt;&lt;a href='https://github.com/xuehuolll/php2shell-CVE-2026-109618-109619'&gt;php2shell-CVE-2026-109618-109619&lt;/a&gt;: CVE-2026-109618/109619 — PHP session.upload_progress pre-auth RCE. Exploit research: remote ASLR chain, PoC &amp; patch analysis.&lt;br&gt;&lt;a href='https://github.com/dinosn/php-cve-2026-10961x-lab-poc'&gt;php-cve-2026-10961x-lab-poc&lt;/a&gt;: PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12&lt;br&gt;&lt;a href='https://github.com/gputier/php-rfc1867-guard'&gt;php-rfc1867-guard&lt;/a&gt;: PHP extension that makes the php2shell session upload-progress handler (CVE-2026-109618 / CVE-2026-109619) unreachable, for every PHP from 5.3 to 8.5.&lt;br&gt;&lt;a href='https://github.com/AbodyStudio/php2shell-shield'&gt;php2shell-shield&lt;/a&gt;: Risk-reduction WordPress plugin for the PHP2Shell exploit (CVE-2026-109618 / CVE-2026-109619) on sites that cannot update PHP yet. A shield, not a cure.&lt;br&gt;&lt;a href='https://github.com/463861437/guard-for-php74'&gt;guard-for-php74&lt;/a&gt;: Guard for PHP 7.4: native Linux package remediation for CVE-2026-109618/109619, with verified build recipes and deployment checks.&lt;br&gt;&lt;a href='https://github.com/webninjjacoder/security-backports-for-php74'&gt;security-backports-for-php74&lt;/a&gt;: Unofficial security backports for PHP 7.4 on Ubuntu 20.04 (focal): fixes CVE-2026-109618 and CVE-2026-109619 for servers without Ubuntu Pro&lt;br&gt;&lt;a href='https://github.com/bagusindrayana/php-vuln-scan'&gt;php-vuln-scan&lt;/a&gt;: scan and fix php version affected by  CVE-2026-109618 and CVE-2026-109619&lt;br&gt;&lt;a href='https://github.com/Pr0fEs0r-X/PHP2ShellX-'&gt;PHP2ShellX-&lt;/a&gt;: Script que detecta si tu versión de PHP es vulnerable a PHP2Shell (CVE-2026-109618 / 109619)&lt;br&gt;&lt;a href='https://github.com/SideeID/php2shell'&gt;php2shell&lt;/a&gt;: scanner CVE-2026-109618/CVE-2026-109619. write with bun</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-10-23T02:40:11.966217</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-10961 - CVE-2026-10961 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/php-cve-2026-10961x-lab-poc'&gt;php-cve-2026-10961x-lab-poc&lt;/a&gt;: PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-10961</link>
+      <guid isPermaLink="false">CVE-2026-10961</guid>
+      <pubDate>2026-10-23T02:40:11.966221</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/duytien241/nodejs-CVE-2026-111497'&gt;nodejs-CVE-2026-111497&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/dimasma0305/CVE-2026-111497-POC'&gt;CVE-2026-111497-POC&lt;/a&gt;: Reproducible local Brotli decoder proof for CVE-2026-111497 with a self-checking tuned RCE harness</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-10-23T02:40:11.966226</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-76504 - CVE-2026-76504 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/pastelghost3/cve-2026-76504-nuclei'&gt;cve-2026-76504-nuclei&lt;/a&gt;: Nuclei template for CVE-2026-76504 — Cisco vManage authentication bypass</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-76504</link>
+      <guid isPermaLink="false">CVE-2026-76504</guid>
+      <pubDate>2026-10-23T02:40:11.966229</pubDate>
+    </item>
+  </channel>
+</rss>
