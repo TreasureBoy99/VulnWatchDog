@@ -4,175 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-24安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 24 Oct 2026 00:12:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:14:35 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-106073 - CVE-2026-106073 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-106073-check'&gt;node-cve-2026-106073-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-106073: Node.js: Permission Model realpathSync read bypass. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-106073</link>
-      <guid isPermaLink="false">CVE-2026-106073</guid>
-      <pubDate>2026-10-24T00:12:10.303377</pubDate>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lmoyacarias/nodejs-cve-2026-111497-checker'&gt;nodejs-cve-2026-111497-checker&lt;/a&gt;: Python 3 security auditing tool for CVE-2026-111497. Checks Node.js version thresholds and provides basic HTTP header inspection and SSH-based runtime version verification. Designed for non-destructive security assessments without sending exploit payloads.&lt;br&gt;&lt;a href='https://github.com/malikad778/php2shell-guard'&gt;php2shell-guard&lt;/a&gt;: Read-only defensive auditor (no exploit code or PoC, zero dependencies) for PHP2Shell CVE-2026-109618, CVE-2026-109619, and Node.js CVE-2026-111497.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-10-24T05:14:35.202000</pubDate>
     </item>
     <item>
-      <title>CVE-2026-106071 - CVE-2026-106071 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-106071-check'&gt;node-cve-2026-106071-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-106071: Node.js: Permission Model wildcard path over-grant. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-106071</link>
-      <guid isPermaLink="false">CVE-2026-106071</guid>
-      <pubDate>2026-10-24T00:12:10.303386</pubDate>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NaNoBotCo/php-patch'&gt;php-patch&lt;/a&gt;: The PHP Patch: PHP2Shell (CVE-2026-109618, CVE-2026-109619) explained — meaning, who is exposed, how to fix&lt;br&gt;&lt;a href='https://github.com/DARKSTUFF-LAB/php2shell-poc'&gt;php2shell-poc&lt;/a&gt;: CVE-2026-109618 &amp; CVE-2026-109619 — PHP Pre-Auth RCE Exploit &amp; Detection Toolkit&lt;br&gt;&lt;a href='https://github.com/malikad778/php2shell-guard'&gt;php2shell-guard&lt;/a&gt;: Read-only defensive auditor (no exploit code or PoC, zero dependencies) for PHP2Shell CVE-2026-109618, CVE-2026-109619, and Node.js CVE-2026-111497.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-10-24T05:14:35.202010</pubDate>
     </item>
     <item>
-      <title>CVE-2026-106070 - CVE-2026-106070 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-106070-check'&gt;node-cve-2026-106070-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-106070: Node.js: ZipFile invalid-header content substitution. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-106070</link>
-      <guid isPermaLink="false">CVE-2026-106070</guid>
-      <pubDate>2026-10-24T00:12:10.303391</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-106074 - CVE-2026-106074 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-106074-check'&gt;node-cve-2026-106074-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-106074: Node.js: Crypto entropy cache duplication in snapshots. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-106074</link>
-      <guid isPermaLink="false">CVE-2026-106074</guid>
-      <pubDate>2026-10-24T00:12:10.303396</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-106072 - CVE-2026-106072 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-106072-check'&gt;node-cve-2026-106072-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-106072: Node.js: TLS noncanonical-IP DNS SAN acceptance. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-106072</link>
-      <guid isPermaLink="false">CVE-2026-106072</guid>
-      <pubDate>2026-10-24T00:12:10.303400</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-105481 - CVE-2026-105481 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-105481-check'&gt;node-cve-2026-105481-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-105481: Node.js: HTTP keep-alive premature-response acceptance. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-105481</link>
-      <guid isPermaLink="false">CVE-2026-105481</guid>
-      <pubDate>2026-10-24T00:12:10.303405</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-106069 - CVE-2026-106069 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-106069-check'&gt;node-cve-2026-106069-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-106069: Node.js: TLS leading-zero IPv4 resolver mismatch. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-106069</link>
-      <guid isPermaLink="false">CVE-2026-106069</guid>
-      <pubDate>2026-10-24T00:12:10.303409</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-105483 - CVE-2026-105483 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-105483-check'&gt;node-cve-2026-105483-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-105483: Node.js: TLS fullwidth-IP hostname validation bypass. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-105483</link>
-      <guid isPermaLink="false">CVE-2026-105483</guid>
-      <pubDate>2026-10-24T00:12:10.303414</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-105482 - CVE-2026-105482 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-105482-check'&gt;node-cve-2026-105482-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-105482: Node.js: DNS resolution NUL-name truncation. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-105482</link>
-      <guid isPermaLink="false">CVE-2026-105482</guid>
-      <pubDate>2026-10-24T00:12:10.303418</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-58044 - CVE-2026-58044 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-58044-check'&gt;node-cve-2026-58044-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-58044: Node.js HTTP header-limit request smuggling. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58044</link>
-      <guid isPermaLink="false">CVE-2026-58044</guid>
-      <pubDate>2026-10-24T00:12:10.303422</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-58039 - CVE-2026-58039 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-58039-check'&gt;node-cve-2026-58039-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-58039: Node.js: Permission Model process-report filesystem bypass. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58039</link>
-      <guid isPermaLink="false">CVE-2026-58039</guid>
-      <pubDate>2026-10-24T00:12:10.303427</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-56847 - CVE-2026-56847 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-56847-check'&gt;node-cve-2026-56847-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-56847: Node.js: Permission Model trace-log filesystem bypass. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56847</link>
-      <guid isPermaLink="false">CVE-2026-56847</guid>
-      <pubDate>2026-10-24T00:12:10.303432</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-58045 - CVE-2026-58045 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-58045-check'&gt;node-cve-2026-58045-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-58045: Node.js: zlib synchronous API spoofed TypedArray crash. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58045</link>
-      <guid isPermaLink="false">CVE-2026-58045</guid>
-      <pubDate>2026-10-24T00:12:10.303437</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-58042 - CVE-2026-58042 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-58042-check'&gt;node-cve-2026-58042-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-58042: Node.js: DNS resolveAny process abort. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58042</link>
-      <guid isPermaLink="false">CVE-2026-58042</guid>
-      <pubDate>2026-10-24T00:12:10.303441</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-58041 - CVE-2026-58041 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-58041-check'&gt;node-cve-2026-58041-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-58041: Node.js: SQLite cached iterator write replay. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58041</link>
-      <guid isPermaLink="false">CVE-2026-58041</guid>
-      <pubDate>2026-10-24T00:12:10.303446</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-58040 - CVE-2026-58040 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-58040-check'&gt;node-cve-2026-58040-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-58040: Node.js: HTTPS Agent TLS session identity-policy bypass. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58040</link>
-      <guid isPermaLink="false">CVE-2026-58040</guid>
-      <pubDate>2026-10-24T00:12:10.303450</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-56850 - CVE-2026-56850 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-56850-check'&gt;node-cve-2026-56850-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-56850: Node.js: HTTPS Agent PFX client identity collision. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56850</link>
-      <guid isPermaLink="false">CVE-2026-56850</guid>
-      <pubDate>2026-10-24T00:12:10.303454</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-58043 - CVE-2026-58043 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-58043-check'&gt;node-cve-2026-58043-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-58043: Node.js: Permission Model path-prefix over-grant. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58043</link>
-      <guid isPermaLink="false">CVE-2026-58043</guid>
-      <pubDate>2026-10-24T00:12:10.303459</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-56848 - CVE-2026-56848 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-56848-check'&gt;node-cve-2026-56848-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-56848: Node.js: HTTP/2 reentrant send use-after-free. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56848</link>
-      <guid isPermaLink="false">CVE-2026-56848</guid>
-      <pubDate>2026-10-24T00:12:10.303463</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-56846 - CVE-2026-56846 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/node-cve-2026-56846-check'&gt;node-cve-2026-56846-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-56846: Node.js: HTTP/2 retained header memory exhaustion. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56846</link>
-      <guid isPermaLink="false">CVE-2026-56846</guid>
-      <pubDate>2026-10-24T00:12:10.303468</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-104286 - CVE-2026-104286 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/fortimail-cve-2026-104286-check'&gt;fortimail-cve-2026-104286-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-104286: Fortinet FortiMail: Path traversal / NULL-byte arbitrary file write. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-104286</link>
-      <guid isPermaLink="false">CVE-2026-104286</guid>
-      <pubDate>2026-10-24T00:12:10.303472</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-21589 - CVE-2026-21589 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/atlassian-cve-2026-21589-check'&gt;atlassian-cve-2026-21589-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-21589: Atlassian self-managed products: Data Center arbitrary file access. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-21589</link>
-      <guid isPermaLink="false">CVE-2026-21589</guid>
-      <pubDate>2026-10-24T00:12:10.303477</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-102764 - CVE-2026-102764 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/beyondtrust-remote-support-cve-2026-102764-check'&gt;beyondtrust-remote-support-cve-2026-102764-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-102764: BeyondTrust Remote Support: Internal-message origin validation / unauthorized file operations. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-102764</link>
-      <guid isPermaLink="false">CVE-2026-102764</guid>
-      <pubDate>2026-10-24T00:12:10.303481</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-104935 - CVE-2026-104935 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleteTech-LLC/ivanti-connect-secure-cve-2026-104935-check'&gt;ivanti-connect-secure-cve-2026-104935-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-104935: Ivanti Connect Secure: Authentication bypass by spoofing. One exploit per repository; implementation pending.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-104935</link>
-      <guid isPermaLink="false">CVE-2026-104935</guid>
-      <pubDate>2026-10-24T00:12:10.303486</pubDate>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NaNoBotCo/php-patch'&gt;php-patch&lt;/a&gt;: The PHP Patch: PHP2Shell (CVE-2026-109618, CVE-2026-109619) explained — meaning, who is exposed, how to fix&lt;br&gt;&lt;a href='https://github.com/DARKSTUFF-LAB/php2shell-poc'&gt;php2shell-poc&lt;/a&gt;: CVE-2026-109618 &amp; CVE-2026-109619 — PHP Pre-Auth RCE Exploit &amp; Detection Toolkit&lt;br&gt;&lt;a href='https://github.com/malikad778/php2shell-guard'&gt;php2shell-guard&lt;/a&gt;: Read-only defensive auditor (no exploit code or PoC, zero dependencies) for PHP2Shell CVE-2026-109618, CVE-2026-109619, and Node.js CVE-2026-111497.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-10-24T05:14:35.202018</pubDate>
     </item>
   </channel>
 </rss>
