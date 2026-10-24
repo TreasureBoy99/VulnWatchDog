@@ -4,28 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-24安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 24 Oct 2026 05:14:35 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 10:01:07 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lmoyacarias/nodejs-cve-2026-111497-checker'&gt;nodejs-cve-2026-111497-checker&lt;/a&gt;: Python 3 security auditing tool for CVE-2026-111497. Checks Node.js version thresholds and provides basic HTTP header inspection and SSH-based runtime version verification. Designed for non-destructive security assessments without sending exploit payloads.&lt;br&gt;&lt;a href='https://github.com/malikad778/php2shell-guard'&gt;php2shell-guard&lt;/a&gt;: Read-only defensive auditor (no exploit code or PoC, zero dependencies) for PHP2Shell CVE-2026-109618, CVE-2026-109619, and Node.js CVE-2026-111497.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
-      <guid isPermaLink="false">CVE-2026-111497</guid>
-      <pubDate>2026-10-24T05:14:35.202000</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NaNoBotCo/php-patch'&gt;php-patch&lt;/a&gt;: The PHP Patch: PHP2Shell (CVE-2026-109618, CVE-2026-109619) explained — meaning, who is exposed, how to fix&lt;br&gt;&lt;a href='https://github.com/DARKSTUFF-LAB/php2shell-poc'&gt;php2shell-poc&lt;/a&gt;: CVE-2026-109618 &amp; CVE-2026-109619 — PHP Pre-Auth RCE Exploit &amp; Detection Toolkit&lt;br&gt;&lt;a href='https://github.com/malikad778/php2shell-guard'&gt;php2shell-guard&lt;/a&gt;: Read-only defensive auditor (no exploit code or PoC, zero dependencies) for PHP2Shell CVE-2026-109618, CVE-2026-109619, and Node.js CVE-2026-111497.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/spade-kk/php2shell-exploit'&gt;php2shell-exploit&lt;/a&gt;: php2shell (CVE-2026-109618/109619) 利用工具：带来源与日期的指纹库、两条引擎、免 gdb 标定；含源码级结论——本链下限 PHP 7.0。&lt;br&gt;&lt;a href='https://github.com/Secragon/php2shell-radar'&gt;php2shell-radar&lt;/a&gt;: Portable PHP asset discovery and exposure scanner for CVE-2026-109618 and CVE-2026-109619.&lt;br&gt;&lt;a href='https://github.com/pagvac/php2shell-trends'&gt;php2shell-trends&lt;/a&gt;: Live tracker: how fast is the internet patching PHP against PHP2Shell (CVE-2026-109618/-109619)? Hourly, anonymized.&lt;br&gt;&lt;a href='https://github.com/VABISMO/php2shell-nginx-fpm-full-rce'&gt;php2shell-nginx-fpm-full-rce&lt;/a&gt;: Complete auto exploit for NGINX PHP-FPM CVE-2026-109618 / CVE-2026-109619 </description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-24T05:14:35.202010</pubDate>
+      <pubDate>2026-10-24T10:01:07.411104</pubDate>
     </item>
     <item>
       <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/NaNoBotCo/php-patch'&gt;php-patch&lt;/a&gt;: The PHP Patch: PHP2Shell (CVE-2026-109618, CVE-2026-109619) explained — meaning, who is exposed, how to fix&lt;br&gt;&lt;a href='https://github.com/DARKSTUFF-LAB/php2shell-poc'&gt;php2shell-poc&lt;/a&gt;: CVE-2026-109618 &amp; CVE-2026-109619 — PHP Pre-Auth RCE Exploit &amp; Detection Toolkit&lt;br&gt;&lt;a href='https://github.com/malikad778/php2shell-guard'&gt;php2shell-guard&lt;/a&gt;: Read-only defensive auditor (no exploit code or PoC, zero dependencies) for PHP2Shell CVE-2026-109618, CVE-2026-109619, and Node.js CVE-2026-111497.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Secragon/php2shell-radar'&gt;php2shell-radar&lt;/a&gt;: Portable PHP asset discovery and exposure scanner for CVE-2026-109618 and CVE-2026-109619.&lt;br&gt;&lt;a href='https://github.com/VABISMO/php2shell-nginx-fpm-full-rce'&gt;php2shell-nginx-fpm-full-rce&lt;/a&gt;: Complete auto exploit for NGINX PHP-FPM CVE-2026-109618 / CVE-2026-109619 </description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
       <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-24T05:14:35.202018</pubDate>
+      <pubDate>2026-10-24T10:01:07.411114</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-110922 - CVE-2026-110922 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/VABISMO/chrome2shell'&gt;chrome2shell&lt;/a&gt;: Chrome Vulnerability Laboratory . CVE-2026-110922 </description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-110922</link>
+      <guid isPermaLink="false">CVE-2026-110922</guid>
+      <pubDate>2026-10-24T10:01:07.411120</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lesterlam/node2shell'&gt;node2shell&lt;/a&gt;: Independent reproduction of the Brotli decoder out-of-bounds write behind CVE-2026-111497 (Node2Shell): payload built from first principles, A/B against the patched release, and a measured ceiling that rules out the advertised RCE path.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-10-24T10:01:07.411125</pubDate>
     </item>
   </channel>
 </rss>
