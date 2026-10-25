@@ -4,21 +4,42 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 25 Oct 2026 10:26:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 14:43:41 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mamarce/php-vulns-discovered-23-10-2026'&gt;php-vulns-discovered-23-10-2026&lt;/a&gt;: Patch temporanee per sistemi con versioni di PHP inferiori a 8.2.35 contro CVE-2026-109618 - CVE-2026-109619 - CVE-2026-115560</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-25T10:26:12.894057</pubDate>
+      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zsw125/o3root'&gt;o3root&lt;/a&gt;: Shizuku-driven CVE-2026-98260 root + KernelSU runtime LKM loader for Xiaomi yingtian / lhasa (kernel 6.18.21)&lt;br&gt;&lt;a href='https://github.com/janewas/cve-2026-98260-vivo-gki-research'&gt;cve-2026-98260-vivo-gki-research&lt;/a&gt;: Research notes: porting CVE-2026-98260 to vivo/iQOO GKI 6.6.127 (no exploit code; coordinated disclosure planned)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
+      <guid isPermaLink="false">CVE-2026-98260</guid>
+      <pubDate>2026-10-25T14:43:41.477677</pubDate>
     </item>
     <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mamarce/php-vulns-discovered-23-10-2026'&gt;php-vulns-discovered-23-10-2026&lt;/a&gt;: Patch temporanee per sistemi con versioni di PHP inferiori a 8.2.35 contro CVE-2026-109618 - CVE-2026-109619 - CVE-2026-115560&lt;br&gt;&lt;a href='https://github.com/pagvac/php2shell-trends'&gt;php2shell-trends&lt;/a&gt;: Live tracker: how fast is the internet patching PHP against PHP2Shell (CVE-2026-109618/-109619)? Hourly, anonymized.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/andreysheva/php2shell-doctor'&gt;php2shell-doctor&lt;/a&gt;: The safe checker for the php2shell PHP RCEs (CVE-2026-109618/109619). Local, offline, vendor-backport aware.&lt;br&gt;&lt;a href='https://github.com/ha1c9on/php2shell'&gt;php2shell&lt;/a&gt;: php2shell(CVE-2026-109618 / CVE-2026-109619) EXP</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-25T10:26:12.894066</pubDate>
+      <pubDate>2026-10-25T14:43:41.477687</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/MSEDGE-CORE/GhostLock-HonorFne'&gt;GhostLock-HonorFne&lt;/a&gt;: Honor 70 (FNE-AN00) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading&lt;br&gt;&lt;a href='https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30'&gt;CVE-2026-43499-OPPO-A5-PBBT30&lt;/a&gt;: 在 AI 帮助下利用 ghostlock 提权 oppo a5 pbbt30 至 root</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-10-25T14:43:41.477693</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-56190 - CVE-2026-56190 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP'&gt;CVE-2026-56190-Windows-Server-2022-RDP&lt;/a&gt;: Unauthenticated RDP vulnerability in termsrv.dll (Windows Server 2022). Proof of Concept for heap spray, XFG bypass, Instruction Pointer control, and reliable Denial of Service (Event ID 7031).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56190</link>
+      <guid isPermaLink="false">CVE-2026-56190</guid>
+      <pubDate>2026-10-25T14:43:41.477699</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ha1c9on/php2shell'&gt;php2shell&lt;/a&gt;: php2shell(CVE-2026-109618 / CVE-2026-109619) EXP</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-10-25T14:43:41.477704</pubDate>
     </item>
   </channel>
 </rss>
