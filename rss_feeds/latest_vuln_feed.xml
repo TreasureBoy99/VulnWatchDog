@@ -2,23 +2,51 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-24安全漏洞信息</description>
+    <description>2026-10-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 24 Oct 2026 14:10:31 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:43:08 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30'&gt;CVE-2026-43499-OPPO-A5-PBBT30&lt;/a&gt;: 在 AI 帮助下利用 ghostlock 提权 oppo a5 pbbt30 至 root</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-10-24T14:10:31.288455</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/spade-kk/php2shell-exploit'&gt;php2shell-exploit&lt;/a&gt;: php2shell (CVE-2026-109618/109619) 利用工具：带来源与日期的指纹库、两条引擎、免 gdb 标定；含源码级结论——本链下限 PHP 7.0。</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/StiJans/php8-cve-109618-109619-fix'&gt;php8-cve-109618-109619-fix&lt;/a&gt;: php:8.0.30-fpm-alpine + official PHP patch for CVE-2026-109618/109619&lt;br&gt;&lt;a href='https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-'&gt;CVE-2026-109618-CVE-2026-109619-php2shell-&lt;/a&gt;: MOSTAFA JR7 - Custom security research framework targeting PHP 8.4.26 Apache Prefork RCE and ASLR bypass.&lt;br&gt;&lt;a href='https://github.com/egctl/php2shell'&gt;php2shell&lt;/a&gt;: CVE-2026-109618 exploit tool — RCE via OOM ghost bucket in PHP POST parsing (CVSS 9.2)&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell)</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-24T14:10:31.288460</pubDate>
+      <pubDate>2026-10-25T00:43:08.763919</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-110152 - CVE-2026-110152 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc'&gt;cve-2026-110152-chrome-ngle-rce-poc&lt;/a&gt;: PoC: CVE-2026-110152 Chrome ANGLE vertex-attribute translation heap buffer overflow (CVSS 9.6)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-110152</link>
+      <guid isPermaLink="false">CVE-2026-110152</guid>
+      <pubDate>2026-10-25T00:43:08.763929</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-'&gt;CVE-2026-109618-CVE-2026-109619-php2shell-&lt;/a&gt;: MOSTAFA JR7 - Custom security research framework targeting PHP 8.4.26 Apache Prefork RCE and ASLR bypass.&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-10-25T00:43:08.763936</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-112900 - CVE-2026-112900 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/moprius/CVE-2026-112900-Pillow-PoC'&gt;CVE-2026-112900-Pillow-PoC&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-112900</link>
+      <guid isPermaLink="false">CVE-2026-112900</guid>
+      <pubDate>2026-10-25T00:43:08.763943</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-110264 - CVE-2026-110264 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/FranklinF25/regex2shell'&gt;regex2shell&lt;/a&gt;: regex2shell (CVE-2026-110264 + family) — GitLab/Onigmo unauth regex RCE research: safe differential detector, deterministic interpreter kill, match-time write primitive</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-110264</link>
+      <guid isPermaLink="false">CVE-2026-110264</guid>
+      <pubDate>2026-10-25T00:43:08.763949</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yavuzsemih/brotli-secfix'&gt;brotli-secfix&lt;/a&gt;: Security backport toolkit for CVE-2026-111497 on Ubuntu 24.04, featuring upstream patch verification, custom Debian package builds, and offline remediation procedures.&lt;br&gt;&lt;a href='https://github.com/syrex1013/CVE-2026-111497-node2shell'&gt;CVE-2026-111497-node2shell&lt;/a&gt;: CVE-2026-111497 Node2Shell — Node.js Brotli OOB Write RCE PoC (CVSS 9.2)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-10-25T00:43:08.763955</pubDate>
     </item>
   </channel>
 </rss>
