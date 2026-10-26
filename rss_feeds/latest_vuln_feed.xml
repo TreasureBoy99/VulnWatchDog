@@ -2,44 +2,51 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-25安全漏洞信息</description>
+    <description>2026-10-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 25 Oct 2026 14:43:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 00:57:50 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zsw125/o3root'&gt;o3root&lt;/a&gt;: Shizuku-driven CVE-2026-98260 root + KernelSU runtime LKM loader for Xiaomi yingtian / lhasa (kernel 6.18.21)&lt;br&gt;&lt;a href='https://github.com/janewas/cve-2026-98260-vivo-gki-research'&gt;cve-2026-98260-vivo-gki-research&lt;/a&gt;: Research notes: porting CVE-2026-98260 to vivo/iQOO GKI 6.6.127 (no exploit code; coordinated disclosure planned)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
-      <guid isPermaLink="false">CVE-2026-98260</guid>
-      <pubDate>2026-10-25T14:43:41.477677</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/andreysheva/php2shell-doctor'&gt;php2shell-doctor&lt;/a&gt;: The safe checker for the php2shell PHP RCEs (CVE-2026-109618/109619). Local, offline, vendor-backport aware.&lt;br&gt;&lt;a href='https://github.com/ha1c9on/php2shell'&gt;php2shell&lt;/a&gt;: php2shell(CVE-2026-109618 / CVE-2026-109619) EXP</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.&lt;br&gt;&lt;a href='https://github.com/sqzer-x/php2shell-scanner'&gt;php2shell-scanner&lt;/a&gt;: Check PHP2Shell (CVE-2026-109618, CVE-2026-109619) from inside your server: distribution backports, missed restarts and interim mitigations, verdicts computed in the browser.&lt;br&gt;&lt;a href='https://github.com/Leviticus-Triage/php2shell-unchained'&gt;php2shell-unchained&lt;/a&gt;: Isolated Docker adversary-emulation lab: PHP2Shell (CVE-2026-109618/619, CVE-2026-115560) exploit chains, 11-scenario patch &amp; WAF audit, Sliver C2, Cloudflare Quick Tunnel + Tor egress, guided mitigation validation.&lt;br&gt;&lt;a href='https://github.com/lucasbarros097/PHP2Shell__CVE-2026-109618__CVE2026-109619'&gt;PHP2Shell__CVE-2026-109618__CVE2026-109619&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell) CVE-2026-115560</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-25T14:43:41.477687</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/MSEDGE-CORE/GhostLock-HonorFne'&gt;GhostLock-HonorFne&lt;/a&gt;: Honor 70 (FNE-AN00) privilege escalation PoC: GhostLock (CVE-2026-43499) + custom KernelSU module loading&lt;br&gt;&lt;a href='https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30'&gt;CVE-2026-43499-OPPO-A5-PBBT30&lt;/a&gt;: 在 AI 帮助下利用 ghostlock 提权 oppo a5 pbbt30 至 root</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-10-25T14:43:41.477693</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-56190 - CVE-2026-56190 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP'&gt;CVE-2026-56190-Windows-Server-2022-RDP&lt;/a&gt;: Unauthenticated RDP vulnerability in termsrv.dll (Windows Server 2022). Proof of Concept for heap spray, XFG bypass, Instruction Pointer control, and reliable Denial of Service (Event ID 7031).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56190</link>
-      <guid isPermaLink="false">CVE-2026-56190</guid>
-      <pubDate>2026-10-25T14:43:41.477699</pubDate>
+      <pubDate>2026-10-26T00:57:50.384654</pubDate>
     </item>
     <item>
       <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ha1c9on/php2shell'&gt;php2shell&lt;/a&gt;: php2shell(CVE-2026-109618 / CVE-2026-109619) EXP</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.&lt;br&gt;&lt;a href='https://github.com/sqzer-x/php2shell-scanner'&gt;php2shell-scanner&lt;/a&gt;: Check PHP2Shell (CVE-2026-109618, CVE-2026-109619) from inside your server: distribution backports, missed restarts and interim mitigations, verdicts computed in the browser.&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell) CVE-2026-115560</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
       <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-25T14:43:41.477704</pubDate>
+      <pubDate>2026-10-26T00:57:50.384663</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/node2shell-check'&gt;node2shell-check&lt;/a&gt;: Passive Node2Shell (CVE-2026-111497) exposure checker and offline Node.js runtime assessment with branded HTML reports. Python 3.10+, no dependencies, no exploit payloads.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-10-26T00:57:50.384669</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-17106 - CVE-2026-17106 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/copyescape-check'&gt;copyescape-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-17106: Docker copy destination escape. One exploit per repository; implementation pending.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-17106</link>
+      <guid isPermaLink="false">CVE-2026-17106</guid>
+      <pubDate>2026-10-26T00:57:50.384675</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-69254 - CVE-2026-69254 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check'&gt;flowise-cve-2026-69254-check&lt;/a&gt;: Standalone defensive checker project for Flowise CVE-2026-69254 (nodeVMOptions sandbox override). One exploit per repository; implementation pending.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-69254</link>
+      <guid isPermaLink="false">CVE-2026-69254</guid>
+      <pubDate>2026-10-26T00:57:50.384679</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-21589 - CVE-2026-21589 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/atlassian-cve-2026-21589-check'&gt;atlassian-cve-2026-21589-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-21589: Atlassian self-managed products: Data Center arbitrary file access. One exploit per repository; implementation pending.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-21589</link>
+      <guid isPermaLink="false">CVE-2026-21589</guid>
+      <pubDate>2026-10-26T00:57:50.384684</pubDate>
     </item>
   </channel>
 </rss>

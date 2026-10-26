@@ -1,0 +1,52 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-10-26安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Mon, 26 Oct 2026 00:57:50 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.&lt;br&gt;&lt;a href='https://github.com/sqzer-x/php2shell-scanner'&gt;php2shell-scanner&lt;/a&gt;: Check PHP2Shell (CVE-2026-109618, CVE-2026-109619) from inside your server: distribution backports, missed restarts and interim mitigations, verdicts computed in the browser.&lt;br&gt;&lt;a href='https://github.com/Leviticus-Triage/php2shell-unchained'&gt;php2shell-unchained&lt;/a&gt;: Isolated Docker adversary-emulation lab: PHP2Shell (CVE-2026-109618/619, CVE-2026-115560) exploit chains, 11-scenario patch &amp; WAF audit, Sliver C2, Cloudflare Quick Tunnel + Tor egress, guided mitigation validation.&lt;br&gt;&lt;a href='https://github.com/lucasbarros097/PHP2Shell__CVE-2026-109618__CVE2026-109619'&gt;PHP2Shell__CVE-2026-109618__CVE2026-109619&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell) CVE-2026-115560</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-10-26T00:57:50.384654</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.&lt;br&gt;&lt;a href='https://github.com/sqzer-x/php2shell-scanner'&gt;php2shell-scanner&lt;/a&gt;: Check PHP2Shell (CVE-2026-109618, CVE-2026-109619) from inside your server: distribution backports, missed restarts and interim mitigations, verdicts computed in the browser.&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell) CVE-2026-115560</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-10-26T00:57:50.384663</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/node2shell-check'&gt;node2shell-check&lt;/a&gt;: Passive Node2Shell (CVE-2026-111497) exposure checker and offline Node.js runtime assessment with branded HTML reports. Python 3.10+, no dependencies, no exploit payloads.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-10-26T00:57:50.384669</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-17106 - CVE-2026-17106 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/copyescape-check'&gt;copyescape-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-17106: Docker copy destination escape. One exploit per repository; implementation pending.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-17106</link>
+      <guid isPermaLink="false">CVE-2026-17106</guid>
+      <pubDate>2026-10-26T00:57:50.384675</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-69254 - CVE-2026-69254 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check'&gt;flowise-cve-2026-69254-check&lt;/a&gt;: Standalone defensive checker project for Flowise CVE-2026-69254 (nodeVMOptions sandbox override). One exploit per repository; implementation pending.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-69254</link>
+      <guid isPermaLink="false">CVE-2026-69254</guid>
+      <pubDate>2026-10-26T00:57:50.384679</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-21589 - CVE-2026-21589 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CompleTetech-Security/atlassian-cve-2026-21589-check'&gt;atlassian-cve-2026-21589-check&lt;/a&gt;: Standalone defensive checker project for CVE-2026-21589: Atlassian self-managed products: Data Center arbitrary file access. One exploit per repository; implementation pending.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-21589</link>
+      <guid isPermaLink="false">CVE-2026-21589</guid>
+      <pubDate>2026-10-26T00:57:50.384684</pubDate>
+    </item>
+  </channel>
+</rss>
