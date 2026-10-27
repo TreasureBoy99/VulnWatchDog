@@ -2,30 +2,37 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-26安全漏洞信息</description>
+    <description>2026-10-27安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 26 Oct 2026 11:55:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:44:51 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/0xBlackash/CVE-2026-111497'&gt;CVE-2026-111497&lt;/a&gt;: CVE-2026-111497</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
-      <guid isPermaLink="false">CVE-2026-111497</guid>
-      <pubDate>2026-10-26T11:55:25.660529</pubDate>
+      <title>CVE-2026-114509 - CVE-2026-114509 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dimasma0305/CVE-2026-114509'&gt;CVE-2026-114509&lt;/a&gt;: Reproducible local Laravel lab and self-checking PoC for CVE-2026-114509</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-114509</link>
+      <guid isPermaLink="false">CVE-2026-114509</guid>
+      <pubDate>2026-10-27T01:44:51.881845</pubDate>
     </item>
     <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/naravid19/php2shell-ioc'&gt;php2shell-ioc&lt;/a&gt;: Curated IoCs, detection engineering rules, and automated threat intel feeds for PHP2Shell (CVE-2026-109618 &amp; CVE-2026-109619).&lt;br&gt;&lt;a href='https://github.com/nsrg-fmlorg/php-cve-2026-109618'&gt;php-cve-2026-109618&lt;/a&gt;: PHP php2shell (CVE-2026-109618, CVE-2026-109619) fixes for Rocky Linux 8, 9 and 10, following AlmaLinux's</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-26T11:55:25.660534</pubDate>
+      <title>CVE-2026-110922 - CVE-2026-110922 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/VABISMO/chrome2shell'&gt;chrome2shell&lt;/a&gt;: Chrome Vulnerability Laboratory . CVE-2026-110922 </description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-110922</link>
+      <guid isPermaLink="false">CVE-2026-110922</guid>
+      <pubDate>2026-10-27T01:44:51.881852</pubDate>
     </item>
     <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/naravid19/php2shell-ioc'&gt;php2shell-ioc&lt;/a&gt;: Curated IoCs, detection engineering rules, and automated threat intel feeds for PHP2Shell (CVE-2026-109618 &amp; CVE-2026-109619).&lt;br&gt;&lt;a href='https://github.com/nsrg-fmlorg/php-cve-2026-109618'&gt;php-cve-2026-109618&lt;/a&gt;: PHP php2shell (CVE-2026-109618, CVE-2026-109619) fixes for Rocky Linux 8, 9 and 10, following AlmaLinux's</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-26T11:55:25.660537</pubDate>
+      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Lw5959/xring-cve-2026-98260'&gt;xring-cve-2026-98260&lt;/a&gt;: CVE-2026-98260（fs/exec.c POSIX CPU timer UAF）XRING O1 / Android 17 / 6.18.21 研究记录与 PC 一键流程（授权设备安全研究）&lt;br&gt;&lt;a href='https://github.com/ChaYeWuu/violin-CVE-2026-98260-OS4.0'&gt;violin-CVE-2026-98260-OS4.0&lt;/a&gt;: Xiaomi Pad7S Pro12.5在OS4.0.0.14.XOTCNXM利用CVE-2026-98260获取ROOT权限并加载KernelSU。</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
+      <guid isPermaLink="false">CVE-2026-98260</guid>
+      <pubDate>2026-10-27T01:44:51.881858</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-101767 - CVE-2026-101767 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/seck19/CVE-2026-101767-POC'&gt;CVE-2026-101767-POC&lt;/a&gt;: CVE-2026-101767-POC</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-101767</link>
+      <guid isPermaLink="false">CVE-2026-101767</guid>
+      <pubDate>2026-10-27T01:44:51.881863</pubDate>
     </item>
   </channel>
 </rss>
