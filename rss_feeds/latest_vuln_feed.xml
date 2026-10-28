@@ -2,72 +2,37 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-27安全漏洞信息</description>
+    <description>2026-10-28安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 27 Oct 2026 13:48:11 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:11:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/janewas/cve-2026-98260-vivo-gki-research'&gt;cve-2026-98260-vivo-gki-research&lt;/a&gt;: Research notes: porting CVE-2026-98260 to vivo/iQOO GKI 6.6.127 (no exploit code; coordinated disclosure planned)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
-      <guid isPermaLink="false">CVE-2026-98260</guid>
-      <pubDate>2026-10-27T13:48:11.025607</pubDate>
+      <title>CVE-2026-115560 - CVE-2026-115560 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-'&gt;PHP2SHELL-Checker-v-2.0-CVE-2026-115560-&lt;/a&gt;: Versión 2.0 — añade barrido de hosts remotos vía HTTP a la v1.0. Cuando se ejecuta sin argumentos muestra un menú interactivo.&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell) CVE-2026-115560</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-115560</link>
+      <guid isPermaLink="false">CVE-2026-115560</guid>
+      <pubDate>2026-10-28T03:11:05.724681</pubDate>
     </item>
     <item>
       <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/nsrg-fmlorg/php-cve-2026-109618'&gt;php-cve-2026-109618&lt;/a&gt;: PHP php2shell (CVE-2026-109618, CVE-2026-109619) fixes for Rocky Linux 8, 9 and 10, following AlmaLinux's&lt;br&gt;&lt;a href='https://github.com/FranklinF25/php2shell'&gt;php2shell&lt;/a&gt;: php2shell (CVE-2026-109618 / CVE-2026-109619) — PHP core unauth RCE research: safe differential detector, deterministic worker DoS, in-lab RCE port</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell) CVE-2026-115560</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
       <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-27T13:48:11.025617</pubDate>
+      <pubDate>2026-10-28T03:11:05.724687</pubDate>
     </item>
     <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/nsrg-fmlorg/php-cve-2026-109618'&gt;php-cve-2026-109618&lt;/a&gt;: PHP php2shell (CVE-2026-109618, CVE-2026-109619) fixes for Rocky Linux 8, 9 and 10, following AlmaLinux's&lt;br&gt;&lt;a href='https://github.com/FranklinF25/php2shell'&gt;php2shell&lt;/a&gt;: php2shell (CVE-2026-109618 / CVE-2026-109619) — PHP core unauth RCE research: safe differential detector, deterministic worker DoS, in-lab RCE port</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/JoshRob297/php2shell-research'&gt;php2shell-research&lt;/a&gt;: In-depth technical verification, ASLR boundary analysis, and memory defaults impact for CVE-2026-109618 &amp; CVE-2026-109619 (PHP2Shell) CVE-2026-115560</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-27T13:48:11.025624</pubDate>
+      <pubDate>2026-10-28T03:11:05.724691</pubDate>
     </item>
     <item>
-      <title>CVE-2026-88772 - CVE-2026-88772 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/emilstahl/pitscaler'&gt;pitscaler&lt;/a&gt;: PitScaler: independent, source-linked briefing on Citrix NetScaler CVE-2026-88771 and CVE-2026-88772 (CTX697096). https://pitscaler.com</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-88772</link>
-      <guid isPermaLink="false">CVE-2026-88772</guid>
-      <pubDate>2026-10-27T13:48:11.025629</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-88771 - CVE-2026-88771 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/emilstahl/pitscaler'&gt;pitscaler&lt;/a&gt;: PitScaler: independent, source-linked briefing on Citrix NetScaler CVE-2026-88771 and CVE-2026-88772 (CTX697096). https://pitscaler.com</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-88771</link>
-      <guid isPermaLink="false">CVE-2026-88771</guid>
-      <pubDate>2026-10-27T13:48:11.025634</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-9539 - CVE-2026-9539 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/quarkslab/slirp_snapshots_stateful'&gt;slirp_snapshots_stateful&lt;/a&gt;: PoC for the «Snapshotting our way to CVE-2026-9539» blogpost</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-9539</link>
-      <guid isPermaLink="false">CVE-2026-9539</guid>
-      <pubDate>2026-10-27T13:48:11.025639</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-15176 - CVE-2026-15176 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/FranklinF25/cve-2026-15176'&gt;cve-2026-15176&lt;/a&gt;: CVE-2026-15176 — NGINX alias+rewrite heap overflow: analysis, differential lab, PoC (WIP)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-15176</link>
-      <guid isPermaLink="false">CVE-2026-15176</guid>
-      <pubDate>2026-10-27T13:48:11.025645</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-1296 - CVE-2026-1296 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Sadaqaty/CVE-2026-1296'&gt;CVE-2026-1296&lt;/a&gt;: Frontend Post Submission Manager Lite plugin for WordPress is vulnerable to Open Redirection in all versions up to, and including, 1.2.7 due to insufficient validation on the 'requested_page' POST parameter in the verify_username_password function. This makes it possible for unauthenticated attackers to redirect users to potentially malicious  site</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-1296</link>
-      <guid isPermaLink="false">CVE-2026-1296</guid>
-      <pubDate>2026-10-27T13:48:11.025650</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-110922 - CVE-2026-110922 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/VABISMO/chrome2shell'&gt;chrome2shell&lt;/a&gt;: Chrome Vulnerability Laboratory . CVE-2026-110922 </description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-110922</link>
-      <guid isPermaLink="false">CVE-2026-110922</guid>
-      <pubDate>2026-10-27T13:48:11.025655</pubDate>
+      <title>CVE-2026-96778 - CVE-2026-96778 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/paktiko1986/CVE-2026-96778-pillow'&gt;CVE-2026-96778-pillow&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-96778</link>
+      <guid isPermaLink="false">CVE-2026-96778</guid>
+      <pubDate>2026-10-28T03:11:05.724696</pubDate>
     </item>
   </channel>
 </rss>
