@@ -4,35 +4,21 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-10-29安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 29 Oct 2026 01:27:21 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:50:58 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2025-31710 - CVE-2025-31710 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Skorpion96/unisoc-su'&gt;unisoc-su&lt;/a&gt;: A method for CVE-2025-31710 and to connect to cmd_skt to obtain a root shell on unisoc unpatched models</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-31710</link>
-      <guid isPermaLink="false">CVE-2025-31710</guid>
-      <pubDate>2026-10-29T01:27:21.076255</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/MnemosyneLab/ghostlock-honor'&gt;ghostlock-honor&lt;/a&gt;: GhostLock One-Tap Execution App (CVE-2026-43499)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-10-29T07:50:58.723556</pubDate>
     </item>
     <item>
-      <title>CVE-2026-115905 - CVE-2026-115905 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cosmonic-labs/demo-zip-rce-sandbox'&gt;demo-zip-rce-sandbox&lt;/a&gt;: Live demo: the same vulnerable Rust zip crate (RUSTSEC-2026-0367 setuid + CVE-2026-115905 zip cloaking) contained by a deny-by-default Cosmonic WebAssembly sandbox.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-115905</link>
-      <guid isPermaLink="false">CVE-2026-115905</guid>
-      <pubDate>2026-10-29T01:27:21.076275</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/stufently/php-patched-images'&gt;php-patched-images&lt;/a&gt;: PHP 8.2-8.5 Docker images (cli/fpm/apache) patched for CVE-2026-109618 / CVE-2026-109619 (php2shell), multi-arch, on GHCR</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-29T01:27:21.076280</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/stufently/php-patched-images'&gt;php-patched-images&lt;/a&gt;: PHP 8.2-8.5 Docker images (cli/fpm/apache) patched for CVE-2026-109618 / CVE-2026-109619 (php2shell), multi-arch, on GHCR</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-29T01:27:21.076284</pubDate>
+      <title>CVE-2026-64560 - CVE-2026-64560 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Yunnijian/OnePlus16-Jailbreak'&gt;OnePlus16-Jailbreak&lt;/a&gt;: OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + KernelSU / KernelSU Next / BakaSU / SukiSU Ultra LKM</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64560</link>
+      <guid isPermaLink="false">CVE-2026-64560</guid>
+      <pubDate>2026-10-29T07:50:58.723565</pubDate>
     </item>
   </channel>
 </rss>
