@@ -2,37 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-29安全漏洞信息</description>
+    <description>2026-10-30安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 29 Oct 2026 14:49:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 03:39:16 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/pubglite55/oppofindN2-ghostlock'&gt;oppofindN2-ghostlock&lt;/a&gt;: OPPO Find N2 GhostLock (CVE-2026-43499) exploit adaptation</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
-      <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-10-29T14:49:07.670131</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/aarsaputra/php2shell'&gt;php2shell&lt;/a&gt;: Unauthenticated RCE toolkit for PHP 5.4–8.4.26 (CVE-2026-109619/109618) — pure-HTTP chain, JA3 impersonation, prpenetration-testingoof-of-access design&lt;br&gt;&lt;a href='https://github.com/WebInspectPro/php2shell-poc'&gt;php2shell-poc&lt;/a&gt;: CLI scanner and PoC for CVE-2026-109618 / CVE-2026-109619 (PHP OOM heap corruption and session upload-progress injection, CVSS 9.2). Affects PHP 5.4.0-8.5.11; patched in 8.2.35, 8.3.36, 8.4.27, 8.5.12. No external dependencies.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-29T14:49:07.670140</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/WebInspectPro/php2shell-poc'&gt;php2shell-poc&lt;/a&gt;: CLI scanner and PoC for CVE-2026-109618 / CVE-2026-109619 (PHP OOM heap corruption and session upload-progress injection, CVSS 9.2). Affects PHP 5.4.0-8.5.11; patched in 8.2.35, 8.3.36, 8.4.27, 8.5.12. No external dependencies.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-29T14:49:07.670144</pubDate>
+      <title>CVE-2026-64560 - CVE-2026-64560 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Yunnijian/OnePlus16-Jailbreak'&gt;OnePlus16-Jailbreak&lt;/a&gt;: OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + CVE-2026-98260 + KernelSU / KernelSU Next / BakaSU / SukiSU Ultra LKM</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64560</link>
+      <guid isPermaLink="false">CVE-2026-64560</guid>
+      <pubDate>2026-10-30T03:39:16.262994</pubDate>
     </item>
     <item>
       <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ChaYeWuu/violin-CVE-2026-98260-OS4.0'&gt;violin-CVE-2026-98260-OS4.0&lt;/a&gt;: Xiaomi Pad7S Pro12.5在OS4.0.0.14.XOTCNXM利用CVE-2026-98260获取ROOT权限并加载KernelSU。</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Yunnijian/OnePlus16-Jailbreak'&gt;OnePlus16-Jailbreak&lt;/a&gt;: OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + CVE-2026-98260 + KernelSU / KernelSU Next / BakaSU / SukiSU Ultra LKM</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
       <guid isPermaLink="false">CVE-2026-98260</guid>
-      <pubDate>2026-10-29T14:49:07.670148</pubDate>
+      <pubDate>2026-10-30T03:39:16.262999</pubDate>
     </item>
   </channel>
 </rss>
