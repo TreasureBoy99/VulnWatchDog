@@ -2,128 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-10-30安全漏洞信息</description>
+    <description>2026-10-31安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 30 Oct 2026 10:39:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:16:07 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-35301 - CVE-2026-35301 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-35301</link>
-      <guid isPermaLink="false">CVE-2026-35301</guid>
-      <pubDate>2026-10-30T10:39:00.867247</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-70024 - CVE-2026-70024 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-70024</link>
-      <guid isPermaLink="false">CVE-2026-70024</guid>
-      <pubDate>2026-10-30T10:39:00.867255</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner&lt;br&gt;&lt;a href='https://github.com/solidevil14/php2shell-detections'&gt;php2shell-detections&lt;/a&gt;: Suricata rules + CI-proven regression suite for the php2shell PHP RCE chain (CVE-2026-109619 / CVE-2026-109618)&lt;br&gt;&lt;a href='https://github.com/Opathedane/php2shell'&gt;php2shell&lt;/a&gt;: Read-only PHP discovery and patch-review scanner for Windows, Linux, and macOS. Produces HTML+CSV reports for CVE-2026-109618/109619 assessment — never claims a host is clean or that the active HTTP runtime is verified.&lt;br&gt;&lt;a href='https://github.com/dinosn/php-cve-2026-10961x-lab-poc'&gt;php-cve-2026-10961x-lab-poc&lt;/a&gt;: PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-10-30T10:39:00.867264</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-60672 - CVE-2026-60672 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60672</link>
-      <guid isPermaLink="false">CVE-2026-60672</guid>
-      <pubDate>2026-10-30T10:39:00.867270</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner&lt;br&gt;&lt;a href='https://github.com/atiilla/CVE-2026-111497-Node2Shell'&gt;CVE-2026-111497-Node2Shell&lt;/a&gt;: CVE-2026-111497 - Node2Shell / HTTP2Shell</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
-      <guid isPermaLink="false">CVE-2026-111497</guid>
-      <pubDate>2026-10-30T10:39:00.867276</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner&lt;br&gt;&lt;a href='https://github.com/solidevil14/php2shell-detections'&gt;php2shell-detections&lt;/a&gt;: Suricata rules + CI-proven regression suite for the php2shell PHP RCE chain (CVE-2026-109619 / CVE-2026-109618)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-10-30T10:39:00.867281</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-70748 - CVE-2026-70748 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-70748</link>
-      <guid isPermaLink="false">CVE-2026-70748</guid>
-      <pubDate>2026-10-30T10:39:00.867286</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-15176 - CVE-2026-15176 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-15176</link>
-      <guid isPermaLink="false">CVE-2026-15176</guid>
-      <pubDate>2026-10-30T10:39:00.867290</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-47291 - CVE-2026-47291 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-47291</link>
-      <guid isPermaLink="false">CVE-2026-47291</guid>
-      <pubDate>2026-10-30T10:39:00.867295</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-42945 - CVE-2026-42945 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42945</link>
-      <guid isPermaLink="false">CVE-2026-42945</guid>
-      <pubDate>2026-10-30T10:39:00.867299</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-23918 - CVE-2026-23918 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-23918</link>
-      <guid isPermaLink="false">CVE-2026-23918</guid>
-      <pubDate>2026-10-30T10:39:00.867303</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-93479 - CVE-2026-93479 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-93479</link>
-      <guid isPermaLink="false">CVE-2026-93479</guid>
-      <pubDate>2026-10-30T10:39:00.867307</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-42533 - CVE-2026-42533 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hktalent/cve-scanner'&gt;cve-scanner&lt;/a&gt;: weblogic CVE-2026-70748,CVE-2026-60672,CVE-2026-35301;PHP CVE-2026-109618 CVE-2026-109619,Node.js CVE-2026-111497,NGINX CVE-2026-42945 CVE-2026-42533 CVE-2026-15176 CVE-2026-93479,Apache HTTPD 2.4.66 CVE-2026-23918,IIS CVE-2026-70024,HTTP.sys CVE-2026-47291... RCE CVE scanner</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42533</link>
-      <guid isPermaLink="false">CVE-2026-42533</guid>
-      <pubDate>2026-10-30T10:39:00.867311</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Yunnijian/OnePlus16-Jailbreak'&gt;OnePlus16-Jailbreak&lt;/a&gt;: OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + CVE-2026-98260 + KernelSU / KernelSU Next / BakaSU / SukiSU Ultra LKM</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
-      <guid isPermaLink="false">CVE-2026-98260</guid>
-      <pubDate>2026-10-30T10:39:00.867316</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-64560 - CVE-2026-64560 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Yunnijian/OnePlus16-Jailbreak'&gt;OnePlus16-Jailbreak&lt;/a&gt;: OnePlus 16 (PYB110) jailbreak: CVE-2026-64560 + CVE-2026-98260 + KernelSU / KernelSU Next / BakaSU / SukiSU Ultra LKM</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-64560</link>
-      <guid isPermaLink="false">CVE-2026-64560</guid>
-      <pubDate>2026-10-30T10:39:00.867320</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-98432 - CVE-2026-98432 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/bitwire-it/Probe-CVE-2026-98432'&gt;Probe-CVE-2026-98432&lt;/a&gt;: Local kernel version checker, remote MPTCP capability probe, and interactive scan-and-probe CLI for assessing exposure to the Linux kernel IPv4 TCP use-after-free (CVSS 9.8).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98432</link>
-      <guid isPermaLink="false">CVE-2026-98432</guid>
-      <pubDate>2026-10-30T10:39:00.867324</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-10961 - CVE-2026-10961 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/php-cve-2026-10961x-lab-poc'&gt;php-cve-2026-10961x-lab-poc&lt;/a&gt;: PHP CVE-2026-109618/109619 — self-contained unauthenticated RCE on stock PHP 8.5.11 (in-band PS(id)→cookie memory disclosure + UAF chain), full control ladders, fixed-version negative control on 8.5.12</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-10961</link>
-      <guid isPermaLink="false">CVE-2026-10961</guid>
-      <pubDate>2026-10-30T10:39:00.867329</pubDate>
+      <title>CVE-2026-89020 - CVE-2026-89020 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/davtur19/PoC-CVE-2026-89020-PrivEsc'&gt;PoC-CVE-2026-89020-PrivEsc&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-89020</link>
+      <guid isPermaLink="false">CVE-2026-89020</guid>
+      <pubDate>2026-10-31T01:16:07.213807</pubDate>
     </item>
   </channel>
 </rss>
