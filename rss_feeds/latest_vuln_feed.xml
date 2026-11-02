@@ -2,30 +2,30 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-01安全漏洞信息</description>
+    <description>2026-11-02安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 01 Nov 2026 08:27:23 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 03:32:21 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-98432 - CVE-2026-98432 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation'&gt;cve-2026-98432-ubuntu-mitigation&lt;/a&gt;: Check an Ubuntu host for CVE-2026-98432 and, after you confirm, apply the interim Red Hat RHSB-2026-016 mitigation. Ubuntu 20.04 to 26.10.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/johnhsb/linux-tcp-uaf-cve-2026-98432'&gt;linux-tcp-uaf-cve-2026-98432&lt;/a&gt;: CVE-2026-98432 (Linux IPv4 TCP inet_opt UAF): read-only diagnostic script, no-reboot nftables/sysctl mitigations, Ansible rollout and response guide (EN/KO)&lt;br&gt;&lt;a href='https://github.com/H1z3-br0/CVE-2026-98432'&gt;CVE-2026-98432&lt;/a&gt;: Race trigger, heap-reuse oracle, pcap analysis, detection and mitigation tooling for CVE-2026-98432 (Linux IPv4/TCP ireq_opt use-after-free).&lt;br&gt;&lt;a href='https://github.com/0xSpuddy/cve-2026-98432-check'&gt;cve-2026-98432-check&lt;/a&gt;: A script for cve-2026-98432 vuln</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98432</link>
       <guid isPermaLink="false">CVE-2026-98432</guid>
-      <pubDate>2026-11-01T08:27:23.295305</pubDate>
+      <pubDate>2026-11-02T03:32:21.290500</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/fieldse/http2shell-checker'&gt;http2shell-checker&lt;/a&gt;: Vulnerability checker and remediation guide for CVE-2026-111497 vulnerability in Google's Brotli decoder</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-11-02T03:32:21.290508</pubDate>
     </item>
     <item>
       <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/sabuweis/GhostLock-CVE-2026-98260'&gt;GhostLock-CVE-2026-98260&lt;/a&gt;: 基于ghostlock-app与CVE-2026-98260漏洞开发的提权项目</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/molanp/CVE-2026-98260-vivo-s60-poc'&gt;CVE-2026-98260-vivo-s60-poc&lt;/a&gt;: CVE 2026 98260 vivo s60 poc</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
       <guid isPermaLink="false">CVE-2026-98260</guid>
-      <pubDate>2026-11-01T08:27:23.295313</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-98258 - CVE-2026-98258 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/imkidz0/poc-CVE-2026-98258'&gt;poc-CVE-2026-98258&lt;/a&gt;: Proof-of-Concept for CVE-2026-98258.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98258</link>
-      <guid isPermaLink="false">CVE-2026-98258</guid>
-      <pubDate>2026-11-01T08:27:23.295318</pubDate>
+      <pubDate>2026-11-02T03:32:21.290514</pubDate>
     </item>
   </channel>
 </rss>
