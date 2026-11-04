@@ -2,72 +2,44 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-02安全漏洞信息</description>
+    <description>2026-11-04安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 02 Nov 2026 11:53:05 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:00:59 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-117183 - CVE-2026-117183 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Primandito/CVE-2026-117183'&gt;CVE-2026-117183&lt;/a&gt;: Build-time RCE via FeaturedImage path traversal in astro-notion-blog 0.13.0. Allows attackers with Notion edit access to overwrite files and execute commands on the build host. CVE-2026-117183.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-117183</link>
-      <guid isPermaLink="false">CVE-2026-117183</guid>
-      <pubDate>2026-11-02T11:53:05.371045</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-117182 - CVE-2026-117182 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Primandito/CVE-2026-117182'&gt;CVE-2026-117182&lt;/a&gt;: Authenticated Stored XSS via SafeUrlValidator bypass on the rich-text render path in Spina CMS (&lt;= 2.21.0). Payload executes on the public site. CVE-2026-117182.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-117182</link>
-      <guid isPermaLink="false">CVE-2026-117182</guid>
-      <pubDate>2026-11-02T11:53:05.371052</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root'&gt;CVE-2026-98260-iQOO-Neo9-Pro-Root&lt;/a&gt;: 基于CVE-2026-98260的iQOO Neo9 Pro 临时Root实现，AwA</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
-      <guid isPermaLink="false">CVE-2026-98260</guid>
-      <pubDate>2026-11-02T11:53:05.371057</pubDate>
-    </item>
-    <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yusufyildiz34/whichphp'&gt;whichphp&lt;/a&gt;: Is the PHP in your container image really fixed for PHP2Shell (CVE-2026-109618, CVE-2026-109619)? Finds PHP builds inside an image without running it, with backport-aware verdicts and evidence.&lt;br&gt;&lt;a href='https://github.com/avego/php2shell'&gt;php2shell&lt;/a&gt;: Universal PHP security scanner &amp; native EOL patches (PHP 5.2–8.1) for CVE-2026-109618, CVE-2026-109619 &amp; CVE-2026-115560 across FastPanel, cPanel, Plesk, aaPanel, ISPmanager, DirectAdmin &amp; System PHP.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tani2shell/php2shell-lab'&gt;php2shell-lab&lt;/a&gt;: Black-box pentest lab for the PHP2Shell engine memory-corruption family (CVE-2026-109618 / CVE-2026-109619, CVSS 9.8/9.2). Dual-flag verified attack chain, agent-calibrated. EN/JP/ZH.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-02T11:53:05.371062</pubDate>
+      <pubDate>2026-11-04T04:00:59.518514</pubDate>
     </item>
     <item>
       <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/yusufyildiz34/whichphp'&gt;whichphp&lt;/a&gt;: Is the PHP in your container image really fixed for PHP2Shell (CVE-2026-109618, CVE-2026-109619)? Finds PHP builds inside an image without running it, with backport-aware verdicts and evidence.&lt;br&gt;&lt;a href='https://github.com/avego/php2shell'&gt;php2shell&lt;/a&gt;: Universal PHP security scanner &amp; native EOL patches (PHP 5.2–8.1) for CVE-2026-109618, CVE-2026-109619 &amp; CVE-2026-115560 across FastPanel, cPanel, Plesk, aaPanel, ISPmanager, DirectAdmin &amp; System PHP.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tani2shell/php2shell-lab'&gt;php2shell-lab&lt;/a&gt;: Black-box pentest lab for the PHP2Shell engine memory-corruption family (CVE-2026-109618 / CVE-2026-109619, CVSS 9.8/9.2). Dual-flag verified attack chain, agent-calibrated. EN/JP/ZH.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
       <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-11-02T11:53:05.371066</pubDate>
+      <pubDate>2026-11-04T04:00:59.518522</pubDate>
     </item>
     <item>
-      <title>CVE-2026-115560 - CVE-2026-115560 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/avego/php2shell'&gt;php2shell&lt;/a&gt;: Universal PHP security scanner &amp; native EOL patches (PHP 5.2–8.1) for CVE-2026-109618, CVE-2026-109619 &amp; CVE-2026-115560 across FastPanel, cPanel, Plesk, aaPanel, ISPmanager, DirectAdmin &amp; System PHP.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-115560</link>
-      <guid isPermaLink="false">CVE-2026-115560</guid>
-      <pubDate>2026-11-02T11:53:05.371070</pubDate>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tani2shell/node2shell-lab'&gt;node2shell-lab&lt;/a&gt;: Node2Shell (CVE-2026-111497, Node.js Brotli decoder OOB write) black-box pentest lab — crash-gated double flag, agent-calibrated. Part of the *2Shell lab series. EN/中文/日本語.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-11-04T04:00:59.518530</pubDate>
     </item>
     <item>
-      <title>CVE-2026-60137 - CVE-2026-60137 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/l-i-uqing/CVE-2026-63030-wp2shell-repro'&gt;CVE-2026-63030-wp2shell-repro&lt;/a&gt;: WordPress REST Batch route confusion + SQLi RCE chain reproduction (CVE-2026-63030 &amp; CVE-2026-60137)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-60137</link>
-      <guid isPermaLink="false">CVE-2026-60137</guid>
-      <pubDate>2026-11-02T11:53:05.371074</pubDate>
+      <title>CVE-2026-42908 - CVE-2026-42908 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn'&gt;CVE-2026-56190-Full-RCE-Chainn&lt;/a&gt;: Full unauthenticated RCE chain for Windows Server 2022 by chaining CVE-2026-56190 (RCE) and CVE-2026-42908 (Info Leak). Bypasses ASLR, CFG, XFG, and DEP.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-42908</link>
+      <guid isPermaLink="false">CVE-2026-42908</guid>
+      <pubDate>2026-11-04T04:00:59.518536</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63030 - CVE-2026-63030 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/l-i-uqing/CVE-2026-63030-wp2shell-repro'&gt;CVE-2026-63030-wp2shell-repro&lt;/a&gt;: WordPress REST Batch route confusion + SQLi RCE chain reproduction (CVE-2026-63030 &amp; CVE-2026-60137)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63030</link>
-      <guid isPermaLink="false">CVE-2026-63030</guid>
-      <pubDate>2026-11-02T11:53:05.371077</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-98432 - CVE-2026-98432 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/H1z3-br0/CVE-2026-98432'&gt;CVE-2026-98432&lt;/a&gt;: Race trigger, heap-reuse oracle, pcap analysis, detection and mitigation tooling for CVE-2026-98432 (Linux IPv4/TCP ireq_opt use-after-free).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98432</link>
-      <guid isPermaLink="false">CVE-2026-98432</guid>
-      <pubDate>2026-11-02T11:53:05.371081</pubDate>
+      <title>CVE-2026-56190 - CVE-2026-56190 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn'&gt;CVE-2026-56190-Full-RCE-Chainn&lt;/a&gt;: Full unauthenticated RCE chain for Windows Server 2022 by chaining CVE-2026-56190 (RCE) and CVE-2026-42908 (Info Leak). Bypasses ASLR, CFG, XFG, and DEP.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-56190</link>
+      <guid isPermaLink="false">CVE-2026-56190</guid>
+      <pubDate>2026-11-04T04:00:59.518541</pubDate>
     </item>
   </channel>
 </rss>
