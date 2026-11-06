@@ -2,23 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-05安全漏洞信息</description>
+    <description>2026-11-06安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 05 Nov 2026 15:57:38 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:56:10 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Nebur692/php-legacy-ubuntu'&gt;php-legacy-ubuntu&lt;/a&gt;: Signed apt repository with patched PHP 5.6-8.2 rebuilds (PHP2Shell CVE-2026-109618/109619) for Ubuntu 18.04 bionic and 20.04 focal&lt;br&gt;&lt;a href='https://github.com/ybbond/php2shell-lab'&gt;php2shell-lab&lt;/a&gt;: Lingkungan laboratorium berbasis Docker Compose serta isolasi toolchain mise + uv untuk materi kuliah dan pembuatan video pembelajaran Keamanan Komputer mengenai CVE-2026-109618 dan CVE-2026-109619 (PHP2Shell).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-05T15:57:38.666867</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ybbond/php2shell-lab'&gt;php2shell-lab&lt;/a&gt;: Lingkungan laboratorium berbasis Docker Compose serta isolasi toolchain mise + uv untuk materi kuliah dan pembuatan video pembelajaran Keamanan Komputer mengenai CVE-2026-109618 dan CVE-2026-109619 (PHP2Shell).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-11-05T15:57:38.666873</pubDate>
+      <title>CVE-2026-33439 - CVE-2026-33439 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/duohnson/CVE-2026-33439-PoC'&gt;CVE-2026-33439-PoC&lt;/a&gt;: pre-authentication remote code execution vulnerability affecting OpenIdentityPlatform OpenAM in versions equal to or earlier than 16.0.5</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-33439</link>
+      <guid isPermaLink="false">CVE-2026-33439</guid>
+      <pubDate>2026-11-06T01:56:10.575559</pubDate>
     </item>
   </channel>
 </rss>
