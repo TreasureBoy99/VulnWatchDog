@@ -4,35 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-07安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 07 Nov 2026 08:02:48 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:18:04 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-11-07T08:02:48.836036</pubDate>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/poisongod/BakaSU-PostLock'&gt;BakaSU-PostLock&lt;/a&gt;: OPPO A96 (PFUM10) post-relock toolkit: CVE-2026-43499 chain -&gt; real BakaSU driver, ocsk kernel defense probes vs OPPO OPLUS_ROOT_CHECK, boot restore scripts&lt;br&gt;&lt;a href='https://github.com/deancyl/s9180-rootmygalaxy'&gt;s9180-rootmygalaxy&lt;/a&gt;: RootMyGalaxy for Galaxy S23 Ultra SM-S9180 (FZG1) - temp root via CVE-2026-43499, KernelSU late-load, no partition flashing, no Knox&lt;br&gt;&lt;a href='https://github.com/a78c7/w25-cve-2026-43499-notes'&gt;w25-cve-2026-43499-notes&lt;/a&gt;: Field notes: CVE-2026-43499 on Samsung Galaxy W25 (SM-W9025, CHC) - offsets, failed routes, repro</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-11-07T15:18:04.981744</pubDate>
     </item>
     <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-07T08:02:48.836044</pubDate>
+      <title>CVE-2025-31710 - CVE-2025-31710 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot'&gt;360-kidwatch-11X-W370-Ghostroot&lt;/a&gt;: A stealthy, file-based Local Privilege Escalation (LPE) PoC for 360 11X W370 (Unisoc SC8541E, Android 8.1) exploiting CVE-2025-31710. No PC required. For research only.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-31710</link>
+      <guid isPermaLink="false">CVE-2025-31710</guid>
+      <pubDate>2026-11-07T15:18:04.981751</pubDate>
     </item>
     <item>
-      <title>CVE-2026-97205 - CVE-2026-97205 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-97205'&gt;CVE-2026-97205&lt;/a&gt;: None</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-97205</link>
-      <guid isPermaLink="false">CVE-2026-97205</guid>
-      <pubDate>2026-11-07T08:02:48.836051</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-91403 - CVE-2026-91403 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/bryanHsiao/domino-emudhra-cert-mitigation'&gt;domino-emudhra-cert-mitigation&lt;/a&gt;: HCL Domino / Notes eMudhra 憑證事件 (CVE-2026-91403) 的最小化清查與移除 SOP，純 keytool，不需大型工具</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-91403</link>
-      <guid isPermaLink="false">CVE-2026-91403</guid>
-      <pubDate>2026-11-07T08:02:48.836057</pubDate>
+      <title>CVE-2026-112621 - CVE-2026-112621 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/PickAstley11/CVE-2026-112621-oob-write-poc'&gt;CVE-2026-112621-oob-write-poc&lt;/a&gt;: This is a fork of vinaykumar´s poc for CVE-2026-112621. This is for educational purposes only. I am only using this to host the website so that I can try the poc</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-112621</link>
+      <guid isPermaLink="false">CVE-2026-112621</guid>
+      <pubDate>2026-11-07T15:18:04.981756</pubDate>
     </item>
   </channel>
 </rss>
