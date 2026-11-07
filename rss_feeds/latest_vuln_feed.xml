@@ -4,14 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-07安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 07 Nov 2026 01:28:10 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:02:48 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/blkph0x/CVE-2026-109619-ZendPipelineLab'&gt;CVE-2026-109619-ZendPipelineLab&lt;/a&gt;: PHP CVE-2026-109619 stale session state: calibrated mod_php lab reproduction, evidence, and solver</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
       <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-11-07T01:28:10.633031</pubDate>
+      <pubDate>2026-11-07T08:02:48.836036</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/CypherSecurity/php2shell-detection'&gt;php2shell-detection&lt;/a&gt;: Detection and response package for php2shell (CVE-2026-109618 / CVE-2026-109619): Suricata, Zeek, YARA, Sigma, ModSecurity rules, hunting queries, SOC triage, patch matrix. No exploit code.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-11-07T08:02:48.836044</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-97205 - CVE-2026-97205 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/suominen/CVE-2026-97205'&gt;CVE-2026-97205&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-97205</link>
+      <guid isPermaLink="false">CVE-2026-97205</guid>
+      <pubDate>2026-11-07T08:02:48.836051</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-91403 - CVE-2026-91403 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/bryanHsiao/domino-emudhra-cert-mitigation'&gt;domino-emudhra-cert-mitigation&lt;/a&gt;: HCL Domino / Notes eMudhra 憑證事件 (CVE-2026-91403) 的最小化清查與移除 SOP，純 keytool，不需大型工具</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-91403</link>
+      <guid isPermaLink="false">CVE-2026-91403</guid>
+      <pubDate>2026-11-07T08:02:48.836057</pubDate>
     </item>
   </channel>
 </rss>
