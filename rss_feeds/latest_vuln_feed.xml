@@ -2,30 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-07安全漏洞信息</description>
+    <description>2026-11-08安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 07 Nov 2026 15:18:04 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 03:30:29 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/poisongod/BakaSU-PostLock'&gt;BakaSU-PostLock&lt;/a&gt;: OPPO A96 (PFUM10) post-relock toolkit: CVE-2026-43499 chain -&gt; real BakaSU driver, ocsk kernel defense probes vs OPPO OPLUS_ROOT_CHECK, boot restore scripts&lt;br&gt;&lt;a href='https://github.com/deancyl/s9180-rootmygalaxy'&gt;s9180-rootmygalaxy&lt;/a&gt;: RootMyGalaxy for Galaxy S23 Ultra SM-S9180 (FZG1) - temp root via CVE-2026-43499, KernelSU late-load, no partition flashing, no Knox&lt;br&gt;&lt;a href='https://github.com/a78c7/w25-cve-2026-43499-notes'&gt;w25-cve-2026-43499-notes&lt;/a&gt;: Field notes: CVE-2026-43499 on Samsung Galaxy W25 (SM-W9025, CHC) - offsets, failed routes, repro</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/h5hg6vy8nt-hue/meizu20pro-temp-root'&gt;meizu20pro-temp-root&lt;/a&gt;: MEIZU 20 Pro 临时 Root 指南（锁定 BL）：DirtyFrag (CVE-2026-43284) 与 GhostLock (CVE-2026-43499)</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
       <guid isPermaLink="false">CVE-2026-43499</guid>
-      <pubDate>2026-11-07T15:18:04.981744</pubDate>
+      <pubDate>2026-11-08T03:30:29.614601</pubDate>
     </item>
     <item>
-      <title>CVE-2025-31710 - CVE-2025-31710 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot'&gt;360-kidwatch-11X-W370-Ghostroot&lt;/a&gt;: A stealthy, file-based Local Privilege Escalation (LPE) PoC for 360 11X W370 (Unisoc SC8541E, Android 8.1) exploiting CVE-2025-31710. No PC required. For research only.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-31710</link>
-      <guid isPermaLink="false">CVE-2025-31710</guid>
-      <pubDate>2026-11-07T15:18:04.981751</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-112621 - CVE-2026-112621 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/PickAstley11/CVE-2026-112621-oob-write-poc'&gt;CVE-2026-112621-oob-write-poc&lt;/a&gt;: This is a fork of vinaykumar´s poc for CVE-2026-112621. This is for educational purposes only. I am only using this to host the website so that I can try the poc</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-112621</link>
-      <guid isPermaLink="false">CVE-2026-112621</guid>
-      <pubDate>2026-11-07T15:18:04.981756</pubDate>
+      <title>CVE-2026-43284 - CVE-2026-43284 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/h5hg6vy8nt-hue/meizu20pro-temp-root'&gt;meizu20pro-temp-root&lt;/a&gt;: MEIZU 20 Pro 临时 Root 指南（锁定 BL）：DirtyFrag (CVE-2026-43284) 与 GhostLock (CVE-2026-43499)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43284</link>
+      <guid isPermaLink="false">CVE-2026-43284</guid>
+      <pubDate>2026-11-08T03:30:29.614606</pubDate>
     </item>
   </channel>
 </rss>
