@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-11-09安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Mon, 09 Nov 2026 00:21:08 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-83844 - CVE-2026-83844 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/blkph0x/CVE-2026-83844_POC'&gt;CVE-2026-83844_POC&lt;/a&gt;: Signed Microsoft Paint A/B research lab; CVE trigger not yet confirmed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-83844</link>
+      <guid isPermaLink="false">CVE-2026-83844</guid>
+      <pubDate>2026-11-09T00:21:08.738206</pubDate>
+    </item>
+  </channel>
+</rss>
