@@ -4,14 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-09安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 09 Nov 2026 00:21:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:29:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-83844 - CVE-2026-83844 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/blkph0x/CVE-2026-83844_POC'&gt;CVE-2026-83844_POC&lt;/a&gt;: Signed Microsoft Paint A/B research lab; CVE trigger not yet confirmed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-83844</link>
-      <guid isPermaLink="false">CVE-2026-83844</guid>
-      <pubDate>2026-11-09T00:21:08.738206</pubDate>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hosun-hwang/CVE-2026-111497_PoC'&gt;CVE-2026-111497_PoC&lt;/a&gt;: Node2Shell</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-11-09T07:29:05.038260</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC'&gt;CVE-2026-109618-CVE-2026-109619_PoC&lt;/a&gt;: PHP2Shell</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-11-09T07:29:05.038267</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC'&gt;CVE-2026-109618-CVE-2026-109619_PoC&lt;/a&gt;: PHP2Shell</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-11-09T07:29:05.038272</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-31431 - CVE-2026-31431 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/hosun-hwang/CVE-2026-31431_PoC'&gt;CVE-2026-31431_PoC&lt;/a&gt;: Copy Fail</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-31431</link>
+      <guid isPermaLink="false">CVE-2026-31431</guid>
+      <pubDate>2026-11-09T07:29:05.038276</pubDate>
     </item>
   </channel>
 </rss>
