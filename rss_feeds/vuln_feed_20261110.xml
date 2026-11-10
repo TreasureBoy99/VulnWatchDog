@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-11-10安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Tue, 10 Nov 2026 01:21:22 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-83844 - CVE-2026-83844 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/blkph0x/CVE-2026-83844_POC'&gt;CVE-2026-83844_POC&lt;/a&gt;: Signed Microsoft Paint A/B research lab; CVE trigger not yet confirmed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-83844</link>
+      <guid isPermaLink="false">CVE-2026-83844</guid>
+      <pubDate>2026-11-10T01:21:22.107868</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Delta-Water/CVE-2026-43499-phq110-root'&gt;CVE-2026-43499-phq110-root&lt;/a&gt;: PHQ110（OPPO OP5613 / Android 14 / C.53）内存态 uid0 研究快照：CVE-2026-43499 GhostLock 链 + uid0 rootd + Shizuku。不写分区、不持久化。</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-11-10T01:21:22.107877</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43284 - CVE-2026-43284 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Jean7z/DFRoot-DirtyFrag'&gt;DFRoot-DirtyFrag&lt;/a&gt;: Fork de mitschud/DirtyFrag (CVE-2026-43284 page-cache exploit) con port G998U — ko dfroot-android15-5.4.ko embebido para SM-G998U/HZB1 (kernel 5.4.274-qgki). Flujo de app oficial diabl0w/DFRoot; manager KSU oficial me.weishu.kernelsu.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43284</link>
+      <guid isPermaLink="false">CVE-2026-43284</guid>
+      <pubDate>2026-11-10T01:21:22.107884</pubDate>
+    </item>
+  </channel>
+</rss>
