@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-11-12安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Thu, 12 Nov 2026 08:59:25 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-87772 - CVE-2026-87772 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jankesec/CVE-2026-87772-pardus-about-lpe'&gt;CVE-2026-87772-pardus-about-lpe&lt;/a&gt;: Local privilege escalation PoC for CVE-2026-87772 (Pardus About): passwordless Polkit action + root mount without nosuid. Reproduced on 1.2.4; fixed in 1.2.5.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-87772</link>
+      <guid isPermaLink="false">CVE-2026-87772</guid>
+      <pubDate>2026-11-12T08:59:25.040397</pubDate>
+    </item>
+  </channel>
+</rss>
