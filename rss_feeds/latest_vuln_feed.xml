@@ -2,16 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-12安全漏洞信息</description>
+    <description>2026-11-13安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 12 Nov 2026 08:59:25 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:15:50 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-87772 - CVE-2026-87772 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jankesec/CVE-2026-87772-pardus-about-lpe'&gt;CVE-2026-87772-pardus-about-lpe&lt;/a&gt;: Local privilege escalation PoC for CVE-2026-87772 (Pardus About): passwordless Polkit action + root mount without nosuid. Reproduced on 1.2.4; fixed in 1.2.5.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-87772</link>
-      <guid isPermaLink="false">CVE-2026-87772</guid>
-      <pubDate>2026-11-12T08:59:25.040397</pubDate>
+      <title>CVE-2026-119618 - CVE-2026-119618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/jeffschafer/Apache-HTTP2-RCE-HEAP-CORRUPTION-CVE-2026-119618-STAND-ALONE-SCANNER'&gt;Apache-HTTP2-RCE-HEAP-CORRUPTION-CVE-2026-119618-STAND-ALONE-SCANNER&lt;/a&gt;: Independent community CLI scanners for Apache mod_http2 CVE-2026-119618 on Windows, Linux and macOS. Not HCL-supported.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-119618</link>
+      <guid isPermaLink="false">CVE-2026-119618</guid>
+      <pubDate>2026-11-13T03:15:50.359306</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/janewas/cve-2026-98260-vivo-gki-research'&gt;cve-2026-98260-vivo-gki-research&lt;/a&gt;: Research notes: porting CVE-2026-98260 to vivo/iQOO GKI 6.6.127 (no exploit code; coordinated disclosure planned)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
+      <guid isPermaLink="false">CVE-2026-98260</guid>
+      <pubDate>2026-11-13T03:15:50.359315</pubDate>
     </item>
   </channel>
 </rss>
