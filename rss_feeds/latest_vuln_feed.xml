@@ -4,21 +4,49 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-14安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 14 Nov 2026 00:11:21 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:14:36 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-121529 - CVE-2026-121529 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tc4dy/CVE-2026-121529-Toolkit'&gt;CVE-2026-121529-Toolkit&lt;/a&gt;: CVE-2026-121529 - FortiClient Local API Origin Validation Error (CVSS 9.6). Red/Blue Team suite with 2 tools: Full Exploit (RCE via CORS, browser payload server, interactive shell, mass scan, enum, chain mode, SOCKS5/Tor, stealth) and Safe Verifier (non-intrusive CORS audit, WAF detection, JSON/CSV reports). Use Ethically, Stay Legal.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-121529</link>
-      <guid isPermaLink="false">CVE-2026-121529</guid>
-      <pubDate>2026-11-14T00:11:21.307031</pubDate>
+      <title>CVE-2025-15467 - CVE-2025-15467 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-128027'&gt;CVE-2026-128027&lt;/a&gt;: GHSA-x9p2-77v6-6vhf PoC: a FrankenPHP image baked on a stale base snapshot ships libcrypto3 3.3.5, exposed to CVE-2025-15467 (pre-auth stack overflow in CMS parsing); the refreshed base ships 3.3.6 and rejects the same crafted CMS blob. ASan differential lab with registry-staleness evidence.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-15467</link>
+      <guid isPermaLink="false">CVE-2025-15467</guid>
+      <pubDate>2026-11-14T07:14:36.151265</pubDate>
     </item>
     <item>
-      <title>CVE-2026-54121 - CVE-2026-54121 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit'&gt;CVE-2026-54121-PoC-Exploit&lt;/a&gt;: CVE-2026-54121 - CertiGhost AD CS Multi-Exploit Framework | Rogue DC + LDAP spoofing, certificate abuse, PKINIT hash extraction, auto DCSync. Safe Checker + full exploit, multi-threaded mass scan, Shodan integration, JSON/CSV/JSONL output. CVSS 8.8 High. Use Ethically, Stay Legal :v</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-54121</link>
-      <guid isPermaLink="false">CVE-2026-54121</guid>
-      <pubDate>2026-11-14T00:11:21.307036</pubDate>
+      <title>CVE-2026-128027 - CVE-2026-128027 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-128027'&gt;CVE-2026-128027&lt;/a&gt;: GHSA-x9p2-77v6-6vhf PoC: a FrankenPHP image baked on a stale base snapshot ships libcrypto3 3.3.5, exposed to CVE-2025-15467 (pre-auth stack overflow in CMS parsing); the refreshed base ships 3.3.6 and rejects the same crafted CMS blob. ASan differential lab with registry-staleness evidence.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-128027</link>
+      <guid isPermaLink="false">CVE-2026-128027</guid>
+      <pubDate>2026-11-14T07:14:36.151271</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-119618 - CVE-2026-119618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/blkph0x/CVE-2026-119618-mod_http2-lab'&gt;CVE-2026-119618-mod_http2-lab&lt;/a&gt;: Reproducible Apache mod_http2 CVE-2026-119618 source, HTTP/2, and debugger A/B lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-119618</link>
+      <guid isPermaLink="false">CVE-2026-119618</guid>
+      <pubDate>2026-11-14T07:14:36.151276</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-76954 - CVE-2026-76954 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-76954'&gt;CVE-2026-76954&lt;/a&gt;: Containerized differential PoC for CVE-2026-76954: pre-auth SQL injection in the Synology DSM Auth API. DBEscapeStrings truncates a %q-escaped field to 4095 bytes, splitting a doubled quote and turning the next pre-auth field into stacked SQL against syno-pam-key.db. Real DSM libraries; all four branches proven vulnerable vs fixed.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-76954</link>
+      <guid isPermaLink="false">CVE-2026-76954</guid>
+      <pubDate>2026-11-14T07:14:36.151280</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-128014 - CVE-2026-128014 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-128014'&gt;CVE-2026-128014&lt;/a&gt;: CVE-2026-128014 PoC: a two-chunk request body drives the Brotli 1.2.0 bundled in FrankenPHP 1.13.1 into a non-terminating decode loop that pins the request worker (DoS); FrankenPHP 1.13.2 (Brotli 1.2.1) rejects the same bytes with -17 FORMAT_BLOCK_SWITCH. Containerized differential lab, stdlib PoC, ASan evidence.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-128014</link>
+      <guid isPermaLink="false">CVE-2026-128014</guid>
+      <pubDate>2026-11-14T07:14:36.151284</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-123790 - CVE-2026-123790 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/lng255639-cpu/comfyui-easyuse-cve-check-en'&gt;comfyui-easyuse-cve-check-en&lt;/a&gt;: Claude Code skill: read-only check whether your ComfyUI is affected by CVE-2026-123790 (Easy-Use path traversal to RCE): version, fix commit, --listen exposure, signs of compromise</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123790</link>
+      <guid isPermaLink="false">CVE-2026-123790</guid>
+      <pubDate>2026-11-14T07:14:36.151288</pubDate>
     </item>
   </channel>
 </rss>
