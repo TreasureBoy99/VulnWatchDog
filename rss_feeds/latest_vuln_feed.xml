@@ -2,16 +2,30 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-15安全漏洞信息</description>
+    <description>2026-11-16安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sun, 15 Nov 2026 11:41:02 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 03:56:11 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-119618 - CVE-2026-119618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/studiogangster/CVE-2026-119618'&gt;CVE-2026-119618&lt;/a&gt;: Exploit - CVE-2026-119618 Concurrent Execution Using a Shared Resource with Improper Synchronization (CWE-362) in the HTTP/2 request-header table → heap corruption → RCE.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-119618</link>
-      <guid isPermaLink="false">CVE-2026-119618</guid>
-      <pubDate>2026-11-15T11:41:02.828260</pubDate>
+      <title>CVE-2026-111760 - CVE-2026-111760 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/SSJCorpSec/cve-2026-111760-b3-85967fc9'&gt;cve-2026-111760-b3-85967fc9&lt;/a&gt;: None</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111760</link>
+      <guid isPermaLink="false">CVE-2026-111760</guid>
+      <pubDate>2026-11-16T03:56:11.915633</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/TimmyTurner51/brotli-lab'&gt;brotli-lab&lt;/a&gt;: In-app CVE-2026-111497 (Brotli/libcompression) research harness for iOS</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-11-16T03:56:11.915638</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-129357 - CVE-2026-129357 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-129357'&gt;CVE-2026-129357&lt;/a&gt;: Magma NMS &lt;=1.9.0: /host subtree gates the tenant (Host header) but never the caller's role — a role-0 host-org user POSTs add_user with role:3 and manufactures SUPERUSER accounts. Real NMS server + Postgres + local auth; manufactured superuser verified end-to-end. Synthetic fixed side (no upstream fix).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-129357</link>
+      <guid isPermaLink="false">CVE-2026-129357</guid>
+      <pubDate>2026-11-16T03:56:11.915642</pubDate>
     </item>
   </channel>
 </rss>
