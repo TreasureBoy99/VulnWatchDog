@@ -2,30 +2,30 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-16安全漏洞信息</description>
+    <description>2026-11-17安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 16 Nov 2026 12:19:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:54:20 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-25863 - CVE-2026-25863 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rahulreddykarne/ARK-WP-Scanner'&gt;ARK-WP-Scanner&lt;/a&gt;: ARK WP Scanner: WordPress plugin vulnerability scanner using static analysis, attack-surface mapping, and an LLM review cascade. Found CVE-2026-23693, CVE-2026-23694, CVE-2026-25863.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-25863</link>
-      <guid isPermaLink="false">CVE-2026-25863</guid>
-      <pubDate>2026-11-16T12:19:33.974019</pubDate>
+      <title>CVE-2026-111497 - CVE-2026-111497 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/TimmyTurner51/brotli-lab'&gt;brotli-lab&lt;/a&gt;: In-app CVE-2026-111497 (Brotli/libcompression) research harness for iOS</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-111497</link>
+      <guid isPermaLink="false">CVE-2026-111497</guid>
+      <pubDate>2026-11-17T04:54:20.375133</pubDate>
     </item>
     <item>
-      <title>CVE-2026-23694 - CVE-2026-23694 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rahulreddykarne/ARK-WP-Scanner'&gt;ARK-WP-Scanner&lt;/a&gt;: ARK WP Scanner: WordPress plugin vulnerability scanner using static analysis, attack-surface mapping, and an LLM review cascade. Found CVE-2026-23693, CVE-2026-23694, CVE-2026-25863.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-23694</link>
-      <guid isPermaLink="false">CVE-2026-23694</guid>
-      <pubDate>2026-11-16T12:19:33.974025</pubDate>
+      <title>CVE-2026-90436 - CVE-2026-90436 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/dinosn/axis-cve-2026-90436-lab-poc'&gt;axis-cve-2026-90436-lab-poc&lt;/a&gt;: CVE-2026-90436 Apache Axis 1.x SOAP-fault unsafe reflection: Docker lab + PoC. Unauthenticated class instantiation/static-init on stock Axis 1.4, fires on any URL incl. undeployed services; stock impact = file create/truncate + DNS oracle; RCE needs an app gadget (Spring CPAC).&lt;br&gt;&lt;a href='https://github.com/foxcornlab/confluence-axis-scanner'&gt;confluence-axis-scanner&lt;/a&gt;: Detection-only triage for Atlassian Confluence Data Center CVE-2026-90436 (Apache Axis 1.x unauthenticated RCE, CVSS 9.8) — version grading plus Remote API endpoint probe. No payloads.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-90436</link>
+      <guid isPermaLink="false">CVE-2026-90436</guid>
+      <pubDate>2026-11-17T04:54:20.375141</pubDate>
     </item>
     <item>
-      <title>CVE-2026-23693 - CVE-2026-23693 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rahulreddykarne/ARK-WP-Scanner'&gt;ARK-WP-Scanner&lt;/a&gt;: ARK WP Scanner: WordPress plugin vulnerability scanner using static analysis, attack-surface mapping, and an LLM review cascade. Found CVE-2026-23693, CVE-2026-23694, CVE-2026-25863.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-23693</link>
-      <guid isPermaLink="false">CVE-2026-23693</guid>
-      <pubDate>2026-11-16T12:19:33.974028</pubDate>
+      <title>CVE-2026-99288 - CVE-2026-99288 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/re4/noisytcp-poc'&gt;noisytcp-poc&lt;/a&gt;: noisytcp CVE-2026-99288</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-99288</link>
+      <guid isPermaLink="false">CVE-2026-99288</guid>
+      <pubDate>2026-11-17T04:54:20.375146</pubDate>
     </item>
   </channel>
 </rss>
