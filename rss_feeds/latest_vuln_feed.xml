@@ -4,14 +4,35 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-18安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 18 Nov 2026 03:58:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:40:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
       <title>CVE-2026-114938 - CVE-2026-114938 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zake1god/java2shell'&gt;java2shell&lt;/a&gt;: Local-only CVE-2026-114938 Java2Shell/Java4Shell checker and vulnerable-vs-mitigated Docker lab&lt;br&gt;&lt;a href='https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab'&gt;CVE-2026-114938_Java4Shell_lab&lt;/a&gt;: Secure-coding lab for CVE-2026-114938 (Java4Shell): local reproduction of the HotSpot AVX-512 Base64 decoder heap overflow, with an AddressSanitizer proof, QEMU negative control, detection hunts, and a CTI alert.&lt;br&gt;&lt;a href='https://github.com/r3dvei1/java4shell'&gt;java4shell&lt;/a&gt;: CVE-2026-114938 (Java4Shell) analysis, reproduction kit and lab stack - no RCE chain&lt;br&gt;&lt;a href='https://github.com/arkrwn/PoC-CVE-2026-114938'&gt;PoC-CVE-2026-114938&lt;/a&gt;: CVE-2026-114938 (dubbed Java4Shell) is a critical heap-based buffer overflow (memory corruption) vulnerability in the hardware-accelerated Base64 decoder (AVX-512) in OpenJDK HotSpot, this tool is used for validate on allowed target only, DO NOT use for NOT YOUR OWNED target.</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/rogersouzak8s/java4shell-check'&gt;java4shell-check&lt;/a&gt;: Read-only checker for CVE-2026-114938 (Java4Shell): asks the running JVM whether your Keycloak or other Java services are exposed. Docker and Kubernetes.&lt;br&gt;&lt;a href='https://github.com/avergnaud/cve-2026-114938'&gt;cve-2026-114938&lt;/a&gt;: None&lt;br&gt;&lt;a href='https://github.com/Ghost-Bx1/java-exploits'&gt;java-exploits&lt;/a&gt;: OpenJDK / Java exploits - CVE-2026-114938 Java4Shell and more&lt;br&gt;&lt;a href='https://github.com/fumioryoto/java4shell-poc'&gt;java4shell-poc&lt;/a&gt;: CVE-2026-114938 (Java4Shell) — Bounded Local PoC A read-only-first, bounded reproduction harness for the OpenJDK AVX-512 Base64 heap overflow.&lt;br&gt;&lt;a href='https://github.com/techdevfun/java4shell'&gt;java4shell&lt;/a&gt;: Is this Java install actually exposed to Java4Shell (CVE-2026-114938)? A zero-dependency CLI that answers from the three live conditions together: JDK patch level, CPU AVX-512 VBMI, and the Base64 fast path.</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-114938</link>
       <guid isPermaLink="false">CVE-2026-114938</guid>
-      <pubDate>2026-11-18T03:58:17.963463</pubDate>
+      <pubDate>2026-11-18T12:40:05.469096</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-71961 - CVE-2026-71961 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ShibbityShwab/cudy-wr3000v2-cve'&gt;cudy-wr3000v2-cve&lt;/a&gt;: Security research on Cudy WR3000 v2.0: CVE-2026-71960 fleet-wide Mosquitto JWT key and CVE-2026-71961 root cmagent command injection, plus a LuCI systime RCE. Writeups, sanitized PoCs, mitigation.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-71961</link>
+      <guid isPermaLink="false">CVE-2026-71961</guid>
+      <pubDate>2026-11-18T12:40:05.469106</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-71960 - CVE-2026-71960 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ShibbityShwab/cudy-wr3000v2-cve'&gt;cudy-wr3000v2-cve&lt;/a&gt;: Security research on Cudy WR3000 v2.0: CVE-2026-71960 fleet-wide Mosquitto JWT key and CVE-2026-71961 root cmagent command injection, plus a LuCI systime RCE. Writeups, sanitized PoCs, mitigation.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-71960</link>
+      <guid isPermaLink="false">CVE-2026-71960</guid>
+      <pubDate>2026-11-18T12:40:05.469111</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-43499 - CVE-2026-43499 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/bxffhss/iqoo-z6-temp-root'&gt;iqoo-z6-temp-root&lt;/a&gt;: iQOO Z6 临时 root 研究：KernelSU 外部 .ko + GhostLock (CVE-2026-43499) + Zygisk/LSPosed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-43499</link>
+      <guid isPermaLink="false">CVE-2026-43499</guid>
+      <pubDate>2026-11-18T12:40:05.469116</pubDate>
     </item>
   </channel>
 </rss>
