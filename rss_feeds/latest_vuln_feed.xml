@@ -2,23 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-17安全漏洞信息</description>
+    <description>2026-11-18安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 17 Nov 2026 14:00:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:58:17 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-130347 - CVE-2026-130347 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-130347'&gt;CVE-2026-130347&lt;/a&gt;: phpMyFAQ &lt; 4.1.12: the public password-reset flow never checks auth_source — IdP provisioning leaves a random local hash, so anyone who reads the reset mail sets a local password on an OIDC/LDAP/WebAuthn account and logs in, skipping the IdP + MFA. Real 4.1.11 vs vendor-fixed 4.1.12; chain completes on vuln, refused on fixed.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-130347</link>
-      <guid isPermaLink="false">CVE-2026-130347</guid>
-      <pubDate>2026-11-17T14:00:17.696667</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-59309 - CVE-2026-59309 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC'&gt;CVE-2026-59309-PoC&lt;/a&gt;: CVE-2026-59309 - VMware vCenter vmdir SRP Authentication Bypass (read-only PoC)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-59309</link>
-      <guid isPermaLink="false">CVE-2026-59309</guid>
-      <pubDate>2026-11-17T14:00:17.696673</pubDate>
+      <title>CVE-2026-114938 - CVE-2026-114938 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/zake1god/java2shell'&gt;java2shell&lt;/a&gt;: Local-only CVE-2026-114938 Java2Shell/Java4Shell checker and vulnerable-vs-mitigated Docker lab&lt;br&gt;&lt;a href='https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab'&gt;CVE-2026-114938_Java4Shell_lab&lt;/a&gt;: Secure-coding lab for CVE-2026-114938 (Java4Shell): local reproduction of the HotSpot AVX-512 Base64 decoder heap overflow, with an AddressSanitizer proof, QEMU negative control, detection hunts, and a CTI alert.&lt;br&gt;&lt;a href='https://github.com/r3dvei1/java4shell'&gt;java4shell&lt;/a&gt;: CVE-2026-114938 (Java4Shell) analysis, reproduction kit and lab stack - no RCE chain&lt;br&gt;&lt;a href='https://github.com/arkrwn/PoC-CVE-2026-114938'&gt;PoC-CVE-2026-114938&lt;/a&gt;: CVE-2026-114938 (dubbed Java4Shell) is a critical heap-based buffer overflow (memory corruption) vulnerability in the hardware-accelerated Base64 decoder (AVX-512) in OpenJDK HotSpot, this tool is used for validate on allowed target only, DO NOT use for NOT YOUR OWNED target.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-114938</link>
+      <guid isPermaLink="false">CVE-2026-114938</guid>
+      <pubDate>2026-11-18T03:58:17.963463</pubDate>
     </item>
   </channel>
 </rss>
