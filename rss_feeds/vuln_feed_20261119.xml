@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-11-19安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Thu, 19 Nov 2026 02:24:39 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-123007 - CVE-2026-123007 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/akarkode/nginx-http2-cve-2026-123007-lab'&gt;nginx-http2-cve-2026-123007-lab&lt;/a&gt;: Local lab for CVE-2026-123007 (nginx HTTP/2 integer underflow): vulnerable Docker container + proof-of-concept</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123007</link>
+      <guid isPermaLink="false">CVE-2026-123007</guid>
+      <pubDate>2026-11-19T02:24:39.904443</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-123633 - CVE-2026-123633 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Quaerendir/cve-2026-123633-123007-nginx-audit'&gt;cve-2026-123633-123007-nginx-audit&lt;/a&gt;: Read-only POSIX sh audit for the five NGINX2Root nginx CVEs (HTTP/2, HTTP/3, resolver, mail proxy), judged per CVE</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123633</link>
+      <guid isPermaLink="false">CVE-2026-123633</guid>
+      <pubDate>2026-11-19T02:24:39.904456</pubDate>
+    </item>
+  </channel>
+</rss>
