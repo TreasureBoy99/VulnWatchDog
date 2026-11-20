@@ -2,51 +2,30 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-19安全漏洞信息</description>
+    <description>2026-11-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 19 Nov 2026 10:57:33 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:33:49 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-63219 - CVE-2026-63219 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BridgerAlderson/GeoNetwork-PreAuth-RCE-PoC'&gt;GeoNetwork-PreAuth-RCE-PoC&lt;/a&gt;: CVE-2026-63219 + CVE-2026-58400 | GeoNetwork PreAuth RCE Chain PoC</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63219</link>
-      <guid isPermaLink="false">CVE-2026-63219</guid>
-      <pubDate>2026-11-19T10:57:33.437609</pubDate>
+      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
+      <guid isPermaLink="false">CVE-2026-109619</guid>
+      <pubDate>2026-11-20T01:33:49.040747</pubDate>
     </item>
     <item>
-      <title>CVE-2026-58400 - CVE-2026-58400 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/BridgerAlderson/GeoNetwork-PreAuth-RCE-PoC'&gt;GeoNetwork-PreAuth-RCE-PoC&lt;/a&gt;: CVE-2026-63219 + CVE-2026-58400 | GeoNetwork PreAuth RCE Chain PoC</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58400</link>
-      <guid isPermaLink="false">CVE-2026-58400</guid>
-      <pubDate>2026-11-19T10:57:33.437616</pubDate>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-11-20T01:33:49.040753</pubDate>
     </item>
     <item>
-      <title>CVE-2026-123007 - CVE-2026-123007 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/githubcdr/nginx-ingress-controller'&gt;nginx-ingress-controller&lt;/a&gt;: Security-updated kubernetes/ingress-nginx v1.15.1 Docker image built with NGINX 1.31.9 (fixes CVE-2026-123007 &amp; CVE-2026-123633)&lt;br&gt;&lt;a href='https://github.com/yusif-v/cve-2026-123007-poc'&gt;cve-2026-123007-poc&lt;/a&gt;: PoC for CVE-2026-123007: nginx HTTP/2 integer underflow -&gt; RCE</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123007</link>
-      <guid isPermaLink="false">CVE-2026-123007</guid>
-      <pubDate>2026-11-19T10:57:33.437621</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-123633 - CVE-2026-123633 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/githubcdr/nginx-ingress-controller'&gt;nginx-ingress-controller&lt;/a&gt;: Security-updated kubernetes/ingress-nginx v1.15.1 Docker image built with NGINX 1.31.9 (fixes CVE-2026-123007 &amp; CVE-2026-123633)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123633</link>
-      <guid isPermaLink="false">CVE-2026-123633</guid>
-      <pubDate>2026-11-19T10:57:33.437624</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-51994 - CVE-2026-51994 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/playb0t/mcp-remote-oauth-security'&gt;mcp-remote-oauth-security&lt;/a&gt;: Forensic audit of mcp-remote: seven OAuth trust-boundary advisories, five CVE records (CVE-2026-51994/51995/51996/51997/52001). Server-selected request path (CWE-918) run against loopback canaries in 62 stable releases, 0.1.32 to the current 0.15.1; selected code and namespace signatures under 12 other npm names; search blind spots above 350 KiB.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-51994</link>
-      <guid isPermaLink="false">CVE-2026-51994</guid>
-      <pubDate>2026-11-19T10:57:33.437629</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-114938 - CVE-2026-114938 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/gbuyssens/CVE-2026-114938'&gt;CVE-2026-114938&lt;/a&gt;: POC For CVE-2026-114938 ( Java4Shell )</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-114938</link>
-      <guid isPermaLink="false">CVE-2026-114938</guid>
-      <pubDate>2026-11-19T10:57:33.437632</pubDate>
+      <title>CVE-2026-126714 - CVE-2026-126714 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126714</link>
+      <guid isPermaLink="false">CVE-2026-126714</guid>
+      <pubDate>2026-11-20T01:33:49.040756</pubDate>
     </item>
   </channel>
 </rss>
