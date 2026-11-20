@@ -4,28 +4,28 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-20安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 20 Nov 2026 01:33:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:28:11 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-11-20T01:33:49.040747</pubDate>
+      <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
+      <guid isPermaLink="false">CVE-2026-132825</guid>
+      <pubDate>2026-11-20T09:28:11.450257</pubDate>
     </item>
     <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab&lt;br&gt;&lt;a href='https://github.com/Nebur692/php-legacy-ubuntu'&gt;php-legacy-ubuntu&lt;/a&gt;: Signed apt repository with patched PHP 5.6-8.2 rebuilds (PHP2Shell CVE-2026-109618/109619) for Ubuntu 18.04 bionic and 20.04 focal</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-20T01:33:49.040753</pubDate>
+      <pubDate>2026-11-20T09:28:11.450265</pubDate>
     </item>
     <item>
-      <title>CVE-2026-126714 - CVE-2026-126714 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126714</link>
-      <guid isPermaLink="false">CVE-2026-126714</guid>
-      <pubDate>2026-11-20T01:33:49.040756</pubDate>
+      <title>CVE-2026-133430 - CVE-2026-133430 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-133430'&gt;CVE-2026-133430&lt;/a&gt;: Keycloak: SessionIndex back-channel SAML SLO authenticates via Issuer only — with saml.client.signature=false an unsigned LogoutRequest spoofing the victim Issuer+SessionIndex terminates arbitrary sessions. Official images 26.8.0 vs fixed 26.8.2 (PR #53658): session 1-&gt;0 on vuln, 400 rejected on fixed.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133430</link>
+      <guid isPermaLink="false">CVE-2026-133430</guid>
+      <pubDate>2026-11-20T09:28:11.450270</pubDate>
     </item>
   </channel>
 </rss>
