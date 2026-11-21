@@ -2,30 +2,44 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-20安全漏洞信息</description>
+    <description>2026-11-21安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Fri, 20 Nov 2026 09:28:11 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:32:58 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-58192 - CVE-2026-58192 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-58192'&gt;CVE-2026-58192&lt;/a&gt;: @appium/storage-plugin &lt;1.1.6: POST /storage/delete passed name straight to path.join+rimraf with no sanitization — '../victim' escapes the storage root and recursively deletes arbitrary files/dirs, unauthenticated. Real handler 1.1.5 vs 1.1.6: victim deleted on vuln, validateStorageItemName rejects on fixed.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58192</link>
+      <guid isPermaLink="false">CVE-2026-58192</guid>
+      <pubDate>2026-11-21T00:32:58.044821</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-61725 - CVE-2026-61725 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-61725'&gt;CVE-2026-61725&lt;/a&gt;: sevenz-rust2 &lt;0.21.1: decompress_impl did dest.join(entry.name()) with no containment — a .7z entry '../../../../tmp/pwned' or absolute path writes outside the destination (Zip-Slip arbitrary file write). Real decompress_file 0.21.0 vs 0.21.1: escapes on vuln, safe_join rejects on fixed (ef760b6).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61725</link>
+      <guid isPermaLink="false">CVE-2026-61725</guid>
+      <pubDate>2026-11-21T00:32:58.044831</pubDate>
+    </item>
     <item>
       <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
       <guid isPermaLink="false">CVE-2026-132825</guid>
-      <pubDate>2026-11-20T09:28:11.450257</pubDate>
+      <pubDate>2026-11-21T00:32:58.044837</pubDate>
     </item>
     <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab&lt;br&gt;&lt;a href='https://github.com/Nebur692/php-legacy-ubuntu'&gt;php-legacy-ubuntu&lt;/a&gt;: Signed apt repository with patched PHP 5.6-8.2 rebuilds (PHP2Shell CVE-2026-109618/109619) for Ubuntu 18.04 bionic and 20.04 focal</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-20T09:28:11.450265</pubDate>
+      <pubDate>2026-11-21T00:32:58.044860</pubDate>
     </item>
     <item>
-      <title>CVE-2026-133430 - CVE-2026-133430 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-133430'&gt;CVE-2026-133430&lt;/a&gt;: Keycloak: SessionIndex back-channel SAML SLO authenticates via Issuer only — with saml.client.signature=false an unsigned LogoutRequest spoofing the victim Issuer+SessionIndex terminates arbitrary sessions. Official images 26.8.0 vs fixed 26.8.2 (PR #53658): session 1-&gt;0 on vuln, 400 rejected on fixed.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133430</link>
-      <guid isPermaLink="false">CVE-2026-133430</guid>
-      <pubDate>2026-11-20T09:28:11.450270</pubDate>
+      <title>CVE-2026-63341 - CVE-2026-63341 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-63341'&gt;CVE-2026-63341&lt;/a&gt;: Aedes &lt;1.1.1: a topic with &gt;100 '/' levels reaches qlobber, whose synchronous 'too many words' throw is uncaught in the subscribe/publish handlers and kills the broker — one anonymous packet crashes it. Real broker 1.1.0 vs 1.1.1: crash (exit 1) on vuln, maxTopicLevels=100 rejects and stays alive on fixed.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63341</link>
+      <guid isPermaLink="false">CVE-2026-63341</guid>
+      <pubDate>2026-11-21T00:32:58.044867</pubDate>
     </item>
   </channel>
 </rss>
