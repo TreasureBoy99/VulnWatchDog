@@ -4,42 +4,112 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-21安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Sat, 21 Nov 2026 00:32:58 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:54:36 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-58192 - CVE-2026-58192 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-58192'&gt;CVE-2026-58192&lt;/a&gt;: @appium/storage-plugin &lt;1.1.6: POST /storage/delete passed name straight to path.join+rimraf with no sanitization — '../victim' escapes the storage root and recursively deletes arbitrary files/dirs, unauthenticated. Real handler 1.1.5 vs 1.1.6: victim deleted on vuln, validateStorageItemName rejects on fixed.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-58192</link>
-      <guid isPermaLink="false">CVE-2026-58192</guid>
-      <pubDate>2026-11-21T00:32:58.044821</pubDate>
+      <title>CVE-2026-77369 - CVE-2026-77369 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-77369'&gt;CVE-2026-77369&lt;/a&gt;: Daptin Broken Access Control IDOR in YJS Collaboration</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-77369</link>
+      <guid isPermaLink="false">CVE-2026-77369</guid>
+      <pubDate>2026-11-21T07:54:36.932331</pubDate>
     </item>
     <item>
-      <title>CVE-2026-61725 - CVE-2026-61725 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-61725'&gt;CVE-2026-61725&lt;/a&gt;: sevenz-rust2 &lt;0.21.1: decompress_impl did dest.join(entry.name()) with no containment — a .7z entry '../../../../tmp/pwned' or absolute path writes outside the destination (Zip-Slip arbitrary file write). Real decompress_file 0.21.0 vs 0.21.1: escapes on vuln, safe_join rejects on fixed (ef760b6).</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-61725</link>
-      <guid isPermaLink="false">CVE-2026-61725</guid>
-      <pubDate>2026-11-21T00:32:58.044831</pubDate>
+      <title>CVE-2026-77367 - CVE-2026-77367 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-77367'&gt;CVE-2026-77367&lt;/a&gt;: Daptin Unauthenticated SQL Injection via sort Parameter</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-77367</link>
+      <guid isPermaLink="false">CVE-2026-77367</guid>
+      <pubDate>2026-11-21T07:54:36.932337</pubDate>
     </item>
     <item>
-      <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
-      <guid isPermaLink="false">CVE-2026-132825</guid>
-      <pubDate>2026-11-21T00:32:58.044837</pubDate>
+      <title>CVE-2026-77312 - CVE-2026-77312 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-77312'&gt;CVE-2026-77312&lt;/a&gt;: Flyto2 Core Arbitrary File Write via Unguarded Modules</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-77312</link>
+      <guid isPermaLink="false">CVE-2026-77312</guid>
+      <pubDate>2026-11-21T07:54:36.932342</pubDate>
     </item>
     <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab&lt;br&gt;&lt;a href='https://github.com/Nebur692/php-legacy-ubuntu'&gt;php-legacy-ubuntu&lt;/a&gt;: Signed apt repository with patched PHP 5.6-8.2 rebuilds (PHP2Shell CVE-2026-109618/109619) for Ubuntu 18.04 bionic and 20.04 focal</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-21T00:32:58.044860</pubDate>
+      <title>CVE-2026-65094 - CVE-2026-65094 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-65094'&gt;CVE-2026-65094&lt;/a&gt;: NVIDIA VIRTIO-Net BlueField Guest-Triggered Vulnerability</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-65094</link>
+      <guid isPermaLink="false">CVE-2026-65094</guid>
+      <pubDate>2026-11-21T07:54:36.932345</pubDate>
     </item>
     <item>
-      <title>CVE-2026-63341 - CVE-2026-63341 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-63341'&gt;CVE-2026-63341&lt;/a&gt;: Aedes &lt;1.1.1: a topic with &gt;100 '/' levels reaches qlobber, whose synchronous 'too many words' throw is uncaught in the subscribe/publish handlers and kills the broker — one anonymous packet crashes it. Real broker 1.1.0 vs 1.1.1: crash (exit 1) on vuln, maxTopicLevels=100 rejects and stays alive on fixed.</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63341</link>
-      <guid isPermaLink="false">CVE-2026-63341</guid>
-      <pubDate>2026-11-21T00:32:58.044867</pubDate>
+      <title>CVE-2026-14914 - CVE-2026-14914 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-14914'&gt;CVE-2026-14914&lt;/a&gt;: Tegsoft Unrestricted File Upload RCE</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-14914</link>
+      <guid isPermaLink="false">CVE-2026-14914</guid>
+      <pubDate>2026-11-21T07:54:36.932349</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-133968 - CVE-2026-133968 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-133968'&gt;CVE-2026-133968&lt;/a&gt;: MONAI Label Path Traversal to RCE</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133968</link>
+      <guid isPermaLink="false">CVE-2026-133968</guid>
+      <pubDate>2026-11-21T07:54:36.932352</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-133493 - CVE-2026-133493 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-133493'&gt;CVE-2026-133493&lt;/a&gt;: D-Link DIR-600L genacgi_main Unauthenticated RCE</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133493</link>
+      <guid isPermaLink="false">CVE-2026-133493</guid>
+      <pubDate>2026-11-21T07:54:36.932355</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-133325 - CVE-2026-133325 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-133325'&gt;CVE-2026-133325&lt;/a&gt;: Apache Tomcat Key Exchange Without Entity Authentication</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133325</link>
+      <guid isPermaLink="false">CVE-2026-133325</guid>
+      <pubDate>2026-11-21T07:54:36.932359</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-129175 - CVE-2026-129175 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-129175'&gt;CVE-2026-129175&lt;/a&gt;: Unstable Slope Management Program Unauthenticated Access</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-129175</link>
+      <guid isPermaLink="false">CVE-2026-129175</guid>
+      <pubDate>2026-11-21T07:54:36.932362</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-129073 - CVE-2026-129073 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/LLCForge/CVE-2026-129073'&gt;CVE-2026-129073&lt;/a&gt;: miniOrange WordPress Authentication Bypass via Alternate Path</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-129073</link>
+      <guid isPermaLink="false">CVE-2026-129073</guid>
+      <pubDate>2026-11-21T07:54:36.932365</pubDate>
+    </item>
+    <item>
+      <title>CVE-2025-48617 - CVE-2025-48617 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Chiiz0/Stateside'&gt;Stateside&lt;/a&gt;: 美境 (Stateside) — Android 14~17 免 Root 一体化美区电话卡环境与海外/AI 应用原生英语工作台 (Zero-Shizuku Local Wireless ADB + CVE-2025-48617 Instrumentation Broker)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2025-48617</link>
+      <guid isPermaLink="false">CVE-2025-48617</guid>
+      <pubDate>2026-11-21T07:54:36.932369</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-77313 - CVE-2026-77313 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-77313'&gt;CVE-2026-77313&lt;/a&gt;: flyto-core &lt;=2.26.7: validate_url_ssrf discarded the resolved IP and aiohttp re-resolved at connect — TTL-0 DNS answers public for the guard, internal for the connection, guard bypassed on every consumer. Verbatim guard 2.26.7 vs 2.26.8: internal secret fetched on vuln, single validated lookup on fixed (bf748df8).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-77313</link>
+      <guid isPermaLink="false">CVE-2026-77313</guid>
+      <pubDate>2026-11-21T07:54:36.932373</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-77315 - CVE-2026-77315 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-77315'&gt;CVE-2026-77315&lt;/a&gt;: flyto-core &lt;=2.26.7: http.paginate followed server-supplied Link rel=next with no revalidation — attacker page-1 redirects the loop at internal space, body aggregated into items (second-order SSRF). Real paginate module 2.26.7 vs 2.26.8: INTERNAL-NEXTPAGE-SECRET aggregated on vuln, SSRF_BLOCKED on fixed (bbb6f1cf).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-77315</link>
+      <guid isPermaLink="false">CVE-2026-77315</guid>
+      <pubDate>2026-11-21T07:54:36.932376</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-63346 - CVE-2026-63346 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-63346'&gt;CVE-2026-63346&lt;/a&gt;: Refitter &lt;2.1.2: header parameter name emitted verbatim into [Header(...)] attribute — crafted name injects a [ModuleInitializer] file class from a parameter-list position, code executes at startup. Real tool 2.1.1 vs 2.1.2: marker written at assembly load on vuln, validation rejects + EscapeString neutralizes on fixed (63a19b03).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63346</link>
+      <guid isPermaLink="false">CVE-2026-63346</guid>
+      <pubDate>2026-11-21T07:54:36.932380</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-63345 - CVE-2026-63345 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-63345'&gt;CVE-2026-63345&lt;/a&gt;: Refitter &lt;2.1.2: OpenAPI path emitted verbatim into [Get(...)] attribute — crafted /-prefixed path injects a [ModuleInitializer] file class, code executes at application startup. Real tool 2.1.1 vs 2.1.2: marker written at assembly load on vuln, validation rejects + EscapeString neutralizes on fixed (793d2632).</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-63345</link>
+      <guid isPermaLink="false">CVE-2026-63345</guid>
+      <pubDate>2026-11-21T07:54:36.932383</pubDate>
     </item>
   </channel>
 </rss>
