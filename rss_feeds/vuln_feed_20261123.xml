@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>VulnWatchdog每日漏洞订阅</title>
+    <description>2026-11-23安全漏洞信息</description>
+    <link>http://vulnwatchdog.local</link>
+    <lastBuildDate>Mon, 23 Nov 2026 03:36:37 +0800</lastBuildDate>
+    <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-95839 - CVE-2026-95839 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-95839'&gt;CVE-2026-95839&lt;/a&gt;: containerd v2 &lt;2.2.10: SetChildrenMappedLabels slices untrusted manifest child digest Hex()[:12] with no validation — 'sha256:abc123' panics the daemon on pull/import (CRI PullImage). Verbatim upstream loop: exit 2 slice-bounds panic on vuln vs Validate()+warn+skip on fixed (20a3b31); valid digest labels identically</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-95839</link>
+      <guid isPermaLink="false">CVE-2026-95839</guid>
+      <pubDate>2026-11-23T03:36:37.099253</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-102945 - CVE-2026-102945 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-102945'&gt;CVE-2026-102945&lt;/a&gt;: OMEC amf &lt;d28042aa: HandlePathSwitchRequest checks UESecurityCapabilities for presence only — extensible APER BIT STRING decodes empty Bytes, six Bytes[0] reads panic on an unrecovered goroutine and kill the 5G AMF. Verbatim upstream block: exit 2 index-out-of-range panic vs fixed len(Bytes)&lt;2 guard warn+ignore</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-102945</link>
+      <guid isPermaLink="false">CVE-2026-102945</guid>
+      <pubDate>2026-11-23T03:36:37.099260</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-49952 - CVE-2026-49952 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/caviar-dynamo/CVE-2026-49952'&gt;CVE-2026-49952&lt;/a&gt;: CVE-2026-49952 (Discuz! X5.0 Auth-Bypass-RCE) Local Reproduction</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-49952</link>
+      <guid isPermaLink="false">CVE-2026-49952</guid>
+      <pubDate>2026-11-23T03:36:37.099264</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-128136 - CVE-2026-128136 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-128136'&gt;CVE-2026-128136&lt;/a&gt;: NLTK 3.10.0-3.10.3: allowlisted_pickle_load denylist keyed by export name misses numpy.lib._npyio_impl.recfromtxt under broad allowed_modules=('numpy',) — REDUCE reads an arbitrary file and returns it. Real pip 3.10.3 vs 3.10.4 (a44a7af6): file contents returned on vuln, UnpicklingError on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-128136</link>
+      <guid isPermaLink="false">CVE-2026-128136</guid>
+      <pubDate>2026-11-23T03:36:37.099269</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-11-23T03:36:37.099272</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
+      <guid isPermaLink="false">CVE-2026-132825</guid>
+      <pubDate>2026-11-23T03:36:37.099276</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-129221 - CVE-2026-129221 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-129221'&gt;CVE-2026-129221&lt;/a&gt;: NLTK &lt;=3.10.3: ARFF_Formatter writes class labels verbatim into the Weka @ATTRIBUTE -label- declaration — a poisoned training label injects @ATTRIBUTE/@DATA directives via the normal WekaClassifier.train() workflow. Real pip 3.10.3 vs 3.10.4 (56031ea): injected schema on vuln, _sanitize_arff_label keeps it clean on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-129221</link>
+      <guid isPermaLink="false">CVE-2026-129221</guid>
+      <pubDate>2026-11-23T03:36:37.099280</pubDate>
+    </item>
+  </channel>
+</rss>
