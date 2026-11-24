@@ -2,114 +2,121 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-23安全漏洞信息</description>
+    <description>2026-11-24安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Mon, 23 Nov 2026 13:57:30 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 01:26:17 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-134935 - CVE-2026-134935 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-134935'&gt;CVE-2026-134935&lt;/a&gt;: Omarchy dell-xps-touchpad-haptics &lt;1.0.0-4: root install hook chowns paths under user-controlled home — symlink redirects chown to root-owned file (LPE). Verbatim hook from PR 497^ vs fix: 3 privileged chowns on vuln, none on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-134935</link>
-      <guid isPermaLink="false">CVE-2026-134935</guid>
-      <pubDate>2026-11-23T13:57:30.976247</pubDate>
+      <title>CVE-2026-99310 - CVE-2026-99310 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-99310'&gt;CVE-2026-99310&lt;/a&gt;: CVE-2026-99310 PoC — Linux Kernel nfsd Use-After-Free Race Condition (CVSS 9.0)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-99310</link>
+      <guid isPermaLink="false">CVE-2026-99310</guid>
+      <pubDate>2026-11-24T01:26:17.206335</pubDate>
     </item>
     <item>
-      <title>CVE-2026-121480 - CVE-2026-121480 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-121480'&gt;CVE-2026-121480&lt;/a&gt;: Checkmk &lt;2.5.0p20/2.4.0p41: personal notification rules reach hosts/services the owner isn't a contact of and unauthorized sites. Verbatim guards from 0f3f020: out-of-scope notification delivered on vuln, rejected on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-121480</link>
-      <guid isPermaLink="false">CVE-2026-121480</guid>
-      <pubDate>2026-11-23T13:57:30.976255</pubDate>
+      <title>CVE-2026-125294 - CVE-2026-125294 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-125294'&gt;CVE-2026-125294&lt;/a&gt;: CVE-2026-125294 PoC — Nexter Blocks Pro WordPress Subscriber to Admin PrivEsc (CVSS 9.1)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-125294</link>
+      <guid isPermaLink="false">CVE-2026-125294</guid>
+      <pubDate>2026-11-24T01:26:17.206344</pubDate>
     </item>
     <item>
-      <title>CVE-2026-125396 - CVE-2026-125396 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Ghost-Bx1/ghostscript-exploits'&gt;ghostscript-exploits&lt;/a&gt;: Ghostscript UAF RCE | CVE-2026-125396</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-125396</link>
-      <guid isPermaLink="false">CVE-2026-125396</guid>
-      <pubDate>2026-11-23T13:57:30.976260</pubDate>
+      <title>CVE-2026-133680 - CVE-2026-133680 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-133680'&gt;CVE-2026-133680&lt;/a&gt;: CVE-2026-133680 PoC — D-Link DCS-935L setconf.cgi Command Injection RCE (CVSS 9.1)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133680</link>
+      <guid isPermaLink="false">CVE-2026-133680</guid>
+      <pubDate>2026-11-24T01:26:17.206350</pubDate>
     </item>
     <item>
-      <title>CVE-2026-123890 - CVE-2026-123890 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Ghost-Bx1/vmware-exploits'&gt;vmware-exploits&lt;/a&gt;: VMware vCenter auth bypass RCE | CVE-2026-123890</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123890</link>
-      <guid isPermaLink="false">CVE-2026-123890</guid>
-      <pubDate>2026-11-23T13:57:30.976265</pubDate>
+      <title>CVE-2026-126708 - CVE-2026-126708 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-126708'&gt;CVE-2026-126708&lt;/a&gt;: CVE-2026-126708 PoC — Eclipse Mosquitto Short Password Hash Bypass (CVSS 9.1)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126708</link>
+      <guid isPermaLink="false">CVE-2026-126708</guid>
+      <pubDate>2026-11-24T01:26:17.206355</pubDate>
     </item>
     <item>
-      <title>CVE-2026-121481 - CVE-2026-121481 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Ghost-Bx1/openssl-exploits'&gt;openssl-exploits&lt;/a&gt;: OpenSSL heap overflow RCE | CVE-2026-121481</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-121481</link>
-      <guid isPermaLink="false">CVE-2026-121481</guid>
-      <pubDate>2026-11-23T13:57:30.976269</pubDate>
+      <title>CVE-2026-129705 - CVE-2026-129705 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-129705'&gt;CVE-2026-129705&lt;/a&gt;: CVE-2026-129705 PoC — Eclipse Mosquitto PROXY v2 Source IP Spoofing (CVSS 9.1)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-129705</link>
+      <guid isPermaLink="false">CVE-2026-129705</guid>
+      <pubDate>2026-11-24T01:26:17.206360</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-133949 - CVE-2026-133949 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-133949'&gt;CVE-2026-133949&lt;/a&gt;: CVE-2026-133949 PoC — pip eMudhra CA TLS Certificate Validation Bypass (CVSS 9.0)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133949</link>
+      <guid isPermaLink="false">CVE-2026-133949</guid>
+      <pubDate>2026-11-24T01:26:17.206365</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-22679 - CVE-2026-22679 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-22679'&gt;CVE-2026-22679&lt;/a&gt;: CVE-2026-22679 PoC — Weaver E-cology BshServlet Unauthenticated RCE (CVSS 9.3)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-22679</link>
+      <guid isPermaLink="false">CVE-2026-22679</guid>
+      <pubDate>2026-11-24T01:26:17.206370</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-45247 - CVE-2026-45247 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-45247'&gt;CVE-2026-45247&lt;/a&gt;: CVE-2026-45247 PoC — Mirasvit Cache Warmer PHP Deserialization RCE (CVSS 9.3)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45247</link>
+      <guid isPermaLink="false">CVE-2026-45247</guid>
+      <pubDate>2026-11-24T01:26:17.206374</pubDate>
     </item>
     <item>
       <title>CVE-2026-131914 - CVE-2026-131914 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Ghost-Bx1/aspnet-exploits'&gt;aspnet-exploits&lt;/a&gt;: ASP.NET pre-auth deserialization RCE | CVE-2026-131914</description>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/l0lsec/CVE-2026-131914'&gt;CVE-2026-131914&lt;/a&gt;: CVE-2026-131914 Idunno.AntiCsrf ObjectStateFormatter deserialization RCE: detection/exploit PoC + reproducible lab with the original vulnerable DLL</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-131914</link>
       <guid isPermaLink="false">CVE-2026-131914</guid>
-      <pubDate>2026-11-23T13:57:30.976274</pubDate>
+      <pubDate>2026-11-24T01:26:17.206379</pubDate>
     </item>
     <item>
-      <title>CVE-2026-123633 - CVE-2026-123633 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Ghost-Bx1/nginx-exploits'&gt;nginx-exploits&lt;/a&gt;: nginx HTTP/2 UAF + integer underflow RCE | CVE-2026-123633 CVE-2026-123007</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123633</link>
-      <guid isPermaLink="false">CVE-2026-123633</guid>
-      <pubDate>2026-11-23T13:57:30.976278</pubDate>
+      <title>CVE-2026-48356 - CVE-2026-48356 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-48356'&gt;CVE-2026-48356&lt;/a&gt;: Adobe Commerce Magento Authentication Bypass via REST API — CVSS 9.3</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48356</link>
+      <guid isPermaLink="false">CVE-2026-48356</guid>
+      <pubDate>2026-11-24T01:26:17.206384</pubDate>
     </item>
     <item>
-      <title>CVE-2026-123007 - CVE-2026-123007 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/Ghost-Bx1/nginx-exploits'&gt;nginx-exploits&lt;/a&gt;: nginx HTTP/2 UAF + integer underflow RCE | CVE-2026-123633 CVE-2026-123007</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123007</link>
-      <guid isPermaLink="false">CVE-2026-123007</guid>
-      <pubDate>2026-11-23T13:57:30.976283</pubDate>
+      <title>CVE-2026-94567 - CVE-2026-94567 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-94567'&gt;CVE-2026-94567&lt;/a&gt;: NukeViet CMS SVG Upload XSS Filter Bypass — CVSS 9.3</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-94567</link>
+      <guid isPermaLink="false">CVE-2026-94567</guid>
+      <pubDate>2026-11-24T01:26:17.206389</pubDate>
     </item>
     <item>
-      <title>CVE-2026-126714 - CVE-2026-126714 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126714</link>
-      <guid isPermaLink="false">CVE-2026-126714</guid>
-      <pubDate>2026-11-23T13:57:30.976287</pubDate>
+      <title>CVE-2026-94565 - CVE-2026-94565 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-94565'&gt;CVE-2026-94565&lt;/a&gt;: NukeViet CMS Stored Cross-Site Scripting in Admin Panel — CVSS 9.3</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-94565</link>
+      <guid isPermaLink="false">CVE-2026-94565</guid>
+      <pubDate>2026-11-24T01:26:17.206393</pubDate>
     </item>
     <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-23T13:57:30.976292</pubDate>
+      <title>CVE-2026-126054 - CVE-2026-126054 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-126054'&gt;CVE-2026-126054&lt;/a&gt;: Google Dataform Path Traversal in Workspace File API — CVSS 9.3</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126054</link>
+      <guid isPermaLink="false">CVE-2026-126054</guid>
+      <pubDate>2026-11-24T01:26:17.206398</pubDate>
     </item>
     <item>
-      <title>CVE-2026-109619 - CVE-2026-109619 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/alvm/php2shell-eol-backport'&gt;php2shell-eol-backport&lt;/a&gt;: Unofficial fixes for CVE-2026-109618 / CVE-2026-109619 (php2shell), CVE-2026-126714 (phpAfterShell) and the other PHP vulnerabilities of 19 Nov 2026 for the end-of-life PHP 5.4 / 5.3 packages of RHEL, CentOS and Oracle Linux 7 / 6</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109619</link>
-      <guid isPermaLink="false">CVE-2026-109619</guid>
-      <pubDate>2026-11-23T13:57:30.976296</pubDate>
+      <title>CVE-2026-132660 - CVE-2026-132660 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-132660'&gt;CVE-2026-132660&lt;/a&gt;: EDB Postgres Enterprise Manager Cross-Agent Job Manipulation IDOR — CVSS 9.4</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132660</link>
+      <guid isPermaLink="false">CVE-2026-132660</guid>
+      <pubDate>2026-11-24T01:26:17.206402</pubDate>
     </item>
     <item>
-      <title>CVE-2026-123886 - CVE-2026-123886 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-123886'&gt;CVE-2026-123886&lt;/a&gt;: Spring Data Elasticsearch: @Query placeholders replaced with args before SpEL evaluation — untrusted argument executes arbitrary code. Verbatim createQuery ordering from 2a5b65c^ vs fix: injected expression executed on vuln, literal data on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123886</link>
-      <guid isPermaLink="false">CVE-2026-123886</guid>
-      <pubDate>2026-11-23T13:57:30.976301</pubDate>
+      <title>CVE-2026-132659 - CVE-2026-132659 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-132659'&gt;CVE-2026-132659&lt;/a&gt;: EDB Postgres Enterprise Manager Untrusted Search Path DLL Hijacking — CVSS 9.4</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132659</link>
+      <guid isPermaLink="false">CVE-2026-132659</guid>
+      <pubDate>2026-11-24T01:26:17.206406</pubDate>
     </item>
     <item>
-      <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 4 (demonstrated security impact) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825 - in a local isolated lab</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
-      <guid isPermaLink="false">CVE-2026-132825</guid>
-      <pubDate>2026-11-23T13:57:30.976305</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-126657 - CVE-2026-126657 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-126657'&gt;CVE-2026-126657&lt;/a&gt;: QEMU NBD client: malicious structured read reply marked done with missing data leaves guest buffer at malloc contents — host heap disclosure. Verbatim highwater/memset fix from 470888f: 15 poison bytes on vuln, zeroed on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126657</link>
-      <guid isPermaLink="false">CVE-2026-126657</guid>
-      <pubDate>2026-11-23T13:57:30.976310</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-98260 - CVE-2026-98260 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0'&gt;xring-CVE-2026-98260-OS4.0&lt;/a&gt;: CVE-2026-98260 一键 root | 玄戒 O1 家族：Xiaomi Pad 7S Pro 12.5 (violin) / Pad 7 Ultra (jinghu) / 15S Pro (dijun)，内核 6.18.21 | 可选加载 KernelSU / SukiSU / KernelSU Next / 7kimisu</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-98260</link>
-      <guid isPermaLink="false">CVE-2026-98260</guid>
-      <pubDate>2026-11-23T13:57:30.976314</pubDate>
+      <title>CVE-2026-132658 - CVE-2026-132658 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-132658'&gt;CVE-2026-132658&lt;/a&gt;: EDB Postgres Enterprise Manager Improper Privilege Management — CVSS 9.4</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132658</link>
+      <guid isPermaLink="false">CVE-2026-132658</guid>
+      <pubDate>2026-11-24T01:26:17.206411</pubDate>
     </item>
   </channel>
 </rss>
