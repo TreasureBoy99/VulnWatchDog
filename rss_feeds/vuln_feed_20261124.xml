@@ -4,119 +4,77 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-24安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 24 Nov 2026 01:26:17 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:05:52 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-99310 - CVE-2026-99310 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-99310'&gt;CVE-2026-99310&lt;/a&gt;: CVE-2026-99310 PoC — Linux Kernel nfsd Use-After-Free Race Condition (CVSS 9.0)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-99310</link>
-      <guid isPermaLink="false">CVE-2026-99310</guid>
-      <pubDate>2026-11-24T01:26:17.206335</pubDate>
+      <title>CVE-2026-135720 - CVE-2026-135720 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135720'&gt;CVE-2026-135720&lt;/a&gt;: FFmpeg 9.0-&lt;9.1: dashdec builds LCEVC stream groups for representations with no codecs string — NULL deref on a crafted MPD. Verbatim guard from fba9c09^ vs fix with ASan: SEGV on null on vuln, skipped on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135720</link>
+      <guid isPermaLink="false">CVE-2026-135720</guid>
+      <pubDate>2026-11-24T12:05:52.716989</pubDate>
     </item>
     <item>
-      <title>CVE-2026-125294 - CVE-2026-125294 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-125294'&gt;CVE-2026-125294&lt;/a&gt;: CVE-2026-125294 PoC — Nexter Blocks Pro WordPress Subscriber to Admin PrivEsc (CVSS 9.1)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-125294</link>
-      <guid isPermaLink="false">CVE-2026-125294</guid>
-      <pubDate>2026-11-24T01:26:17.206344</pubDate>
+      <title>CVE-2026-135711 - CVE-2026-135711 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135711'&gt;CVE-2026-135711&lt;/a&gt;: FFmpeg &lt;9.1: ttmlenc writes language metadata unescaped into xml:lang — crafted Language value injects XML markup. Verbatim escaping decision from bcb5d56^ vs av_escape fix: raw &lt;injected/&gt; on vuln, escaped on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135711</link>
+      <guid isPermaLink="false">CVE-2026-135711</guid>
+      <pubDate>2026-11-24T12:05:52.716999</pubDate>
     </item>
     <item>
-      <title>CVE-2026-133680 - CVE-2026-133680 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-133680'&gt;CVE-2026-133680&lt;/a&gt;: CVE-2026-133680 PoC — D-Link DCS-935L setconf.cgi Command Injection RCE (CVSS 9.1)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133680</link>
-      <guid isPermaLink="false">CVE-2026-133680</guid>
-      <pubDate>2026-11-24T01:26:17.206350</pubDate>
+      <title>CVE-2026-135708 - CVE-2026-135708 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135708'&gt;CVE-2026-135708&lt;/a&gt;: FFmpeg 8.0-&lt;9.1: WHIP muxer stores a file: Location URL as its resource URL, opened with O_TRUNC on teardown — arbitrary file destruction. Verbatim scheme check from 96994cb^ vs fix: victim file destroyed on vuln, rejected on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135708</link>
+      <guid isPermaLink="false">CVE-2026-135708</guid>
+      <pubDate>2026-11-24T12:05:52.717005</pubDate>
     </item>
     <item>
-      <title>CVE-2026-126708 - CVE-2026-126708 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-126708'&gt;CVE-2026-126708&lt;/a&gt;: CVE-2026-126708 PoC — Eclipse Mosquitto Short Password Hash Bypass (CVSS 9.1)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126708</link>
-      <guid isPermaLink="false">CVE-2026-126708</guid>
-      <pubDate>2026-11-24T01:26:17.206355</pubDate>
+      <title>CVE-2026-135715 - CVE-2026-135715 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135715'&gt;CVE-2026-135715&lt;/a&gt;: FFmpeg &lt;9.1: AVIF muxer dereferences NULL av_pix_fmt_desc_get() result for an alpha stream with unknown pixel format. Verbatim guards from 6fdfafa^ vs fix with ASan: SEGV on null on vuln, rejected on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135715</link>
+      <guid isPermaLink="false">CVE-2026-135715</guid>
+      <pubDate>2026-11-24T12:05:52.717010</pubDate>
     </item>
     <item>
-      <title>CVE-2026-129705 - CVE-2026-129705 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-129705'&gt;CVE-2026-129705&lt;/a&gt;: CVE-2026-129705 PoC — Eclipse Mosquitto PROXY v2 Source IP Spoofing (CVSS 9.1)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-129705</link>
-      <guid isPermaLink="false">CVE-2026-129705</guid>
-      <pubDate>2026-11-24T01:26:17.206360</pubDate>
+      <title>CVE-2026-135713 - CVE-2026-135713 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135713'&gt;CVE-2026-135713&lt;/a&gt;: FFmpeg &lt;9.1: mms_open() goto fail with err=0 on a malformed ASF header — frees state and returns success, then NULL deref on read. Verbatim error handling from 94c3187^ vs fix with ASan: SEGV on null on vuln, rejected on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135713</link>
+      <guid isPermaLink="false">CVE-2026-135713</guid>
+      <pubDate>2026-11-24T12:05:52.717015</pubDate>
     </item>
     <item>
-      <title>CVE-2026-133949 - CVE-2026-133949 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-133949'&gt;CVE-2026-133949&lt;/a&gt;: CVE-2026-133949 PoC — pip eMudhra CA TLS Certificate Validation Bypass (CVSS 9.0)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-133949</link>
-      <guid isPermaLink="false">CVE-2026-133949</guid>
-      <pubDate>2026-11-24T01:26:17.206365</pubDate>
+      <title>CVE-2026-135718 - CVE-2026-135718 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135718'&gt;CVE-2026-135718&lt;/a&gt;: FFmpeg 7.0-&lt;9.1: DVD menu path omits the &gt;8 audio stream check — a crafted IFO with 9 streams reads past audio_control[]. Verbatim guard from cc7f5bc^ vs fix with ASan: stack OOB READ on vuln, rejection on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135718</link>
+      <guid isPermaLink="false">CVE-2026-135718</guid>
+      <pubDate>2026-11-24T12:05:52.717020</pubDate>
     </item>
     <item>
-      <title>CVE-2026-22679 - CVE-2026-22679 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-22679'&gt;CVE-2026-22679&lt;/a&gt;: CVE-2026-22679 PoC — Weaver E-cology BshServlet Unauthenticated RCE (CVSS 9.3)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-22679</link>
-      <guid isPermaLink="false">CVE-2026-22679</guid>
-      <pubDate>2026-11-24T01:26:17.206370</pubDate>
+      <title>CVE-2026-135706 - CVE-2026-135706 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135706'&gt;CVE-2026-135706&lt;/a&gt;: FFmpeg &lt;9.1: modplug_read_header() allocates max_size instead of sz — a crafted module with max_size=0 overflows the 0-byte buffer via avio_read. Verbatim allocation from edc96a2^ vs av_malloc(sz) with ASan: heap WRITE overflow on vuln, clean on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135706</link>
+      <guid isPermaLink="false">CVE-2026-135706</guid>
+      <pubDate>2026-11-24T12:05:52.717025</pubDate>
     </item>
     <item>
-      <title>CVE-2026-45247 - CVE-2026-45247 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-45247'&gt;CVE-2026-45247&lt;/a&gt;: CVE-2026-45247 PoC — Mirasvit Cache Warmer PHP Deserialization RCE (CVSS 9.3)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-45247</link>
-      <guid isPermaLink="false">CVE-2026-45247</guid>
-      <pubDate>2026-11-24T01:26:17.206374</pubDate>
+      <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
+      <guid isPermaLink="false">CVE-2026-132825</guid>
+      <pubDate>2026-11-24T12:05:52.717029</pubDate>
     </item>
     <item>
-      <title>CVE-2026-131914 - CVE-2026-131914 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/l0lsec/CVE-2026-131914'&gt;CVE-2026-131914&lt;/a&gt;: CVE-2026-131914 Idunno.AntiCsrf ObjectStateFormatter deserialization RCE: detection/exploit PoC + reproducible lab with the original vulnerable DLL</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-131914</link>
-      <guid isPermaLink="false">CVE-2026-131914</guid>
-      <pubDate>2026-11-24T01:26:17.206379</pubDate>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-11-24T12:05:52.717034</pubDate>
     </item>
     <item>
-      <title>CVE-2026-48356 - CVE-2026-48356 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-48356'&gt;CVE-2026-48356&lt;/a&gt;: Adobe Commerce Magento Authentication Bypass via REST API — CVSS 9.3</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-48356</link>
-      <guid isPermaLink="false">CVE-2026-48356</guid>
-      <pubDate>2026-11-24T01:26:17.206384</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-94567 - CVE-2026-94567 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-94567'&gt;CVE-2026-94567&lt;/a&gt;: NukeViet CMS SVG Upload XSS Filter Bypass — CVSS 9.3</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-94567</link>
-      <guid isPermaLink="false">CVE-2026-94567</guid>
-      <pubDate>2026-11-24T01:26:17.206389</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-94565 - CVE-2026-94565 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-94565'&gt;CVE-2026-94565&lt;/a&gt;: NukeViet CMS Stored Cross-Site Scripting in Admin Panel — CVSS 9.3</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-94565</link>
-      <guid isPermaLink="false">CVE-2026-94565</guid>
-      <pubDate>2026-11-24T01:26:17.206393</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-126054 - CVE-2026-126054 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-126054'&gt;CVE-2026-126054&lt;/a&gt;: Google Dataform Path Traversal in Workspace File API — CVSS 9.3</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-126054</link>
-      <guid isPermaLink="false">CVE-2026-126054</guid>
-      <pubDate>2026-11-24T01:26:17.206398</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-132660 - CVE-2026-132660 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-132660'&gt;CVE-2026-132660&lt;/a&gt;: EDB Postgres Enterprise Manager Cross-Agent Job Manipulation IDOR — CVSS 9.4</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132660</link>
-      <guid isPermaLink="false">CVE-2026-132660</guid>
-      <pubDate>2026-11-24T01:26:17.206402</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-132659 - CVE-2026-132659 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-132659'&gt;CVE-2026-132659&lt;/a&gt;: EDB Postgres Enterprise Manager Untrusted Search Path DLL Hijacking — CVSS 9.4</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132659</link>
-      <guid isPermaLink="false">CVE-2026-132659</guid>
-      <pubDate>2026-11-24T01:26:17.206406</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-132658 - CVE-2026-132658 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/cveForge/CVE-2026-132658'&gt;CVE-2026-132658&lt;/a&gt;: EDB Postgres Enterprise Manager Improper Privilege Management — CVSS 9.4</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132658</link>
-      <guid isPermaLink="false">CVE-2026-132658</guid>
-      <pubDate>2026-11-24T01:26:17.206411</pubDate>
+      <title>CVE-2026-135705 - CVE-2026-135705 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135705'&gt;CVE-2026-135705&lt;/a&gt;: FFmpeg &lt;9.1: ff_h264_parse_framesize() calls atoi(p+1) with no '-' separator check — an SDP framesize attribute without a height reads past the line buffer. Verbatim function from e5fe2cb^ vs fix with ASan: heap OOB READ on vuln, clean on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135705</link>
+      <guid isPermaLink="false">CVE-2026-135705</guid>
+      <pubDate>2026-11-24T12:05:52.717038</pubDate>
     </item>
   </channel>
 </rss>
