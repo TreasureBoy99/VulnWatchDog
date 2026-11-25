@@ -2,79 +2,30 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-24安全漏洞信息</description>
+    <description>2026-11-25安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Tue, 24 Nov 2026 12:05:52 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 04:44:00 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
     <item>
-      <title>CVE-2026-135720 - CVE-2026-135720 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135720'&gt;CVE-2026-135720&lt;/a&gt;: FFmpeg 9.0-&lt;9.1: dashdec builds LCEVC stream groups for representations with no codecs string — NULL deref on a crafted MPD. Verbatim guard from fba9c09^ vs fix with ASan: SEGV on null on vuln, skipped on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135720</link>
-      <guid isPermaLink="false">CVE-2026-135720</guid>
-      <pubDate>2026-11-24T12:05:52.716989</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-135711 - CVE-2026-135711 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135711'&gt;CVE-2026-135711&lt;/a&gt;: FFmpeg &lt;9.1: ttmlenc writes language metadata unescaped into xml:lang — crafted Language value injects XML markup. Verbatim escaping decision from bcb5d56^ vs av_escape fix: raw &lt;injected/&gt; on vuln, escaped on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135711</link>
-      <guid isPermaLink="false">CVE-2026-135711</guid>
-      <pubDate>2026-11-24T12:05:52.716999</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-135708 - CVE-2026-135708 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135708'&gt;CVE-2026-135708&lt;/a&gt;: FFmpeg 8.0-&lt;9.1: WHIP muxer stores a file: Location URL as its resource URL, opened with O_TRUNC on teardown — arbitrary file destruction. Verbatim scheme check from 96994cb^ vs fix: victim file destroyed on vuln, rejected on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135708</link>
-      <guid isPermaLink="false">CVE-2026-135708</guid>
-      <pubDate>2026-11-24T12:05:52.717005</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-135715 - CVE-2026-135715 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135715'&gt;CVE-2026-135715&lt;/a&gt;: FFmpeg &lt;9.1: AVIF muxer dereferences NULL av_pix_fmt_desc_get() result for an alpha stream with unknown pixel format. Verbatim guards from 6fdfafa^ vs fix with ASan: SEGV on null on vuln, rejected on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135715</link>
-      <guid isPermaLink="false">CVE-2026-135715</guid>
-      <pubDate>2026-11-24T12:05:52.717010</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-135713 - CVE-2026-135713 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135713'&gt;CVE-2026-135713&lt;/a&gt;: FFmpeg &lt;9.1: mms_open() goto fail with err=0 on a malformed ASF header — frees state and returns success, then NULL deref on read. Verbatim error handling from 94c3187^ vs fix with ASan: SEGV on null on vuln, rejected on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135713</link>
-      <guid isPermaLink="false">CVE-2026-135713</guid>
-      <pubDate>2026-11-24T12:05:52.717015</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-135718 - CVE-2026-135718 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135718'&gt;CVE-2026-135718&lt;/a&gt;: FFmpeg 7.0-&lt;9.1: DVD menu path omits the &gt;8 audio stream check — a crafted IFO with 9 streams reads past audio_control[]. Verbatim guard from cc7f5bc^ vs fix with ASan: stack OOB READ on vuln, rejection on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135718</link>
-      <guid isPermaLink="false">CVE-2026-135718</guid>
-      <pubDate>2026-11-24T12:05:52.717020</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-135706 - CVE-2026-135706 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135706'&gt;CVE-2026-135706&lt;/a&gt;: FFmpeg &lt;9.1: modplug_read_header() allocates max_size instead of sz — a crafted module with max_size=0 overflows the 0-byte buffer via avio_read. Verbatim allocation from edc96a2^ vs av_malloc(sz) with ASan: heap WRITE overflow on vuln, clean on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135706</link>
-      <guid isPermaLink="false">CVE-2026-135706</guid>
-      <pubDate>2026-11-24T12:05:52.717025</pubDate>
+      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
+      <guid isPermaLink="false">CVE-2026-109618</guid>
+      <pubDate>2026-11-25T04:44:00.566729</pubDate>
     </item>
     <item>
       <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
       <guid isPermaLink="false">CVE-2026-132825</guid>
-      <pubDate>2026-11-24T12:05:52.717029</pubDate>
+      <pubDate>2026-11-25T04:44:00.566735</pubDate>
     </item>
     <item>
-      <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
-      <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-24T12:05:52.717034</pubDate>
-    </item>
-    <item>
-      <title>CVE-2026-135705 - CVE-2026-135705 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135705'&gt;CVE-2026-135705&lt;/a&gt;: FFmpeg &lt;9.1: ff_h264_parse_framesize() calls atoi(p+1) with no '-' separator check — an SDP framesize attribute without a height reads past the line buffer. Verbatim function from e5fe2cb^ vs fix with ASan: heap OOB READ on vuln, clean on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135705</link>
-      <guid isPermaLink="false">CVE-2026-135705</guid>
-      <pubDate>2026-11-24T12:05:52.717038</pubDate>
+      <title>CVE-2026-132165 - CVE-2026-132165 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/foxcornlab/drupal-installer-scanner'&gt;drupal-installer-scanner&lt;/a&gt;: Detection-only triage for Drupal core CVE-2026-132165 (SA-CORE-2026-017) — unauthenticated installer RCE, CISA KEV 2026-11-24. Grades versions, probes /core/install.php, hunts logs for installer requests. No payloads.</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132165</link>
+      <guid isPermaLink="false">CVE-2026-132165</guid>
+      <pubDate>2026-11-25T04:44:00.566738</pubDate>
     </item>
   </channel>
 </rss>
