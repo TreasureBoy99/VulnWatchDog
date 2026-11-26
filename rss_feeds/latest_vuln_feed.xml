@@ -4,42 +4,56 @@
     <title>VulnWatchdog每日漏洞订阅</title>
     <description>2026-11-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Thu, 26 Nov 2026 00:11:03 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:24:05 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
+    <item>
+      <title>CVE-2026-136950 - CVE-2026-136950 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-136950'&gt;CVE-2026-136950&lt;/a&gt;: Ghostty through 1.3.1: OSC 8 hyperlinks from terminal output opened with the trusted URL policy on macOS — dangerous schemes launch without confirmation. Verbatim untrusted-URL guard from 54fe8e1: opened on vuln, blocked on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-136950</link>
+      <guid isPermaLink="false">CVE-2026-136950</guid>
+      <pubDate>2026-11-26T06:24:05.433453</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-137308 - CVE-2026-137308 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-137308'&gt;CVE-2026-137308&lt;/a&gt;: markdownify-mcp before 1.2.0: URL validation bypassed by IPv4-mapped IPv6 — prompt-injected tool URLs fetch loopback and internal services. Verbatim address guard from ee00464: fetched on vuln, refused on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-137308</link>
+      <guid isPermaLink="false">CVE-2026-137308</guid>
+      <pubDate>2026-11-26T06:24:05.433462</pubDate>
+    </item>
     <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-26T00:11:03.191390</pubDate>
+      <pubDate>2026-11-26T06:24:05.433468</pubDate>
     </item>
     <item>
       <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
       <guid isPermaLink="false">CVE-2026-132825</guid>
-      <pubDate>2026-11-26T00:11:03.191421</pubDate>
+      <pubDate>2026-11-26T06:24:05.433474</pubDate>
     </item>
     <item>
-      <title>CVE-2026-123158 - CVE-2026-123158 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/K3ysTr0K3R/CVE-2026-123158'&gt;CVE-2026-123158&lt;/a&gt;: A PoC exploit for CVE-2026-123158 - OpenSSH Password Authentication Bypass (SSHole)</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123158</link>
-      <guid isPermaLink="false">CVE-2026-123158</guid>
-      <pubDate>2026-11-26T00:11:03.191427</pubDate>
+      <title>CVE-2026-137305 - CVE-2026-137305 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-137305'&gt;CVE-2026-137305&lt;/a&gt;: Grav Form before 9.2.4: file upload destination could point into Twig template folders — uploaded Twig rendered as trusted code. Verbatim guard from 3daa9cb: accepted on vuln, refused on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-137305</link>
+      <guid isPermaLink="false">CVE-2026-137305</guid>
+      <pubDate>2026-11-26T06:24:05.433479</pubDate>
     </item>
     <item>
-      <title>CVE-2026-137084 - CVE-2026-137084 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-137084'&gt;CVE-2026-137084&lt;/a&gt;: NodeBB 4.12.0-4.16.3: Intents.create redirects unauthenticated callers but keeps executing — GET with remote note URI ingests federated content as local topics. Verbatim fix from 2f74bfa: missing return</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-137084</link>
-      <guid isPermaLink="false">CVE-2026-137084</guid>
-      <pubDate>2026-11-26T00:11:03.191433</pubDate>
+      <title>CVE-2026-137306 - CVE-2026-137306 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-137306'&gt;CVE-2026-137306&lt;/a&gt;: Grav Admin before 1.10.65: forgot-password link built from request Host ignoring require_trusted_host — attacker captures admin reset token. Verbatim guard from 4d09bd8: poisoned on vuln, refused on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-137306</link>
+      <guid isPermaLink="false">CVE-2026-137306</guid>
+      <pubDate>2026-11-26T06:24:05.433483</pubDate>
     </item>
     <item>
-      <title>CVE-2026-131827 - CVE-2026-131827 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-131827'&gt;CVE-2026-131827&lt;/a&gt;: RustDesk Client for Windows: reg_recovery applies pending registry values without type/length check — local attacker steers the privileged write. Verbatim guard from PR 17040: applied on vuln, rejected on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-131827</link>
-      <guid isPermaLink="false">CVE-2026-131827</guid>
-      <pubDate>2026-11-26T00:11:03.191437</pubDate>
+      <title>CVE-2026-137070 - CVE-2026-137070 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-137070'&gt;CVE-2026-137070&lt;/a&gt;: GEOS 3.13.0-3.15.0: CIRCULARSTRING passed to RectangleContains reaches linear-ring code and crashes. Verbatim ensureNoCurvedTypes guard from PR 1617: unsafe evaluation on vuln, GEOSException on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-137070</link>
+      <guid isPermaLink="false">CVE-2026-137070</guid>
+      <pubDate>2026-11-26T06:24:05.433488</pubDate>
     </item>
   </channel>
 </rss>
