@@ -2,30 +2,44 @@
 <rss version="2.0">
   <channel>
     <title>VulnWatchdog每日漏洞订阅</title>
-    <description>2026-11-25安全漏洞信息</description>
+    <description>2026-11-26安全漏洞信息</description>
     <link>http://vulnwatchdog.local</link>
-    <lastBuildDate>Wed, 25 Nov 2026 15:13:27 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:11:03 +0800</lastBuildDate>
     <generator>VulnWatchdog</generator>
-    <item>
-      <title>CVE-2026-135212 - CVE-2026-135212 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135212'&gt;CVE-2026-135212&lt;/a&gt;: AiSOC before 23.6.1: investigation runs looked up by run_id without tenant checks — cross-tenant forensic disclosure. Verbatim guard from a52a55a: disclosed on vuln, forbidden on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135212</link>
-      <guid isPermaLink="false">CVE-2026-135212</guid>
-      <pubDate>2026-11-25T15:13:27.089352</pubDate>
-    </item>
     <item>
       <title>CVE-2026-109618 - CVE-2026-109618 - 未命名漏洞</title>
       <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-109618</link>
       <guid isPermaLink="false">CVE-2026-109618</guid>
-      <pubDate>2026-11-25T15:13:27.089359</pubDate>
+      <pubDate>2026-11-26T00:11:03.191390</pubDate>
     </item>
     <item>
-      <title>CVE-2026-135089 - CVE-2026-135089 - 未命名漏洞</title>
-      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-135089'&gt;CVE-2026-135089&lt;/a&gt;: humhub/questions through 1.1.5: answer actions lack published/non-archived question precondition — auth bypass. Verbatim canView/isAnswerable guard from cdc3987: allowed on vuln, denied on fixed</description>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-135089</link>
-      <guid isPermaLink="false">CVE-2026-135089</guid>
-      <pubDate>2026-11-25T15:13:27.089363</pubDate>
+      <title>CVE-2026-132825 - CVE-2026-132825 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/genaforvena/mishe-tauftauf2shell'&gt;mishe-tauftauf2shell&lt;/a&gt;: Mishe research plant: reaching rung 5 (working remote command execution) for X2Shell-family runtime vulnerabilities - PHP2Shell CVE-2026-109618/619 and Ruby2Shell CVE-2026-132825, etc - in a local isolated lab</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-132825</link>
+      <guid isPermaLink="false">CVE-2026-132825</guid>
+      <pubDate>2026-11-26T00:11:03.191421</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-123158 - CVE-2026-123158 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/K3ysTr0K3R/CVE-2026-123158'&gt;CVE-2026-123158&lt;/a&gt;: A PoC exploit for CVE-2026-123158 - OpenSSH Password Authentication Bypass (SSHole)</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-123158</link>
+      <guid isPermaLink="false">CVE-2026-123158</guid>
+      <pubDate>2026-11-26T00:11:03.191427</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-137084 - CVE-2026-137084 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-137084'&gt;CVE-2026-137084&lt;/a&gt;: NodeBB 4.12.0-4.16.3: Intents.create redirects unauthenticated callers but keeps executing — GET with remote note URI ingests federated content as local topics. Verbatim fix from 2f74bfa: missing return</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-137084</link>
+      <guid isPermaLink="false">CVE-2026-137084</guid>
+      <pubDate>2026-11-26T00:11:03.191433</pubDate>
+    </item>
+    <item>
+      <title>CVE-2026-131827 - CVE-2026-131827 - 未命名漏洞</title>
+      <description>&lt;strong&gt;严重程度:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;发布日期:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;来源:&lt;/strong&gt; Unknown&lt;br&gt;&lt;strong&gt;描述:&lt;/strong&gt; 暂无详细描述&lt;br&gt;&lt;strong&gt;相关PoC:&lt;/strong&gt;&lt;br&gt;&lt;a href='https://github.com/googlesky/CVE-2026-131827'&gt;CVE-2026-131827&lt;/a&gt;: RustDesk Client for Windows: reg_recovery applies pending registry values without type/length check — local attacker steers the privileged write. Verbatim guard from PR 17040: applied on vuln, rejected on fixed</description>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-131827</link>
+      <guid isPermaLink="false">CVE-2026-131827</guid>
+      <pubDate>2026-11-26T00:11:03.191437</pubDate>
     </item>
   </channel>
 </rss>
